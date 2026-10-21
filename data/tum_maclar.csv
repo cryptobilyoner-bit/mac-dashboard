@@ -1,0 +1,2161 @@
+tarih,sezon,lig,hafta,ev_takim,deplasman_takim,ev_gol,dep_gol,sonuc,toplam_gol
+2023-02-02,2022-2023,Süper Lig,1,Galatasaray,Fenerbahçe,0,3,Deplasman,3
+2023-02-02,2022-2023,Süper Lig,1,Beşiktaş,Trabzonspor,1,2,Deplasman,3
+2023-02-02,2022-2023,Süper Lig,1,Başakşehir,Adana Demirspor,1,0,Ev,1
+2023-02-02,2022-2023,Süper Lig,1,Antalyaspor,Konyaspor,1,2,Deplasman,3
+2023-02-02,2022-2023,Süper Lig,1,Alanyaspor,Sivasspor,1,1,Beraberlik,2
+2023-03-03,2022-2023,Süper Lig,2,Galatasaray,Fenerbahçe,0,4,Deplasman,4
+2023-03-03,2022-2023,Süper Lig,2,Beşiktaş,Trabzonspor,2,1,Ev,3
+2023-03-03,2022-2023,Süper Lig,2,Başakşehir,Adana Demirspor,2,0,Ev,2
+2023-03-03,2022-2023,Süper Lig,2,Antalyaspor,Konyaspor,2,6,Deplasman,8
+2023-03-03,2022-2023,Süper Lig,2,Alanyaspor,Sivasspor,1,1,Beraberlik,2
+2023-04-04,2022-2023,Süper Lig,3,Galatasaray,Fenerbahçe,2,2,Beraberlik,4
+2023-04-04,2022-2023,Süper Lig,3,Beşiktaş,Trabzonspor,1,2,Deplasman,3
+2023-04-04,2022-2023,Süper Lig,3,Başakşehir,Adana Demirspor,0,3,Deplasman,3
+2023-04-04,2022-2023,Süper Lig,3,Antalyaspor,Konyaspor,0,1,Deplasman,1
+2023-04-04,2022-2023,Süper Lig,3,Alanyaspor,Sivasspor,3,1,Ev,4
+2023-05-05,2022-2023,Süper Lig,4,Galatasaray,Fenerbahçe,4,5,Deplasman,9
+2023-05-05,2022-2023,Süper Lig,4,Beşiktaş,Trabzonspor,1,0,Ev,1
+2023-05-05,2022-2023,Süper Lig,4,Başakşehir,Adana Demirspor,0,1,Deplasman,1
+2023-05-05,2022-2023,Süper Lig,4,Antalyaspor,Konyaspor,2,2,Beraberlik,4
+2023-05-05,2022-2023,Süper Lig,4,Alanyaspor,Sivasspor,0,1,Deplasman,1
+2023-06-06,2022-2023,Süper Lig,5,Galatasaray,Fenerbahçe,5,4,Ev,9
+2023-06-06,2022-2023,Süper Lig,5,Beşiktaş,Trabzonspor,1,3,Deplasman,4
+2023-06-06,2022-2023,Süper Lig,5,Başakşehir,Adana Demirspor,2,0,Ev,2
+2023-06-06,2022-2023,Süper Lig,5,Antalyaspor,Konyaspor,2,4,Deplasman,6
+2023-06-06,2022-2023,Süper Lig,5,Alanyaspor,Sivasspor,2,1,Ev,3
+2023-07-07,2022-2023,Süper Lig,6,Galatasaray,Fenerbahçe,2,2,Beraberlik,4
+2023-07-07,2022-2023,Süper Lig,6,Beşiktaş,Trabzonspor,3,2,Ev,5
+2023-07-07,2022-2023,Süper Lig,6,Başakşehir,Adana Demirspor,2,2,Beraberlik,4
+2023-07-07,2022-2023,Süper Lig,6,Antalyaspor,Konyaspor,2,0,Ev,2
+2023-07-07,2022-2023,Süper Lig,6,Alanyaspor,Sivasspor,2,1,Ev,3
+2023-08-08,2022-2023,Süper Lig,7,Galatasaray,Fenerbahçe,1,3,Deplasman,4
+2023-08-08,2022-2023,Süper Lig,7,Beşiktaş,Trabzonspor,1,3,Deplasman,4
+2023-08-08,2022-2023,Süper Lig,7,Başakşehir,Adana Demirspor,3,0,Ev,3
+2023-08-08,2022-2023,Süper Lig,7,Antalyaspor,Konyaspor,3,5,Deplasman,8
+2023-08-08,2022-2023,Süper Lig,7,Alanyaspor,Sivasspor,0,1,Deplasman,1
+2023-09-09,2022-2023,Süper Lig,8,Galatasaray,Fenerbahçe,1,0,Ev,1
+2023-09-09,2022-2023,Süper Lig,8,Beşiktaş,Trabzonspor,1,0,Ev,1
+2023-09-09,2022-2023,Süper Lig,8,Başakşehir,Adana Demirspor,3,1,Ev,4
+2023-09-09,2022-2023,Süper Lig,8,Antalyaspor,Konyaspor,1,4,Deplasman,5
+2023-09-09,2022-2023,Süper Lig,8,Alanyaspor,Sivasspor,2,5,Deplasman,7
+2023-10-10,2022-2023,Süper Lig,9,Galatasaray,Fenerbahçe,2,2,Beraberlik,4
+2023-10-10,2022-2023,Süper Lig,9,Beşiktaş,Trabzonspor,5,0,Ev,5
+2023-10-10,2022-2023,Süper Lig,9,Başakşehir,Adana Demirspor,5,1,Ev,6
+2023-10-10,2022-2023,Süper Lig,9,Antalyaspor,Konyaspor,1,4,Deplasman,5
+2023-10-10,2022-2023,Süper Lig,9,Alanyaspor,Sivasspor,3,4,Deplasman,7
+2023-11-11,2022-2023,Süper Lig,10,Galatasaray,Fenerbahçe,5,6,Deplasman,11
+2023-11-11,2022-2023,Süper Lig,10,Beşiktaş,Trabzonspor,1,1,Beraberlik,2
+2023-11-11,2022-2023,Süper Lig,10,Başakşehir,Adana Demirspor,2,1,Ev,3
+2023-11-11,2022-2023,Süper Lig,10,Antalyaspor,Konyaspor,0,2,Deplasman,2
+2023-11-11,2022-2023,Süper Lig,10,Alanyaspor,Sivasspor,3,0,Ev,3
+2023-12-12,2022-2023,Süper Lig,11,Galatasaray,Fenerbahçe,0,5,Deplasman,5
+2023-12-12,2022-2023,Süper Lig,11,Beşiktaş,Trabzonspor,3,0,Ev,3
+2023-12-12,2022-2023,Süper Lig,11,Başakşehir,Adana Demirspor,0,3,Deplasman,3
+2023-12-12,2022-2023,Süper Lig,11,Antalyaspor,Konyaspor,0,1,Deplasman,1
+2023-12-12,2022-2023,Süper Lig,11,Alanyaspor,Sivasspor,3,4,Deplasman,7
+2023-01-13,2022-2023,Süper Lig,12,Galatasaray,Fenerbahçe,1,1,Beraberlik,2
+2023-01-13,2022-2023,Süper Lig,12,Beşiktaş,Trabzonspor,1,0,Ev,1
+2023-01-13,2022-2023,Süper Lig,12,Başakşehir,Adana Demirspor,3,1,Ev,4
+2023-01-13,2022-2023,Süper Lig,12,Antalyaspor,Konyaspor,0,2,Deplasman,2
+2023-01-13,2022-2023,Süper Lig,12,Alanyaspor,Sivasspor,1,2,Deplasman,3
+2023-02-14,2022-2023,Süper Lig,13,Galatasaray,Fenerbahçe,2,0,Ev,2
+2023-02-14,2022-2023,Süper Lig,13,Beşiktaş,Trabzonspor,1,3,Deplasman,4
+2023-02-14,2022-2023,Süper Lig,13,Başakşehir,Adana Demirspor,2,3,Deplasman,5
+2023-02-14,2022-2023,Süper Lig,13,Antalyaspor,Konyaspor,0,0,Beraberlik,0
+2023-02-14,2022-2023,Süper Lig,13,Alanyaspor,Sivasspor,1,0,Ev,1
+2023-03-15,2022-2023,Süper Lig,14,Galatasaray,Fenerbahçe,1,2,Deplasman,3
+2023-03-15,2022-2023,Süper Lig,14,Beşiktaş,Trabzonspor,2,5,Deplasman,7
+2023-03-15,2022-2023,Süper Lig,14,Başakşehir,Adana Demirspor,0,3,Deplasman,3
+2023-03-15,2022-2023,Süper Lig,14,Antalyaspor,Konyaspor,2,5,Deplasman,7
+2023-03-15,2022-2023,Süper Lig,14,Alanyaspor,Sivasspor,5,0,Ev,5
+2023-04-16,2022-2023,Süper Lig,15,Galatasaray,Fenerbahçe,1,4,Deplasman,5
+2023-04-16,2022-2023,Süper Lig,15,Beşiktaş,Trabzonspor,2,4,Deplasman,6
+2023-04-16,2022-2023,Süper Lig,15,Başakşehir,Adana Demirspor,1,1,Beraberlik,2
+2023-04-16,2022-2023,Süper Lig,15,Antalyaspor,Konyaspor,2,1,Ev,3
+2023-04-16,2022-2023,Süper Lig,15,Alanyaspor,Sivasspor,1,0,Ev,1
+2023-05-17,2022-2023,Süper Lig,16,Galatasaray,Fenerbahçe,1,2,Deplasman,3
+2023-05-17,2022-2023,Süper Lig,16,Beşiktaş,Trabzonspor,2,5,Deplasman,7
+2023-05-17,2022-2023,Süper Lig,16,Başakşehir,Adana Demirspor,0,2,Deplasman,2
+2023-05-17,2022-2023,Süper Lig,16,Antalyaspor,Konyaspor,1,1,Beraberlik,2
+2023-05-17,2022-2023,Süper Lig,16,Alanyaspor,Sivasspor,1,0,Ev,1
+2023-06-18,2022-2023,Süper Lig,17,Galatasaray,Fenerbahçe,0,4,Deplasman,4
+2023-06-18,2022-2023,Süper Lig,17,Beşiktaş,Trabzonspor,2,1,Ev,3
+2023-06-18,2022-2023,Süper Lig,17,Başakşehir,Adana Demirspor,1,3,Deplasman,4
+2023-06-18,2022-2023,Süper Lig,17,Antalyaspor,Konyaspor,3,3,Beraberlik,6
+2023-06-18,2022-2023,Süper Lig,17,Alanyaspor,Sivasspor,1,3,Deplasman,4
+2023-07-19,2022-2023,Süper Lig,18,Galatasaray,Fenerbahçe,2,2,Beraberlik,4
+2023-07-19,2022-2023,Süper Lig,18,Beşiktaş,Trabzonspor,3,1,Ev,4
+2023-07-19,2022-2023,Süper Lig,18,Başakşehir,Adana Demirspor,2,4,Deplasman,6
+2023-07-19,2022-2023,Süper Lig,18,Antalyaspor,Konyaspor,3,0,Ev,3
+2023-07-19,2022-2023,Süper Lig,18,Alanyaspor,Sivasspor,3,4,Deplasman,7
+2023-02-02,2023-2024,Süper Lig,1,Galatasaray,Fenerbahçe,3,0,Ev,3
+2023-02-02,2023-2024,Süper Lig,1,Beşiktaş,Trabzonspor,2,2,Beraberlik,4
+2023-02-02,2023-2024,Süper Lig,1,Başakşehir,Adana Demirspor,2,4,Deplasman,6
+2023-02-02,2023-2024,Süper Lig,1,Antalyaspor,Konyaspor,3,3,Beraberlik,6
+2023-02-02,2023-2024,Süper Lig,1,Alanyaspor,Sivasspor,1,2,Deplasman,3
+2023-03-03,2023-2024,Süper Lig,2,Galatasaray,Fenerbahçe,3,2,Ev,5
+2023-03-03,2023-2024,Süper Lig,2,Beşiktaş,Trabzonspor,2,2,Beraberlik,4
+2023-03-03,2023-2024,Süper Lig,2,Başakşehir,Adana Demirspor,4,1,Ev,5
+2023-03-03,2023-2024,Süper Lig,2,Antalyaspor,Konyaspor,1,1,Beraberlik,2
+2023-03-03,2023-2024,Süper Lig,2,Alanyaspor,Sivasspor,2,3,Deplasman,5
+2023-04-04,2023-2024,Süper Lig,3,Galatasaray,Fenerbahçe,1,0,Ev,1
+2023-04-04,2023-2024,Süper Lig,3,Beşiktaş,Trabzonspor,1,0,Ev,1
+2023-04-04,2023-2024,Süper Lig,3,Başakşehir,Adana Demirspor,2,2,Beraberlik,4
+2023-04-04,2023-2024,Süper Lig,3,Antalyaspor,Konyaspor,1,1,Beraberlik,2
+2023-04-04,2023-2024,Süper Lig,3,Alanyaspor,Sivasspor,2,3,Deplasman,5
+2023-05-05,2023-2024,Süper Lig,4,Galatasaray,Fenerbahçe,1,2,Deplasman,3
+2023-05-05,2023-2024,Süper Lig,4,Beşiktaş,Trabzonspor,2,0,Ev,2
+2023-05-05,2023-2024,Süper Lig,4,Başakşehir,Adana Demirspor,4,2,Ev,6
+2023-05-05,2023-2024,Süper Lig,4,Antalyaspor,Konyaspor,2,1,Ev,3
+2023-05-05,2023-2024,Süper Lig,4,Alanyaspor,Sivasspor,1,4,Deplasman,5
+2023-06-06,2023-2024,Süper Lig,5,Galatasaray,Fenerbahçe,0,3,Deplasman,3
+2023-06-06,2023-2024,Süper Lig,5,Beşiktaş,Trabzonspor,0,0,Beraberlik,0
+2023-06-06,2023-2024,Süper Lig,5,Başakşehir,Adana Demirspor,3,3,Beraberlik,6
+2023-06-06,2023-2024,Süper Lig,5,Antalyaspor,Konyaspor,1,1,Beraberlik,2
+2023-06-06,2023-2024,Süper Lig,5,Alanyaspor,Sivasspor,1,1,Beraberlik,2
+2023-07-07,2023-2024,Süper Lig,6,Galatasaray,Fenerbahçe,3,4,Deplasman,7
+2023-07-07,2023-2024,Süper Lig,6,Beşiktaş,Trabzonspor,1,2,Deplasman,3
+2023-07-07,2023-2024,Süper Lig,6,Başakşehir,Adana Demirspor,2,2,Beraberlik,4
+2023-07-07,2023-2024,Süper Lig,6,Antalyaspor,Konyaspor,1,2,Deplasman,3
+2023-07-07,2023-2024,Süper Lig,6,Alanyaspor,Sivasspor,1,1,Beraberlik,2
+2023-08-08,2023-2024,Süper Lig,7,Galatasaray,Fenerbahçe,1,0,Ev,1
+2023-08-08,2023-2024,Süper Lig,7,Beşiktaş,Trabzonspor,3,2,Ev,5
+2023-08-08,2023-2024,Süper Lig,7,Başakşehir,Adana Demirspor,6,2,Ev,8
+2023-08-08,2023-2024,Süper Lig,7,Antalyaspor,Konyaspor,2,2,Beraberlik,4
+2023-08-08,2023-2024,Süper Lig,7,Alanyaspor,Sivasspor,1,1,Beraberlik,2
+2023-09-09,2023-2024,Süper Lig,8,Galatasaray,Fenerbahçe,4,2,Ev,6
+2023-09-09,2023-2024,Süper Lig,8,Beşiktaş,Trabzonspor,1,1,Beraberlik,2
+2023-09-09,2023-2024,Süper Lig,8,Başakşehir,Adana Demirspor,3,2,Ev,5
+2023-09-09,2023-2024,Süper Lig,8,Antalyaspor,Konyaspor,3,5,Deplasman,8
+2023-09-09,2023-2024,Süper Lig,8,Alanyaspor,Sivasspor,1,1,Beraberlik,2
+2023-10-10,2023-2024,Süper Lig,9,Galatasaray,Fenerbahçe,4,0,Ev,4
+2023-10-10,2023-2024,Süper Lig,9,Beşiktaş,Trabzonspor,1,1,Beraberlik,2
+2023-10-10,2023-2024,Süper Lig,9,Başakşehir,Adana Demirspor,1,4,Deplasman,5
+2023-10-10,2023-2024,Süper Lig,9,Antalyaspor,Konyaspor,2,3,Deplasman,5
+2023-10-10,2023-2024,Süper Lig,9,Alanyaspor,Sivasspor,2,2,Beraberlik,4
+2023-11-11,2023-2024,Süper Lig,10,Galatasaray,Fenerbahçe,6,2,Ev,8
+2023-11-11,2023-2024,Süper Lig,10,Beşiktaş,Trabzonspor,4,2,Ev,6
+2023-11-11,2023-2024,Süper Lig,10,Başakşehir,Adana Demirspor,5,2,Ev,7
+2023-11-11,2023-2024,Süper Lig,10,Antalyaspor,Konyaspor,4,3,Ev,7
+2023-11-11,2023-2024,Süper Lig,10,Alanyaspor,Sivasspor,1,1,Beraberlik,2
+2023-12-12,2023-2024,Süper Lig,11,Galatasaray,Fenerbahçe,3,1,Ev,4
+2023-12-12,2023-2024,Süper Lig,11,Beşiktaş,Trabzonspor,1,1,Beraberlik,2
+2023-12-12,2023-2024,Süper Lig,11,Başakşehir,Adana Demirspor,1,3,Deplasman,4
+2023-12-12,2023-2024,Süper Lig,11,Antalyaspor,Konyaspor,3,1,Ev,4
+2023-12-12,2023-2024,Süper Lig,11,Alanyaspor,Sivasspor,2,3,Deplasman,5
+2023-01-13,2023-2024,Süper Lig,12,Galatasaray,Fenerbahçe,2,0,Ev,2
+2023-01-13,2023-2024,Süper Lig,12,Beşiktaş,Trabzonspor,3,1,Ev,4
+2023-01-13,2023-2024,Süper Lig,12,Başakşehir,Adana Demirspor,0,1,Deplasman,1
+2023-01-13,2023-2024,Süper Lig,12,Antalyaspor,Konyaspor,1,1,Beraberlik,2
+2023-01-13,2023-2024,Süper Lig,12,Alanyaspor,Sivasspor,1,0,Ev,1
+2023-02-14,2023-2024,Süper Lig,13,Galatasaray,Fenerbahçe,2,1,Ev,3
+2023-02-14,2023-2024,Süper Lig,13,Beşiktaş,Trabzonspor,2,1,Ev,3
+2023-02-14,2023-2024,Süper Lig,13,Başakşehir,Adana Demirspor,2,1,Ev,3
+2023-02-14,2023-2024,Süper Lig,13,Antalyaspor,Konyaspor,1,0,Ev,1
+2023-02-14,2023-2024,Süper Lig,13,Alanyaspor,Sivasspor,2,3,Deplasman,5
+2023-03-15,2023-2024,Süper Lig,14,Galatasaray,Fenerbahçe,2,2,Beraberlik,4
+2023-03-15,2023-2024,Süper Lig,14,Beşiktaş,Trabzonspor,1,2,Deplasman,3
+2023-03-15,2023-2024,Süper Lig,14,Başakşehir,Adana Demirspor,5,2,Ev,7
+2023-03-15,2023-2024,Süper Lig,14,Antalyaspor,Konyaspor,1,3,Deplasman,4
+2023-03-15,2023-2024,Süper Lig,14,Alanyaspor,Sivasspor,1,1,Beraberlik,2
+2023-04-16,2023-2024,Süper Lig,15,Galatasaray,Fenerbahçe,2,2,Beraberlik,4
+2023-04-16,2023-2024,Süper Lig,15,Beşiktaş,Trabzonspor,0,0,Beraberlik,0
+2023-04-16,2023-2024,Süper Lig,15,Başakşehir,Adana Demirspor,5,3,Ev,8
+2023-04-16,2023-2024,Süper Lig,15,Antalyaspor,Konyaspor,1,1,Beraberlik,2
+2023-04-16,2023-2024,Süper Lig,15,Alanyaspor,Sivasspor,2,1,Ev,3
+2023-05-17,2023-2024,Süper Lig,16,Galatasaray,Fenerbahçe,3,3,Beraberlik,6
+2023-05-17,2023-2024,Süper Lig,16,Beşiktaş,Trabzonspor,0,0,Beraberlik,0
+2023-05-17,2023-2024,Süper Lig,16,Başakşehir,Adana Demirspor,1,2,Deplasman,3
+2023-05-17,2023-2024,Süper Lig,16,Antalyaspor,Konyaspor,2,4,Deplasman,6
+2023-05-17,2023-2024,Süper Lig,16,Alanyaspor,Sivasspor,4,1,Ev,5
+2023-06-18,2023-2024,Süper Lig,17,Galatasaray,Fenerbahçe,3,0,Ev,3
+2023-06-18,2023-2024,Süper Lig,17,Beşiktaş,Trabzonspor,5,1,Ev,6
+2023-06-18,2023-2024,Süper Lig,17,Başakşehir,Adana Demirspor,4,2,Ev,6
+2023-06-18,2023-2024,Süper Lig,17,Antalyaspor,Konyaspor,2,5,Deplasman,7
+2023-06-18,2023-2024,Süper Lig,17,Alanyaspor,Sivasspor,4,1,Ev,5
+2023-07-19,2023-2024,Süper Lig,18,Galatasaray,Fenerbahçe,1,2,Deplasman,3
+2023-07-19,2023-2024,Süper Lig,18,Beşiktaş,Trabzonspor,0,0,Beraberlik,0
+2023-07-19,2023-2024,Süper Lig,18,Başakşehir,Adana Demirspor,5,1,Ev,6
+2023-07-19,2023-2024,Süper Lig,18,Antalyaspor,Konyaspor,1,6,Deplasman,7
+2023-07-19,2023-2024,Süper Lig,18,Alanyaspor,Sivasspor,5,2,Ev,7
+2023-02-02,2024-2025,Süper Lig,1,Galatasaray,Fenerbahçe,2,2,Beraberlik,4
+2023-02-02,2024-2025,Süper Lig,1,Beşiktaş,Trabzonspor,4,0,Ev,4
+2023-02-02,2024-2025,Süper Lig,1,Başakşehir,Adana Demirspor,3,2,Ev,5
+2023-02-02,2024-2025,Süper Lig,1,Antalyaspor,Konyaspor,0,0,Beraberlik,0
+2023-02-02,2024-2025,Süper Lig,1,Alanyaspor,Sivasspor,3,4,Deplasman,7
+2023-03-03,2024-2025,Süper Lig,2,Galatasaray,Fenerbahçe,3,1,Ev,4
+2023-03-03,2024-2025,Süper Lig,2,Beşiktaş,Trabzonspor,1,2,Deplasman,3
+2023-03-03,2024-2025,Süper Lig,2,Başakşehir,Adana Demirspor,2,5,Deplasman,7
+2023-03-03,2024-2025,Süper Lig,2,Antalyaspor,Konyaspor,0,1,Deplasman,1
+2023-03-03,2024-2025,Süper Lig,2,Alanyaspor,Sivasspor,3,0,Ev,3
+2023-04-04,2024-2025,Süper Lig,3,Galatasaray,Fenerbahçe,1,2,Deplasman,3
+2023-04-04,2024-2025,Süper Lig,3,Beşiktaş,Trabzonspor,3,1,Ev,4
+2023-04-04,2024-2025,Süper Lig,3,Başakşehir,Adana Demirspor,7,3,Ev,10
+2023-04-04,2024-2025,Süper Lig,3,Antalyaspor,Konyaspor,2,1,Ev,3
+2023-04-04,2024-2025,Süper Lig,3,Alanyaspor,Sivasspor,3,2,Ev,5
+2023-05-05,2024-2025,Süper Lig,4,Galatasaray,Fenerbahçe,3,0,Ev,3
+2023-05-05,2024-2025,Süper Lig,4,Beşiktaş,Trabzonspor,3,3,Beraberlik,6
+2023-05-05,2024-2025,Süper Lig,4,Başakşehir,Adana Demirspor,2,2,Beraberlik,4
+2023-05-05,2024-2025,Süper Lig,4,Antalyaspor,Konyaspor,1,0,Ev,1
+2023-05-05,2024-2025,Süper Lig,4,Alanyaspor,Sivasspor,3,4,Deplasman,7
+2023-06-06,2024-2025,Süper Lig,5,Galatasaray,Fenerbahçe,1,0,Ev,1
+2023-06-06,2024-2025,Süper Lig,5,Beşiktaş,Trabzonspor,2,2,Beraberlik,4
+2023-06-06,2024-2025,Süper Lig,5,Başakşehir,Adana Demirspor,3,2,Ev,5
+2023-06-06,2024-2025,Süper Lig,5,Antalyaspor,Konyaspor,0,2,Deplasman,2
+2023-06-06,2024-2025,Süper Lig,5,Alanyaspor,Sivasspor,4,2,Ev,6
+2023-07-07,2024-2025,Süper Lig,6,Galatasaray,Fenerbahçe,3,0,Ev,3
+2023-07-07,2024-2025,Süper Lig,6,Beşiktaş,Trabzonspor,0,1,Deplasman,1
+2023-07-07,2024-2025,Süper Lig,6,Başakşehir,Adana Demirspor,3,5,Deplasman,8
+2023-07-07,2024-2025,Süper Lig,6,Antalyaspor,Konyaspor,0,0,Beraberlik,0
+2023-07-07,2024-2025,Süper Lig,6,Alanyaspor,Sivasspor,4,0,Ev,4
+2023-08-08,2024-2025,Süper Lig,7,Galatasaray,Fenerbahçe,2,1,Ev,3
+2023-08-08,2024-2025,Süper Lig,7,Beşiktaş,Trabzonspor,2,1,Ev,3
+2023-08-08,2024-2025,Süper Lig,7,Başakşehir,Adana Demirspor,0,0,Beraberlik,0
+2023-08-08,2024-2025,Süper Lig,7,Antalyaspor,Konyaspor,1,1,Beraberlik,2
+2023-08-08,2024-2025,Süper Lig,7,Alanyaspor,Sivasspor,3,1,Ev,4
+2023-09-09,2024-2025,Süper Lig,8,Galatasaray,Fenerbahçe,2,1,Ev,3
+2023-09-09,2024-2025,Süper Lig,8,Beşiktaş,Trabzonspor,2,1,Ev,3
+2023-09-09,2024-2025,Süper Lig,8,Başakşehir,Adana Demirspor,0,1,Deplasman,1
+2023-09-09,2024-2025,Süper Lig,8,Antalyaspor,Konyaspor,0,1,Deplasman,1
+2023-09-09,2024-2025,Süper Lig,8,Alanyaspor,Sivasspor,4,0,Ev,4
+2023-10-10,2024-2025,Süper Lig,9,Galatasaray,Fenerbahçe,2,1,Ev,3
+2023-10-10,2024-2025,Süper Lig,9,Beşiktaş,Trabzonspor,5,1,Ev,6
+2023-10-10,2024-2025,Süper Lig,9,Başakşehir,Adana Demirspor,4,2,Ev,6
+2023-10-10,2024-2025,Süper Lig,9,Antalyaspor,Konyaspor,0,0,Beraberlik,0
+2023-10-10,2024-2025,Süper Lig,9,Alanyaspor,Sivasspor,2,2,Beraberlik,4
+2023-11-11,2024-2025,Süper Lig,10,Galatasaray,Fenerbahçe,3,1,Ev,4
+2023-11-11,2024-2025,Süper Lig,10,Beşiktaş,Trabzonspor,3,1,Ev,4
+2023-11-11,2024-2025,Süper Lig,10,Başakşehir,Adana Demirspor,0,0,Beraberlik,0
+2023-11-11,2024-2025,Süper Lig,10,Antalyaspor,Konyaspor,3,1,Ev,4
+2023-11-11,2024-2025,Süper Lig,10,Alanyaspor,Sivasspor,2,2,Beraberlik,4
+2023-12-12,2024-2025,Süper Lig,11,Galatasaray,Fenerbahçe,4,0,Ev,4
+2023-12-12,2024-2025,Süper Lig,11,Beşiktaş,Trabzonspor,2,3,Deplasman,5
+2023-12-12,2024-2025,Süper Lig,11,Başakşehir,Adana Demirspor,2,0,Ev,2
+2023-12-12,2024-2025,Süper Lig,11,Antalyaspor,Konyaspor,1,2,Deplasman,3
+2023-12-12,2024-2025,Süper Lig,11,Alanyaspor,Sivasspor,5,2,Ev,7
+2023-01-13,2024-2025,Süper Lig,12,Galatasaray,Fenerbahçe,2,0,Ev,2
+2023-01-13,2024-2025,Süper Lig,12,Beşiktaş,Trabzonspor,2,0,Ev,2
+2023-01-13,2024-2025,Süper Lig,12,Başakşehir,Adana Demirspor,1,1,Beraberlik,2
+2023-01-13,2024-2025,Süper Lig,12,Antalyaspor,Konyaspor,1,2,Deplasman,3
+2023-01-13,2024-2025,Süper Lig,12,Alanyaspor,Sivasspor,1,3,Deplasman,4
+2023-02-14,2024-2025,Süper Lig,13,Galatasaray,Fenerbahçe,3,0,Ev,3
+2023-02-14,2024-2025,Süper Lig,13,Beşiktaş,Trabzonspor,1,2,Deplasman,3
+2023-02-14,2024-2025,Süper Lig,13,Başakşehir,Adana Demirspor,0,2,Deplasman,2
+2023-02-14,2024-2025,Süper Lig,13,Antalyaspor,Konyaspor,1,0,Ev,1
+2023-02-14,2024-2025,Süper Lig,13,Alanyaspor,Sivasspor,2,4,Deplasman,6
+2023-03-15,2024-2025,Süper Lig,14,Galatasaray,Fenerbahçe,2,0,Ev,2
+2023-03-15,2024-2025,Süper Lig,14,Beşiktaş,Trabzonspor,2,2,Beraberlik,4
+2023-03-15,2024-2025,Süper Lig,14,Başakşehir,Adana Demirspor,3,4,Deplasman,7
+2023-03-15,2024-2025,Süper Lig,14,Antalyaspor,Konyaspor,3,3,Beraberlik,6
+2023-03-15,2024-2025,Süper Lig,14,Alanyaspor,Sivasspor,3,2,Ev,5
+2023-04-16,2024-2025,Süper Lig,15,Galatasaray,Fenerbahçe,4,2,Ev,6
+2023-04-16,2024-2025,Süper Lig,15,Beşiktaş,Trabzonspor,3,3,Beraberlik,6
+2023-04-16,2024-2025,Süper Lig,15,Başakşehir,Adana Demirspor,1,1,Beraberlik,2
+2023-04-16,2024-2025,Süper Lig,15,Antalyaspor,Konyaspor,2,1,Ev,3
+2023-04-16,2024-2025,Süper Lig,15,Alanyaspor,Sivasspor,2,3,Deplasman,5
+2023-05-17,2024-2025,Süper Lig,16,Galatasaray,Fenerbahçe,2,1,Ev,3
+2023-05-17,2024-2025,Süper Lig,16,Beşiktaş,Trabzonspor,1,1,Beraberlik,2
+2023-05-17,2024-2025,Süper Lig,16,Başakşehir,Adana Demirspor,4,1,Ev,5
+2023-05-17,2024-2025,Süper Lig,16,Antalyaspor,Konyaspor,0,0,Beraberlik,0
+2023-05-17,2024-2025,Süper Lig,16,Alanyaspor,Sivasspor,4,2,Ev,6
+2023-06-18,2024-2025,Süper Lig,17,Galatasaray,Fenerbahçe,1,0,Ev,1
+2023-06-18,2024-2025,Süper Lig,17,Beşiktaş,Trabzonspor,2,1,Ev,3
+2023-06-18,2024-2025,Süper Lig,17,Başakşehir,Adana Demirspor,2,0,Ev,2
+2023-06-18,2024-2025,Süper Lig,17,Antalyaspor,Konyaspor,0,1,Deplasman,1
+2023-06-18,2024-2025,Süper Lig,17,Alanyaspor,Sivasspor,3,2,Ev,5
+2023-07-19,2024-2025,Süper Lig,18,Galatasaray,Fenerbahçe,2,3,Deplasman,5
+2023-07-19,2024-2025,Süper Lig,18,Beşiktaş,Trabzonspor,2,1,Ev,3
+2023-07-19,2024-2025,Süper Lig,18,Başakşehir,Adana Demirspor,3,1,Ev,4
+2023-07-19,2024-2025,Süper Lig,18,Antalyaspor,Konyaspor,2,0,Ev,2
+2023-07-19,2024-2025,Süper Lig,18,Alanyaspor,Sivasspor,3,2,Ev,5
+2023-02-02,2025-2026,Süper Lig,1,Galatasaray,Fenerbahçe,0,1,Deplasman,1
+2023-02-02,2025-2026,Süper Lig,1,Beşiktaş,Trabzonspor,4,0,Ev,4
+2023-02-02,2025-2026,Süper Lig,1,Başakşehir,Adana Demirspor,3,0,Ev,3
+2023-02-02,2025-2026,Süper Lig,1,Antalyaspor,Konyaspor,2,1,Ev,3
+2023-02-02,2025-2026,Süper Lig,1,Alanyaspor,Sivasspor,0,1,Deplasman,1
+2023-03-03,2025-2026,Süper Lig,2,Galatasaray,Fenerbahçe,1,2,Deplasman,3
+2023-03-03,2025-2026,Süper Lig,2,Beşiktaş,Trabzonspor,2,5,Deplasman,7
+2023-03-03,2025-2026,Süper Lig,2,Başakşehir,Adana Demirspor,0,2,Deplasman,2
+2023-03-03,2025-2026,Süper Lig,2,Antalyaspor,Konyaspor,2,0,Ev,2
+2023-03-03,2025-2026,Süper Lig,2,Alanyaspor,Sivasspor,3,3,Beraberlik,6
+2023-04-04,2025-2026,Süper Lig,3,Galatasaray,Fenerbahçe,0,4,Deplasman,4
+2023-04-04,2025-2026,Süper Lig,3,Beşiktaş,Trabzonspor,1,1,Beraberlik,2
+2023-04-04,2025-2026,Süper Lig,3,Başakşehir,Adana Demirspor,3,1,Ev,4
+2023-04-04,2025-2026,Süper Lig,3,Antalyaspor,Konyaspor,1,2,Deplasman,3
+2023-04-04,2025-2026,Süper Lig,3,Alanyaspor,Sivasspor,3,4,Deplasman,7
+2023-05-05,2025-2026,Süper Lig,4,Galatasaray,Fenerbahçe,1,1,Beraberlik,2
+2023-05-05,2025-2026,Süper Lig,4,Beşiktaş,Trabzonspor,5,1,Ev,6
+2023-05-05,2025-2026,Süper Lig,4,Başakşehir,Adana Demirspor,5,3,Ev,8
+2023-05-05,2025-2026,Süper Lig,4,Antalyaspor,Konyaspor,2,1,Ev,3
+2023-05-05,2025-2026,Süper Lig,4,Alanyaspor,Sivasspor,1,0,Ev,1
+2023-06-06,2025-2026,Süper Lig,5,Galatasaray,Fenerbahçe,0,3,Deplasman,3
+2023-06-06,2025-2026,Süper Lig,5,Beşiktaş,Trabzonspor,2,0,Ev,2
+2023-06-06,2025-2026,Süper Lig,5,Başakşehir,Adana Demirspor,2,1,Ev,3
+2023-06-06,2025-2026,Süper Lig,5,Antalyaspor,Konyaspor,0,2,Deplasman,2
+2023-06-06,2025-2026,Süper Lig,5,Alanyaspor,Sivasspor,1,3,Deplasman,4
+2023-07-07,2025-2026,Süper Lig,6,Galatasaray,Fenerbahçe,0,0,Beraberlik,0
+2023-07-07,2025-2026,Süper Lig,6,Beşiktaş,Trabzonspor,1,0,Ev,1
+2023-07-07,2025-2026,Süper Lig,6,Başakşehir,Adana Demirspor,4,2,Ev,6
+2023-07-07,2025-2026,Süper Lig,6,Antalyaspor,Konyaspor,1,1,Beraberlik,2
+2023-07-07,2025-2026,Süper Lig,6,Alanyaspor,Sivasspor,3,1,Ev,4
+2023-08-08,2025-2026,Süper Lig,7,Galatasaray,Fenerbahçe,1,0,Ev,1
+2023-08-08,2025-2026,Süper Lig,7,Beşiktaş,Trabzonspor,2,1,Ev,3
+2023-08-08,2025-2026,Süper Lig,7,Başakşehir,Adana Demirspor,0,0,Beraberlik,0
+2023-08-08,2025-2026,Süper Lig,7,Antalyaspor,Konyaspor,4,3,Ev,7
+2023-08-08,2025-2026,Süper Lig,7,Alanyaspor,Sivasspor,1,3,Deplasman,4
+2023-09-09,2025-2026,Süper Lig,8,Galatasaray,Fenerbahçe,1,4,Deplasman,5
+2023-09-09,2025-2026,Süper Lig,8,Beşiktaş,Trabzonspor,2,1,Ev,3
+2023-09-09,2025-2026,Süper Lig,8,Başakşehir,Adana Demirspor,6,0,Ev,6
+2023-09-09,2025-2026,Süper Lig,8,Antalyaspor,Konyaspor,1,3,Deplasman,4
+2023-09-09,2025-2026,Süper Lig,8,Alanyaspor,Sivasspor,0,1,Deplasman,1
+2023-10-10,2025-2026,Süper Lig,9,Galatasaray,Fenerbahçe,0,0,Beraberlik,0
+2023-10-10,2025-2026,Süper Lig,9,Beşiktaş,Trabzonspor,3,3,Beraberlik,6
+2023-10-10,2025-2026,Süper Lig,9,Başakşehir,Adana Demirspor,1,2,Deplasman,3
+2023-10-10,2025-2026,Süper Lig,9,Antalyaspor,Konyaspor,0,0,Beraberlik,0
+2023-10-10,2025-2026,Süper Lig,9,Alanyaspor,Sivasspor,4,1,Ev,5
+2023-11-11,2025-2026,Süper Lig,10,Galatasaray,Fenerbahçe,3,0,Ev,3
+2023-11-11,2025-2026,Süper Lig,10,Beşiktaş,Trabzonspor,5,3,Ev,8
+2023-11-11,2025-2026,Süper Lig,10,Başakşehir,Adana Demirspor,2,1,Ev,3
+2023-11-11,2025-2026,Süper Lig,10,Antalyaspor,Konyaspor,3,0,Ev,3
+2023-11-11,2025-2026,Süper Lig,10,Alanyaspor,Sivasspor,3,5,Deplasman,8
+2023-12-12,2025-2026,Süper Lig,11,Galatasaray,Fenerbahçe,3,1,Ev,4
+2023-12-12,2025-2026,Süper Lig,11,Beşiktaş,Trabzonspor,3,0,Ev,3
+2023-12-12,2025-2026,Süper Lig,11,Başakşehir,Adana Demirspor,2,0,Ev,2
+2023-12-12,2025-2026,Süper Lig,11,Antalyaspor,Konyaspor,4,1,Ev,5
+2023-12-12,2025-2026,Süper Lig,11,Alanyaspor,Sivasspor,5,1,Ev,6
+2023-01-13,2025-2026,Süper Lig,12,Galatasaray,Fenerbahçe,1,1,Beraberlik,2
+2023-01-13,2025-2026,Süper Lig,12,Beşiktaş,Trabzonspor,2,3,Deplasman,5
+2023-01-13,2025-2026,Süper Lig,12,Başakşehir,Adana Demirspor,3,1,Ev,4
+2023-01-13,2025-2026,Süper Lig,12,Antalyaspor,Konyaspor,3,1,Ev,4
+2023-01-13,2025-2026,Süper Lig,12,Alanyaspor,Sivasspor,3,4,Deplasman,7
+2023-02-14,2025-2026,Süper Lig,13,Galatasaray,Fenerbahçe,2,1,Ev,3
+2023-02-14,2025-2026,Süper Lig,13,Beşiktaş,Trabzonspor,1,3,Deplasman,4
+2023-02-14,2025-2026,Süper Lig,13,Başakşehir,Adana Demirspor,4,1,Ev,5
+2023-02-14,2025-2026,Süper Lig,13,Antalyaspor,Konyaspor,2,0,Ev,2
+2023-02-14,2025-2026,Süper Lig,13,Alanyaspor,Sivasspor,4,1,Ev,5
+2023-03-15,2025-2026,Süper Lig,14,Galatasaray,Fenerbahçe,1,0,Ev,1
+2023-03-15,2025-2026,Süper Lig,14,Beşiktaş,Trabzonspor,5,3,Ev,8
+2023-03-15,2025-2026,Süper Lig,14,Başakşehir,Adana Demirspor,3,1,Ev,4
+2023-03-15,2025-2026,Süper Lig,14,Antalyaspor,Konyaspor,1,0,Ev,1
+2023-03-15,2025-2026,Süper Lig,14,Alanyaspor,Sivasspor,0,3,Deplasman,3
+2023-04-16,2025-2026,Süper Lig,15,Galatasaray,Fenerbahçe,2,2,Beraberlik,4
+2023-04-16,2025-2026,Süper Lig,15,Beşiktaş,Trabzonspor,3,0,Ev,3
+2023-04-16,2025-2026,Süper Lig,15,Başakşehir,Adana Demirspor,4,0,Ev,4
+2023-04-16,2025-2026,Süper Lig,15,Antalyaspor,Konyaspor,1,3,Deplasman,4
+2023-04-16,2025-2026,Süper Lig,15,Alanyaspor,Sivasspor,0,1,Deplasman,1
+2023-05-17,2025-2026,Süper Lig,16,Galatasaray,Fenerbahçe,1,0,Ev,1
+2023-05-17,2025-2026,Süper Lig,16,Beşiktaş,Trabzonspor,3,0,Ev,3
+2023-05-17,2025-2026,Süper Lig,16,Başakşehir,Adana Demirspor,1,0,Ev,1
+2023-05-17,2025-2026,Süper Lig,16,Antalyaspor,Konyaspor,1,2,Deplasman,3
+2023-05-17,2025-2026,Süper Lig,16,Alanyaspor,Sivasspor,1,4,Deplasman,5
+2023-06-18,2025-2026,Süper Lig,17,Galatasaray,Fenerbahçe,1,2,Deplasman,3
+2023-06-18,2025-2026,Süper Lig,17,Beşiktaş,Trabzonspor,2,3,Deplasman,5
+2023-06-18,2025-2026,Süper Lig,17,Başakşehir,Adana Demirspor,1,0,Ev,1
+2023-06-18,2025-2026,Süper Lig,17,Antalyaspor,Konyaspor,2,1,Ev,3
+2023-06-18,2025-2026,Süper Lig,17,Alanyaspor,Sivasspor,2,2,Beraberlik,4
+2023-07-19,2025-2026,Süper Lig,18,Galatasaray,Fenerbahçe,1,0,Ev,1
+2023-07-19,2025-2026,Süper Lig,18,Beşiktaş,Trabzonspor,5,1,Ev,6
+2023-07-19,2025-2026,Süper Lig,18,Başakşehir,Adana Demirspor,3,1,Ev,4
+2023-07-19,2025-2026,Süper Lig,18,Antalyaspor,Konyaspor,1,2,Deplasman,3
+2023-07-19,2025-2026,Süper Lig,18,Alanyaspor,Sivasspor,4,3,Ev,7
+2023-02-02,2022-2023,Premier League,1,Man City,Arsenal,1,1,Beraberlik,2
+2023-02-02,2022-2023,Premier League,1,Liverpool,Man United,6,0,Ev,6
+2023-02-02,2022-2023,Premier League,1,Chelsea,Tottenham,5,1,Ev,6
+2023-02-02,2022-2023,Premier League,1,Newcastle,Aston Villa,1,2,Deplasman,3
+2023-02-02,2022-2023,Premier League,1,Brighton,West Ham,2,5,Deplasman,7
+2023-03-03,2022-2023,Premier League,2,Man City,Arsenal,2,2,Beraberlik,4
+2023-03-03,2022-2023,Premier League,2,Liverpool,Man United,0,3,Deplasman,3
+2023-03-03,2022-2023,Premier League,2,Chelsea,Tottenham,0,1,Deplasman,1
+2023-03-03,2022-2023,Premier League,2,Newcastle,Aston Villa,5,3,Ev,8
+2023-03-03,2022-2023,Premier League,2,Brighton,West Ham,2,2,Beraberlik,4
+2023-04-04,2022-2023,Premier League,3,Man City,Arsenal,0,0,Beraberlik,0
+2023-04-04,2022-2023,Premier League,3,Liverpool,Man United,5,4,Ev,9
+2023-04-04,2022-2023,Premier League,3,Chelsea,Tottenham,3,0,Ev,3
+2023-04-04,2022-2023,Premier League,3,Newcastle,Aston Villa,3,3,Beraberlik,6
+2023-04-04,2022-2023,Premier League,3,Brighton,West Ham,1,4,Deplasman,5
+2023-05-05,2022-2023,Premier League,4,Man City,Arsenal,2,3,Deplasman,5
+2023-05-05,2022-2023,Premier League,4,Liverpool,Man United,4,1,Ev,5
+2023-05-05,2022-2023,Premier League,4,Chelsea,Tottenham,1,2,Deplasman,3
+2023-05-05,2022-2023,Premier League,4,Newcastle,Aston Villa,5,4,Ev,9
+2023-05-05,2022-2023,Premier League,4,Brighton,West Ham,1,2,Deplasman,3
+2023-06-06,2022-2023,Premier League,5,Man City,Arsenal,1,1,Beraberlik,2
+2023-06-06,2022-2023,Premier League,5,Liverpool,Man United,3,0,Ev,3
+2023-06-06,2022-2023,Premier League,5,Chelsea,Tottenham,5,0,Ev,5
+2023-06-06,2022-2023,Premier League,5,Newcastle,Aston Villa,2,4,Deplasman,6
+2023-06-06,2022-2023,Premier League,5,Brighton,West Ham,2,0,Ev,2
+2023-07-07,2022-2023,Premier League,6,Man City,Arsenal,5,1,Ev,6
+2023-07-07,2022-2023,Premier League,6,Liverpool,Man United,6,2,Ev,8
+2023-07-07,2022-2023,Premier League,6,Chelsea,Tottenham,1,1,Beraberlik,2
+2023-07-07,2022-2023,Premier League,6,Newcastle,Aston Villa,6,1,Ev,7
+2023-07-07,2022-2023,Premier League,6,Brighton,West Ham,1,0,Ev,1
+2023-08-08,2022-2023,Premier League,7,Man City,Arsenal,2,1,Ev,3
+2023-08-08,2022-2023,Premier League,7,Liverpool,Man United,2,1,Ev,3
+2023-08-08,2022-2023,Premier League,7,Chelsea,Tottenham,0,0,Beraberlik,0
+2023-08-08,2022-2023,Premier League,7,Newcastle,Aston Villa,0,0,Beraberlik,0
+2023-08-08,2022-2023,Premier League,7,Brighton,West Ham,3,2,Ev,5
+2023-09-09,2022-2023,Premier League,8,Man City,Arsenal,0,1,Deplasman,1
+2023-09-09,2022-2023,Premier League,8,Liverpool,Man United,6,1,Ev,7
+2023-09-09,2022-2023,Premier League,8,Chelsea,Tottenham,4,0,Ev,4
+2023-09-09,2022-2023,Premier League,8,Newcastle,Aston Villa,3,1,Ev,4
+2023-09-09,2022-2023,Premier League,8,Brighton,West Ham,1,2,Deplasman,3
+2023-10-10,2022-2023,Premier League,9,Man City,Arsenal,1,1,Beraberlik,2
+2023-10-10,2022-2023,Premier League,9,Liverpool,Man United,2,0,Ev,2
+2023-10-10,2022-2023,Premier League,9,Chelsea,Tottenham,4,1,Ev,5
+2023-10-10,2022-2023,Premier League,9,Newcastle,Aston Villa,5,1,Ev,6
+2023-10-10,2022-2023,Premier League,9,Brighton,West Ham,1,0,Ev,1
+2023-11-11,2022-2023,Premier League,10,Man City,Arsenal,1,2,Deplasman,3
+2023-11-11,2022-2023,Premier League,10,Liverpool,Man United,2,4,Deplasman,6
+2023-11-11,2022-2023,Premier League,10,Chelsea,Tottenham,2,1,Ev,3
+2023-11-11,2022-2023,Premier League,10,Newcastle,Aston Villa,5,2,Ev,7
+2023-11-11,2022-2023,Premier League,10,Brighton,West Ham,3,1,Ev,4
+2023-12-12,2022-2023,Premier League,11,Man City,Arsenal,2,0,Ev,2
+2023-12-12,2022-2023,Premier League,11,Liverpool,Man United,3,1,Ev,4
+2023-12-12,2022-2023,Premier League,11,Chelsea,Tottenham,3,2,Ev,5
+2023-12-12,2022-2023,Premier League,11,Newcastle,Aston Villa,1,0,Ev,1
+2023-12-12,2022-2023,Premier League,11,Brighton,West Ham,3,0,Ev,3
+2023-01-13,2022-2023,Premier League,12,Man City,Arsenal,1,0,Ev,1
+2023-01-13,2022-2023,Premier League,12,Liverpool,Man United,4,3,Ev,7
+2023-01-13,2022-2023,Premier League,12,Chelsea,Tottenham,4,1,Ev,5
+2023-01-13,2022-2023,Premier League,12,Newcastle,Aston Villa,2,4,Deplasman,6
+2023-01-13,2022-2023,Premier League,12,Brighton,West Ham,1,0,Ev,1
+2023-02-14,2022-2023,Premier League,13,Man City,Arsenal,1,2,Deplasman,3
+2023-02-14,2022-2023,Premier League,13,Liverpool,Man United,2,2,Beraberlik,4
+2023-02-14,2022-2023,Premier League,13,Chelsea,Tottenham,5,1,Ev,6
+2023-02-14,2022-2023,Premier League,13,Newcastle,Aston Villa,2,5,Deplasman,7
+2023-02-14,2022-2023,Premier League,13,Brighton,West Ham,1,4,Deplasman,5
+2023-03-15,2022-2023,Premier League,14,Man City,Arsenal,2,2,Beraberlik,4
+2023-03-15,2022-2023,Premier League,14,Liverpool,Man United,2,2,Beraberlik,4
+2023-03-15,2022-2023,Premier League,14,Chelsea,Tottenham,6,1,Ev,7
+2023-03-15,2022-2023,Premier League,14,Newcastle,Aston Villa,2,2,Beraberlik,4
+2023-03-15,2022-2023,Premier League,14,Brighton,West Ham,3,1,Ev,4
+2023-04-16,2022-2023,Premier League,15,Man City,Arsenal,2,1,Ev,3
+2023-04-16,2022-2023,Premier League,15,Liverpool,Man United,3,2,Ev,5
+2023-04-16,2022-2023,Premier League,15,Chelsea,Tottenham,4,3,Ev,7
+2023-04-16,2022-2023,Premier League,15,Newcastle,Aston Villa,6,1,Ev,7
+2023-04-16,2022-2023,Premier League,15,Brighton,West Ham,2,1,Ev,3
+2023-05-17,2022-2023,Premier League,16,Man City,Arsenal,2,2,Beraberlik,4
+2023-05-17,2022-2023,Premier League,16,Liverpool,Man United,1,2,Deplasman,3
+2023-05-17,2022-2023,Premier League,16,Chelsea,Tottenham,0,1,Deplasman,1
+2023-05-17,2022-2023,Premier League,16,Newcastle,Aston Villa,1,4,Deplasman,5
+2023-05-17,2022-2023,Premier League,16,Brighton,West Ham,1,3,Deplasman,4
+2023-06-18,2022-2023,Premier League,17,Man City,Arsenal,1,2,Deplasman,3
+2023-06-18,2022-2023,Premier League,17,Liverpool,Man United,2,1,Ev,3
+2023-06-18,2022-2023,Premier League,17,Chelsea,Tottenham,5,1,Ev,6
+2023-06-18,2022-2023,Premier League,17,Newcastle,Aston Villa,2,1,Ev,3
+2023-06-18,2022-2023,Premier League,17,Brighton,West Ham,2,1,Ev,3
+2023-07-19,2022-2023,Premier League,18,Man City,Arsenal,1,0,Ev,1
+2023-07-19,2022-2023,Premier League,18,Liverpool,Man United,1,1,Beraberlik,2
+2023-07-19,2022-2023,Premier League,18,Chelsea,Tottenham,1,1,Beraberlik,2
+2023-07-19,2022-2023,Premier League,18,Newcastle,Aston Villa,5,2,Ev,7
+2023-07-19,2022-2023,Premier League,18,Brighton,West Ham,3,1,Ev,4
+2023-02-02,2023-2024,Premier League,1,Man City,Arsenal,1,3,Deplasman,4
+2023-02-02,2023-2024,Premier League,1,Liverpool,Man United,2,1,Ev,3
+2023-02-02,2023-2024,Premier League,1,Chelsea,Tottenham,4,3,Ev,7
+2023-02-02,2023-2024,Premier League,1,Newcastle,Aston Villa,3,2,Ev,5
+2023-02-02,2023-2024,Premier League,1,Brighton,West Ham,2,2,Beraberlik,4
+2023-03-03,2023-2024,Premier League,2,Man City,Arsenal,1,0,Ev,1
+2023-03-03,2023-2024,Premier League,2,Liverpool,Man United,3,2,Ev,5
+2023-03-03,2023-2024,Premier League,2,Chelsea,Tottenham,1,2,Deplasman,3
+2023-03-03,2023-2024,Premier League,2,Newcastle,Aston Villa,1,2,Deplasman,3
+2023-03-03,2023-2024,Premier League,2,Brighton,West Ham,1,4,Deplasman,5
+2023-04-04,2023-2024,Premier League,3,Man City,Arsenal,0,2,Deplasman,2
+2023-04-04,2023-2024,Premier League,3,Liverpool,Man United,1,3,Deplasman,4
+2023-04-04,2023-2024,Premier League,3,Chelsea,Tottenham,1,4,Deplasman,5
+2023-04-04,2023-2024,Premier League,3,Newcastle,Aston Villa,5,0,Ev,5
+2023-04-04,2023-2024,Premier League,3,Brighton,West Ham,1,3,Deplasman,4
+2023-05-05,2023-2024,Premier League,4,Man City,Arsenal,6,1,Ev,7
+2023-05-05,2023-2024,Premier League,4,Liverpool,Man United,1,3,Deplasman,4
+2023-05-05,2023-2024,Premier League,4,Chelsea,Tottenham,4,2,Ev,6
+2023-05-05,2023-2024,Premier League,4,Newcastle,Aston Villa,3,0,Ev,3
+2023-05-05,2023-2024,Premier League,4,Brighton,West Ham,0,2,Deplasman,2
+2023-06-06,2023-2024,Premier League,5,Man City,Arsenal,2,2,Beraberlik,4
+2023-06-06,2023-2024,Premier League,5,Liverpool,Man United,3,1,Ev,4
+2023-06-06,2023-2024,Premier League,5,Chelsea,Tottenham,2,0,Ev,2
+2023-06-06,2023-2024,Premier League,5,Newcastle,Aston Villa,6,5,Ev,11
+2023-06-06,2023-2024,Premier League,5,Brighton,West Ham,2,2,Beraberlik,4
+2023-07-07,2023-2024,Premier League,6,Man City,Arsenal,7,2,Ev,9
+2023-07-07,2023-2024,Premier League,6,Liverpool,Man United,2,3,Deplasman,5
+2023-07-07,2023-2024,Premier League,6,Chelsea,Tottenham,0,2,Deplasman,2
+2023-07-07,2023-2024,Premier League,6,Newcastle,Aston Villa,2,2,Beraberlik,4
+2023-07-07,2023-2024,Premier League,6,Brighton,West Ham,1,2,Deplasman,3
+2023-08-08,2023-2024,Premier League,7,Man City,Arsenal,1,2,Deplasman,3
+2023-08-08,2023-2024,Premier League,7,Liverpool,Man United,5,3,Ev,8
+2023-08-08,2023-2024,Premier League,7,Chelsea,Tottenham,3,2,Ev,5
+2023-08-08,2023-2024,Premier League,7,Newcastle,Aston Villa,2,0,Ev,2
+2023-08-08,2023-2024,Premier League,7,Brighton,West Ham,0,3,Deplasman,3
+2023-09-09,2023-2024,Premier League,8,Man City,Arsenal,2,2,Beraberlik,4
+2023-09-09,2023-2024,Premier League,8,Liverpool,Man United,6,2,Ev,8
+2023-09-09,2023-2024,Premier League,8,Chelsea,Tottenham,2,0,Ev,2
+2023-09-09,2023-2024,Premier League,8,Newcastle,Aston Villa,0,2,Deplasman,2
+2023-09-09,2023-2024,Premier League,8,Brighton,West Ham,3,2,Ev,5
+2023-10-10,2023-2024,Premier League,9,Man City,Arsenal,2,1,Ev,3
+2023-10-10,2023-2024,Premier League,9,Liverpool,Man United,2,2,Beraberlik,4
+2023-10-10,2023-2024,Premier League,9,Chelsea,Tottenham,3,1,Ev,4
+2023-10-10,2023-2024,Premier League,9,Newcastle,Aston Villa,5,1,Ev,6
+2023-10-10,2023-2024,Premier League,9,Brighton,West Ham,2,1,Ev,3
+2023-11-11,2023-2024,Premier League,10,Man City,Arsenal,5,1,Ev,6
+2023-11-11,2023-2024,Premier League,10,Liverpool,Man United,2,3,Deplasman,5
+2023-11-11,2023-2024,Premier League,10,Chelsea,Tottenham,2,2,Beraberlik,4
+2023-11-11,2023-2024,Premier League,10,Newcastle,Aston Villa,5,3,Ev,8
+2023-11-11,2023-2024,Premier League,10,Brighton,West Ham,2,2,Beraberlik,4
+2023-12-12,2023-2024,Premier League,11,Man City,Arsenal,4,3,Ev,7
+2023-12-12,2023-2024,Premier League,11,Liverpool,Man United,3,0,Ev,3
+2023-12-12,2023-2024,Premier League,11,Chelsea,Tottenham,1,3,Deplasman,4
+2023-12-12,2023-2024,Premier League,11,Newcastle,Aston Villa,4,3,Ev,7
+2023-12-12,2023-2024,Premier League,11,Brighton,West Ham,2,0,Ev,2
+2023-01-13,2023-2024,Premier League,12,Man City,Arsenal,1,1,Beraberlik,2
+2023-01-13,2023-2024,Premier League,12,Liverpool,Man United,4,3,Ev,7
+2023-01-13,2023-2024,Premier League,12,Chelsea,Tottenham,1,2,Deplasman,3
+2023-01-13,2023-2024,Premier League,12,Newcastle,Aston Villa,3,1,Ev,4
+2023-01-13,2023-2024,Premier League,12,Brighton,West Ham,2,2,Beraberlik,4
+2023-02-14,2023-2024,Premier League,13,Man City,Arsenal,3,1,Ev,4
+2023-02-14,2023-2024,Premier League,13,Liverpool,Man United,2,1,Ev,3
+2023-02-14,2023-2024,Premier League,13,Chelsea,Tottenham,2,1,Ev,3
+2023-02-14,2023-2024,Premier League,13,Newcastle,Aston Villa,2,2,Beraberlik,4
+2023-02-14,2023-2024,Premier League,13,Brighton,West Ham,1,1,Beraberlik,2
+2023-03-15,2023-2024,Premier League,14,Man City,Arsenal,1,3,Deplasman,4
+2023-03-15,2023-2024,Premier League,14,Liverpool,Man United,1,2,Deplasman,3
+2023-03-15,2023-2024,Premier League,14,Chelsea,Tottenham,4,4,Beraberlik,8
+2023-03-15,2023-2024,Premier League,14,Newcastle,Aston Villa,2,2,Beraberlik,4
+2023-03-15,2023-2024,Premier League,14,Brighton,West Ham,0,3,Deplasman,3
+2023-04-16,2023-2024,Premier League,15,Man City,Arsenal,3,0,Ev,3
+2023-04-16,2023-2024,Premier League,15,Liverpool,Man United,2,3,Deplasman,5
+2023-04-16,2023-2024,Premier League,15,Chelsea,Tottenham,3,1,Ev,4
+2023-04-16,2023-2024,Premier League,15,Newcastle,Aston Villa,4,1,Ev,5
+2023-04-16,2023-2024,Premier League,15,Brighton,West Ham,3,1,Ev,4
+2023-05-17,2023-2024,Premier League,16,Man City,Arsenal,1,1,Beraberlik,2
+2023-05-17,2023-2024,Premier League,16,Liverpool,Man United,1,1,Beraberlik,2
+2023-05-17,2023-2024,Premier League,16,Chelsea,Tottenham,1,3,Deplasman,4
+2023-05-17,2023-2024,Premier League,16,Newcastle,Aston Villa,6,3,Ev,9
+2023-05-17,2023-2024,Premier League,16,Brighton,West Ham,0,3,Deplasman,3
+2023-06-18,2023-2024,Premier League,17,Man City,Arsenal,1,4,Deplasman,5
+2023-06-18,2023-2024,Premier League,17,Liverpool,Man United,3,2,Ev,5
+2023-06-18,2023-2024,Premier League,17,Chelsea,Tottenham,3,2,Ev,5
+2023-06-18,2023-2024,Premier League,17,Newcastle,Aston Villa,2,2,Beraberlik,4
+2023-06-18,2023-2024,Premier League,17,Brighton,West Ham,1,1,Beraberlik,2
+2023-07-19,2023-2024,Premier League,18,Man City,Arsenal,0,4,Deplasman,4
+2023-07-19,2023-2024,Premier League,18,Liverpool,Man United,2,2,Beraberlik,4
+2023-07-19,2023-2024,Premier League,18,Chelsea,Tottenham,6,4,Ev,10
+2023-07-19,2023-2024,Premier League,18,Newcastle,Aston Villa,3,5,Deplasman,8
+2023-07-19,2023-2024,Premier League,18,Brighton,West Ham,1,1,Beraberlik,2
+2023-02-02,2024-2025,Premier League,1,Man City,Arsenal,0,0,Beraberlik,0
+2023-02-02,2024-2025,Premier League,1,Liverpool,Man United,1,1,Beraberlik,2
+2023-02-02,2024-2025,Premier League,1,Chelsea,Tottenham,0,2,Deplasman,2
+2023-02-02,2024-2025,Premier League,1,Newcastle,Aston Villa,0,1,Deplasman,1
+2023-02-02,2024-2025,Premier League,1,Brighton,West Ham,2,1,Ev,3
+2023-03-03,2024-2025,Premier League,2,Man City,Arsenal,4,1,Ev,5
+2023-03-03,2024-2025,Premier League,2,Liverpool,Man United,3,1,Ev,4
+2023-03-03,2024-2025,Premier League,2,Chelsea,Tottenham,1,1,Beraberlik,2
+2023-03-03,2024-2025,Premier League,2,Newcastle,Aston Villa,3,1,Ev,4
+2023-03-03,2024-2025,Premier League,2,Brighton,West Ham,1,1,Beraberlik,2
+2023-04-04,2024-2025,Premier League,3,Man City,Arsenal,3,3,Beraberlik,6
+2023-04-04,2024-2025,Premier League,3,Liverpool,Man United,2,2,Beraberlik,4
+2023-04-04,2024-2025,Premier League,3,Chelsea,Tottenham,3,3,Beraberlik,6
+2023-04-04,2024-2025,Premier League,3,Newcastle,Aston Villa,1,3,Deplasman,4
+2023-04-04,2024-2025,Premier League,3,Brighton,West Ham,1,1,Beraberlik,2
+2023-05-05,2024-2025,Premier League,4,Man City,Arsenal,4,1,Ev,5
+2023-05-05,2024-2025,Premier League,4,Liverpool,Man United,0,1,Deplasman,1
+2023-05-05,2024-2025,Premier League,4,Chelsea,Tottenham,3,1,Ev,4
+2023-05-05,2024-2025,Premier League,4,Newcastle,Aston Villa,1,3,Deplasman,4
+2023-05-05,2024-2025,Premier League,4,Brighton,West Ham,5,0,Ev,5
+2023-06-06,2024-2025,Premier League,5,Man City,Arsenal,3,0,Ev,3
+2023-06-06,2024-2025,Premier League,5,Liverpool,Man United,5,3,Ev,8
+2023-06-06,2024-2025,Premier League,5,Chelsea,Tottenham,2,1,Ev,3
+2023-06-06,2024-2025,Premier League,5,Newcastle,Aston Villa,1,2,Deplasman,3
+2023-06-06,2024-2025,Premier League,5,Brighton,West Ham,0,0,Beraberlik,0
+2023-07-07,2024-2025,Premier League,6,Man City,Arsenal,5,1,Ev,6
+2023-07-07,2024-2025,Premier League,6,Liverpool,Man United,2,0,Ev,2
+2023-07-07,2024-2025,Premier League,6,Chelsea,Tottenham,0,1,Deplasman,1
+2023-07-07,2024-2025,Premier League,6,Newcastle,Aston Villa,5,0,Ev,5
+2023-07-07,2024-2025,Premier League,6,Brighton,West Ham,0,1,Deplasman,1
+2023-08-08,2024-2025,Premier League,7,Man City,Arsenal,1,0,Ev,1
+2023-08-08,2024-2025,Premier League,7,Liverpool,Man United,0,1,Deplasman,1
+2023-08-08,2024-2025,Premier League,7,Chelsea,Tottenham,1,4,Deplasman,5
+2023-08-08,2024-2025,Premier League,7,Newcastle,Aston Villa,6,0,Ev,6
+2023-08-08,2024-2025,Premier League,7,Brighton,West Ham,3,2,Ev,5
+2023-09-09,2024-2025,Premier League,8,Man City,Arsenal,0,1,Deplasman,1
+2023-09-09,2024-2025,Premier League,8,Liverpool,Man United,0,1,Deplasman,1
+2023-09-09,2024-2025,Premier League,8,Chelsea,Tottenham,1,1,Beraberlik,2
+2023-09-09,2024-2025,Premier League,8,Newcastle,Aston Villa,0,3,Deplasman,3
+2023-09-09,2024-2025,Premier League,8,Brighton,West Ham,3,2,Ev,5
+2023-10-10,2024-2025,Premier League,9,Man City,Arsenal,5,3,Ev,8
+2023-10-10,2024-2025,Premier League,9,Liverpool,Man United,1,5,Deplasman,6
+2023-10-10,2024-2025,Premier League,9,Chelsea,Tottenham,0,3,Deplasman,3
+2023-10-10,2024-2025,Premier League,9,Newcastle,Aston Villa,3,2,Ev,5
+2023-10-10,2024-2025,Premier League,9,Brighton,West Ham,0,2,Deplasman,2
+2023-11-11,2024-2025,Premier League,10,Man City,Arsenal,4,0,Ev,4
+2023-11-11,2024-2025,Premier League,10,Liverpool,Man United,5,1,Ev,6
+2023-11-11,2024-2025,Premier League,10,Chelsea,Tottenham,1,2,Deplasman,3
+2023-11-11,2024-2025,Premier League,10,Newcastle,Aston Villa,3,0,Ev,3
+2023-11-11,2024-2025,Premier League,10,Brighton,West Ham,1,3,Deplasman,4
+2023-12-12,2024-2025,Premier League,11,Man City,Arsenal,3,1,Ev,4
+2023-12-12,2024-2025,Premier League,11,Liverpool,Man United,2,3,Deplasman,5
+2023-12-12,2024-2025,Premier League,11,Chelsea,Tottenham,1,1,Beraberlik,2
+2023-12-12,2024-2025,Premier League,11,Newcastle,Aston Villa,4,1,Ev,5
+2023-12-12,2024-2025,Premier League,11,Brighton,West Ham,1,1,Beraberlik,2
+2023-01-13,2024-2025,Premier League,12,Man City,Arsenal,1,0,Ev,1
+2023-01-13,2024-2025,Premier League,12,Liverpool,Man United,4,1,Ev,5
+2023-01-13,2024-2025,Premier League,12,Chelsea,Tottenham,1,0,Ev,1
+2023-01-13,2024-2025,Premier League,12,Newcastle,Aston Villa,2,0,Ev,2
+2023-01-13,2024-2025,Premier League,12,Brighton,West Ham,1,0,Ev,1
+2023-02-14,2024-2025,Premier League,13,Man City,Arsenal,2,0,Ev,2
+2023-02-14,2024-2025,Premier League,13,Liverpool,Man United,1,2,Deplasman,3
+2023-02-14,2024-2025,Premier League,13,Chelsea,Tottenham,2,2,Beraberlik,4
+2023-02-14,2024-2025,Premier League,13,Newcastle,Aston Villa,1,2,Deplasman,3
+2023-02-14,2024-2025,Premier League,13,Brighton,West Ham,1,2,Deplasman,3
+2023-03-15,2024-2025,Premier League,14,Man City,Arsenal,7,0,Ev,7
+2023-03-15,2024-2025,Premier League,14,Liverpool,Man United,2,2,Beraberlik,4
+2023-03-15,2024-2025,Premier League,14,Chelsea,Tottenham,2,2,Beraberlik,4
+2023-03-15,2024-2025,Premier League,14,Newcastle,Aston Villa,2,2,Beraberlik,4
+2023-03-15,2024-2025,Premier League,14,Brighton,West Ham,1,1,Beraberlik,2
+2023-04-16,2024-2025,Premier League,15,Man City,Arsenal,2,0,Ev,2
+2023-04-16,2024-2025,Premier League,15,Liverpool,Man United,1,0,Ev,1
+2023-04-16,2024-2025,Premier League,15,Chelsea,Tottenham,1,3,Deplasman,4
+2023-04-16,2024-2025,Premier League,15,Newcastle,Aston Villa,3,3,Beraberlik,6
+2023-04-16,2024-2025,Premier League,15,Brighton,West Ham,1,0,Ev,1
+2023-05-17,2024-2025,Premier League,16,Man City,Arsenal,2,0,Ev,2
+2023-05-17,2024-2025,Premier League,16,Liverpool,Man United,4,1,Ev,5
+2023-05-17,2024-2025,Premier League,16,Chelsea,Tottenham,0,2,Deplasman,2
+2023-05-17,2024-2025,Premier League,16,Newcastle,Aston Villa,1,2,Deplasman,3
+2023-05-17,2024-2025,Premier League,16,Brighton,West Ham,2,1,Ev,3
+2023-06-18,2024-2025,Premier League,17,Man City,Arsenal,5,0,Ev,5
+2023-06-18,2024-2025,Premier League,17,Liverpool,Man United,0,1,Deplasman,1
+2023-06-18,2024-2025,Premier League,17,Chelsea,Tottenham,3,0,Ev,3
+2023-06-18,2024-2025,Premier League,17,Newcastle,Aston Villa,0,2,Deplasman,2
+2023-06-18,2024-2025,Premier League,17,Brighton,West Ham,0,0,Beraberlik,0
+2023-07-19,2024-2025,Premier League,18,Man City,Arsenal,2,1,Ev,3
+2023-07-19,2024-2025,Premier League,18,Liverpool,Man United,1,0,Ev,1
+2023-07-19,2024-2025,Premier League,18,Chelsea,Tottenham,2,1,Ev,3
+2023-07-19,2024-2025,Premier League,18,Newcastle,Aston Villa,4,1,Ev,5
+2023-07-19,2024-2025,Premier League,18,Brighton,West Ham,0,2,Deplasman,2
+2023-02-02,2025-2026,Premier League,1,Man City,Arsenal,4,2,Ev,6
+2023-02-02,2025-2026,Premier League,1,Liverpool,Man United,4,1,Ev,5
+2023-02-02,2025-2026,Premier League,1,Chelsea,Tottenham,2,3,Deplasman,5
+2023-02-02,2025-2026,Premier League,1,Newcastle,Aston Villa,1,0,Ev,1
+2023-02-02,2025-2026,Premier League,1,Brighton,West Ham,2,2,Beraberlik,4
+2023-03-03,2025-2026,Premier League,2,Man City,Arsenal,1,3,Deplasman,4
+2023-03-03,2025-2026,Premier League,2,Liverpool,Man United,3,0,Ev,3
+2023-03-03,2025-2026,Premier League,2,Chelsea,Tottenham,2,4,Deplasman,6
+2023-03-03,2025-2026,Premier League,2,Newcastle,Aston Villa,2,1,Ev,3
+2023-03-03,2025-2026,Premier League,2,Brighton,West Ham,2,2,Beraberlik,4
+2023-04-04,2025-2026,Premier League,3,Man City,Arsenal,1,2,Deplasman,3
+2023-04-04,2025-2026,Premier League,3,Liverpool,Man United,0,4,Deplasman,4
+2023-04-04,2025-2026,Premier League,3,Chelsea,Tottenham,6,0,Ev,6
+2023-04-04,2025-2026,Premier League,3,Newcastle,Aston Villa,2,2,Beraberlik,4
+2023-04-04,2025-2026,Premier League,3,Brighton,West Ham,2,2,Beraberlik,4
+2023-05-05,2025-2026,Premier League,4,Man City,Arsenal,2,0,Ev,2
+2023-05-05,2025-2026,Premier League,4,Liverpool,Man United,1,5,Deplasman,6
+2023-05-05,2025-2026,Premier League,4,Chelsea,Tottenham,1,0,Ev,1
+2023-05-05,2025-2026,Premier League,4,Newcastle,Aston Villa,2,1,Ev,3
+2023-05-05,2025-2026,Premier League,4,Brighton,West Ham,4,1,Ev,5
+2023-06-06,2025-2026,Premier League,5,Man City,Arsenal,2,0,Ev,2
+2023-06-06,2025-2026,Premier League,5,Liverpool,Man United,1,2,Deplasman,3
+2023-06-06,2025-2026,Premier League,5,Chelsea,Tottenham,4,1,Ev,5
+2023-06-06,2025-2026,Premier League,5,Newcastle,Aston Villa,3,2,Ev,5
+2023-06-06,2025-2026,Premier League,5,Brighton,West Ham,4,1,Ev,5
+2023-07-07,2025-2026,Premier League,6,Man City,Arsenal,3,1,Ev,4
+2023-07-07,2025-2026,Premier League,6,Liverpool,Man United,3,1,Ev,4
+2023-07-07,2025-2026,Premier League,6,Chelsea,Tottenham,1,3,Deplasman,4
+2023-07-07,2025-2026,Premier League,6,Newcastle,Aston Villa,1,0,Ev,1
+2023-07-07,2025-2026,Premier League,6,Brighton,West Ham,1,1,Beraberlik,2
+2023-08-08,2025-2026,Premier League,7,Man City,Arsenal,2,3,Deplasman,5
+2023-08-08,2025-2026,Premier League,7,Liverpool,Man United,5,4,Ev,9
+2023-08-08,2025-2026,Premier League,7,Chelsea,Tottenham,3,4,Deplasman,7
+2023-08-08,2025-2026,Premier League,7,Newcastle,Aston Villa,3,2,Ev,5
+2023-08-08,2025-2026,Premier League,7,Brighton,West Ham,1,4,Deplasman,5
+2023-09-09,2025-2026,Premier League,8,Man City,Arsenal,4,2,Ev,6
+2023-09-09,2025-2026,Premier League,8,Liverpool,Man United,3,2,Ev,5
+2023-09-09,2025-2026,Premier League,8,Chelsea,Tottenham,1,2,Deplasman,3
+2023-09-09,2025-2026,Premier League,8,Newcastle,Aston Villa,1,2,Deplasman,3
+2023-09-09,2025-2026,Premier League,8,Brighton,West Ham,1,0,Ev,1
+2023-10-10,2025-2026,Premier League,9,Man City,Arsenal,2,0,Ev,2
+2023-10-10,2025-2026,Premier League,9,Liverpool,Man United,0,2,Deplasman,2
+2023-10-10,2025-2026,Premier League,9,Chelsea,Tottenham,4,0,Ev,4
+2023-10-10,2025-2026,Premier League,9,Newcastle,Aston Villa,2,1,Ev,3
+2023-10-10,2025-2026,Premier League,9,Brighton,West Ham,2,1,Ev,3
+2023-11-11,2025-2026,Premier League,10,Man City,Arsenal,2,1,Ev,3
+2023-11-11,2025-2026,Premier League,10,Liverpool,Man United,2,0,Ev,2
+2023-11-11,2025-2026,Premier League,10,Chelsea,Tottenham,3,3,Beraberlik,6
+2023-11-11,2025-2026,Premier League,10,Newcastle,Aston Villa,1,1,Beraberlik,2
+2023-11-11,2025-2026,Premier League,10,Brighton,West Ham,2,1,Ev,3
+2023-12-12,2025-2026,Premier League,11,Man City,Arsenal,1,1,Beraberlik,2
+2023-12-12,2025-2026,Premier League,11,Liverpool,Man United,3,1,Ev,4
+2023-12-12,2025-2026,Premier League,11,Chelsea,Tottenham,3,0,Ev,3
+2023-12-12,2025-2026,Premier League,11,Newcastle,Aston Villa,2,1,Ev,3
+2023-12-12,2025-2026,Premier League,11,Brighton,West Ham,3,1,Ev,4
+2023-01-13,2025-2026,Premier League,12,Man City,Arsenal,4,0,Ev,4
+2023-01-13,2025-2026,Premier League,12,Liverpool,Man United,2,1,Ev,3
+2023-01-13,2025-2026,Premier League,12,Chelsea,Tottenham,6,3,Ev,9
+2023-01-13,2025-2026,Premier League,12,Newcastle,Aston Villa,2,2,Beraberlik,4
+2023-01-13,2025-2026,Premier League,12,Brighton,West Ham,5,1,Ev,6
+2023-02-14,2025-2026,Premier League,13,Man City,Arsenal,3,1,Ev,4
+2023-02-14,2025-2026,Premier League,13,Liverpool,Man United,1,2,Deplasman,3
+2023-02-14,2025-2026,Premier League,13,Chelsea,Tottenham,4,3,Ev,7
+2023-02-14,2025-2026,Premier League,13,Newcastle,Aston Villa,2,1,Ev,3
+2023-02-14,2025-2026,Premier League,13,Brighton,West Ham,2,0,Ev,2
+2023-03-15,2025-2026,Premier League,14,Man City,Arsenal,2,1,Ev,3
+2023-03-15,2025-2026,Premier League,14,Liverpool,Man United,2,1,Ev,3
+2023-03-15,2025-2026,Premier League,14,Chelsea,Tottenham,1,0,Ev,1
+2023-03-15,2025-2026,Premier League,14,Newcastle,Aston Villa,2,0,Ev,2
+2023-03-15,2025-2026,Premier League,14,Brighton,West Ham,3,3,Beraberlik,6
+2023-04-16,2025-2026,Premier League,15,Man City,Arsenal,0,0,Beraberlik,0
+2023-04-16,2025-2026,Premier League,15,Liverpool,Man United,1,2,Deplasman,3
+2023-04-16,2025-2026,Premier League,15,Chelsea,Tottenham,4,4,Beraberlik,8
+2023-04-16,2025-2026,Premier League,15,Newcastle,Aston Villa,0,1,Deplasman,1
+2023-04-16,2025-2026,Premier League,15,Brighton,West Ham,3,1,Ev,4
+2023-05-17,2025-2026,Premier League,16,Man City,Arsenal,2,0,Ev,2
+2023-05-17,2025-2026,Premier League,16,Liverpool,Man United,0,3,Deplasman,3
+2023-05-17,2025-2026,Premier League,16,Chelsea,Tottenham,3,0,Ev,3
+2023-05-17,2025-2026,Premier League,16,Newcastle,Aston Villa,2,0,Ev,2
+2023-05-17,2025-2026,Premier League,16,Brighton,West Ham,5,1,Ev,6
+2023-06-18,2025-2026,Premier League,17,Man City,Arsenal,2,0,Ev,2
+2023-06-18,2025-2026,Premier League,17,Liverpool,Man United,1,2,Deplasman,3
+2023-06-18,2025-2026,Premier League,17,Chelsea,Tottenham,5,2,Ev,7
+2023-06-18,2025-2026,Premier League,17,Newcastle,Aston Villa,2,1,Ev,3
+2023-06-18,2025-2026,Premier League,17,Brighton,West Ham,6,1,Ev,7
+2023-07-19,2025-2026,Premier League,18,Man City,Arsenal,0,1,Deplasman,1
+2023-07-19,2025-2026,Premier League,18,Liverpool,Man United,2,2,Beraberlik,4
+2023-07-19,2025-2026,Premier League,18,Chelsea,Tottenham,3,0,Ev,3
+2023-07-19,2025-2026,Premier League,18,Newcastle,Aston Villa,0,2,Deplasman,2
+2023-07-19,2025-2026,Premier League,18,Brighton,West Ham,2,2,Beraberlik,4
+2023-02-02,2022-2023,La Liga,1,Real Madrid,Barcelona,2,1,Ev,3
+2023-02-02,2022-2023,La Liga,1,Atletico Madrid,Girona,1,3,Deplasman,4
+2023-02-02,2022-2023,La Liga,1,Athletic Bilbao,Real Sociedad,3,2,Ev,5
+2023-02-02,2022-2023,La Liga,1,Real Betis,Valencia,3,2,Ev,5
+2023-02-02,2022-2023,La Liga,1,Villarreal,Sevilla,3,1,Ev,4
+2023-03-03,2022-2023,La Liga,2,Real Madrid,Barcelona,2,3,Deplasman,5
+2023-03-03,2022-2023,La Liga,2,Atletico Madrid,Girona,5,3,Ev,8
+2023-03-03,2022-2023,La Liga,2,Athletic Bilbao,Real Sociedad,1,1,Beraberlik,2
+2023-03-03,2022-2023,La Liga,2,Real Betis,Valencia,1,3,Deplasman,4
+2023-03-03,2022-2023,La Liga,2,Villarreal,Sevilla,3,2,Ev,5
+2023-04-04,2022-2023,La Liga,3,Real Madrid,Barcelona,1,0,Ev,1
+2023-04-04,2022-2023,La Liga,3,Atletico Madrid,Girona,2,4,Deplasman,6
+2023-04-04,2022-2023,La Liga,3,Athletic Bilbao,Real Sociedad,4,1,Ev,5
+2023-04-04,2022-2023,La Liga,3,Real Betis,Valencia,3,0,Ev,3
+2023-04-04,2022-2023,La Liga,3,Villarreal,Sevilla,4,3,Ev,7
+2023-05-05,2022-2023,La Liga,4,Real Madrid,Barcelona,1,2,Deplasman,3
+2023-05-05,2022-2023,La Liga,4,Atletico Madrid,Girona,3,3,Beraberlik,6
+2023-05-05,2022-2023,La Liga,4,Athletic Bilbao,Real Sociedad,1,3,Deplasman,4
+2023-05-05,2022-2023,La Liga,4,Real Betis,Valencia,5,3,Ev,8
+2023-05-05,2022-2023,La Liga,4,Villarreal,Sevilla,2,0,Ev,2
+2023-06-06,2022-2023,La Liga,5,Real Madrid,Barcelona,0,3,Deplasman,3
+2023-06-06,2022-2023,La Liga,5,Atletico Madrid,Girona,2,1,Ev,3
+2023-06-06,2022-2023,La Liga,5,Athletic Bilbao,Real Sociedad,1,0,Ev,1
+2023-06-06,2022-2023,La Liga,5,Real Betis,Valencia,2,2,Beraberlik,4
+2023-06-06,2022-2023,La Liga,5,Villarreal,Sevilla,1,0,Ev,1
+2023-07-07,2022-2023,La Liga,6,Real Madrid,Barcelona,5,0,Ev,5
+2023-07-07,2022-2023,La Liga,6,Atletico Madrid,Girona,0,1,Deplasman,1
+2023-07-07,2022-2023,La Liga,6,Athletic Bilbao,Real Sociedad,1,3,Deplasman,4
+2023-07-07,2022-2023,La Liga,6,Real Betis,Valencia,1,0,Ev,1
+2023-07-07,2022-2023,La Liga,6,Villarreal,Sevilla,2,3,Deplasman,5
+2023-08-08,2022-2023,La Liga,7,Real Madrid,Barcelona,2,0,Ev,2
+2023-08-08,2022-2023,La Liga,7,Atletico Madrid,Girona,4,0,Ev,4
+2023-08-08,2022-2023,La Liga,7,Athletic Bilbao,Real Sociedad,1,0,Ev,1
+2023-08-08,2022-2023,La Liga,7,Real Betis,Valencia,3,1,Ev,4
+2023-08-08,2022-2023,La Liga,7,Villarreal,Sevilla,0,0,Beraberlik,0
+2023-09-09,2022-2023,La Liga,8,Real Madrid,Barcelona,3,1,Ev,4
+2023-09-09,2022-2023,La Liga,8,Atletico Madrid,Girona,4,3,Ev,7
+2023-09-09,2022-2023,La Liga,8,Athletic Bilbao,Real Sociedad,2,3,Deplasman,5
+2023-09-09,2022-2023,La Liga,8,Real Betis,Valencia,4,1,Ev,5
+2023-09-09,2022-2023,La Liga,8,Villarreal,Sevilla,2,2,Beraberlik,4
+2023-10-10,2022-2023,La Liga,9,Real Madrid,Barcelona,2,0,Ev,2
+2023-10-10,2022-2023,La Liga,9,Atletico Madrid,Girona,6,2,Ev,8
+2023-10-10,2022-2023,La Liga,9,Athletic Bilbao,Real Sociedad,2,2,Beraberlik,4
+2023-10-10,2022-2023,La Liga,9,Real Betis,Valencia,2,2,Beraberlik,4
+2023-10-10,2022-2023,La Liga,9,Villarreal,Sevilla,2,3,Deplasman,5
+2023-11-11,2022-2023,La Liga,10,Real Madrid,Barcelona,0,1,Deplasman,1
+2023-11-11,2022-2023,La Liga,10,Atletico Madrid,Girona,3,2,Ev,5
+2023-11-11,2022-2023,La Liga,10,Athletic Bilbao,Real Sociedad,0,2,Deplasman,2
+2023-11-11,2022-2023,La Liga,10,Real Betis,Valencia,1,2,Deplasman,3
+2023-11-11,2022-2023,La Liga,10,Villarreal,Sevilla,2,0,Ev,2
+2023-12-12,2022-2023,La Liga,11,Real Madrid,Barcelona,5,3,Ev,8
+2023-12-12,2022-2023,La Liga,11,Atletico Madrid,Girona,2,2,Beraberlik,4
+2023-12-12,2022-2023,La Liga,11,Athletic Bilbao,Real Sociedad,2,0,Ev,2
+2023-12-12,2022-2023,La Liga,11,Real Betis,Valencia,1,1,Beraberlik,2
+2023-12-12,2022-2023,La Liga,11,Villarreal,Sevilla,2,4,Deplasman,6
+2023-01-13,2022-2023,La Liga,12,Real Madrid,Barcelona,1,2,Deplasman,3
+2023-01-13,2022-2023,La Liga,12,Atletico Madrid,Girona,6,2,Ev,8
+2023-01-13,2022-2023,La Liga,12,Athletic Bilbao,Real Sociedad,1,3,Deplasman,4
+2023-01-13,2022-2023,La Liga,12,Real Betis,Valencia,3,2,Ev,5
+2023-01-13,2022-2023,La Liga,12,Villarreal,Sevilla,6,0,Ev,6
+2023-02-14,2022-2023,La Liga,13,Real Madrid,Barcelona,3,1,Ev,4
+2023-02-14,2022-2023,La Liga,13,Atletico Madrid,Girona,4,1,Ev,5
+2023-02-14,2022-2023,La Liga,13,Athletic Bilbao,Real Sociedad,6,2,Ev,8
+2023-02-14,2022-2023,La Liga,13,Real Betis,Valencia,0,1,Deplasman,1
+2023-02-14,2022-2023,La Liga,13,Villarreal,Sevilla,1,2,Deplasman,3
+2023-03-15,2022-2023,La Liga,14,Real Madrid,Barcelona,3,3,Beraberlik,6
+2023-03-15,2022-2023,La Liga,14,Atletico Madrid,Girona,3,3,Beraberlik,6
+2023-03-15,2022-2023,La Liga,14,Athletic Bilbao,Real Sociedad,6,1,Ev,7
+2023-03-15,2022-2023,La Liga,14,Real Betis,Valencia,3,1,Ev,4
+2023-03-15,2022-2023,La Liga,14,Villarreal,Sevilla,0,2,Deplasman,2
+2023-04-16,2022-2023,La Liga,15,Real Madrid,Barcelona,1,2,Deplasman,3
+2023-04-16,2022-2023,La Liga,15,Atletico Madrid,Girona,7,4,Ev,11
+2023-04-16,2022-2023,La Liga,15,Athletic Bilbao,Real Sociedad,1,2,Deplasman,3
+2023-04-16,2022-2023,La Liga,15,Real Betis,Valencia,3,2,Ev,5
+2023-04-16,2022-2023,La Liga,15,Villarreal,Sevilla,2,0,Ev,2
+2023-05-17,2022-2023,La Liga,16,Real Madrid,Barcelona,3,2,Ev,5
+2023-05-17,2022-2023,La Liga,16,Atletico Madrid,Girona,3,2,Ev,5
+2023-05-17,2022-2023,La Liga,16,Athletic Bilbao,Real Sociedad,3,2,Ev,5
+2023-05-17,2022-2023,La Liga,16,Real Betis,Valencia,2,2,Beraberlik,4
+2023-05-17,2022-2023,La Liga,16,Villarreal,Sevilla,3,2,Ev,5
+2023-06-18,2022-2023,La Liga,17,Real Madrid,Barcelona,1,1,Beraberlik,2
+2023-06-18,2022-2023,La Liga,17,Atletico Madrid,Girona,4,0,Ev,4
+2023-06-18,2022-2023,La Liga,17,Athletic Bilbao,Real Sociedad,3,2,Ev,5
+2023-06-18,2022-2023,La Liga,17,Real Betis,Valencia,2,0,Ev,2
+2023-06-18,2022-2023,La Liga,17,Villarreal,Sevilla,2,0,Ev,2
+2023-07-19,2022-2023,La Liga,18,Real Madrid,Barcelona,0,2,Deplasman,2
+2023-07-19,2022-2023,La Liga,18,Atletico Madrid,Girona,5,5,Beraberlik,10
+2023-07-19,2022-2023,La Liga,18,Athletic Bilbao,Real Sociedad,4,2,Ev,6
+2023-07-19,2022-2023,La Liga,18,Real Betis,Valencia,1,3,Deplasman,4
+2023-07-19,2022-2023,La Liga,18,Villarreal,Sevilla,1,0,Ev,1
+2023-02-02,2023-2024,La Liga,1,Real Madrid,Barcelona,0,1,Deplasman,1
+2023-02-02,2023-2024,La Liga,1,Atletico Madrid,Girona,1,1,Beraberlik,2
+2023-02-02,2023-2024,La Liga,1,Athletic Bilbao,Real Sociedad,1,1,Beraberlik,2
+2023-02-02,2023-2024,La Liga,1,Real Betis,Valencia,2,2,Beraberlik,4
+2023-02-02,2023-2024,La Liga,1,Villarreal,Sevilla,3,1,Ev,4
+2023-03-03,2023-2024,La Liga,2,Real Madrid,Barcelona,6,0,Ev,6
+2023-03-03,2023-2024,La Liga,2,Atletico Madrid,Girona,2,1,Ev,3
+2023-03-03,2023-2024,La Liga,2,Athletic Bilbao,Real Sociedad,1,1,Beraberlik,2
+2023-03-03,2023-2024,La Liga,2,Real Betis,Valencia,4,0,Ev,4
+2023-03-03,2023-2024,La Liga,2,Villarreal,Sevilla,2,2,Beraberlik,4
+2023-04-04,2023-2024,La Liga,3,Real Madrid,Barcelona,1,0,Ev,1
+2023-04-04,2023-2024,La Liga,3,Atletico Madrid,Girona,2,1,Ev,3
+2023-04-04,2023-2024,La Liga,3,Athletic Bilbao,Real Sociedad,3,1,Ev,4
+2023-04-04,2023-2024,La Liga,3,Real Betis,Valencia,6,1,Ev,7
+2023-04-04,2023-2024,La Liga,3,Villarreal,Sevilla,2,2,Beraberlik,4
+2023-05-05,2023-2024,La Liga,4,Real Madrid,Barcelona,0,0,Beraberlik,0
+2023-05-05,2023-2024,La Liga,4,Atletico Madrid,Girona,1,2,Deplasman,3
+2023-05-05,2023-2024,La Liga,4,Athletic Bilbao,Real Sociedad,2,2,Beraberlik,4
+2023-05-05,2023-2024,La Liga,4,Real Betis,Valencia,2,1,Ev,3
+2023-05-05,2023-2024,La Liga,4,Villarreal,Sevilla,2,1,Ev,3
+2023-06-06,2023-2024,La Liga,5,Real Madrid,Barcelona,1,0,Ev,1
+2023-06-06,2023-2024,La Liga,5,Atletico Madrid,Girona,1,1,Beraberlik,2
+2023-06-06,2023-2024,La Liga,5,Athletic Bilbao,Real Sociedad,1,2,Deplasman,3
+2023-06-06,2023-2024,La Liga,5,Real Betis,Valencia,5,1,Ev,6
+2023-06-06,2023-2024,La Liga,5,Villarreal,Sevilla,2,2,Beraberlik,4
+2023-07-07,2023-2024,La Liga,6,Real Madrid,Barcelona,4,0,Ev,4
+2023-07-07,2023-2024,La Liga,6,Atletico Madrid,Girona,2,2,Beraberlik,4
+2023-07-07,2023-2024,La Liga,6,Athletic Bilbao,Real Sociedad,3,4,Deplasman,7
+2023-07-07,2023-2024,La Liga,6,Real Betis,Valencia,6,3,Ev,9
+2023-07-07,2023-2024,La Liga,6,Villarreal,Sevilla,3,1,Ev,4
+2023-08-08,2023-2024,La Liga,7,Real Madrid,Barcelona,0,2,Deplasman,2
+2023-08-08,2023-2024,La Liga,7,Atletico Madrid,Girona,3,4,Deplasman,7
+2023-08-08,2023-2024,La Liga,7,Athletic Bilbao,Real Sociedad,3,1,Ev,4
+2023-08-08,2023-2024,La Liga,7,Real Betis,Valencia,1,0,Ev,1
+2023-08-08,2023-2024,La Liga,7,Villarreal,Sevilla,4,0,Ev,4
+2023-09-09,2023-2024,La Liga,8,Real Madrid,Barcelona,5,1,Ev,6
+2023-09-09,2023-2024,La Liga,8,Atletico Madrid,Girona,0,1,Deplasman,1
+2023-09-09,2023-2024,La Liga,8,Athletic Bilbao,Real Sociedad,3,2,Ev,5
+2023-09-09,2023-2024,La Liga,8,Real Betis,Valencia,4,1,Ev,5
+2023-09-09,2023-2024,La Liga,8,Villarreal,Sevilla,3,0,Ev,3
+2023-10-10,2023-2024,La Liga,9,Real Madrid,Barcelona,0,1,Deplasman,1
+2023-10-10,2023-2024,La Liga,9,Atletico Madrid,Girona,6,0,Ev,6
+2023-10-10,2023-2024,La Liga,9,Athletic Bilbao,Real Sociedad,0,1,Deplasman,1
+2023-10-10,2023-2024,La Liga,9,Real Betis,Valencia,4,5,Deplasman,9
+2023-10-10,2023-2024,La Liga,9,Villarreal,Sevilla,2,2,Beraberlik,4
+2023-11-11,2023-2024,La Liga,10,Real Madrid,Barcelona,1,1,Beraberlik,2
+2023-11-11,2023-2024,La Liga,10,Atletico Madrid,Girona,2,2,Beraberlik,4
+2023-11-11,2023-2024,La Liga,10,Athletic Bilbao,Real Sociedad,2,3,Deplasman,5
+2023-11-11,2023-2024,La Liga,10,Real Betis,Valencia,1,3,Deplasman,4
+2023-11-11,2023-2024,La Liga,10,Villarreal,Sevilla,3,3,Beraberlik,6
+2023-12-12,2023-2024,La Liga,11,Real Madrid,Barcelona,1,0,Ev,1
+2023-12-12,2023-2024,La Liga,11,Atletico Madrid,Girona,1,0,Ev,1
+2023-12-12,2023-2024,La Liga,11,Athletic Bilbao,Real Sociedad,1,1,Beraberlik,2
+2023-12-12,2023-2024,La Liga,11,Real Betis,Valencia,2,0,Ev,2
+2023-12-12,2023-2024,La Liga,11,Villarreal,Sevilla,1,0,Ev,1
+2023-01-13,2023-2024,La Liga,12,Real Madrid,Barcelona,2,1,Ev,3
+2023-01-13,2023-2024,La Liga,12,Atletico Madrid,Girona,3,1,Ev,4
+2023-01-13,2023-2024,La Liga,12,Athletic Bilbao,Real Sociedad,1,6,Deplasman,7
+2023-01-13,2023-2024,La Liga,12,Real Betis,Valencia,4,2,Ev,6
+2023-01-13,2023-2024,La Liga,12,Villarreal,Sevilla,4,2,Ev,6
+2023-02-14,2023-2024,La Liga,13,Real Madrid,Barcelona,1,0,Ev,1
+2023-02-14,2023-2024,La Liga,13,Atletico Madrid,Girona,3,3,Beraberlik,6
+2023-02-14,2023-2024,La Liga,13,Athletic Bilbao,Real Sociedad,4,2,Ev,6
+2023-02-14,2023-2024,La Liga,13,Real Betis,Valencia,3,2,Ev,5
+2023-02-14,2023-2024,La Liga,13,Villarreal,Sevilla,2,1,Ev,3
+2023-03-15,2023-2024,La Liga,14,Real Madrid,Barcelona,1,0,Ev,1
+2023-03-15,2023-2024,La Liga,14,Atletico Madrid,Girona,2,0,Ev,2
+2023-03-15,2023-2024,La Liga,14,Athletic Bilbao,Real Sociedad,3,0,Ev,3
+2023-03-15,2023-2024,La Liga,14,Real Betis,Valencia,3,4,Deplasman,7
+2023-03-15,2023-2024,La Liga,14,Villarreal,Sevilla,6,1,Ev,7
+2023-04-16,2023-2024,La Liga,15,Real Madrid,Barcelona,2,2,Beraberlik,4
+2023-04-16,2023-2024,La Liga,15,Atletico Madrid,Girona,2,4,Deplasman,6
+2023-04-16,2023-2024,La Liga,15,Athletic Bilbao,Real Sociedad,3,1,Ev,4
+2023-04-16,2023-2024,La Liga,15,Real Betis,Valencia,4,2,Ev,6
+2023-04-16,2023-2024,La Liga,15,Villarreal,Sevilla,2,1,Ev,3
+2023-05-17,2023-2024,La Liga,16,Real Madrid,Barcelona,0,2,Deplasman,2
+2023-05-17,2023-2024,La Liga,16,Atletico Madrid,Girona,4,1,Ev,5
+2023-05-17,2023-2024,La Liga,16,Athletic Bilbao,Real Sociedad,2,2,Beraberlik,4
+2023-05-17,2023-2024,La Liga,16,Real Betis,Valencia,7,3,Ev,10
+2023-05-17,2023-2024,La Liga,16,Villarreal,Sevilla,2,1,Ev,3
+2023-06-18,2023-2024,La Liga,17,Real Madrid,Barcelona,1,2,Deplasman,3
+2023-06-18,2023-2024,La Liga,17,Atletico Madrid,Girona,3,1,Ev,4
+2023-06-18,2023-2024,La Liga,17,Athletic Bilbao,Real Sociedad,1,1,Beraberlik,2
+2023-06-18,2023-2024,La Liga,17,Real Betis,Valencia,2,2,Beraberlik,4
+2023-06-18,2023-2024,La Liga,17,Villarreal,Sevilla,2,4,Deplasman,6
+2023-07-19,2023-2024,La Liga,18,Real Madrid,Barcelona,0,1,Deplasman,1
+2023-07-19,2023-2024,La Liga,18,Atletico Madrid,Girona,1,0,Ev,1
+2023-07-19,2023-2024,La Liga,18,Athletic Bilbao,Real Sociedad,1,2,Deplasman,3
+2023-07-19,2023-2024,La Liga,18,Real Betis,Valencia,0,1,Deplasman,1
+2023-07-19,2023-2024,La Liga,18,Villarreal,Sevilla,4,3,Ev,7
+2023-02-02,2024-2025,La Liga,1,Real Madrid,Barcelona,3,1,Ev,4
+2023-02-02,2024-2025,La Liga,1,Atletico Madrid,Girona,2,1,Ev,3
+2023-02-02,2024-2025,La Liga,1,Athletic Bilbao,Real Sociedad,0,2,Deplasman,2
+2023-02-02,2024-2025,La Liga,1,Real Betis,Valencia,3,2,Ev,5
+2023-02-02,2024-2025,La Liga,1,Villarreal,Sevilla,2,0,Ev,2
+2023-03-03,2024-2025,La Liga,2,Real Madrid,Barcelona,2,3,Deplasman,5
+2023-03-03,2024-2025,La Liga,2,Atletico Madrid,Girona,2,4,Deplasman,6
+2023-03-03,2024-2025,La Liga,2,Athletic Bilbao,Real Sociedad,5,1,Ev,6
+2023-03-03,2024-2025,La Liga,2,Real Betis,Valencia,4,2,Ev,6
+2023-03-03,2024-2025,La Liga,2,Villarreal,Sevilla,2,1,Ev,3
+2023-04-04,2024-2025,La Liga,3,Real Madrid,Barcelona,0,4,Deplasman,4
+2023-04-04,2024-2025,La Liga,3,Atletico Madrid,Girona,4,2,Ev,6
+2023-04-04,2024-2025,La Liga,3,Athletic Bilbao,Real Sociedad,3,2,Ev,5
+2023-04-04,2024-2025,La Liga,3,Real Betis,Valencia,5,1,Ev,6
+2023-04-04,2024-2025,La Liga,3,Villarreal,Sevilla,1,0,Ev,1
+2023-05-05,2024-2025,La Liga,4,Real Madrid,Barcelona,2,2,Beraberlik,4
+2023-05-05,2024-2025,La Liga,4,Atletico Madrid,Girona,4,2,Ev,6
+2023-05-05,2024-2025,La Liga,4,Athletic Bilbao,Real Sociedad,2,1,Ev,3
+2023-05-05,2024-2025,La Liga,4,Real Betis,Valencia,4,2,Ev,6
+2023-05-05,2024-2025,La Liga,4,Villarreal,Sevilla,2,0,Ev,2
+2023-06-06,2024-2025,La Liga,5,Real Madrid,Barcelona,3,1,Ev,4
+2023-06-06,2024-2025,La Liga,5,Atletico Madrid,Girona,3,1,Ev,4
+2023-06-06,2024-2025,La Liga,5,Athletic Bilbao,Real Sociedad,4,1,Ev,5
+2023-06-06,2024-2025,La Liga,5,Real Betis,Valencia,6,0,Ev,6
+2023-06-06,2024-2025,La Liga,5,Villarreal,Sevilla,1,1,Beraberlik,2
+2023-07-07,2024-2025,La Liga,6,Real Madrid,Barcelona,4,4,Beraberlik,8
+2023-07-07,2024-2025,La Liga,6,Atletico Madrid,Girona,5,1,Ev,6
+2023-07-07,2024-2025,La Liga,6,Athletic Bilbao,Real Sociedad,3,2,Ev,5
+2023-07-07,2024-2025,La Liga,6,Real Betis,Valencia,2,0,Ev,2
+2023-07-07,2024-2025,La Liga,6,Villarreal,Sevilla,2,1,Ev,3
+2023-08-08,2024-2025,La Liga,7,Real Madrid,Barcelona,3,3,Beraberlik,6
+2023-08-08,2024-2025,La Liga,7,Atletico Madrid,Girona,6,1,Ev,7
+2023-08-08,2024-2025,La Liga,7,Athletic Bilbao,Real Sociedad,2,0,Ev,2
+2023-08-08,2024-2025,La Liga,7,Real Betis,Valencia,3,0,Ev,3
+2023-08-08,2024-2025,La Liga,7,Villarreal,Sevilla,3,4,Deplasman,7
+2023-09-09,2024-2025,La Liga,8,Real Madrid,Barcelona,1,1,Beraberlik,2
+2023-09-09,2024-2025,La Liga,8,Atletico Madrid,Girona,5,0,Ev,5
+2023-09-09,2024-2025,La Liga,8,Athletic Bilbao,Real Sociedad,3,1,Ev,4
+2023-09-09,2024-2025,La Liga,8,Real Betis,Valencia,2,5,Deplasman,7
+2023-09-09,2024-2025,La Liga,8,Villarreal,Sevilla,3,3,Beraberlik,6
+2023-10-10,2024-2025,La Liga,9,Real Madrid,Barcelona,0,3,Deplasman,3
+2023-10-10,2024-2025,La Liga,9,Atletico Madrid,Girona,1,3,Deplasman,4
+2023-10-10,2024-2025,La Liga,9,Athletic Bilbao,Real Sociedad,1,2,Deplasman,3
+2023-10-10,2024-2025,La Liga,9,Real Betis,Valencia,4,0,Ev,4
+2023-10-10,2024-2025,La Liga,9,Villarreal,Sevilla,1,0,Ev,1
+2023-11-11,2024-2025,La Liga,10,Real Madrid,Barcelona,5,3,Ev,8
+2023-11-11,2024-2025,La Liga,10,Atletico Madrid,Girona,4,0,Ev,4
+2023-11-11,2024-2025,La Liga,10,Athletic Bilbao,Real Sociedad,3,2,Ev,5
+2023-11-11,2024-2025,La Liga,10,Real Betis,Valencia,2,1,Ev,3
+2023-11-11,2024-2025,La Liga,10,Villarreal,Sevilla,1,0,Ev,1
+2023-12-12,2024-2025,La Liga,11,Real Madrid,Barcelona,2,0,Ev,2
+2023-12-12,2024-2025,La Liga,11,Atletico Madrid,Girona,4,1,Ev,5
+2023-12-12,2024-2025,La Liga,11,Athletic Bilbao,Real Sociedad,5,1,Ev,6
+2023-12-12,2024-2025,La Liga,11,Real Betis,Valencia,5,0,Ev,5
+2023-12-12,2024-2025,La Liga,11,Villarreal,Sevilla,6,2,Ev,8
+2023-01-13,2024-2025,La Liga,12,Real Madrid,Barcelona,3,1,Ev,4
+2023-01-13,2024-2025,La Liga,12,Atletico Madrid,Girona,2,2,Beraberlik,4
+2023-01-13,2024-2025,La Liga,12,Athletic Bilbao,Real Sociedad,1,2,Deplasman,3
+2023-01-13,2024-2025,La Liga,12,Real Betis,Valencia,2,2,Beraberlik,4
+2023-01-13,2024-2025,La Liga,12,Villarreal,Sevilla,2,2,Beraberlik,4
+2023-02-14,2024-2025,La Liga,13,Real Madrid,Barcelona,2,3,Deplasman,5
+2023-02-14,2024-2025,La Liga,13,Atletico Madrid,Girona,5,1,Ev,6
+2023-02-14,2024-2025,La Liga,13,Athletic Bilbao,Real Sociedad,1,0,Ev,1
+2023-02-14,2024-2025,La Liga,13,Real Betis,Valencia,1,2,Deplasman,3
+2023-02-14,2024-2025,La Liga,13,Villarreal,Sevilla,1,0,Ev,1
+2023-03-15,2024-2025,La Liga,14,Real Madrid,Barcelona,1,4,Deplasman,5
+2023-03-15,2024-2025,La Liga,14,Atletico Madrid,Girona,4,3,Ev,7
+2023-03-15,2024-2025,La Liga,14,Athletic Bilbao,Real Sociedad,2,4,Deplasman,6
+2023-03-15,2024-2025,La Liga,14,Real Betis,Valencia,4,1,Ev,5
+2023-03-15,2024-2025,La Liga,14,Villarreal,Sevilla,5,2,Ev,7
+2023-04-16,2024-2025,La Liga,15,Real Madrid,Barcelona,0,3,Deplasman,3
+2023-04-16,2024-2025,La Liga,15,Atletico Madrid,Girona,2,2,Beraberlik,4
+2023-04-16,2024-2025,La Liga,15,Athletic Bilbao,Real Sociedad,3,1,Ev,4
+2023-04-16,2024-2025,La Liga,15,Real Betis,Valencia,0,1,Deplasman,1
+2023-04-16,2024-2025,La Liga,15,Villarreal,Sevilla,3,4,Deplasman,7
+2023-05-17,2024-2025,La Liga,16,Real Madrid,Barcelona,3,1,Ev,4
+2023-05-17,2024-2025,La Liga,16,Atletico Madrid,Girona,3,3,Beraberlik,6
+2023-05-17,2024-2025,La Liga,16,Athletic Bilbao,Real Sociedad,3,0,Ev,3
+2023-05-17,2024-2025,La Liga,16,Real Betis,Valencia,1,2,Deplasman,3
+2023-05-17,2024-2025,La Liga,16,Villarreal,Sevilla,4,1,Ev,5
+2023-06-18,2024-2025,La Liga,17,Real Madrid,Barcelona,0,3,Deplasman,3
+2023-06-18,2024-2025,La Liga,17,Atletico Madrid,Girona,6,2,Ev,8
+2023-06-18,2024-2025,La Liga,17,Athletic Bilbao,Real Sociedad,0,0,Beraberlik,0
+2023-06-18,2024-2025,La Liga,17,Real Betis,Valencia,3,0,Ev,3
+2023-06-18,2024-2025,La Liga,17,Villarreal,Sevilla,1,4,Deplasman,5
+2023-07-19,2024-2025,La Liga,18,Real Madrid,Barcelona,1,0,Ev,1
+2023-07-19,2024-2025,La Liga,18,Atletico Madrid,Girona,3,2,Ev,5
+2023-07-19,2024-2025,La Liga,18,Athletic Bilbao,Real Sociedad,3,0,Ev,3
+2023-07-19,2024-2025,La Liga,18,Real Betis,Valencia,4,2,Ev,6
+2023-07-19,2024-2025,La Liga,18,Villarreal,Sevilla,2,2,Beraberlik,4
+2023-02-02,2025-2026,La Liga,1,Real Madrid,Barcelona,2,3,Deplasman,5
+2023-02-02,2025-2026,La Liga,1,Atletico Madrid,Girona,2,3,Deplasman,5
+2023-02-02,2025-2026,La Liga,1,Athletic Bilbao,Real Sociedad,1,3,Deplasman,4
+2023-02-02,2025-2026,La Liga,1,Real Betis,Valencia,0,2,Deplasman,2
+2023-02-02,2025-2026,La Liga,1,Villarreal,Sevilla,1,1,Beraberlik,2
+2023-03-03,2025-2026,La Liga,2,Real Madrid,Barcelona,3,3,Beraberlik,6
+2023-03-03,2025-2026,La Liga,2,Atletico Madrid,Girona,3,2,Ev,5
+2023-03-03,2025-2026,La Liga,2,Athletic Bilbao,Real Sociedad,1,1,Beraberlik,2
+2023-03-03,2025-2026,La Liga,2,Real Betis,Valencia,0,3,Deplasman,3
+2023-03-03,2025-2026,La Liga,2,Villarreal,Sevilla,0,2,Deplasman,2
+2023-04-04,2025-2026,La Liga,3,Real Madrid,Barcelona,2,0,Ev,2
+2023-04-04,2025-2026,La Liga,3,Atletico Madrid,Girona,4,3,Ev,7
+2023-04-04,2025-2026,La Liga,3,Athletic Bilbao,Real Sociedad,3,3,Beraberlik,6
+2023-04-04,2025-2026,La Liga,3,Real Betis,Valencia,4,0,Ev,4
+2023-04-04,2025-2026,La Liga,3,Villarreal,Sevilla,3,1,Ev,4
+2023-05-05,2025-2026,La Liga,4,Real Madrid,Barcelona,1,4,Deplasman,5
+2023-05-05,2025-2026,La Liga,4,Atletico Madrid,Girona,3,3,Beraberlik,6
+2023-05-05,2025-2026,La Liga,4,Athletic Bilbao,Real Sociedad,1,1,Beraberlik,2
+2023-05-05,2025-2026,La Liga,4,Real Betis,Valencia,3,0,Ev,3
+2023-05-05,2025-2026,La Liga,4,Villarreal,Sevilla,1,4,Deplasman,5
+2023-06-06,2025-2026,La Liga,5,Real Madrid,Barcelona,1,2,Deplasman,3
+2023-06-06,2025-2026,La Liga,5,Atletico Madrid,Girona,3,0,Ev,3
+2023-06-06,2025-2026,La Liga,5,Athletic Bilbao,Real Sociedad,2,1,Ev,3
+2023-06-06,2025-2026,La Liga,5,Real Betis,Valencia,3,1,Ev,4
+2023-06-06,2025-2026,La Liga,5,Villarreal,Sevilla,2,2,Beraberlik,4
+2023-07-07,2025-2026,La Liga,6,Real Madrid,Barcelona,1,2,Deplasman,3
+2023-07-07,2025-2026,La Liga,6,Atletico Madrid,Girona,6,3,Ev,9
+2023-07-07,2025-2026,La Liga,6,Athletic Bilbao,Real Sociedad,3,2,Ev,5
+2023-07-07,2025-2026,La Liga,6,Real Betis,Valencia,3,2,Ev,5
+2023-07-07,2025-2026,La Liga,6,Villarreal,Sevilla,0,1,Deplasman,1
+2023-08-08,2025-2026,La Liga,7,Real Madrid,Barcelona,0,1,Deplasman,1
+2023-08-08,2025-2026,La Liga,7,Atletico Madrid,Girona,4,1,Ev,5
+2023-08-08,2025-2026,La Liga,7,Athletic Bilbao,Real Sociedad,2,1,Ev,3
+2023-08-08,2025-2026,La Liga,7,Real Betis,Valencia,3,0,Ev,3
+2023-08-08,2025-2026,La Liga,7,Villarreal,Sevilla,1,1,Beraberlik,2
+2023-09-09,2025-2026,La Liga,8,Real Madrid,Barcelona,3,1,Ev,4
+2023-09-09,2025-2026,La Liga,8,Atletico Madrid,Girona,2,3,Deplasman,5
+2023-09-09,2025-2026,La Liga,8,Athletic Bilbao,Real Sociedad,3,3,Beraberlik,6
+2023-09-09,2025-2026,La Liga,8,Real Betis,Valencia,0,0,Beraberlik,0
+2023-09-09,2025-2026,La Liga,8,Villarreal,Sevilla,0,4,Deplasman,4
+2023-10-10,2025-2026,La Liga,9,Real Madrid,Barcelona,1,2,Deplasman,3
+2023-10-10,2025-2026,La Liga,9,Atletico Madrid,Girona,1,0,Ev,1
+2023-10-10,2025-2026,La Liga,9,Athletic Bilbao,Real Sociedad,4,1,Ev,5
+2023-10-10,2025-2026,La Liga,9,Real Betis,Valencia,3,3,Beraberlik,6
+2023-10-10,2025-2026,La Liga,9,Villarreal,Sevilla,1,0,Ev,1
+2023-11-11,2025-2026,La Liga,10,Real Madrid,Barcelona,1,2,Deplasman,3
+2023-11-11,2025-2026,La Liga,10,Atletico Madrid,Girona,2,1,Ev,3
+2023-11-11,2025-2026,La Liga,10,Athletic Bilbao,Real Sociedad,2,1,Ev,3
+2023-11-11,2025-2026,La Liga,10,Real Betis,Valencia,1,1,Beraberlik,2
+2023-11-11,2025-2026,La Liga,10,Villarreal,Sevilla,3,0,Ev,3
+2023-12-12,2025-2026,La Liga,11,Real Madrid,Barcelona,1,1,Beraberlik,2
+2023-12-12,2025-2026,La Liga,11,Atletico Madrid,Girona,2,3,Deplasman,5
+2023-12-12,2025-2026,La Liga,11,Athletic Bilbao,Real Sociedad,1,4,Deplasman,5
+2023-12-12,2025-2026,La Liga,11,Real Betis,Valencia,2,0,Ev,2
+2023-12-12,2025-2026,La Liga,11,Villarreal,Sevilla,3,0,Ev,3
+2023-01-13,2025-2026,La Liga,12,Real Madrid,Barcelona,2,1,Ev,3
+2023-01-13,2025-2026,La Liga,12,Atletico Madrid,Girona,2,3,Deplasman,5
+2023-01-13,2025-2026,La Liga,12,Athletic Bilbao,Real Sociedad,2,2,Beraberlik,4
+2023-01-13,2025-2026,La Liga,12,Real Betis,Valencia,1,1,Beraberlik,2
+2023-01-13,2025-2026,La Liga,12,Villarreal,Sevilla,3,2,Ev,5
+2023-02-14,2025-2026,La Liga,13,Real Madrid,Barcelona,5,1,Ev,6
+2023-02-14,2025-2026,La Liga,13,Atletico Madrid,Girona,4,2,Ev,6
+2023-02-14,2025-2026,La Liga,13,Athletic Bilbao,Real Sociedad,1,1,Beraberlik,2
+2023-02-14,2025-2026,La Liga,13,Real Betis,Valencia,4,1,Ev,5
+2023-02-14,2025-2026,La Liga,13,Villarreal,Sevilla,1,4,Deplasman,5
+2023-03-15,2025-2026,La Liga,14,Real Madrid,Barcelona,2,1,Ev,3
+2023-03-15,2025-2026,La Liga,14,Atletico Madrid,Girona,4,2,Ev,6
+2023-03-15,2025-2026,La Liga,14,Athletic Bilbao,Real Sociedad,3,4,Deplasman,7
+2023-03-15,2025-2026,La Liga,14,Real Betis,Valencia,1,4,Deplasman,5
+2023-03-15,2025-2026,La Liga,14,Villarreal,Sevilla,0,2,Deplasman,2
+2023-04-16,2025-2026,La Liga,15,Real Madrid,Barcelona,3,1,Ev,4
+2023-04-16,2025-2026,La Liga,15,Atletico Madrid,Girona,4,2,Ev,6
+2023-04-16,2025-2026,La Liga,15,Athletic Bilbao,Real Sociedad,4,3,Ev,7
+2023-04-16,2025-2026,La Liga,15,Real Betis,Valencia,0,0,Beraberlik,0
+2023-04-16,2025-2026,La Liga,15,Villarreal,Sevilla,2,0,Ev,2
+2023-05-17,2025-2026,La Liga,16,Real Madrid,Barcelona,0,3,Deplasman,3
+2023-05-17,2025-2026,La Liga,16,Atletico Madrid,Girona,2,1,Ev,3
+2023-05-17,2025-2026,La Liga,16,Athletic Bilbao,Real Sociedad,2,2,Beraberlik,4
+2023-05-17,2025-2026,La Liga,16,Real Betis,Valencia,4,1,Ev,5
+2023-05-17,2025-2026,La Liga,16,Villarreal,Sevilla,4,2,Ev,6
+2023-06-18,2025-2026,La Liga,17,Real Madrid,Barcelona,2,2,Beraberlik,4
+2023-06-18,2025-2026,La Liga,17,Atletico Madrid,Girona,4,3,Ev,7
+2023-06-18,2025-2026,La Liga,17,Athletic Bilbao,Real Sociedad,6,1,Ev,7
+2023-06-18,2025-2026,La Liga,17,Real Betis,Valencia,3,1,Ev,4
+2023-06-18,2025-2026,La Liga,17,Villarreal,Sevilla,4,1,Ev,5
+2023-07-19,2025-2026,La Liga,18,Real Madrid,Barcelona,4,1,Ev,5
+2023-07-19,2025-2026,La Liga,18,Atletico Madrid,Girona,4,0,Ev,4
+2023-07-19,2025-2026,La Liga,18,Athletic Bilbao,Real Sociedad,3,2,Ev,5
+2023-07-19,2025-2026,La Liga,18,Real Betis,Valencia,4,1,Ev,5
+2023-07-19,2025-2026,La Liga,18,Villarreal,Sevilla,0,2,Deplasman,2
+2023-02-02,2022-2023,Serie A,1,Inter,AC Milan,2,1,Ev,3
+2023-02-02,2022-2023,Serie A,1,Juventus,Napoli,4,4,Beraberlik,8
+2023-02-02,2022-2023,Serie A,1,Roma,Lazio,3,0,Ev,3
+2023-02-02,2022-2023,Serie A,1,Atalanta,Fiorentina,2,3,Deplasman,5
+2023-02-02,2022-2023,Serie A,1,Bologna,Torino,1,4,Deplasman,5
+2023-03-03,2022-2023,Serie A,2,Inter,AC Milan,4,1,Ev,5
+2023-03-03,2022-2023,Serie A,2,Juventus,Napoli,3,1,Ev,4
+2023-03-03,2022-2023,Serie A,2,Roma,Lazio,4,1,Ev,5
+2023-03-03,2022-2023,Serie A,2,Atalanta,Fiorentina,2,1,Ev,3
+2023-03-03,2022-2023,Serie A,2,Bologna,Torino,1,0,Ev,1
+2023-04-04,2022-2023,Serie A,3,Inter,AC Milan,0,1,Deplasman,1
+2023-04-04,2022-2023,Serie A,3,Juventus,Napoli,4,1,Ev,5
+2023-04-04,2022-2023,Serie A,3,Roma,Lazio,4,3,Ev,7
+2023-04-04,2022-2023,Serie A,3,Atalanta,Fiorentina,1,1,Beraberlik,2
+2023-04-04,2022-2023,Serie A,3,Bologna,Torino,0,1,Deplasman,1
+2023-05-05,2022-2023,Serie A,4,Inter,AC Milan,6,0,Ev,6
+2023-05-05,2022-2023,Serie A,4,Juventus,Napoli,4,3,Ev,7
+2023-05-05,2022-2023,Serie A,4,Roma,Lazio,1,2,Deplasman,3
+2023-05-05,2022-2023,Serie A,4,Atalanta,Fiorentina,2,1,Ev,3
+2023-05-05,2022-2023,Serie A,4,Bologna,Torino,2,0,Ev,2
+2023-06-06,2022-2023,Serie A,5,Inter,AC Milan,3,1,Ev,4
+2023-06-06,2022-2023,Serie A,5,Juventus,Napoli,2,2,Beraberlik,4
+2023-06-06,2022-2023,Serie A,5,Roma,Lazio,1,0,Ev,1
+2023-06-06,2022-2023,Serie A,5,Atalanta,Fiorentina,1,2,Deplasman,3
+2023-06-06,2022-2023,Serie A,5,Bologna,Torino,1,3,Deplasman,4
+2023-07-07,2022-2023,Serie A,6,Inter,AC Milan,3,1,Ev,4
+2023-07-07,2022-2023,Serie A,6,Juventus,Napoli,4,1,Ev,5
+2023-07-07,2022-2023,Serie A,6,Roma,Lazio,3,3,Beraberlik,6
+2023-07-07,2022-2023,Serie A,6,Atalanta,Fiorentina,1,2,Deplasman,3
+2023-07-07,2022-2023,Serie A,6,Bologna,Torino,2,0,Ev,2
+2023-08-08,2022-2023,Serie A,7,Inter,AC Milan,1,1,Beraberlik,2
+2023-08-08,2022-2023,Serie A,7,Juventus,Napoli,2,2,Beraberlik,4
+2023-08-08,2022-2023,Serie A,7,Roma,Lazio,3,3,Beraberlik,6
+2023-08-08,2022-2023,Serie A,7,Atalanta,Fiorentina,3,2,Ev,5
+2023-08-08,2022-2023,Serie A,7,Bologna,Torino,3,1,Ev,4
+2023-09-09,2022-2023,Serie A,8,Inter,AC Milan,5,2,Ev,7
+2023-09-09,2022-2023,Serie A,8,Juventus,Napoli,2,1,Ev,3
+2023-09-09,2022-2023,Serie A,8,Roma,Lazio,2,4,Deplasman,6
+2023-09-09,2022-2023,Serie A,8,Atalanta,Fiorentina,2,2,Beraberlik,4
+2023-09-09,2022-2023,Serie A,8,Bologna,Torino,0,0,Beraberlik,0
+2023-10-10,2022-2023,Serie A,9,Inter,AC Milan,3,2,Ev,5
+2023-10-10,2022-2023,Serie A,9,Juventus,Napoli,3,2,Ev,5
+2023-10-10,2022-2023,Serie A,9,Roma,Lazio,0,2,Deplasman,2
+2023-10-10,2022-2023,Serie A,9,Atalanta,Fiorentina,4,2,Ev,6
+2023-10-10,2022-2023,Serie A,9,Bologna,Torino,2,3,Deplasman,5
+2023-11-11,2022-2023,Serie A,10,Inter,AC Milan,2,2,Beraberlik,4
+2023-11-11,2022-2023,Serie A,10,Juventus,Napoli,2,1,Ev,3
+2023-11-11,2022-2023,Serie A,10,Roma,Lazio,2,3,Deplasman,5
+2023-11-11,2022-2023,Serie A,10,Atalanta,Fiorentina,1,3,Deplasman,4
+2023-11-11,2022-2023,Serie A,10,Bologna,Torino,2,2,Beraberlik,4
+2023-12-12,2022-2023,Serie A,11,Inter,AC Milan,2,0,Ev,2
+2023-12-12,2022-2023,Serie A,11,Juventus,Napoli,5,2,Ev,7
+2023-12-12,2022-2023,Serie A,11,Roma,Lazio,2,0,Ev,2
+2023-12-12,2022-2023,Serie A,11,Atalanta,Fiorentina,4,1,Ev,5
+2023-12-12,2022-2023,Serie A,11,Bologna,Torino,0,0,Beraberlik,0
+2023-01-13,2022-2023,Serie A,12,Inter,AC Milan,5,0,Ev,5
+2023-01-13,2022-2023,Serie A,12,Juventus,Napoli,3,2,Ev,5
+2023-01-13,2022-2023,Serie A,12,Roma,Lazio,1,2,Deplasman,3
+2023-01-13,2022-2023,Serie A,12,Atalanta,Fiorentina,6,2,Ev,8
+2023-01-13,2022-2023,Serie A,12,Bologna,Torino,1,0,Ev,1
+2023-02-14,2022-2023,Serie A,13,Inter,AC Milan,2,1,Ev,3
+2023-02-14,2022-2023,Serie A,13,Juventus,Napoli,1,3,Deplasman,4
+2023-02-14,2022-2023,Serie A,13,Roma,Lazio,2,1,Ev,3
+2023-02-14,2022-2023,Serie A,13,Atalanta,Fiorentina,0,2,Deplasman,2
+2023-02-14,2022-2023,Serie A,13,Bologna,Torino,2,1,Ev,3
+2023-03-15,2022-2023,Serie A,14,Inter,AC Milan,4,1,Ev,5
+2023-03-15,2022-2023,Serie A,14,Juventus,Napoli,3,3,Beraberlik,6
+2023-03-15,2022-2023,Serie A,14,Roma,Lazio,2,3,Deplasman,5
+2023-03-15,2022-2023,Serie A,14,Atalanta,Fiorentina,0,1,Deplasman,1
+2023-03-15,2022-2023,Serie A,14,Bologna,Torino,1,1,Beraberlik,2
+2023-04-16,2022-2023,Serie A,15,Inter,AC Milan,4,2,Ev,6
+2023-04-16,2022-2023,Serie A,15,Juventus,Napoli,2,2,Beraberlik,4
+2023-04-16,2022-2023,Serie A,15,Roma,Lazio,2,1,Ev,3
+2023-04-16,2022-2023,Serie A,15,Atalanta,Fiorentina,2,2,Beraberlik,4
+2023-04-16,2022-2023,Serie A,15,Bologna,Torino,1,0,Ev,1
+2023-05-17,2022-2023,Serie A,16,Inter,AC Milan,3,1,Ev,4
+2023-05-17,2022-2023,Serie A,16,Juventus,Napoli,4,4,Beraberlik,8
+2023-05-17,2022-2023,Serie A,16,Roma,Lazio,3,1,Ev,4
+2023-05-17,2022-2023,Serie A,16,Atalanta,Fiorentina,1,0,Ev,1
+2023-05-17,2022-2023,Serie A,16,Bologna,Torino,1,0,Ev,1
+2023-06-18,2022-2023,Serie A,17,Inter,AC Milan,3,2,Ev,5
+2023-06-18,2022-2023,Serie A,17,Juventus,Napoli,2,3,Deplasman,5
+2023-06-18,2022-2023,Serie A,17,Roma,Lazio,1,1,Beraberlik,2
+2023-06-18,2022-2023,Serie A,17,Atalanta,Fiorentina,1,2,Deplasman,3
+2023-06-18,2022-2023,Serie A,17,Bologna,Torino,1,0,Ev,1
+2023-07-19,2022-2023,Serie A,18,Inter,AC Milan,1,2,Deplasman,3
+2023-07-19,2022-2023,Serie A,18,Juventus,Napoli,6,2,Ev,8
+2023-07-19,2022-2023,Serie A,18,Roma,Lazio,2,3,Deplasman,5
+2023-07-19,2022-2023,Serie A,18,Atalanta,Fiorentina,4,4,Beraberlik,8
+2023-07-19,2022-2023,Serie A,18,Bologna,Torino,1,1,Beraberlik,2
+2023-02-02,2023-2024,Serie A,1,Inter,AC Milan,1,0,Ev,1
+2023-02-02,2023-2024,Serie A,1,Juventus,Napoli,4,2,Ev,6
+2023-02-02,2023-2024,Serie A,1,Roma,Lazio,0,1,Deplasman,1
+2023-02-02,2023-2024,Serie A,1,Atalanta,Fiorentina,1,4,Deplasman,5
+2023-02-02,2023-2024,Serie A,1,Bologna,Torino,1,2,Deplasman,3
+2023-03-03,2023-2024,Serie A,2,Inter,AC Milan,2,0,Ev,2
+2023-03-03,2023-2024,Serie A,2,Juventus,Napoli,1,2,Deplasman,3
+2023-03-03,2023-2024,Serie A,2,Roma,Lazio,0,2,Deplasman,2
+2023-03-03,2023-2024,Serie A,2,Atalanta,Fiorentina,0,2,Deplasman,2
+2023-03-03,2023-2024,Serie A,2,Bologna,Torino,5,2,Ev,7
+2023-04-04,2023-2024,Serie A,3,Inter,AC Milan,3,2,Ev,5
+2023-04-04,2023-2024,Serie A,3,Juventus,Napoli,2,3,Deplasman,5
+2023-04-04,2023-2024,Serie A,3,Roma,Lazio,3,0,Ev,3
+2023-04-04,2023-2024,Serie A,3,Atalanta,Fiorentina,5,0,Ev,5
+2023-04-04,2023-2024,Serie A,3,Bologna,Torino,6,1,Ev,7
+2023-05-05,2023-2024,Serie A,4,Inter,AC Milan,1,1,Beraberlik,2
+2023-05-05,2023-2024,Serie A,4,Juventus,Napoli,0,1,Deplasman,1
+2023-05-05,2023-2024,Serie A,4,Roma,Lazio,1,1,Beraberlik,2
+2023-05-05,2023-2024,Serie A,4,Atalanta,Fiorentina,4,2,Ev,6
+2023-05-05,2023-2024,Serie A,4,Bologna,Torino,1,2,Deplasman,3
+2023-06-06,2023-2024,Serie A,5,Inter,AC Milan,1,2,Deplasman,3
+2023-06-06,2023-2024,Serie A,5,Juventus,Napoli,2,0,Ev,2
+2023-06-06,2023-2024,Serie A,5,Roma,Lazio,0,1,Deplasman,1
+2023-06-06,2023-2024,Serie A,5,Atalanta,Fiorentina,3,0,Ev,3
+2023-06-06,2023-2024,Serie A,5,Bologna,Torino,0,2,Deplasman,2
+2023-07-07,2023-2024,Serie A,6,Inter,AC Milan,3,3,Beraberlik,6
+2023-07-07,2023-2024,Serie A,6,Juventus,Napoli,3,3,Beraberlik,6
+2023-07-07,2023-2024,Serie A,6,Roma,Lazio,0,1,Deplasman,1
+2023-07-07,2023-2024,Serie A,6,Atalanta,Fiorentina,3,0,Ev,3
+2023-07-07,2023-2024,Serie A,6,Bologna,Torino,5,1,Ev,6
+2023-08-08,2023-2024,Serie A,7,Inter,AC Milan,5,2,Ev,7
+2023-08-08,2023-2024,Serie A,7,Juventus,Napoli,0,4,Deplasman,4
+2023-08-08,2023-2024,Serie A,7,Roma,Lazio,1,2,Deplasman,3
+2023-08-08,2023-2024,Serie A,7,Atalanta,Fiorentina,3,2,Ev,5
+2023-08-08,2023-2024,Serie A,7,Bologna,Torino,3,1,Ev,4
+2023-09-09,2023-2024,Serie A,8,Inter,AC Milan,4,1,Ev,5
+2023-09-09,2023-2024,Serie A,8,Juventus,Napoli,2,3,Deplasman,5
+2023-09-09,2023-2024,Serie A,8,Roma,Lazio,2,1,Ev,3
+2023-09-09,2023-2024,Serie A,8,Atalanta,Fiorentina,2,4,Deplasman,6
+2023-09-09,2023-2024,Serie A,8,Bologna,Torino,1,2,Deplasman,3
+2023-10-10,2023-2024,Serie A,9,Inter,AC Milan,3,0,Ev,3
+2023-10-10,2023-2024,Serie A,9,Juventus,Napoli,1,0,Ev,1
+2023-10-10,2023-2024,Serie A,9,Roma,Lazio,3,2,Ev,5
+2023-10-10,2023-2024,Serie A,9,Atalanta,Fiorentina,1,3,Deplasman,4
+2023-10-10,2023-2024,Serie A,9,Bologna,Torino,2,1,Ev,3
+2023-11-11,2023-2024,Serie A,10,Inter,AC Milan,3,3,Beraberlik,6
+2023-11-11,2023-2024,Serie A,10,Juventus,Napoli,1,1,Beraberlik,2
+2023-11-11,2023-2024,Serie A,10,Roma,Lazio,0,2,Deplasman,2
+2023-11-11,2023-2024,Serie A,10,Atalanta,Fiorentina,5,1,Ev,6
+2023-11-11,2023-2024,Serie A,10,Bologna,Torino,0,2,Deplasman,2
+2023-12-12,2023-2024,Serie A,11,Inter,AC Milan,2,1,Ev,3
+2023-12-12,2023-2024,Serie A,11,Juventus,Napoli,1,1,Beraberlik,2
+2023-12-12,2023-2024,Serie A,11,Roma,Lazio,2,0,Ev,2
+2023-12-12,2023-2024,Serie A,11,Atalanta,Fiorentina,3,3,Beraberlik,6
+2023-12-12,2023-2024,Serie A,11,Bologna,Torino,2,2,Beraberlik,4
+2023-01-13,2023-2024,Serie A,12,Inter,AC Milan,3,0,Ev,3
+2023-01-13,2023-2024,Serie A,12,Juventus,Napoli,1,1,Beraberlik,2
+2023-01-13,2023-2024,Serie A,12,Roma,Lazio,1,1,Beraberlik,2
+2023-01-13,2023-2024,Serie A,12,Atalanta,Fiorentina,3,3,Beraberlik,6
+2023-01-13,2023-2024,Serie A,12,Bologna,Torino,0,3,Deplasman,3
+2023-02-14,2023-2024,Serie A,13,Inter,AC Milan,0,1,Deplasman,1
+2023-02-14,2023-2024,Serie A,13,Juventus,Napoli,3,2,Ev,5
+2023-02-14,2023-2024,Serie A,13,Roma,Lazio,0,0,Beraberlik,0
+2023-02-14,2023-2024,Serie A,13,Atalanta,Fiorentina,2,1,Ev,3
+2023-02-14,2023-2024,Serie A,13,Bologna,Torino,4,0,Ev,4
+2023-03-15,2023-2024,Serie A,14,Inter,AC Milan,4,2,Ev,6
+2023-03-15,2023-2024,Serie A,14,Juventus,Napoli,1,3,Deplasman,4
+2023-03-15,2023-2024,Serie A,14,Roma,Lazio,0,2,Deplasman,2
+2023-03-15,2023-2024,Serie A,14,Atalanta,Fiorentina,5,2,Ev,7
+2023-03-15,2023-2024,Serie A,14,Bologna,Torino,3,2,Ev,5
+2023-04-16,2023-2024,Serie A,15,Inter,AC Milan,1,1,Beraberlik,2
+2023-04-16,2023-2024,Serie A,15,Juventus,Napoli,0,2,Deplasman,2
+2023-04-16,2023-2024,Serie A,15,Roma,Lazio,0,1,Deplasman,1
+2023-04-16,2023-2024,Serie A,15,Atalanta,Fiorentina,4,2,Ev,6
+2023-04-16,2023-2024,Serie A,15,Bologna,Torino,1,2,Deplasman,3
+2023-05-17,2023-2024,Serie A,16,Inter,AC Milan,0,0,Beraberlik,0
+2023-05-17,2023-2024,Serie A,16,Juventus,Napoli,2,0,Ev,2
+2023-05-17,2023-2024,Serie A,16,Roma,Lazio,2,1,Ev,3
+2023-05-17,2023-2024,Serie A,16,Atalanta,Fiorentina,3,1,Ev,4
+2023-05-17,2023-2024,Serie A,16,Bologna,Torino,3,1,Ev,4
+2023-06-18,2023-2024,Serie A,17,Inter,AC Milan,1,0,Ev,1
+2023-06-18,2023-2024,Serie A,17,Juventus,Napoli,2,1,Ev,3
+2023-06-18,2023-2024,Serie A,17,Roma,Lazio,0,1,Deplasman,1
+2023-06-18,2023-2024,Serie A,17,Atalanta,Fiorentina,2,0,Ev,2
+2023-06-18,2023-2024,Serie A,17,Bologna,Torino,1,2,Deplasman,3
+2023-07-19,2023-2024,Serie A,18,Inter,AC Milan,1,1,Beraberlik,2
+2023-07-19,2023-2024,Serie A,18,Juventus,Napoli,0,2,Deplasman,2
+2023-07-19,2023-2024,Serie A,18,Roma,Lazio,1,1,Beraberlik,2
+2023-07-19,2023-2024,Serie A,18,Atalanta,Fiorentina,2,4,Deplasman,6
+2023-07-19,2023-2024,Serie A,18,Bologna,Torino,1,3,Deplasman,4
+2023-02-02,2024-2025,Serie A,1,Inter,AC Milan,3,2,Ev,5
+2023-02-02,2024-2025,Serie A,1,Juventus,Napoli,2,2,Beraberlik,4
+2023-02-02,2024-2025,Serie A,1,Roma,Lazio,3,1,Ev,4
+2023-02-02,2024-2025,Serie A,1,Atalanta,Fiorentina,2,0,Ev,2
+2023-02-02,2024-2025,Serie A,1,Bologna,Torino,5,0,Ev,5
+2023-03-03,2024-2025,Serie A,2,Inter,AC Milan,3,4,Deplasman,7
+2023-03-03,2024-2025,Serie A,2,Juventus,Napoli,3,2,Ev,5
+2023-03-03,2024-2025,Serie A,2,Roma,Lazio,3,1,Ev,4
+2023-03-03,2024-2025,Serie A,2,Atalanta,Fiorentina,3,0,Ev,3
+2023-03-03,2024-2025,Serie A,2,Bologna,Torino,1,4,Deplasman,5
+2023-04-04,2024-2025,Serie A,3,Inter,AC Milan,2,0,Ev,2
+2023-04-04,2024-2025,Serie A,3,Juventus,Napoli,3,2,Ev,5
+2023-04-04,2024-2025,Serie A,3,Roma,Lazio,5,1,Ev,6
+2023-04-04,2024-2025,Serie A,3,Atalanta,Fiorentina,5,1,Ev,6
+2023-04-04,2024-2025,Serie A,3,Bologna,Torino,2,1,Ev,3
+2023-05-05,2024-2025,Serie A,4,Inter,AC Milan,2,1,Ev,3
+2023-05-05,2024-2025,Serie A,4,Juventus,Napoli,4,2,Ev,6
+2023-05-05,2024-2025,Serie A,4,Roma,Lazio,1,2,Deplasman,3
+2023-05-05,2024-2025,Serie A,4,Atalanta,Fiorentina,1,0,Ev,1
+2023-05-05,2024-2025,Serie A,4,Bologna,Torino,5,0,Ev,5
+2023-06-06,2024-2025,Serie A,5,Inter,AC Milan,3,2,Ev,5
+2023-06-06,2024-2025,Serie A,5,Juventus,Napoli,3,1,Ev,4
+2023-06-06,2024-2025,Serie A,5,Roma,Lazio,2,0,Ev,2
+2023-06-06,2024-2025,Serie A,5,Atalanta,Fiorentina,4,2,Ev,6
+2023-06-06,2024-2025,Serie A,5,Bologna,Torino,7,1,Ev,8
+2023-07-07,2024-2025,Serie A,6,Inter,AC Milan,2,1,Ev,3
+2023-07-07,2024-2025,Serie A,6,Juventus,Napoli,1,1,Beraberlik,2
+2023-07-07,2024-2025,Serie A,6,Roma,Lazio,2,2,Beraberlik,4
+2023-07-07,2024-2025,Serie A,6,Atalanta,Fiorentina,2,0,Ev,2
+2023-07-07,2024-2025,Serie A,6,Bologna,Torino,2,3,Deplasman,5
+2023-08-08,2024-2025,Serie A,7,Inter,AC Milan,1,2,Deplasman,3
+2023-08-08,2024-2025,Serie A,7,Juventus,Napoli,3,3,Beraberlik,6
+2023-08-08,2024-2025,Serie A,7,Roma,Lazio,6,0,Ev,6
+2023-08-08,2024-2025,Serie A,7,Atalanta,Fiorentina,4,2,Ev,6
+2023-08-08,2024-2025,Serie A,7,Bologna,Torino,2,2,Beraberlik,4
+2023-09-09,2024-2025,Serie A,8,Inter,AC Milan,4,2,Ev,6
+2023-09-09,2024-2025,Serie A,8,Juventus,Napoli,2,0,Ev,2
+2023-09-09,2024-2025,Serie A,8,Roma,Lazio,4,1,Ev,5
+2023-09-09,2024-2025,Serie A,8,Atalanta,Fiorentina,1,1,Beraberlik,2
+2023-09-09,2024-2025,Serie A,8,Bologna,Torino,5,2,Ev,7
+2023-10-10,2024-2025,Serie A,9,Inter,AC Milan,0,2,Deplasman,2
+2023-10-10,2024-2025,Serie A,9,Juventus,Napoli,2,1,Ev,3
+2023-10-10,2024-2025,Serie A,9,Roma,Lazio,3,0,Ev,3
+2023-10-10,2024-2025,Serie A,9,Atalanta,Fiorentina,3,1,Ev,4
+2023-10-10,2024-2025,Serie A,9,Bologna,Torino,2,1,Ev,3
+2023-11-11,2024-2025,Serie A,10,Inter,AC Milan,1,1,Beraberlik,2
+2023-11-11,2024-2025,Serie A,10,Juventus,Napoli,4,1,Ev,5
+2023-11-11,2024-2025,Serie A,10,Roma,Lazio,4,1,Ev,5
+2023-11-11,2024-2025,Serie A,10,Atalanta,Fiorentina,4,0,Ev,4
+2023-11-11,2024-2025,Serie A,10,Bologna,Torino,0,3,Deplasman,3
+2023-12-12,2024-2025,Serie A,11,Inter,AC Milan,1,1,Beraberlik,2
+2023-12-12,2024-2025,Serie A,11,Juventus,Napoli,4,2,Ev,6
+2023-12-12,2024-2025,Serie A,11,Roma,Lazio,3,1,Ev,4
+2023-12-12,2024-2025,Serie A,11,Atalanta,Fiorentina,2,0,Ev,2
+2023-12-12,2024-2025,Serie A,11,Bologna,Torino,2,0,Ev,2
+2023-01-13,2024-2025,Serie A,12,Inter,AC Milan,3,0,Ev,3
+2023-01-13,2024-2025,Serie A,12,Juventus,Napoli,1,1,Beraberlik,2
+2023-01-13,2024-2025,Serie A,12,Roma,Lazio,4,1,Ev,5
+2023-01-13,2024-2025,Serie A,12,Atalanta,Fiorentina,5,1,Ev,6
+2023-01-13,2024-2025,Serie A,12,Bologna,Torino,2,1,Ev,3
+2023-02-14,2024-2025,Serie A,13,Inter,AC Milan,3,2,Ev,5
+2023-02-14,2024-2025,Serie A,13,Juventus,Napoli,1,4,Deplasman,5
+2023-02-14,2024-2025,Serie A,13,Roma,Lazio,0,1,Deplasman,1
+2023-02-14,2024-2025,Serie A,13,Atalanta,Fiorentina,3,1,Ev,4
+2023-02-14,2024-2025,Serie A,13,Bologna,Torino,1,0,Ev,1
+2023-03-15,2024-2025,Serie A,14,Inter,AC Milan,1,1,Beraberlik,2
+2023-03-15,2024-2025,Serie A,14,Juventus,Napoli,3,0,Ev,3
+2023-03-15,2024-2025,Serie A,14,Roma,Lazio,1,3,Deplasman,4
+2023-03-15,2024-2025,Serie A,14,Atalanta,Fiorentina,3,0,Ev,3
+2023-03-15,2024-2025,Serie A,14,Bologna,Torino,3,1,Ev,4
+2023-04-16,2024-2025,Serie A,15,Inter,AC Milan,1,1,Beraberlik,2
+2023-04-16,2024-2025,Serie A,15,Juventus,Napoli,5,1,Ev,6
+2023-04-16,2024-2025,Serie A,15,Roma,Lazio,3,1,Ev,4
+2023-04-16,2024-2025,Serie A,15,Atalanta,Fiorentina,3,2,Ev,5
+2023-04-16,2024-2025,Serie A,15,Bologna,Torino,1,0,Ev,1
+2023-05-17,2024-2025,Serie A,16,Inter,AC Milan,2,0,Ev,2
+2023-05-17,2024-2025,Serie A,16,Juventus,Napoli,3,0,Ev,3
+2023-05-17,2024-2025,Serie A,16,Roma,Lazio,5,3,Ev,8
+2023-05-17,2024-2025,Serie A,16,Atalanta,Fiorentina,1,1,Beraberlik,2
+2023-05-17,2024-2025,Serie A,16,Bologna,Torino,3,1,Ev,4
+2023-06-18,2024-2025,Serie A,17,Inter,AC Milan,1,3,Deplasman,4
+2023-06-18,2024-2025,Serie A,17,Juventus,Napoli,2,0,Ev,2
+2023-06-18,2024-2025,Serie A,17,Roma,Lazio,4,0,Ev,4
+2023-06-18,2024-2025,Serie A,17,Atalanta,Fiorentina,2,1,Ev,3
+2023-06-18,2024-2025,Serie A,17,Bologna,Torino,0,1,Deplasman,1
+2023-07-19,2024-2025,Serie A,18,Inter,AC Milan,4,2,Ev,6
+2023-07-19,2024-2025,Serie A,18,Juventus,Napoli,5,1,Ev,6
+2023-07-19,2024-2025,Serie A,18,Roma,Lazio,5,1,Ev,6
+2023-07-19,2024-2025,Serie A,18,Atalanta,Fiorentina,2,0,Ev,2
+2023-07-19,2024-2025,Serie A,18,Bologna,Torino,3,2,Ev,5
+2023-02-02,2025-2026,Serie A,1,Inter,AC Milan,4,3,Ev,7
+2023-02-02,2025-2026,Serie A,1,Juventus,Napoli,2,2,Beraberlik,4
+2023-02-02,2025-2026,Serie A,1,Roma,Lazio,2,1,Ev,3
+2023-02-02,2025-2026,Serie A,1,Atalanta,Fiorentina,0,1,Deplasman,1
+2023-02-02,2025-2026,Serie A,1,Bologna,Torino,2,3,Deplasman,5
+2023-03-03,2025-2026,Serie A,2,Inter,AC Milan,2,1,Ev,3
+2023-03-03,2025-2026,Serie A,2,Juventus,Napoli,1,0,Ev,1
+2023-03-03,2025-2026,Serie A,2,Roma,Lazio,2,2,Beraberlik,4
+2023-03-03,2025-2026,Serie A,2,Atalanta,Fiorentina,0,3,Deplasman,3
+2023-03-03,2025-2026,Serie A,2,Bologna,Torino,3,1,Ev,4
+2023-04-04,2025-2026,Serie A,3,Inter,AC Milan,4,2,Ev,6
+2023-04-04,2025-2026,Serie A,3,Juventus,Napoli,2,2,Beraberlik,4
+2023-04-04,2025-2026,Serie A,3,Roma,Lazio,1,4,Deplasman,5
+2023-04-04,2025-2026,Serie A,3,Atalanta,Fiorentina,3,3,Beraberlik,6
+2023-04-04,2025-2026,Serie A,3,Bologna,Torino,1,4,Deplasman,5
+2023-05-05,2025-2026,Serie A,4,Inter,AC Milan,4,2,Ev,6
+2023-05-05,2025-2026,Serie A,4,Juventus,Napoli,3,2,Ev,5
+2023-05-05,2025-2026,Serie A,4,Roma,Lazio,1,1,Beraberlik,2
+2023-05-05,2025-2026,Serie A,4,Atalanta,Fiorentina,1,0,Ev,1
+2023-05-05,2025-2026,Serie A,4,Bologna,Torino,2,2,Beraberlik,4
+2023-06-06,2025-2026,Serie A,5,Inter,AC Milan,3,3,Beraberlik,6
+2023-06-06,2025-2026,Serie A,5,Juventus,Napoli,0,4,Deplasman,4
+2023-06-06,2025-2026,Serie A,5,Roma,Lazio,2,1,Ev,3
+2023-06-06,2025-2026,Serie A,5,Atalanta,Fiorentina,1,3,Deplasman,4
+2023-06-06,2025-2026,Serie A,5,Bologna,Torino,4,2,Ev,6
+2023-07-07,2025-2026,Serie A,6,Inter,AC Milan,1,2,Deplasman,3
+2023-07-07,2025-2026,Serie A,6,Juventus,Napoli,3,2,Ev,5
+2023-07-07,2025-2026,Serie A,6,Roma,Lazio,1,0,Ev,1
+2023-07-07,2025-2026,Serie A,6,Atalanta,Fiorentina,0,1,Deplasman,1
+2023-07-07,2025-2026,Serie A,6,Bologna,Torino,2,2,Beraberlik,4
+2023-08-08,2025-2026,Serie A,7,Inter,AC Milan,3,1,Ev,4
+2023-08-08,2025-2026,Serie A,7,Juventus,Napoli,2,1,Ev,3
+2023-08-08,2025-2026,Serie A,7,Roma,Lazio,1,3,Deplasman,4
+2023-08-08,2025-2026,Serie A,7,Atalanta,Fiorentina,0,0,Beraberlik,0
+2023-08-08,2025-2026,Serie A,7,Bologna,Torino,1,1,Beraberlik,2
+2023-09-09,2025-2026,Serie A,8,Inter,AC Milan,0,2,Deplasman,2
+2023-09-09,2025-2026,Serie A,8,Juventus,Napoli,2,2,Beraberlik,4
+2023-09-09,2025-2026,Serie A,8,Roma,Lazio,0,3,Deplasman,3
+2023-09-09,2025-2026,Serie A,8,Atalanta,Fiorentina,0,2,Deplasman,2
+2023-09-09,2025-2026,Serie A,8,Bologna,Torino,3,4,Deplasman,7
+2023-10-10,2025-2026,Serie A,9,Inter,AC Milan,2,1,Ev,3
+2023-10-10,2025-2026,Serie A,9,Juventus,Napoli,2,4,Deplasman,6
+2023-10-10,2025-2026,Serie A,9,Roma,Lazio,3,3,Beraberlik,6
+2023-10-10,2025-2026,Serie A,9,Atalanta,Fiorentina,0,1,Deplasman,1
+2023-10-10,2025-2026,Serie A,9,Bologna,Torino,1,2,Deplasman,3
+2023-11-11,2025-2026,Serie A,10,Inter,AC Milan,2,0,Ev,2
+2023-11-11,2025-2026,Serie A,10,Juventus,Napoli,3,2,Ev,5
+2023-11-11,2025-2026,Serie A,10,Roma,Lazio,3,3,Beraberlik,6
+2023-11-11,2025-2026,Serie A,10,Atalanta,Fiorentina,0,3,Deplasman,3
+2023-11-11,2025-2026,Serie A,10,Bologna,Torino,3,1,Ev,4
+2023-12-12,2025-2026,Serie A,11,Inter,AC Milan,4,0,Ev,4
+2023-12-12,2025-2026,Serie A,11,Juventus,Napoli,1,1,Beraberlik,2
+2023-12-12,2025-2026,Serie A,11,Roma,Lazio,2,0,Ev,2
+2023-12-12,2025-2026,Serie A,11,Atalanta,Fiorentina,1,4,Deplasman,5
+2023-12-12,2025-2026,Serie A,11,Bologna,Torino,1,1,Beraberlik,2
+2023-01-13,2025-2026,Serie A,12,Inter,AC Milan,2,4,Deplasman,6
+2023-01-13,2025-2026,Serie A,12,Juventus,Napoli,3,4,Deplasman,7
+2023-01-13,2025-2026,Serie A,12,Roma,Lazio,1,4,Deplasman,5
+2023-01-13,2025-2026,Serie A,12,Atalanta,Fiorentina,2,0,Ev,2
+2023-01-13,2025-2026,Serie A,12,Bologna,Torino,2,1,Ev,3
+2023-02-14,2025-2026,Serie A,13,Inter,AC Milan,1,0,Ev,1
+2023-02-14,2025-2026,Serie A,13,Juventus,Napoli,1,1,Beraberlik,2
+2023-02-14,2025-2026,Serie A,13,Roma,Lazio,3,1,Ev,4
+2023-02-14,2025-2026,Serie A,13,Atalanta,Fiorentina,0,2,Deplasman,2
+2023-02-14,2025-2026,Serie A,13,Bologna,Torino,2,1,Ev,3
+2023-03-15,2025-2026,Serie A,14,Inter,AC Milan,2,2,Beraberlik,4
+2023-03-15,2025-2026,Serie A,14,Juventus,Napoli,3,0,Ev,3
+2023-03-15,2025-2026,Serie A,14,Roma,Lazio,1,5,Deplasman,6
+2023-03-15,2025-2026,Serie A,14,Atalanta,Fiorentina,4,2,Ev,6
+2023-03-15,2025-2026,Serie A,14,Bologna,Torino,0,1,Deplasman,1
+2023-04-16,2025-2026,Serie A,15,Inter,AC Milan,4,0,Ev,4
+2023-04-16,2025-2026,Serie A,15,Juventus,Napoli,0,3,Deplasman,3
+2023-04-16,2025-2026,Serie A,15,Roma,Lazio,1,1,Beraberlik,2
+2023-04-16,2025-2026,Serie A,15,Atalanta,Fiorentina,0,1,Deplasman,1
+2023-04-16,2025-2026,Serie A,15,Bologna,Torino,2,1,Ev,3
+2023-05-17,2025-2026,Serie A,16,Inter,AC Milan,3,1,Ev,4
+2023-05-17,2025-2026,Serie A,16,Juventus,Napoli,2,1,Ev,3
+2023-05-17,2025-2026,Serie A,16,Roma,Lazio,1,3,Deplasman,4
+2023-05-17,2025-2026,Serie A,16,Atalanta,Fiorentina,2,3,Deplasman,5
+2023-05-17,2025-2026,Serie A,16,Bologna,Torino,3,5,Deplasman,8
+2023-06-18,2025-2026,Serie A,17,Inter,AC Milan,3,1,Ev,4
+2023-06-18,2025-2026,Serie A,17,Juventus,Napoli,1,2,Deplasman,3
+2023-06-18,2025-2026,Serie A,17,Roma,Lazio,3,3,Beraberlik,6
+2023-06-18,2025-2026,Serie A,17,Atalanta,Fiorentina,1,1,Beraberlik,2
+2023-06-18,2025-2026,Serie A,17,Bologna,Torino,2,2,Beraberlik,4
+2023-07-19,2025-2026,Serie A,18,Inter,AC Milan,4,1,Ev,5
+2023-07-19,2025-2026,Serie A,18,Juventus,Napoli,2,1,Ev,3
+2023-07-19,2025-2026,Serie A,18,Roma,Lazio,2,1,Ev,3
+2023-07-19,2025-2026,Serie A,18,Atalanta,Fiorentina,2,3,Deplasman,5
+2023-07-19,2025-2026,Serie A,18,Bologna,Torino,3,2,Ev,5
+2023-02-02,2022-2023,Bundesliga,1,Bayern Munich,Leverkusen,2,5,Deplasman,7
+2023-02-02,2022-2023,Bundesliga,1,Stuttgart,RB Leipzig,3,0,Ev,3
+2023-02-02,2022-2023,Bundesliga,1,Dortmund,Frankfurt,3,1,Ev,4
+2023-02-02,2022-2023,Bundesliga,1,Freiburg,Hoffenheim,0,3,Deplasman,3
+2023-02-02,2022-2023,Bundesliga,1,Wolfsburg,Union Berlin,7,1,Ev,8
+2023-03-03,2022-2023,Bundesliga,2,Bayern Munich,Leverkusen,1,2,Deplasman,3
+2023-03-03,2022-2023,Bundesliga,2,Stuttgart,RB Leipzig,2,0,Ev,2
+2023-03-03,2022-2023,Bundesliga,2,Dortmund,Frankfurt,3,1,Ev,4
+2023-03-03,2022-2023,Bundesliga,2,Freiburg,Hoffenheim,5,4,Ev,9
+2023-03-03,2022-2023,Bundesliga,2,Wolfsburg,Union Berlin,3,2,Ev,5
+2023-04-04,2022-2023,Bundesliga,3,Bayern Munich,Leverkusen,3,5,Deplasman,8
+2023-04-04,2022-2023,Bundesliga,3,Stuttgart,RB Leipzig,3,0,Ev,3
+2023-04-04,2022-2023,Bundesliga,3,Dortmund,Frankfurt,2,2,Beraberlik,4
+2023-04-04,2022-2023,Bundesliga,3,Freiburg,Hoffenheim,3,2,Ev,5
+2023-04-04,2022-2023,Bundesliga,3,Wolfsburg,Union Berlin,0,1,Deplasman,1
+2023-05-05,2022-2023,Bundesliga,4,Bayern Munich,Leverkusen,4,2,Ev,6
+2023-05-05,2022-2023,Bundesliga,4,Stuttgart,RB Leipzig,2,1,Ev,3
+2023-05-05,2022-2023,Bundesliga,4,Dortmund,Frankfurt,2,1,Ev,3
+2023-05-05,2022-2023,Bundesliga,4,Freiburg,Hoffenheim,3,1,Ev,4
+2023-05-05,2022-2023,Bundesliga,4,Wolfsburg,Union Berlin,3,2,Ev,5
+2023-06-06,2022-2023,Bundesliga,5,Bayern Munich,Leverkusen,2,2,Beraberlik,4
+2023-06-06,2022-2023,Bundesliga,5,Stuttgart,RB Leipzig,2,1,Ev,3
+2023-06-06,2022-2023,Bundesliga,5,Dortmund,Frankfurt,3,1,Ev,4
+2023-06-06,2022-2023,Bundesliga,5,Freiburg,Hoffenheim,3,0,Ev,3
+2023-06-06,2022-2023,Bundesliga,5,Wolfsburg,Union Berlin,1,2,Deplasman,3
+2023-07-07,2022-2023,Bundesliga,6,Bayern Munich,Leverkusen,0,4,Deplasman,4
+2023-07-07,2022-2023,Bundesliga,6,Stuttgart,RB Leipzig,4,1,Ev,5
+2023-07-07,2022-2023,Bundesliga,6,Dortmund,Frankfurt,2,2,Beraberlik,4
+2023-07-07,2022-2023,Bundesliga,6,Freiburg,Hoffenheim,5,2,Ev,7
+2023-07-07,2022-2023,Bundesliga,6,Wolfsburg,Union Berlin,2,2,Beraberlik,4
+2023-08-08,2022-2023,Bundesliga,7,Bayern Munich,Leverkusen,1,1,Beraberlik,2
+2023-08-08,2022-2023,Bundesliga,7,Stuttgart,RB Leipzig,3,2,Ev,5
+2023-08-08,2022-2023,Bundesliga,7,Dortmund,Frankfurt,2,1,Ev,3
+2023-08-08,2022-2023,Bundesliga,7,Freiburg,Hoffenheim,0,2,Deplasman,2
+2023-08-08,2022-2023,Bundesliga,7,Wolfsburg,Union Berlin,1,0,Ev,1
+2023-09-09,2022-2023,Bundesliga,8,Bayern Munich,Leverkusen,2,3,Deplasman,5
+2023-09-09,2022-2023,Bundesliga,8,Stuttgart,RB Leipzig,1,1,Beraberlik,2
+2023-09-09,2022-2023,Bundesliga,8,Dortmund,Frankfurt,4,1,Ev,5
+2023-09-09,2022-2023,Bundesliga,8,Freiburg,Hoffenheim,1,1,Beraberlik,2
+2023-09-09,2022-2023,Bundesliga,8,Wolfsburg,Union Berlin,3,1,Ev,4
+2023-10-10,2022-2023,Bundesliga,9,Bayern Munich,Leverkusen,2,3,Deplasman,5
+2023-10-10,2022-2023,Bundesliga,9,Stuttgart,RB Leipzig,3,2,Ev,5
+2023-10-10,2022-2023,Bundesliga,9,Dortmund,Frankfurt,2,1,Ev,3
+2023-10-10,2022-2023,Bundesliga,9,Freiburg,Hoffenheim,1,2,Deplasman,3
+2023-10-10,2022-2023,Bundesliga,9,Wolfsburg,Union Berlin,5,0,Ev,5
+2023-11-11,2022-2023,Bundesliga,10,Bayern Munich,Leverkusen,1,2,Deplasman,3
+2023-11-11,2022-2023,Bundesliga,10,Stuttgart,RB Leipzig,4,1,Ev,5
+2023-11-11,2022-2023,Bundesliga,10,Dortmund,Frankfurt,2,1,Ev,3
+2023-11-11,2022-2023,Bundesliga,10,Freiburg,Hoffenheim,2,1,Ev,3
+2023-11-11,2022-2023,Bundesliga,10,Wolfsburg,Union Berlin,4,3,Ev,7
+2023-12-12,2022-2023,Bundesliga,11,Bayern Munich,Leverkusen,3,0,Ev,3
+2023-12-12,2022-2023,Bundesliga,11,Stuttgart,RB Leipzig,4,2,Ev,6
+2023-12-12,2022-2023,Bundesliga,11,Dortmund,Frankfurt,2,0,Ev,2
+2023-12-12,2022-2023,Bundesliga,11,Freiburg,Hoffenheim,0,4,Deplasman,4
+2023-12-12,2022-2023,Bundesliga,11,Wolfsburg,Union Berlin,1,2,Deplasman,3
+2023-01-13,2022-2023,Bundesliga,12,Bayern Munich,Leverkusen,3,1,Ev,4
+2023-01-13,2022-2023,Bundesliga,12,Stuttgart,RB Leipzig,2,1,Ev,3
+2023-01-13,2022-2023,Bundesliga,12,Dortmund,Frankfurt,3,0,Ev,3
+2023-01-13,2022-2023,Bundesliga,12,Freiburg,Hoffenheim,4,0,Ev,4
+2023-01-13,2022-2023,Bundesliga,12,Wolfsburg,Union Berlin,4,0,Ev,4
+2023-02-14,2022-2023,Bundesliga,13,Bayern Munich,Leverkusen,2,5,Deplasman,7
+2023-02-14,2022-2023,Bundesliga,13,Stuttgart,RB Leipzig,7,1,Ev,8
+2023-02-14,2022-2023,Bundesliga,13,Dortmund,Frankfurt,5,0,Ev,5
+2023-02-14,2022-2023,Bundesliga,13,Freiburg,Hoffenheim,2,2,Beraberlik,4
+2023-02-14,2022-2023,Bundesliga,13,Wolfsburg,Union Berlin,2,0,Ev,2
+2023-03-15,2022-2023,Bundesliga,14,Bayern Munich,Leverkusen,1,2,Deplasman,3
+2023-03-15,2022-2023,Bundesliga,14,Stuttgart,RB Leipzig,3,3,Beraberlik,6
+2023-03-15,2022-2023,Bundesliga,14,Dortmund,Frankfurt,5,1,Ev,6
+2023-03-15,2022-2023,Bundesliga,14,Freiburg,Hoffenheim,2,4,Deplasman,6
+2023-03-15,2022-2023,Bundesliga,14,Wolfsburg,Union Berlin,2,2,Beraberlik,4
+2023-04-16,2022-2023,Bundesliga,15,Bayern Munich,Leverkusen,2,0,Ev,2
+2023-04-16,2022-2023,Bundesliga,15,Stuttgart,RB Leipzig,2,2,Beraberlik,4
+2023-04-16,2022-2023,Bundesliga,15,Dortmund,Frankfurt,6,0,Ev,6
+2023-04-16,2022-2023,Bundesliga,15,Freiburg,Hoffenheim,5,1,Ev,6
+2023-04-16,2022-2023,Bundesliga,15,Wolfsburg,Union Berlin,2,0,Ev,2
+2023-05-17,2022-2023,Bundesliga,16,Bayern Munich,Leverkusen,1,4,Deplasman,5
+2023-05-17,2022-2023,Bundesliga,16,Stuttgart,RB Leipzig,2,2,Beraberlik,4
+2023-05-17,2022-2023,Bundesliga,16,Dortmund,Frankfurt,2,0,Ev,2
+2023-05-17,2022-2023,Bundesliga,16,Freiburg,Hoffenheim,1,0,Ev,1
+2023-05-17,2022-2023,Bundesliga,16,Wolfsburg,Union Berlin,1,1,Beraberlik,2
+2023-06-18,2022-2023,Bundesliga,17,Bayern Munich,Leverkusen,3,2,Ev,5
+2023-06-18,2022-2023,Bundesliga,17,Stuttgart,RB Leipzig,4,3,Ev,7
+2023-06-18,2022-2023,Bundesliga,17,Dortmund,Frankfurt,3,0,Ev,3
+2023-06-18,2022-2023,Bundesliga,17,Freiburg,Hoffenheim,3,3,Beraberlik,6
+2023-06-18,2022-2023,Bundesliga,17,Wolfsburg,Union Berlin,2,1,Ev,3
+2023-07-19,2022-2023,Bundesliga,18,Bayern Munich,Leverkusen,3,3,Beraberlik,6
+2023-07-19,2022-2023,Bundesliga,18,Stuttgart,RB Leipzig,3,1,Ev,4
+2023-07-19,2022-2023,Bundesliga,18,Dortmund,Frankfurt,3,1,Ev,4
+2023-07-19,2022-2023,Bundesliga,18,Freiburg,Hoffenheim,4,2,Ev,6
+2023-07-19,2022-2023,Bundesliga,18,Wolfsburg,Union Berlin,2,2,Beraberlik,4
+2023-02-02,2023-2024,Bundesliga,1,Bayern Munich,Leverkusen,3,1,Ev,4
+2023-02-02,2023-2024,Bundesliga,1,Stuttgart,RB Leipzig,1,1,Beraberlik,2
+2023-02-02,2023-2024,Bundesliga,1,Dortmund,Frankfurt,5,5,Beraberlik,10
+2023-02-02,2023-2024,Bundesliga,1,Freiburg,Hoffenheim,5,3,Ev,8
+2023-02-02,2023-2024,Bundesliga,1,Wolfsburg,Union Berlin,2,3,Deplasman,5
+2023-03-03,2023-2024,Bundesliga,2,Bayern Munich,Leverkusen,3,3,Beraberlik,6
+2023-03-03,2023-2024,Bundesliga,2,Stuttgart,RB Leipzig,1,2,Deplasman,3
+2023-03-03,2023-2024,Bundesliga,2,Dortmund,Frankfurt,1,1,Beraberlik,2
+2023-03-03,2023-2024,Bundesliga,2,Freiburg,Hoffenheim,3,2,Ev,5
+2023-03-03,2023-2024,Bundesliga,2,Wolfsburg,Union Berlin,3,2,Ev,5
+2023-04-04,2023-2024,Bundesliga,3,Bayern Munich,Leverkusen,1,1,Beraberlik,2
+2023-04-04,2023-2024,Bundesliga,3,Stuttgart,RB Leipzig,0,1,Deplasman,1
+2023-04-04,2023-2024,Bundesliga,3,Dortmund,Frankfurt,3,1,Ev,4
+2023-04-04,2023-2024,Bundesliga,3,Freiburg,Hoffenheim,3,1,Ev,4
+2023-04-04,2023-2024,Bundesliga,3,Wolfsburg,Union Berlin,3,3,Beraberlik,6
+2023-05-05,2023-2024,Bundesliga,4,Bayern Munich,Leverkusen,6,2,Ev,8
+2023-05-05,2023-2024,Bundesliga,4,Stuttgart,RB Leipzig,3,2,Ev,5
+2023-05-05,2023-2024,Bundesliga,4,Dortmund,Frankfurt,1,1,Beraberlik,2
+2023-05-05,2023-2024,Bundesliga,4,Freiburg,Hoffenheim,3,2,Ev,5
+2023-05-05,2023-2024,Bundesliga,4,Wolfsburg,Union Berlin,4,2,Ev,6
+2023-06-06,2023-2024,Bundesliga,5,Bayern Munich,Leverkusen,4,0,Ev,4
+2023-06-06,2023-2024,Bundesliga,5,Stuttgart,RB Leipzig,2,3,Deplasman,5
+2023-06-06,2023-2024,Bundesliga,5,Dortmund,Frankfurt,3,1,Ev,4
+2023-06-06,2023-2024,Bundesliga,5,Freiburg,Hoffenheim,2,1,Ev,3
+2023-06-06,2023-2024,Bundesliga,5,Wolfsburg,Union Berlin,1,1,Beraberlik,2
+2023-07-07,2023-2024,Bundesliga,6,Bayern Munich,Leverkusen,4,0,Ev,4
+2023-07-07,2023-2024,Bundesliga,6,Stuttgart,RB Leipzig,1,0,Ev,1
+2023-07-07,2023-2024,Bundesliga,6,Dortmund,Frankfurt,2,2,Beraberlik,4
+2023-07-07,2023-2024,Bundesliga,6,Freiburg,Hoffenheim,3,0,Ev,3
+2023-07-07,2023-2024,Bundesliga,6,Wolfsburg,Union Berlin,3,5,Deplasman,8
+2023-08-08,2023-2024,Bundesliga,7,Bayern Munich,Leverkusen,4,4,Beraberlik,8
+2023-08-08,2023-2024,Bundesliga,7,Stuttgart,RB Leipzig,1,3,Deplasman,4
+2023-08-08,2023-2024,Bundesliga,7,Dortmund,Frankfurt,2,1,Ev,3
+2023-08-08,2023-2024,Bundesliga,7,Freiburg,Hoffenheim,4,2,Ev,6
+2023-08-08,2023-2024,Bundesliga,7,Wolfsburg,Union Berlin,1,3,Deplasman,4
+2023-09-09,2023-2024,Bundesliga,8,Bayern Munich,Leverkusen,3,3,Beraberlik,6
+2023-09-09,2023-2024,Bundesliga,8,Stuttgart,RB Leipzig,2,2,Beraberlik,4
+2023-09-09,2023-2024,Bundesliga,8,Dortmund,Frankfurt,5,5,Beraberlik,10
+2023-09-09,2023-2024,Bundesliga,8,Freiburg,Hoffenheim,3,2,Ev,5
+2023-09-09,2023-2024,Bundesliga,8,Wolfsburg,Union Berlin,4,1,Ev,5
+2023-10-10,2023-2024,Bundesliga,9,Bayern Munich,Leverkusen,5,0,Ev,5
+2023-10-10,2023-2024,Bundesliga,9,Stuttgart,RB Leipzig,0,1,Deplasman,1
+2023-10-10,2023-2024,Bundesliga,9,Dortmund,Frankfurt,3,1,Ev,4
+2023-10-10,2023-2024,Bundesliga,9,Freiburg,Hoffenheim,3,2,Ev,5
+2023-10-10,2023-2024,Bundesliga,9,Wolfsburg,Union Berlin,4,2,Ev,6
+2023-11-11,2023-2024,Bundesliga,10,Bayern Munich,Leverkusen,0,1,Deplasman,1
+2023-11-11,2023-2024,Bundesliga,10,Stuttgart,RB Leipzig,0,1,Deplasman,1
+2023-11-11,2023-2024,Bundesliga,10,Dortmund,Frankfurt,2,1,Ev,3
+2023-11-11,2023-2024,Bundesliga,10,Freiburg,Hoffenheim,3,2,Ev,5
+2023-11-11,2023-2024,Bundesliga,10,Wolfsburg,Union Berlin,1,2,Deplasman,3
+2023-12-12,2023-2024,Bundesliga,11,Bayern Munich,Leverkusen,4,2,Ev,6
+2023-12-12,2023-2024,Bundesliga,11,Stuttgart,RB Leipzig,4,1,Ev,5
+2023-12-12,2023-2024,Bundesliga,11,Dortmund,Frankfurt,2,1,Ev,3
+2023-12-12,2023-2024,Bundesliga,11,Freiburg,Hoffenheim,2,0,Ev,2
+2023-12-12,2023-2024,Bundesliga,11,Wolfsburg,Union Berlin,1,0,Ev,1
+2023-01-13,2023-2024,Bundesliga,12,Bayern Munich,Leverkusen,3,2,Ev,5
+2023-01-13,2023-2024,Bundesliga,12,Stuttgart,RB Leipzig,0,2,Deplasman,2
+2023-01-13,2023-2024,Bundesliga,12,Dortmund,Frankfurt,4,6,Deplasman,10
+2023-01-13,2023-2024,Bundesliga,12,Freiburg,Hoffenheim,4,4,Beraberlik,8
+2023-01-13,2023-2024,Bundesliga,12,Wolfsburg,Union Berlin,0,0,Beraberlik,0
+2023-02-14,2023-2024,Bundesliga,13,Bayern Munich,Leverkusen,4,0,Ev,4
+2023-02-14,2023-2024,Bundesliga,13,Stuttgart,RB Leipzig,0,0,Beraberlik,0
+2023-02-14,2023-2024,Bundesliga,13,Dortmund,Frankfurt,2,1,Ev,3
+2023-02-14,2023-2024,Bundesliga,13,Freiburg,Hoffenheim,5,2,Ev,7
+2023-02-14,2023-2024,Bundesliga,13,Wolfsburg,Union Berlin,2,0,Ev,2
+2023-03-15,2023-2024,Bundesliga,14,Bayern Munich,Leverkusen,2,2,Beraberlik,4
+2023-03-15,2023-2024,Bundesliga,14,Stuttgart,RB Leipzig,2,2,Beraberlik,4
+2023-03-15,2023-2024,Bundesliga,14,Dortmund,Frankfurt,4,0,Ev,4
+2023-03-15,2023-2024,Bundesliga,14,Freiburg,Hoffenheim,2,2,Beraberlik,4
+2023-03-15,2023-2024,Bundesliga,14,Wolfsburg,Union Berlin,3,3,Beraberlik,6
+2023-04-16,2023-2024,Bundesliga,15,Bayern Munich,Leverkusen,2,1,Ev,3
+2023-04-16,2023-2024,Bundesliga,15,Stuttgart,RB Leipzig,1,0,Ev,1
+2023-04-16,2023-2024,Bundesliga,15,Dortmund,Frankfurt,0,2,Deplasman,2
+2023-04-16,2023-2024,Bundesliga,15,Freiburg,Hoffenheim,5,2,Ev,7
+2023-04-16,2023-2024,Bundesliga,15,Wolfsburg,Union Berlin,1,3,Deplasman,4
+2023-05-17,2023-2024,Bundesliga,16,Bayern Munich,Leverkusen,5,0,Ev,5
+2023-05-17,2023-2024,Bundesliga,16,Stuttgart,RB Leipzig,0,1,Deplasman,1
+2023-05-17,2023-2024,Bundesliga,16,Dortmund,Frankfurt,2,1,Ev,3
+2023-05-17,2023-2024,Bundesliga,16,Freiburg,Hoffenheim,2,2,Beraberlik,4
+2023-05-17,2023-2024,Bundesliga,16,Wolfsburg,Union Berlin,1,2,Deplasman,3
+2023-06-18,2023-2024,Bundesliga,17,Bayern Munich,Leverkusen,2,1,Ev,3
+2023-06-18,2023-2024,Bundesliga,17,Stuttgart,RB Leipzig,1,1,Beraberlik,2
+2023-06-18,2023-2024,Bundesliga,17,Dortmund,Frankfurt,2,3,Deplasman,5
+2023-06-18,2023-2024,Bundesliga,17,Freiburg,Hoffenheim,3,1,Ev,4
+2023-06-18,2023-2024,Bundesliga,17,Wolfsburg,Union Berlin,5,1,Ev,6
+2023-07-19,2023-2024,Bundesliga,18,Bayern Munich,Leverkusen,3,2,Ev,5
+2023-07-19,2023-2024,Bundesliga,18,Stuttgart,RB Leipzig,1,1,Beraberlik,2
+2023-07-19,2023-2024,Bundesliga,18,Dortmund,Frankfurt,2,1,Ev,3
+2023-07-19,2023-2024,Bundesliga,18,Freiburg,Hoffenheim,1,1,Beraberlik,2
+2023-07-19,2023-2024,Bundesliga,18,Wolfsburg,Union Berlin,1,3,Deplasman,4
+2023-02-02,2024-2025,Bundesliga,1,Bayern Munich,Leverkusen,3,0,Ev,3
+2023-02-02,2024-2025,Bundesliga,1,Stuttgart,RB Leipzig,0,0,Beraberlik,0
+2023-02-02,2024-2025,Bundesliga,1,Dortmund,Frankfurt,1,0,Ev,1
+2023-02-02,2024-2025,Bundesliga,1,Freiburg,Hoffenheim,4,0,Ev,4
+2023-02-02,2024-2025,Bundesliga,1,Wolfsburg,Union Berlin,3,1,Ev,4
+2023-03-03,2024-2025,Bundesliga,2,Bayern Munich,Leverkusen,1,1,Beraberlik,2
+2023-03-03,2024-2025,Bundesliga,2,Stuttgart,RB Leipzig,2,0,Ev,2
+2023-03-03,2024-2025,Bundesliga,2,Dortmund,Frankfurt,3,2,Ev,5
+2023-03-03,2024-2025,Bundesliga,2,Freiburg,Hoffenheim,2,3,Deplasman,5
+2023-03-03,2024-2025,Bundesliga,2,Wolfsburg,Union Berlin,3,0,Ev,3
+2023-04-04,2024-2025,Bundesliga,3,Bayern Munich,Leverkusen,3,1,Ev,4
+2023-04-04,2024-2025,Bundesliga,3,Stuttgart,RB Leipzig,1,1,Beraberlik,2
+2023-04-04,2024-2025,Bundesliga,3,Dortmund,Frankfurt,1,2,Deplasman,3
+2023-04-04,2024-2025,Bundesliga,3,Freiburg,Hoffenheim,2,2,Beraberlik,4
+2023-04-04,2024-2025,Bundesliga,3,Wolfsburg,Union Berlin,1,0,Ev,1
+2023-05-05,2024-2025,Bundesliga,4,Bayern Munich,Leverkusen,5,0,Ev,5
+2023-05-05,2024-2025,Bundesliga,4,Stuttgart,RB Leipzig,2,0,Ev,2
+2023-05-05,2024-2025,Bundesliga,4,Dortmund,Frankfurt,2,2,Beraberlik,4
+2023-05-05,2024-2025,Bundesliga,4,Freiburg,Hoffenheim,0,2,Deplasman,2
+2023-05-05,2024-2025,Bundesliga,4,Wolfsburg,Union Berlin,3,0,Ev,3
+2023-06-06,2024-2025,Bundesliga,5,Bayern Munich,Leverkusen,4,3,Ev,7
+2023-06-06,2024-2025,Bundesliga,5,Stuttgart,RB Leipzig,3,1,Ev,4
+2023-06-06,2024-2025,Bundesliga,5,Dortmund,Frankfurt,1,2,Deplasman,3
+2023-06-06,2024-2025,Bundesliga,5,Freiburg,Hoffenheim,3,3,Beraberlik,6
+2023-06-06,2024-2025,Bundesliga,5,Wolfsburg,Union Berlin,2,1,Ev,3
+2023-07-07,2024-2025,Bundesliga,6,Bayern Munich,Leverkusen,2,0,Ev,2
+2023-07-07,2024-2025,Bundesliga,6,Stuttgart,RB Leipzig,4,2,Ev,6
+2023-07-07,2024-2025,Bundesliga,6,Dortmund,Frankfurt,0,2,Deplasman,2
+2023-07-07,2024-2025,Bundesliga,6,Freiburg,Hoffenheim,4,2,Ev,6
+2023-07-07,2024-2025,Bundesliga,6,Wolfsburg,Union Berlin,5,3,Ev,8
+2023-08-08,2024-2025,Bundesliga,7,Bayern Munich,Leverkusen,4,1,Ev,5
+2023-08-08,2024-2025,Bundesliga,7,Stuttgart,RB Leipzig,1,1,Beraberlik,2
+2023-08-08,2024-2025,Bundesliga,7,Dortmund,Frankfurt,0,1,Deplasman,1
+2023-08-08,2024-2025,Bundesliga,7,Freiburg,Hoffenheim,6,2,Ev,8
+2023-08-08,2024-2025,Bundesliga,7,Wolfsburg,Union Berlin,4,2,Ev,6
+2023-09-09,2024-2025,Bundesliga,8,Bayern Munich,Leverkusen,0,1,Deplasman,1
+2023-09-09,2024-2025,Bundesliga,8,Stuttgart,RB Leipzig,0,4,Deplasman,4
+2023-09-09,2024-2025,Bundesliga,8,Dortmund,Frankfurt,0,1,Deplasman,1
+2023-09-09,2024-2025,Bundesliga,8,Freiburg,Hoffenheim,2,1,Ev,3
+2023-09-09,2024-2025,Bundesliga,8,Wolfsburg,Union Berlin,2,0,Ev,2
+2023-10-10,2024-2025,Bundesliga,9,Bayern Munich,Leverkusen,3,1,Ev,4
+2023-10-10,2024-2025,Bundesliga,9,Stuttgart,RB Leipzig,1,3,Deplasman,4
+2023-10-10,2024-2025,Bundesliga,9,Dortmund,Frankfurt,2,3,Deplasman,5
+2023-10-10,2024-2025,Bundesliga,9,Freiburg,Hoffenheim,3,0,Ev,3
+2023-10-10,2024-2025,Bundesliga,9,Wolfsburg,Union Berlin,2,2,Beraberlik,4
+2023-11-11,2024-2025,Bundesliga,10,Bayern Munich,Leverkusen,0,0,Beraberlik,0
+2023-11-11,2024-2025,Bundesliga,10,Stuttgart,RB Leipzig,0,1,Deplasman,1
+2023-11-11,2024-2025,Bundesliga,10,Dortmund,Frankfurt,0,1,Deplasman,1
+2023-11-11,2024-2025,Bundesliga,10,Freiburg,Hoffenheim,2,0,Ev,2
+2023-11-11,2024-2025,Bundesliga,10,Wolfsburg,Union Berlin,4,1,Ev,5
+2023-12-12,2024-2025,Bundesliga,11,Bayern Munich,Leverkusen,5,0,Ev,5
+2023-12-12,2024-2025,Bundesliga,11,Stuttgart,RB Leipzig,0,0,Beraberlik,0
+2023-12-12,2024-2025,Bundesliga,11,Dortmund,Frankfurt,0,2,Deplasman,2
+2023-12-12,2024-2025,Bundesliga,11,Freiburg,Hoffenheim,2,0,Ev,2
+2023-12-12,2024-2025,Bundesliga,11,Wolfsburg,Union Berlin,3,0,Ev,3
+2023-01-13,2024-2025,Bundesliga,12,Bayern Munich,Leverkusen,3,1,Ev,4
+2023-01-13,2024-2025,Bundesliga,12,Stuttgart,RB Leipzig,1,3,Deplasman,4
+2023-01-13,2024-2025,Bundesliga,12,Dortmund,Frankfurt,2,1,Ev,3
+2023-01-13,2024-2025,Bundesliga,12,Freiburg,Hoffenheim,2,1,Ev,3
+2023-01-13,2024-2025,Bundesliga,12,Wolfsburg,Union Berlin,3,1,Ev,4
+2023-02-14,2024-2025,Bundesliga,13,Bayern Munich,Leverkusen,4,1,Ev,5
+2023-02-14,2024-2025,Bundesliga,13,Stuttgart,RB Leipzig,3,0,Ev,3
+2023-02-14,2024-2025,Bundesliga,13,Dortmund,Frankfurt,0,2,Deplasman,2
+2023-02-14,2024-2025,Bundesliga,13,Freiburg,Hoffenheim,2,4,Deplasman,6
+2023-02-14,2024-2025,Bundesliga,13,Wolfsburg,Union Berlin,2,1,Ev,3
+2023-03-15,2024-2025,Bundesliga,14,Bayern Munich,Leverkusen,1,4,Deplasman,5
+2023-03-15,2024-2025,Bundesliga,14,Stuttgart,RB Leipzig,2,0,Ev,2
+2023-03-15,2024-2025,Bundesliga,14,Dortmund,Frankfurt,0,0,Beraberlik,0
+2023-03-15,2024-2025,Bundesliga,14,Freiburg,Hoffenheim,1,0,Ev,1
+2023-03-15,2024-2025,Bundesliga,14,Wolfsburg,Union Berlin,0,1,Deplasman,1
+2023-04-16,2024-2025,Bundesliga,15,Bayern Munich,Leverkusen,4,1,Ev,5
+2023-04-16,2024-2025,Bundesliga,15,Stuttgart,RB Leipzig,6,1,Ev,7
+2023-04-16,2024-2025,Bundesliga,15,Dortmund,Frankfurt,1,0,Ev,1
+2023-04-16,2024-2025,Bundesliga,15,Freiburg,Hoffenheim,3,0,Ev,3
+2023-04-16,2024-2025,Bundesliga,15,Wolfsburg,Union Berlin,7,2,Ev,9
+2023-05-17,2024-2025,Bundesliga,16,Bayern Munich,Leverkusen,1,0,Ev,1
+2023-05-17,2024-2025,Bundesliga,16,Stuttgart,RB Leipzig,1,0,Ev,1
+2023-05-17,2024-2025,Bundesliga,16,Dortmund,Frankfurt,4,3,Ev,7
+2023-05-17,2024-2025,Bundesliga,16,Freiburg,Hoffenheim,2,1,Ev,3
+2023-05-17,2024-2025,Bundesliga,16,Wolfsburg,Union Berlin,5,2,Ev,7
+2023-06-18,2024-2025,Bundesliga,17,Bayern Munich,Leverkusen,2,0,Ev,2
+2023-06-18,2024-2025,Bundesliga,17,Stuttgart,RB Leipzig,3,2,Ev,5
+2023-06-18,2024-2025,Bundesliga,17,Dortmund,Frankfurt,1,2,Deplasman,3
+2023-06-18,2024-2025,Bundesliga,17,Freiburg,Hoffenheim,2,1,Ev,3
+2023-06-18,2024-2025,Bundesliga,17,Wolfsburg,Union Berlin,2,2,Beraberlik,4
+2023-07-19,2024-2025,Bundesliga,18,Bayern Munich,Leverkusen,1,1,Beraberlik,2
+2023-07-19,2024-2025,Bundesliga,18,Stuttgart,RB Leipzig,1,0,Ev,1
+2023-07-19,2024-2025,Bundesliga,18,Dortmund,Frankfurt,2,3,Deplasman,5
+2023-07-19,2024-2025,Bundesliga,18,Freiburg,Hoffenheim,3,1,Ev,4
+2023-07-19,2024-2025,Bundesliga,18,Wolfsburg,Union Berlin,0,0,Beraberlik,0
+2023-02-02,2025-2026,Bundesliga,1,Bayern Munich,Leverkusen,4,1,Ev,5
+2023-02-02,2025-2026,Bundesliga,1,Stuttgart,RB Leipzig,2,0,Ev,2
+2023-02-02,2025-2026,Bundesliga,1,Dortmund,Frankfurt,5,1,Ev,6
+2023-02-02,2025-2026,Bundesliga,1,Freiburg,Hoffenheim,2,2,Beraberlik,4
+2023-02-02,2025-2026,Bundesliga,1,Wolfsburg,Union Berlin,2,0,Ev,2
+2023-03-03,2025-2026,Bundesliga,2,Bayern Munich,Leverkusen,5,1,Ev,6
+2023-03-03,2025-2026,Bundesliga,2,Stuttgart,RB Leipzig,4,0,Ev,4
+2023-03-03,2025-2026,Bundesliga,2,Dortmund,Frankfurt,2,4,Deplasman,6
+2023-03-03,2025-2026,Bundesliga,2,Freiburg,Hoffenheim,1,1,Beraberlik,2
+2023-03-03,2025-2026,Bundesliga,2,Wolfsburg,Union Berlin,2,2,Beraberlik,4
+2023-04-04,2025-2026,Bundesliga,3,Bayern Munich,Leverkusen,0,3,Deplasman,3
+2023-04-04,2025-2026,Bundesliga,3,Stuttgart,RB Leipzig,4,1,Ev,5
+2023-04-04,2025-2026,Bundesliga,3,Dortmund,Frankfurt,4,3,Ev,7
+2023-04-04,2025-2026,Bundesliga,3,Freiburg,Hoffenheim,2,4,Deplasman,6
+2023-04-04,2025-2026,Bundesliga,3,Wolfsburg,Union Berlin,3,1,Ev,4
+2023-05-05,2025-2026,Bundesliga,4,Bayern Munich,Leverkusen,3,2,Ev,5
+2023-05-05,2025-2026,Bundesliga,4,Stuttgart,RB Leipzig,2,1,Ev,3
+2023-05-05,2025-2026,Bundesliga,4,Dortmund,Frankfurt,0,3,Deplasman,3
+2023-05-05,2025-2026,Bundesliga,4,Freiburg,Hoffenheim,5,2,Ev,7
+2023-05-05,2025-2026,Bundesliga,4,Wolfsburg,Union Berlin,4,4,Beraberlik,8
+2023-06-06,2025-2026,Bundesliga,5,Bayern Munich,Leverkusen,2,2,Beraberlik,4
+2023-06-06,2025-2026,Bundesliga,5,Stuttgart,RB Leipzig,1,0,Ev,1
+2023-06-06,2025-2026,Bundesliga,5,Dortmund,Frankfurt,1,1,Beraberlik,2
+2023-06-06,2025-2026,Bundesliga,5,Freiburg,Hoffenheim,2,3,Deplasman,5
+2023-06-06,2025-2026,Bundesliga,5,Wolfsburg,Union Berlin,5,3,Ev,8
+2023-07-07,2025-2026,Bundesliga,6,Bayern Munich,Leverkusen,4,2,Ev,6
+2023-07-07,2025-2026,Bundesliga,6,Stuttgart,RB Leipzig,2,1,Ev,3
+2023-07-07,2025-2026,Bundesliga,6,Dortmund,Frankfurt,1,1,Beraberlik,2
+2023-07-07,2025-2026,Bundesliga,6,Freiburg,Hoffenheim,1,4,Deplasman,5
+2023-07-07,2025-2026,Bundesliga,6,Wolfsburg,Union Berlin,3,2,Ev,5
+2023-08-08,2025-2026,Bundesliga,7,Bayern Munich,Leverkusen,1,0,Ev,1
+2023-08-08,2025-2026,Bundesliga,7,Stuttgart,RB Leipzig,5,1,Ev,6
+2023-08-08,2025-2026,Bundesliga,7,Dortmund,Frankfurt,1,2,Deplasman,3
+2023-08-08,2025-2026,Bundesliga,7,Freiburg,Hoffenheim,2,5,Deplasman,7
+2023-08-08,2025-2026,Bundesliga,7,Wolfsburg,Union Berlin,4,3,Ev,7
+2023-09-09,2025-2026,Bundesliga,8,Bayern Munich,Leverkusen,3,4,Deplasman,7
+2023-09-09,2025-2026,Bundesliga,8,Stuttgart,RB Leipzig,3,4,Deplasman,7
+2023-09-09,2025-2026,Bundesliga,8,Dortmund,Frankfurt,2,4,Deplasman,6
+2023-09-09,2025-2026,Bundesliga,8,Freiburg,Hoffenheim,1,0,Ev,1
+2023-09-09,2025-2026,Bundesliga,8,Wolfsburg,Union Berlin,2,2,Beraberlik,4
+2023-10-10,2025-2026,Bundesliga,9,Bayern Munich,Leverkusen,3,3,Beraberlik,6
+2023-10-10,2025-2026,Bundesliga,9,Stuttgart,RB Leipzig,0,1,Deplasman,1
+2023-10-10,2025-2026,Bundesliga,9,Dortmund,Frankfurt,1,4,Deplasman,5
+2023-10-10,2025-2026,Bundesliga,9,Freiburg,Hoffenheim,1,1,Beraberlik,2
+2023-10-10,2025-2026,Bundesliga,9,Wolfsburg,Union Berlin,1,3,Deplasman,4
+2023-11-11,2025-2026,Bundesliga,10,Bayern Munich,Leverkusen,3,3,Beraberlik,6
+2023-11-11,2025-2026,Bundesliga,10,Stuttgart,RB Leipzig,3,6,Deplasman,9
+2023-11-11,2025-2026,Bundesliga,10,Dortmund,Frankfurt,1,0,Ev,1
+2023-11-11,2025-2026,Bundesliga,10,Freiburg,Hoffenheim,4,0,Ev,4
+2023-11-11,2025-2026,Bundesliga,10,Wolfsburg,Union Berlin,2,5,Deplasman,7
+2023-12-12,2025-2026,Bundesliga,11,Bayern Munich,Leverkusen,3,1,Ev,4
+2023-12-12,2025-2026,Bundesliga,11,Stuttgart,RB Leipzig,3,0,Ev,3
+2023-12-12,2025-2026,Bundesliga,11,Dortmund,Frankfurt,1,3,Deplasman,4
+2023-12-12,2025-2026,Bundesliga,11,Freiburg,Hoffenheim,0,1,Deplasman,1
+2023-12-12,2025-2026,Bundesliga,11,Wolfsburg,Union Berlin,2,2,Beraberlik,4
+2023-01-13,2025-2026,Bundesliga,12,Bayern Munich,Leverkusen,0,0,Beraberlik,0
+2023-01-13,2025-2026,Bundesliga,12,Stuttgart,RB Leipzig,3,1,Ev,4
+2023-01-13,2025-2026,Bundesliga,12,Dortmund,Frankfurt,2,2,Beraberlik,4
+2023-01-13,2025-2026,Bundesliga,12,Freiburg,Hoffenheim,3,4,Deplasman,7
+2023-01-13,2025-2026,Bundesliga,12,Wolfsburg,Union Berlin,4,1,Ev,5
+2023-02-14,2025-2026,Bundesliga,13,Bayern Munich,Leverkusen,3,2,Ev,5
+2023-02-14,2025-2026,Bundesliga,13,Stuttgart,RB Leipzig,0,1,Deplasman,1
+2023-02-14,2025-2026,Bundesliga,13,Dortmund,Frankfurt,0,6,Deplasman,6
+2023-02-14,2025-2026,Bundesliga,13,Freiburg,Hoffenheim,1,2,Deplasman,3
+2023-02-14,2025-2026,Bundesliga,13,Wolfsburg,Union Berlin,3,3,Beraberlik,6
+2023-03-15,2025-2026,Bundesliga,14,Bayern Munich,Leverkusen,2,0,Ev,2
+2023-03-15,2025-2026,Bundesliga,14,Stuttgart,RB Leipzig,5,1,Ev,6
+2023-03-15,2025-2026,Bundesliga,14,Dortmund,Frankfurt,5,4,Ev,9
+2023-03-15,2025-2026,Bundesliga,14,Freiburg,Hoffenheim,2,2,Beraberlik,4
+2023-03-15,2025-2026,Bundesliga,14,Wolfsburg,Union Berlin,3,4,Deplasman,7
+2023-04-16,2025-2026,Bundesliga,15,Bayern Munich,Leverkusen,2,3,Deplasman,5
+2023-04-16,2025-2026,Bundesliga,15,Stuttgart,RB Leipzig,6,0,Ev,6
+2023-04-16,2025-2026,Bundesliga,15,Dortmund,Frankfurt,4,1,Ev,5
+2023-04-16,2025-2026,Bundesliga,15,Freiburg,Hoffenheim,4,2,Ev,6
+2023-04-16,2025-2026,Bundesliga,15,Wolfsburg,Union Berlin,3,1,Ev,4
+2023-05-17,2025-2026,Bundesliga,16,Bayern Munich,Leverkusen,4,4,Beraberlik,8
+2023-05-17,2025-2026,Bundesliga,16,Stuttgart,RB Leipzig,0,6,Deplasman,6
+2023-05-17,2025-2026,Bundesliga,16,Dortmund,Frankfurt,3,3,Beraberlik,6
+2023-05-17,2025-2026,Bundesliga,16,Freiburg,Hoffenheim,0,3,Deplasman,3
+2023-05-17,2025-2026,Bundesliga,16,Wolfsburg,Union Berlin,0,2,Deplasman,2
+2023-06-18,2025-2026,Bundesliga,17,Bayern Munich,Leverkusen,2,0,Ev,2
+2023-06-18,2025-2026,Bundesliga,17,Stuttgart,RB Leipzig,0,3,Deplasman,3
+2023-06-18,2025-2026,Bundesliga,17,Dortmund,Frankfurt,3,2,Ev,5
+2023-06-18,2025-2026,Bundesliga,17,Freiburg,Hoffenheim,1,2,Deplasman,3
+2023-06-18,2025-2026,Bundesliga,17,Wolfsburg,Union Berlin,2,5,Deplasman,7
+2023-07-19,2025-2026,Bundesliga,18,Bayern Munich,Leverkusen,2,1,Ev,3
+2023-07-19,2025-2026,Bundesliga,18,Stuttgart,RB Leipzig,4,1,Ev,5
+2023-07-19,2025-2026,Bundesliga,18,Dortmund,Frankfurt,3,1,Ev,4
+2023-07-19,2025-2026,Bundesliga,18,Freiburg,Hoffenheim,0,1,Deplasman,1
+2023-07-19,2025-2026,Bundesliga,18,Wolfsburg,Union Berlin,4,2,Ev,6
+2023-02-02,2022-2023,Ligue 1,1,PSG,Monaco,1,1,Beraberlik,2
+2023-02-02,2022-2023,Ligue 1,1,Brest,Lille,5,0,Ev,5
+2023-02-02,2022-2023,Ligue 1,1,Nice,Lens,4,1,Ev,5
+2023-02-02,2022-2023,Ligue 1,1,Lyon,Marseille,2,0,Ev,2
+2023-02-02,2022-2023,Ligue 1,1,Rennes,Toulouse,2,2,Beraberlik,4
+2023-03-03,2022-2023,Ligue 1,2,PSG,Monaco,3,2,Ev,5
+2023-03-03,2022-2023,Ligue 1,2,Brest,Lille,1,3,Deplasman,4
+2023-03-03,2022-2023,Ligue 1,2,Nice,Lens,5,0,Ev,5
+2023-03-03,2022-2023,Ligue 1,2,Lyon,Marseille,0,3,Deplasman,3
+2023-03-03,2022-2023,Ligue 1,2,Rennes,Toulouse,2,1,Ev,3
+2023-04-04,2022-2023,Ligue 1,3,PSG,Monaco,2,2,Beraberlik,4
+2023-04-04,2022-2023,Ligue 1,3,Brest,Lille,3,3,Beraberlik,6
+2023-04-04,2022-2023,Ligue 1,3,Nice,Lens,2,4,Deplasman,6
+2023-04-04,2022-2023,Ligue 1,3,Lyon,Marseille,2,1,Ev,3
+2023-04-04,2022-2023,Ligue 1,3,Rennes,Toulouse,2,3,Deplasman,5
+2023-05-05,2022-2023,Ligue 1,4,PSG,Monaco,1,1,Beraberlik,2
+2023-05-05,2022-2023,Ligue 1,4,Brest,Lille,8,0,Ev,8
+2023-05-05,2022-2023,Ligue 1,4,Nice,Lens,4,1,Ev,5
+2023-05-05,2022-2023,Ligue 1,4,Lyon,Marseille,2,2,Beraberlik,4
+2023-05-05,2022-2023,Ligue 1,4,Rennes,Toulouse,4,1,Ev,5
+2023-06-06,2022-2023,Ligue 1,5,PSG,Monaco,1,2,Deplasman,3
+2023-06-06,2022-2023,Ligue 1,5,Brest,Lille,1,3,Deplasman,4
+2023-06-06,2022-2023,Ligue 1,5,Nice,Lens,2,2,Beraberlik,4
+2023-06-06,2022-2023,Ligue 1,5,Lyon,Marseille,2,1,Ev,3
+2023-06-06,2022-2023,Ligue 1,5,Rennes,Toulouse,2,1,Ev,3
+2023-07-07,2022-2023,Ligue 1,6,PSG,Monaco,3,0,Ev,3
+2023-07-07,2022-2023,Ligue 1,6,Brest,Lille,1,2,Deplasman,3
+2023-07-07,2022-2023,Ligue 1,6,Nice,Lens,4,2,Ev,6
+2023-07-07,2022-2023,Ligue 1,6,Lyon,Marseille,0,1,Deplasman,1
+2023-07-07,2022-2023,Ligue 1,6,Rennes,Toulouse,2,0,Ev,2
+2023-08-08,2022-2023,Ligue 1,7,PSG,Monaco,3,1,Ev,4
+2023-08-08,2022-2023,Ligue 1,7,Brest,Lille,0,2,Deplasman,2
+2023-08-08,2022-2023,Ligue 1,7,Nice,Lens,4,0,Ev,4
+2023-08-08,2022-2023,Ligue 1,7,Lyon,Marseille,2,2,Beraberlik,4
+2023-08-08,2022-2023,Ligue 1,7,Rennes,Toulouse,0,2,Deplasman,2
+2023-09-09,2022-2023,Ligue 1,8,PSG,Monaco,2,0,Ev,2
+2023-09-09,2022-2023,Ligue 1,8,Brest,Lille,3,2,Ev,5
+2023-09-09,2022-2023,Ligue 1,8,Nice,Lens,6,2,Ev,8
+2023-09-09,2022-2023,Ligue 1,8,Lyon,Marseille,1,1,Beraberlik,2
+2023-09-09,2022-2023,Ligue 1,8,Rennes,Toulouse,2,1,Ev,3
+2023-10-10,2022-2023,Ligue 1,9,PSG,Monaco,5,2,Ev,7
+2023-10-10,2022-2023,Ligue 1,9,Brest,Lille,3,0,Ev,3
+2023-10-10,2022-2023,Ligue 1,9,Nice,Lens,0,3,Deplasman,3
+2023-10-10,2022-2023,Ligue 1,9,Lyon,Marseille,3,3,Beraberlik,6
+2023-10-10,2022-2023,Ligue 1,9,Rennes,Toulouse,1,1,Beraberlik,2
+2023-11-11,2022-2023,Ligue 1,10,PSG,Monaco,0,4,Deplasman,4
+2023-11-11,2022-2023,Ligue 1,10,Brest,Lille,6,4,Ev,10
+2023-11-11,2022-2023,Ligue 1,10,Nice,Lens,4,2,Ev,6
+2023-11-11,2022-2023,Ligue 1,10,Lyon,Marseille,1,4,Deplasman,5
+2023-11-11,2022-2023,Ligue 1,10,Rennes,Toulouse,3,3,Beraberlik,6
+2023-12-12,2022-2023,Ligue 1,11,PSG,Monaco,1,1,Beraberlik,2
+2023-12-12,2022-2023,Ligue 1,11,Brest,Lille,1,0,Ev,1
+2023-12-12,2022-2023,Ligue 1,11,Nice,Lens,6,2,Ev,8
+2023-12-12,2022-2023,Ligue 1,11,Lyon,Marseille,2,0,Ev,2
+2023-12-12,2022-2023,Ligue 1,11,Rennes,Toulouse,0,1,Deplasman,1
+2023-01-13,2022-2023,Ligue 1,12,PSG,Monaco,3,0,Ev,3
+2023-01-13,2022-2023,Ligue 1,12,Brest,Lille,3,0,Ev,3
+2023-01-13,2022-2023,Ligue 1,12,Nice,Lens,4,3,Ev,7
+2023-01-13,2022-2023,Ligue 1,12,Lyon,Marseille,4,2,Ev,6
+2023-01-13,2022-2023,Ligue 1,12,Rennes,Toulouse,5,1,Ev,6
+2023-02-14,2022-2023,Ligue 1,13,PSG,Monaco,1,2,Deplasman,3
+2023-02-14,2022-2023,Ligue 1,13,Brest,Lille,3,4,Deplasman,7
+2023-02-14,2022-2023,Ligue 1,13,Nice,Lens,3,1,Ev,4
+2023-02-14,2022-2023,Ligue 1,13,Lyon,Marseille,0,3,Deplasman,3
+2023-02-14,2022-2023,Ligue 1,13,Rennes,Toulouse,3,2,Ev,5
+2023-03-15,2022-2023,Ligue 1,14,PSG,Monaco,6,1,Ev,7
+2023-03-15,2022-2023,Ligue 1,14,Brest,Lille,5,2,Ev,7
+2023-03-15,2022-2023,Ligue 1,14,Nice,Lens,3,2,Ev,5
+2023-03-15,2022-2023,Ligue 1,14,Lyon,Marseille,3,1,Ev,4
+2023-03-15,2022-2023,Ligue 1,14,Rennes,Toulouse,1,0,Ev,1
+2023-04-16,2022-2023,Ligue 1,15,PSG,Monaco,8,0,Ev,8
+2023-04-16,2022-2023,Ligue 1,15,Brest,Lille,6,2,Ev,8
+2023-04-16,2022-2023,Ligue 1,15,Nice,Lens,2,1,Ev,3
+2023-04-16,2022-2023,Ligue 1,15,Lyon,Marseille,2,2,Beraberlik,4
+2023-04-16,2022-2023,Ligue 1,15,Rennes,Toulouse,6,0,Ev,6
+2023-05-17,2022-2023,Ligue 1,16,PSG,Monaco,1,2,Deplasman,3
+2023-05-17,2022-2023,Ligue 1,16,Brest,Lille,4,1,Ev,5
+2023-05-17,2022-2023,Ligue 1,16,Nice,Lens,4,2,Ev,6
+2023-05-17,2022-2023,Ligue 1,16,Lyon,Marseille,3,1,Ev,4
+2023-05-17,2022-2023,Ligue 1,16,Rennes,Toulouse,4,0,Ev,4
+2023-06-18,2022-2023,Ligue 1,17,PSG,Monaco,2,0,Ev,2
+2023-06-18,2022-2023,Ligue 1,17,Brest,Lille,3,5,Deplasman,8
+2023-06-18,2022-2023,Ligue 1,17,Nice,Lens,1,2,Deplasman,3
+2023-06-18,2022-2023,Ligue 1,17,Lyon,Marseille,1,4,Deplasman,5
+2023-06-18,2022-2023,Ligue 1,17,Rennes,Toulouse,2,0,Ev,2
+2023-07-19,2022-2023,Ligue 1,18,PSG,Monaco,1,0,Ev,1
+2023-07-19,2022-2023,Ligue 1,18,Brest,Lille,1,2,Deplasman,3
+2023-07-19,2022-2023,Ligue 1,18,Nice,Lens,2,1,Ev,3
+2023-07-19,2022-2023,Ligue 1,18,Lyon,Marseille,1,3,Deplasman,4
+2023-07-19,2022-2023,Ligue 1,18,Rennes,Toulouse,2,1,Ev,3
+2023-02-02,2023-2024,Ligue 1,1,PSG,Monaco,0,1,Deplasman,1
+2023-02-02,2023-2024,Ligue 1,1,Brest,Lille,1,0,Ev,1
+2023-02-02,2023-2024,Ligue 1,1,Nice,Lens,4,2,Ev,6
+2023-02-02,2023-2024,Ligue 1,1,Lyon,Marseille,3,0,Ev,3
+2023-02-02,2023-2024,Ligue 1,1,Rennes,Toulouse,2,0,Ev,2
+2023-03-03,2023-2024,Ligue 1,2,PSG,Monaco,1,1,Beraberlik,2
+2023-03-03,2023-2024,Ligue 1,2,Brest,Lille,2,2,Beraberlik,4
+2023-03-03,2023-2024,Ligue 1,2,Nice,Lens,2,0,Ev,2
+2023-03-03,2023-2024,Ligue 1,2,Lyon,Marseille,2,2,Beraberlik,4
+2023-03-03,2023-2024,Ligue 1,2,Rennes,Toulouse,0,1,Deplasman,1
+2023-04-04,2023-2024,Ligue 1,3,PSG,Monaco,0,1,Deplasman,1
+2023-04-04,2023-2024,Ligue 1,3,Brest,Lille,1,0,Ev,1
+2023-04-04,2023-2024,Ligue 1,3,Nice,Lens,4,2,Ev,6
+2023-04-04,2023-2024,Ligue 1,3,Lyon,Marseille,3,3,Beraberlik,6
+2023-04-04,2023-2024,Ligue 1,3,Rennes,Toulouse,2,1,Ev,3
+2023-05-05,2023-2024,Ligue 1,4,PSG,Monaco,0,0,Beraberlik,0
+2023-05-05,2023-2024,Ligue 1,4,Brest,Lille,2,2,Beraberlik,4
+2023-05-05,2023-2024,Ligue 1,4,Nice,Lens,0,3,Deplasman,3
+2023-05-05,2023-2024,Ligue 1,4,Lyon,Marseille,0,3,Deplasman,3
+2023-05-05,2023-2024,Ligue 1,4,Rennes,Toulouse,2,1,Ev,3
+2023-06-06,2023-2024,Ligue 1,5,PSG,Monaco,2,2,Beraberlik,4
+2023-06-06,2023-2024,Ligue 1,5,Brest,Lille,2,0,Ev,2
+2023-06-06,2023-2024,Ligue 1,5,Nice,Lens,1,0,Ev,1
+2023-06-06,2023-2024,Ligue 1,5,Lyon,Marseille,1,3,Deplasman,4
+2023-06-06,2023-2024,Ligue 1,5,Rennes,Toulouse,1,3,Deplasman,4
+2023-07-07,2023-2024,Ligue 1,6,PSG,Monaco,0,1,Deplasman,1
+2023-07-07,2023-2024,Ligue 1,6,Brest,Lille,1,4,Deplasman,5
+2023-07-07,2023-2024,Ligue 1,6,Nice,Lens,4,1,Ev,5
+2023-07-07,2023-2024,Ligue 1,6,Lyon,Marseille,2,2,Beraberlik,4
+2023-07-07,2023-2024,Ligue 1,6,Rennes,Toulouse,1,1,Beraberlik,2
+2023-08-08,2023-2024,Ligue 1,7,PSG,Monaco,2,1,Ev,3
+2023-08-08,2023-2024,Ligue 1,7,Brest,Lille,2,0,Ev,2
+2023-08-08,2023-2024,Ligue 1,7,Nice,Lens,2,0,Ev,2
+2023-08-08,2023-2024,Ligue 1,7,Lyon,Marseille,0,1,Deplasman,1
+2023-08-08,2023-2024,Ligue 1,7,Rennes,Toulouse,1,0,Ev,1
+2023-09-09,2023-2024,Ligue 1,8,PSG,Monaco,3,2,Ev,5
+2023-09-09,2023-2024,Ligue 1,8,Brest,Lille,2,2,Beraberlik,4
+2023-09-09,2023-2024,Ligue 1,8,Nice,Lens,1,2,Deplasman,3
+2023-09-09,2023-2024,Ligue 1,8,Lyon,Marseille,2,3,Deplasman,5
+2023-09-09,2023-2024,Ligue 1,8,Rennes,Toulouse,1,1,Beraberlik,2
+2023-10-10,2023-2024,Ligue 1,9,PSG,Monaco,2,3,Deplasman,5
+2023-10-10,2023-2024,Ligue 1,9,Brest,Lille,1,0,Ev,1
+2023-10-10,2023-2024,Ligue 1,9,Nice,Lens,3,2,Ev,5
+2023-10-10,2023-2024,Ligue 1,9,Lyon,Marseille,3,1,Ev,4
+2023-10-10,2023-2024,Ligue 1,9,Rennes,Toulouse,2,2,Beraberlik,4
+2023-11-11,2023-2024,Ligue 1,10,PSG,Monaco,1,1,Beraberlik,2
+2023-11-11,2023-2024,Ligue 1,10,Brest,Lille,3,3,Beraberlik,6
+2023-11-11,2023-2024,Ligue 1,10,Nice,Lens,2,1,Ev,3
+2023-11-11,2023-2024,Ligue 1,10,Lyon,Marseille,3,4,Deplasman,7
+2023-11-11,2023-2024,Ligue 1,10,Rennes,Toulouse,2,1,Ev,3
+2023-12-12,2023-2024,Ligue 1,11,PSG,Monaco,0,3,Deplasman,3
+2023-12-12,2023-2024,Ligue 1,11,Brest,Lille,0,1,Deplasman,1
+2023-12-12,2023-2024,Ligue 1,11,Nice,Lens,2,0,Ev,2
+2023-12-12,2023-2024,Ligue 1,11,Lyon,Marseille,2,4,Deplasman,6
+2023-12-12,2023-2024,Ligue 1,11,Rennes,Toulouse,2,2,Beraberlik,4
+2023-01-13,2023-2024,Ligue 1,12,PSG,Monaco,0,4,Deplasman,4
+2023-01-13,2023-2024,Ligue 1,12,Brest,Lille,2,1,Ev,3
+2023-01-13,2023-2024,Ligue 1,12,Nice,Lens,1,4,Deplasman,5
+2023-01-13,2023-2024,Ligue 1,12,Lyon,Marseille,2,0,Ev,2
+2023-01-13,2023-2024,Ligue 1,12,Rennes,Toulouse,2,0,Ev,2
+2023-02-14,2023-2024,Ligue 1,13,PSG,Monaco,1,2,Deplasman,3
+2023-02-14,2023-2024,Ligue 1,13,Brest,Lille,1,1,Beraberlik,2
+2023-02-14,2023-2024,Ligue 1,13,Nice,Lens,0,0,Beraberlik,0
+2023-02-14,2023-2024,Ligue 1,13,Lyon,Marseille,0,0,Beraberlik,0
+2023-02-14,2023-2024,Ligue 1,13,Rennes,Toulouse,2,1,Ev,3
+2023-03-15,2023-2024,Ligue 1,14,PSG,Monaco,3,2,Ev,5
+2023-03-15,2023-2024,Ligue 1,14,Brest,Lille,1,4,Deplasman,5
+2023-03-15,2023-2024,Ligue 1,14,Nice,Lens,0,1,Deplasman,1
+2023-03-15,2023-2024,Ligue 1,14,Lyon,Marseille,0,2,Deplasman,2
+2023-03-15,2023-2024,Ligue 1,14,Rennes,Toulouse,0,0,Beraberlik,0
+2023-04-16,2023-2024,Ligue 1,15,PSG,Monaco,4,3,Ev,7
+2023-04-16,2023-2024,Ligue 1,15,Brest,Lille,3,2,Ev,5
+2023-04-16,2023-2024,Ligue 1,15,Nice,Lens,1,1,Beraberlik,2
+2023-04-16,2023-2024,Ligue 1,15,Lyon,Marseille,0,1,Deplasman,1
+2023-04-16,2023-2024,Ligue 1,15,Rennes,Toulouse,2,0,Ev,2
+2023-05-17,2023-2024,Ligue 1,16,PSG,Monaco,0,1,Deplasman,1
+2023-05-17,2023-2024,Ligue 1,16,Brest,Lille,2,2,Beraberlik,4
+2023-05-17,2023-2024,Ligue 1,16,Nice,Lens,1,2,Deplasman,3
+2023-05-17,2023-2024,Ligue 1,16,Lyon,Marseille,1,2,Deplasman,3
+2023-05-17,2023-2024,Ligue 1,16,Rennes,Toulouse,0,1,Deplasman,1
+2023-06-18,2023-2024,Ligue 1,17,PSG,Monaco,1,4,Deplasman,5
+2023-06-18,2023-2024,Ligue 1,17,Brest,Lille,1,2,Deplasman,3
+2023-06-18,2023-2024,Ligue 1,17,Nice,Lens,1,1,Beraberlik,2
+2023-06-18,2023-2024,Ligue 1,17,Lyon,Marseille,1,3,Deplasman,4
+2023-06-18,2023-2024,Ligue 1,17,Rennes,Toulouse,1,1,Beraberlik,2
+2023-07-19,2023-2024,Ligue 1,18,PSG,Monaco,0,1,Deplasman,1
+2023-07-19,2023-2024,Ligue 1,18,Brest,Lille,1,3,Deplasman,4
+2023-07-19,2023-2024,Ligue 1,18,Nice,Lens,2,1,Ev,3
+2023-07-19,2023-2024,Ligue 1,18,Lyon,Marseille,2,0,Ev,2
+2023-07-19,2023-2024,Ligue 1,18,Rennes,Toulouse,0,0,Beraberlik,0
+2023-02-02,2024-2025,Ligue 1,1,PSG,Monaco,2,1,Ev,3
+2023-02-02,2024-2025,Ligue 1,1,Brest,Lille,3,0,Ev,3
+2023-02-02,2024-2025,Ligue 1,1,Nice,Lens,0,0,Beraberlik,0
+2023-02-02,2024-2025,Ligue 1,1,Lyon,Marseille,1,2,Deplasman,3
+2023-02-02,2024-2025,Ligue 1,1,Rennes,Toulouse,3,2,Ev,5
+2023-03-03,2024-2025,Ligue 1,2,PSG,Monaco,4,3,Ev,7
+2023-03-03,2024-2025,Ligue 1,2,Brest,Lille,4,1,Ev,5
+2023-03-03,2024-2025,Ligue 1,2,Nice,Lens,1,1,Beraberlik,2
+2023-03-03,2024-2025,Ligue 1,2,Lyon,Marseille,3,0,Ev,3
+2023-03-03,2024-2025,Ligue 1,2,Rennes,Toulouse,0,0,Beraberlik,0
+2023-04-04,2024-2025,Ligue 1,3,PSG,Monaco,2,0,Ev,2
+2023-04-04,2024-2025,Ligue 1,3,Brest,Lille,3,3,Beraberlik,6
+2023-04-04,2024-2025,Ligue 1,3,Nice,Lens,3,2,Ev,5
+2023-04-04,2024-2025,Ligue 1,3,Lyon,Marseille,0,5,Deplasman,5
+2023-04-04,2024-2025,Ligue 1,3,Rennes,Toulouse,2,1,Ev,3
+2023-05-05,2024-2025,Ligue 1,4,PSG,Monaco,4,4,Beraberlik,8
+2023-05-05,2024-2025,Ligue 1,4,Brest,Lille,4,2,Ev,6
+2023-05-05,2024-2025,Ligue 1,4,Nice,Lens,2,3,Deplasman,5
+2023-05-05,2024-2025,Ligue 1,4,Lyon,Marseille,0,0,Beraberlik,0
+2023-05-05,2024-2025,Ligue 1,4,Rennes,Toulouse,4,5,Deplasman,9
+2023-06-06,2024-2025,Ligue 1,5,PSG,Monaco,2,0,Ev,2
+2023-06-06,2024-2025,Ligue 1,5,Brest,Lille,0,1,Deplasman,1
+2023-06-06,2024-2025,Ligue 1,5,Nice,Lens,1,1,Beraberlik,2
+2023-06-06,2024-2025,Ligue 1,5,Lyon,Marseille,1,0,Ev,1
+2023-06-06,2024-2025,Ligue 1,5,Rennes,Toulouse,2,0,Ev,2
+2023-07-07,2024-2025,Ligue 1,6,PSG,Monaco,2,0,Ev,2
+2023-07-07,2024-2025,Ligue 1,6,Brest,Lille,7,0,Ev,7
+2023-07-07,2024-2025,Ligue 1,6,Nice,Lens,2,5,Deplasman,7
+2023-07-07,2024-2025,Ligue 1,6,Lyon,Marseille,3,3,Beraberlik,6
+2023-07-07,2024-2025,Ligue 1,6,Rennes,Toulouse,0,1,Deplasman,1
+2023-08-08,2024-2025,Ligue 1,7,PSG,Monaco,2,0,Ev,2
+2023-08-08,2024-2025,Ligue 1,7,Brest,Lille,3,0,Ev,3
+2023-08-08,2024-2025,Ligue 1,7,Nice,Lens,1,0,Ev,1
+2023-08-08,2024-2025,Ligue 1,7,Lyon,Marseille,4,2,Ev,6
+2023-08-08,2024-2025,Ligue 1,7,Rennes,Toulouse,2,9,Deplasman,11
+2023-09-09,2024-2025,Ligue 1,8,PSG,Monaco,0,3,Deplasman,3
+2023-09-09,2024-2025,Ligue 1,8,Brest,Lille,2,1,Ev,3
+2023-09-09,2024-2025,Ligue 1,8,Nice,Lens,1,3,Deplasman,4
+2023-09-09,2024-2025,Ligue 1,8,Lyon,Marseille,1,0,Ev,1
+2023-09-09,2024-2025,Ligue 1,8,Rennes,Toulouse,2,2,Beraberlik,4
+2023-10-10,2024-2025,Ligue 1,9,PSG,Monaco,2,0,Ev,2
+2023-10-10,2024-2025,Ligue 1,9,Brest,Lille,1,1,Beraberlik,2
+2023-10-10,2024-2025,Ligue 1,9,Nice,Lens,3,1,Ev,4
+2023-10-10,2024-2025,Ligue 1,9,Lyon,Marseille,2,6,Deplasman,8
+2023-10-10,2024-2025,Ligue 1,9,Rennes,Toulouse,4,2,Ev,6
+2023-11-11,2024-2025,Ligue 1,10,PSG,Monaco,2,2,Beraberlik,4
+2023-11-11,2024-2025,Ligue 1,10,Brest,Lille,4,2,Ev,6
+2023-11-11,2024-2025,Ligue 1,10,Nice,Lens,2,2,Beraberlik,4
+2023-11-11,2024-2025,Ligue 1,10,Lyon,Marseille,3,1,Ev,4
+2023-11-11,2024-2025,Ligue 1,10,Rennes,Toulouse,3,1,Ev,4
+2023-12-12,2024-2025,Ligue 1,11,PSG,Monaco,3,2,Ev,5
+2023-12-12,2024-2025,Ligue 1,11,Brest,Lille,7,3,Ev,10
+2023-12-12,2024-2025,Ligue 1,11,Nice,Lens,1,3,Deplasman,4
+2023-12-12,2024-2025,Ligue 1,11,Lyon,Marseille,1,3,Deplasman,4
+2023-12-12,2024-2025,Ligue 1,11,Rennes,Toulouse,1,2,Deplasman,3
+2023-01-13,2024-2025,Ligue 1,12,PSG,Monaco,2,1,Ev,3
+2023-01-13,2024-2025,Ligue 1,12,Brest,Lille,3,4,Deplasman,7
+2023-01-13,2024-2025,Ligue 1,12,Nice,Lens,4,1,Ev,5
+2023-01-13,2024-2025,Ligue 1,12,Lyon,Marseille,1,4,Deplasman,5
+2023-01-13,2024-2025,Ligue 1,12,Rennes,Toulouse,5,4,Ev,9
+2023-02-14,2024-2025,Ligue 1,13,PSG,Monaco,3,1,Ev,4
+2023-02-14,2024-2025,Ligue 1,13,Brest,Lille,1,3,Deplasman,4
+2023-02-14,2024-2025,Ligue 1,13,Nice,Lens,4,2,Ev,6
+2023-02-14,2024-2025,Ligue 1,13,Lyon,Marseille,0,0,Beraberlik,0
+2023-02-14,2024-2025,Ligue 1,13,Rennes,Toulouse,2,1,Ev,3
+2023-03-15,2024-2025,Ligue 1,14,PSG,Monaco,1,0,Ev,1
+2023-03-15,2024-2025,Ligue 1,14,Brest,Lille,1,1,Beraberlik,2
+2023-03-15,2024-2025,Ligue 1,14,Nice,Lens,2,1,Ev,3
+2023-03-15,2024-2025,Ligue 1,14,Lyon,Marseille,4,1,Ev,5
+2023-03-15,2024-2025,Ligue 1,14,Rennes,Toulouse,3,2,Ev,5
+2023-04-16,2024-2025,Ligue 1,15,PSG,Monaco,2,1,Ev,3
+2023-04-16,2024-2025,Ligue 1,15,Brest,Lille,5,2,Ev,7
+2023-04-16,2024-2025,Ligue 1,15,Nice,Lens,1,1,Beraberlik,2
+2023-04-16,2024-2025,Ligue 1,15,Lyon,Marseille,2,1,Ev,3
+2023-04-16,2024-2025,Ligue 1,15,Rennes,Toulouse,1,0,Ev,1
+2023-05-17,2024-2025,Ligue 1,16,PSG,Monaco,2,1,Ev,3
+2023-05-17,2024-2025,Ligue 1,16,Brest,Lille,6,0,Ev,6
+2023-05-17,2024-2025,Ligue 1,16,Nice,Lens,1,0,Ev,1
+2023-05-17,2024-2025,Ligue 1,16,Lyon,Marseille,1,2,Deplasman,3
+2023-05-17,2024-2025,Ligue 1,16,Rennes,Toulouse,1,3,Deplasman,4
+2023-06-18,2024-2025,Ligue 1,17,PSG,Monaco,0,4,Deplasman,4
+2023-06-18,2024-2025,Ligue 1,17,Brest,Lille,2,2,Beraberlik,4
+2023-06-18,2024-2025,Ligue 1,17,Nice,Lens,0,0,Beraberlik,0
+2023-06-18,2024-2025,Ligue 1,17,Lyon,Marseille,1,6,Deplasman,7
+2023-06-18,2024-2025,Ligue 1,17,Rennes,Toulouse,5,1,Ev,6
+2023-07-19,2024-2025,Ligue 1,18,PSG,Monaco,2,2,Beraberlik,4
+2023-07-19,2024-2025,Ligue 1,18,Brest,Lille,3,1,Ev,4
+2023-07-19,2024-2025,Ligue 1,18,Nice,Lens,3,2,Ev,5
+2023-07-19,2024-2025,Ligue 1,18,Lyon,Marseille,2,2,Beraberlik,4
+2023-07-19,2024-2025,Ligue 1,18,Rennes,Toulouse,0,3,Deplasman,3
+2023-02-02,2025-2026,Ligue 1,1,PSG,Monaco,2,2,Beraberlik,4
+2023-02-02,2025-2026,Ligue 1,1,Brest,Lille,3,1,Ev,4
+2023-02-02,2025-2026,Ligue 1,1,Nice,Lens,1,0,Ev,1
+2023-02-02,2025-2026,Ligue 1,1,Lyon,Marseille,4,1,Ev,5
+2023-02-02,2025-2026,Ligue 1,1,Rennes,Toulouse,1,2,Deplasman,3
+2023-03-03,2025-2026,Ligue 1,2,PSG,Monaco,4,1,Ev,5
+2023-03-03,2025-2026,Ligue 1,2,Brest,Lille,2,1,Ev,3
+2023-03-03,2025-2026,Ligue 1,2,Nice,Lens,3,1,Ev,4
+2023-03-03,2025-2026,Ligue 1,2,Lyon,Marseille,3,1,Ev,4
+2023-03-03,2025-2026,Ligue 1,2,Rennes,Toulouse,2,0,Ev,2
+2023-04-04,2025-2026,Ligue 1,3,PSG,Monaco,2,1,Ev,3
+2023-04-04,2025-2026,Ligue 1,3,Brest,Lille,1,2,Deplasman,3
+2023-04-04,2025-2026,Ligue 1,3,Nice,Lens,1,1,Beraberlik,2
+2023-04-04,2025-2026,Ligue 1,3,Lyon,Marseille,3,3,Beraberlik,6
+2023-04-04,2025-2026,Ligue 1,3,Rennes,Toulouse,3,1,Ev,4
+2023-05-05,2025-2026,Ligue 1,4,PSG,Monaco,2,5,Deplasman,7
+2023-05-05,2025-2026,Ligue 1,4,Brest,Lille,1,1,Beraberlik,2
+2023-05-05,2025-2026,Ligue 1,4,Nice,Lens,2,2,Beraberlik,4
+2023-05-05,2025-2026,Ligue 1,4,Lyon,Marseille,1,4,Deplasman,5
+2023-05-05,2025-2026,Ligue 1,4,Rennes,Toulouse,1,0,Ev,1
+2023-06-06,2025-2026,Ligue 1,5,PSG,Monaco,0,4,Deplasman,4
+2023-06-06,2025-2026,Ligue 1,5,Brest,Lille,1,3,Deplasman,4
+2023-06-06,2025-2026,Ligue 1,5,Nice,Lens,1,1,Beraberlik,2
+2023-06-06,2025-2026,Ligue 1,5,Lyon,Marseille,5,0,Ev,5
+2023-06-06,2025-2026,Ligue 1,5,Rennes,Toulouse,2,2,Beraberlik,4
+2023-07-07,2025-2026,Ligue 1,6,PSG,Monaco,0,3,Deplasman,3
+2023-07-07,2025-2026,Ligue 1,6,Brest,Lille,2,2,Beraberlik,4
+2023-07-07,2025-2026,Ligue 1,6,Nice,Lens,1,1,Beraberlik,2
+2023-07-07,2025-2026,Ligue 1,6,Lyon,Marseille,4,1,Ev,5
+2023-07-07,2025-2026,Ligue 1,6,Rennes,Toulouse,0,3,Deplasman,3
+2023-08-08,2025-2026,Ligue 1,7,PSG,Monaco,1,2,Deplasman,3
+2023-08-08,2025-2026,Ligue 1,7,Brest,Lille,1,0,Ev,1
+2023-08-08,2025-2026,Ligue 1,7,Nice,Lens,2,0,Ev,2
+2023-08-08,2025-2026,Ligue 1,7,Lyon,Marseille,3,1,Ev,4
+2023-08-08,2025-2026,Ligue 1,7,Rennes,Toulouse,2,0,Ev,2
+2023-09-09,2025-2026,Ligue 1,8,PSG,Monaco,0,6,Deplasman,6
+2023-09-09,2025-2026,Ligue 1,8,Brest,Lille,2,3,Deplasman,5
+2023-09-09,2025-2026,Ligue 1,8,Nice,Lens,3,2,Ev,5
+2023-09-09,2025-2026,Ligue 1,8,Lyon,Marseille,4,3,Ev,7
+2023-09-09,2025-2026,Ligue 1,8,Rennes,Toulouse,1,0,Ev,1
+2023-10-10,2025-2026,Ligue 1,9,PSG,Monaco,1,2,Deplasman,3
+2023-10-10,2025-2026,Ligue 1,9,Brest,Lille,1,3,Deplasman,4
+2023-10-10,2025-2026,Ligue 1,9,Nice,Lens,0,0,Beraberlik,0
+2023-10-10,2025-2026,Ligue 1,9,Lyon,Marseille,3,0,Ev,3
+2023-10-10,2025-2026,Ligue 1,9,Rennes,Toulouse,4,0,Ev,4
+2023-11-11,2025-2026,Ligue 1,10,PSG,Monaco,2,4,Deplasman,6
+2023-11-11,2025-2026,Ligue 1,10,Brest,Lille,4,2,Ev,6
+2023-11-11,2025-2026,Ligue 1,10,Nice,Lens,1,2,Deplasman,3
+2023-11-11,2025-2026,Ligue 1,10,Lyon,Marseille,2,0,Ev,2
+2023-11-11,2025-2026,Ligue 1,10,Rennes,Toulouse,2,4,Deplasman,6
+2023-12-12,2025-2026,Ligue 1,11,PSG,Monaco,1,5,Deplasman,6
+2023-12-12,2025-2026,Ligue 1,11,Brest,Lille,1,0,Ev,1
+2023-12-12,2025-2026,Ligue 1,11,Nice,Lens,2,1,Ev,3
+2023-12-12,2025-2026,Ligue 1,11,Lyon,Marseille,4,4,Beraberlik,8
+2023-12-12,2025-2026,Ligue 1,11,Rennes,Toulouse,0,1,Deplasman,1
+2023-01-13,2025-2026,Ligue 1,12,PSG,Monaco,2,1,Ev,3
+2023-01-13,2025-2026,Ligue 1,12,Brest,Lille,4,1,Ev,5
+2023-01-13,2025-2026,Ligue 1,12,Nice,Lens,2,2,Beraberlik,4
+2023-01-13,2025-2026,Ligue 1,12,Lyon,Marseille,1,1,Beraberlik,2
+2023-01-13,2025-2026,Ligue 1,12,Rennes,Toulouse,4,4,Beraberlik,8
+2023-02-14,2025-2026,Ligue 1,13,PSG,Monaco,1,3,Deplasman,4
+2023-02-14,2025-2026,Ligue 1,13,Brest,Lille,2,1,Ev,3
+2023-02-14,2025-2026,Ligue 1,13,Nice,Lens,0,2,Deplasman,2
+2023-02-14,2025-2026,Ligue 1,13,Lyon,Marseille,4,3,Ev,7
+2023-02-14,2025-2026,Ligue 1,13,Rennes,Toulouse,0,0,Beraberlik,0
+2023-03-15,2025-2026,Ligue 1,14,PSG,Monaco,1,2,Deplasman,3
+2023-03-15,2025-2026,Ligue 1,14,Brest,Lille,3,2,Ev,5
+2023-03-15,2025-2026,Ligue 1,14,Nice,Lens,3,2,Ev,5
+2023-03-15,2025-2026,Ligue 1,14,Lyon,Marseille,5,2,Ev,7
+2023-03-15,2025-2026,Ligue 1,14,Rennes,Toulouse,1,2,Deplasman,3
+2023-04-16,2025-2026,Ligue 1,15,PSG,Monaco,1,2,Deplasman,3
+2023-04-16,2025-2026,Ligue 1,15,Brest,Lille,1,2,Deplasman,3
+2023-04-16,2025-2026,Ligue 1,15,Nice,Lens,0,0,Beraberlik,0
+2023-04-16,2025-2026,Ligue 1,15,Lyon,Marseille,2,1,Ev,3
+2023-04-16,2025-2026,Ligue 1,15,Rennes,Toulouse,7,1,Ev,8
+2023-05-17,2025-2026,Ligue 1,16,PSG,Monaco,1,1,Beraberlik,2
+2023-05-17,2025-2026,Ligue 1,16,Brest,Lille,3,3,Beraberlik,6
+2023-05-17,2025-2026,Ligue 1,16,Nice,Lens,1,0,Ev,1
+2023-05-17,2025-2026,Ligue 1,16,Lyon,Marseille,3,0,Ev,3
+2023-05-17,2025-2026,Ligue 1,16,Rennes,Toulouse,1,4,Deplasman,5
+2023-06-18,2025-2026,Ligue 1,17,PSG,Monaco,1,3,Deplasman,4
+2023-06-18,2025-2026,Ligue 1,17,Brest,Lille,3,2,Ev,5
+2023-06-18,2025-2026,Ligue 1,17,Nice,Lens,0,1,Deplasman,1
+2023-06-18,2025-2026,Ligue 1,17,Lyon,Marseille,4,2,Ev,6
+2023-06-18,2025-2026,Ligue 1,17,Rennes,Toulouse,1,1,Beraberlik,2
+2023-07-19,2025-2026,Ligue 1,18,PSG,Monaco,2,1,Ev,3
+2023-07-19,2025-2026,Ligue 1,18,Brest,Lille,6,2,Ev,8
+2023-07-19,2025-2026,Ligue 1,18,Nice,Lens,1,2,Deplasman,3
+2023-07-19,2025-2026,Ligue 1,18,Lyon,Marseille,3,1,Ev,4
+2023-07-19,2025-2026,Ligue 1,18,Rennes,Toulouse,0,0,Beraberlik,0
