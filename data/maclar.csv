@@ -1,0 +1,613 @@
+tarih,sezon,hafta,ev_takim,deplasman_takim,ev_gol,dep_gol,sonuc,toplam_gol
+2022-08-01,2022-23,1,Kasimpasa,Besiktas,1,0,Ev,1
+2022-08-01,2022-23,1,Konyaspor,Antalyaspor,2,1,Ev,3
+2022-08-01,2022-23,1,Alanyaspor,Sivasspor,5,3,Ev,8
+2022-08-01,2022-23,1,Trabzonspor,Galatasaray,1,3,Deplasman,4
+2022-08-01,2022-23,1,Basaksehir,Fenerbahce,1,2,Deplasman,3
+2022-08-01,2022-23,1,Adana Demirspor,Kayserispor,1,3,Deplasman,4
+2022-08-08,2022-23,2,Konyaspor,Kasimpasa,2,1,Ev,3
+2022-08-08,2022-23,2,Sivasspor,Antalyaspor,3,2,Ev,5
+2022-08-08,2022-23,2,Adana Demirspor,Besiktas,1,1,Beraberlik,2
+2022-08-08,2022-23,2,Fenerbahce,Alanyaspor,3,1,Ev,4
+2022-08-08,2022-23,2,Kayserispor,Basaksehir,4,2,Ev,6
+2022-08-08,2022-23,2,Trabzonspor,Galatasaray,3,0,Ev,3
+2022-08-15,2022-23,3,Kasimpasa,Basaksehir,1,2,Deplasman,3
+2022-08-15,2022-23,3,Trabzonspor,Galatasaray,3,1,Ev,4
+2022-08-15,2022-23,3,Alanyaspor,Besiktas,3,2,Ev,5
+2022-08-15,2022-23,3,Kayserispor,Adana Demirspor,1,0,Ev,1
+2022-08-15,2022-23,3,Antalyaspor,Konyaspor,0,1,Deplasman,1
+2022-08-15,2022-23,3,Fenerbahce,Sivasspor,3,0,Ev,3
+2022-08-22,2022-23,4,Trabzonspor,Kayserispor,2,0,Ev,2
+2022-08-22,2022-23,4,Sivasspor,Alanyaspor,2,2,Beraberlik,4
+2022-08-22,2022-23,4,Konyaspor,Basaksehir,1,1,Beraberlik,2
+2022-08-22,2022-23,4,Fenerbahce,Besiktas,4,3,Ev,7
+2022-08-22,2022-23,4,Kasimpasa,Galatasaray,1,0,Ev,1
+2022-08-22,2022-23,4,Antalyaspor,Adana Demirspor,0,2,Deplasman,2
+2022-08-29,2022-23,5,Konyaspor,Antalyaspor,1,2,Deplasman,3
+2022-08-29,2022-23,5,Basaksehir,Besiktas,3,1,Ev,4
+2022-08-29,2022-23,5,Kayserispor,Kasimpasa,5,3,Ev,8
+2022-08-29,2022-23,5,Trabzonspor,Galatasaray,0,0,Beraberlik,0
+2022-08-29,2022-23,5,Fenerbahce,Alanyaspor,2,0,Ev,2
+2022-08-29,2022-23,5,Adana Demirspor,Sivasspor,1,0,Ev,1
+2022-09-05,2022-23,6,Fenerbahce,Adana Demirspor,5,0,Ev,5
+2022-09-05,2022-23,6,Trabzonspor,Alanyaspor,1,2,Deplasman,3
+2022-09-05,2022-23,6,Besiktas,Konyaspor,5,1,Ev,6
+2022-09-05,2022-23,6,Kayserispor,Galatasaray,1,1,Beraberlik,2
+2022-09-05,2022-23,6,Basaksehir,Kasimpasa,4,1,Ev,5
+2022-09-05,2022-23,6,Sivasspor,Antalyaspor,4,1,Ev,5
+2022-09-12,2022-23,7,Fenerbahce,Besiktas,2,2,Beraberlik,4
+2022-09-12,2022-23,7,Kayserispor,Alanyaspor,3,1,Ev,4
+2022-09-12,2022-23,7,Galatasaray,Sivasspor,0,0,Beraberlik,0
+2022-09-12,2022-23,7,Trabzonspor,Antalyaspor,2,0,Ev,2
+2022-09-12,2022-23,7,Konyaspor,Kasimpasa,0,1,Deplasman,1
+2022-09-12,2022-23,7,Basaksehir,Adana Demirspor,1,1,Beraberlik,2
+2022-09-19,2022-23,8,Konyaspor,Galatasaray,5,1,Ev,6
+2022-09-19,2022-23,8,Antalyaspor,Trabzonspor,0,0,Beraberlik,0
+2022-09-19,2022-23,8,Kayserispor,Besiktas,2,1,Ev,3
+2022-09-19,2022-23,8,Alanyaspor,Fenerbahce,2,0,Ev,2
+2022-09-19,2022-23,8,Basaksehir,Adana Demirspor,2,2,Beraberlik,4
+2022-09-19,2022-23,8,Sivasspor,Kasimpasa,0,0,Beraberlik,0
+2022-09-26,2022-23,9,Adana Demirspor,Sivasspor,0,1,Deplasman,1
+2022-09-26,2022-23,9,Fenerbahce,Galatasaray,1,1,Beraberlik,2
+2022-09-26,2022-23,9,Trabzonspor,Antalyaspor,0,2,Deplasman,2
+2022-09-26,2022-23,9,Basaksehir,Besiktas,2,3,Deplasman,5
+2022-09-26,2022-23,9,Kasimpasa,Alanyaspor,2,5,Deplasman,7
+2022-09-26,2022-23,9,Konyaspor,Kayserispor,3,5,Deplasman,8
+2022-10-03,2022-23,10,Besiktas,Trabzonspor,2,2,Beraberlik,4
+2022-10-03,2022-23,10,Antalyaspor,Galatasaray,1,2,Deplasman,3
+2022-10-03,2022-23,10,Kasimpasa,Adana Demirspor,1,2,Deplasman,3
+2022-10-03,2022-23,10,Basaksehir,Alanyaspor,0,3,Deplasman,3
+2022-10-03,2022-23,10,Konyaspor,Fenerbahce,3,2,Ev,5
+2022-10-03,2022-23,10,Sivasspor,Kayserispor,1,0,Ev,1
+2022-10-10,2022-23,11,Besiktas,Fenerbahce,2,4,Deplasman,6
+2022-10-10,2022-23,11,Kasimpasa,Trabzonspor,1,2,Deplasman,3
+2022-10-10,2022-23,11,Sivasspor,Alanyaspor,1,0,Ev,1
+2022-10-10,2022-23,11,Adana Demirspor,Galatasaray,2,0,Ev,2
+2022-10-10,2022-23,11,Basaksehir,Kayserispor,1,2,Deplasman,3
+2022-10-10,2022-23,11,Antalyaspor,Konyaspor,0,2,Deplasman,2
+2022-10-17,2022-23,12,Fenerbahce,Antalyaspor,3,0,Ev,3
+2022-10-17,2022-23,12,Galatasaray,Kasimpasa,1,1,Beraberlik,2
+2022-10-17,2022-23,12,Alanyaspor,Kayserispor,4,2,Ev,6
+2022-10-17,2022-23,12,Konyaspor,Sivasspor,5,0,Ev,5
+2022-10-17,2022-23,12,Basaksehir,Adana Demirspor,2,1,Ev,3
+2022-10-17,2022-23,12,Besiktas,Trabzonspor,1,2,Deplasman,3
+2022-10-24,2022-23,13,Fenerbahce,Trabzonspor,2,1,Ev,3
+2022-10-24,2022-23,13,Antalyaspor,Adana Demirspor,0,1,Deplasman,1
+2022-10-24,2022-23,13,Alanyaspor,Besiktas,1,1,Beraberlik,2
+2022-10-24,2022-23,13,Kasimpasa,Kayserispor,0,0,Beraberlik,0
+2022-10-24,2022-23,13,Sivasspor,Basaksehir,4,2,Ev,6
+2022-10-24,2022-23,13,Konyaspor,Galatasaray,4,1,Ev,5
+2022-10-31,2022-23,14,Adana Demirspor,Kayserispor,3,3,Beraberlik,6
+2022-10-31,2022-23,14,Besiktas,Alanyaspor,1,1,Beraberlik,2
+2022-10-31,2022-23,14,Kasimpasa,Antalyaspor,0,2,Deplasman,2
+2022-10-31,2022-23,14,Sivasspor,Trabzonspor,1,2,Deplasman,3
+2022-10-31,2022-23,14,Basaksehir,Fenerbahce,1,1,Beraberlik,2
+2022-10-31,2022-23,14,Galatasaray,Konyaspor,3,6,Deplasman,9
+2022-11-07,2022-23,15,Kasimpasa,Basaksehir,0,1,Deplasman,1
+2022-11-07,2022-23,15,Fenerbahce,Trabzonspor,4,0,Ev,4
+2022-11-07,2022-23,15,Sivasspor,Antalyaspor,2,1,Ev,3
+2022-11-07,2022-23,15,Adana Demirspor,Alanyaspor,1,2,Deplasman,3
+2022-11-07,2022-23,15,Konyaspor,Besiktas,2,4,Deplasman,6
+2022-11-07,2022-23,15,Galatasaray,Kayserispor,2,0,Ev,2
+2022-11-14,2022-23,16,Alanyaspor,Fenerbahce,1,2,Deplasman,3
+2022-11-14,2022-23,16,Besiktas,Galatasaray,2,0,Ev,2
+2022-11-14,2022-23,16,Adana Demirspor,Kayserispor,2,1,Ev,3
+2022-11-14,2022-23,16,Basaksehir,Trabzonspor,2,2,Beraberlik,4
+2022-11-14,2022-23,16,Konyaspor,Sivasspor,4,0,Ev,4
+2022-11-14,2022-23,16,Kasimpasa,Antalyaspor,1,0,Ev,1
+2022-11-21,2022-23,17,Galatasaray,Besiktas,1,2,Deplasman,3
+2022-11-21,2022-23,17,Antalyaspor,Sivasspor,2,2,Beraberlik,4
+2022-11-21,2022-23,17,Fenerbahce,Kayserispor,3,3,Beraberlik,6
+2022-11-21,2022-23,17,Trabzonspor,Alanyaspor,1,2,Deplasman,3
+2022-11-21,2022-23,17,Kasimpasa,Adana Demirspor,1,1,Beraberlik,2
+2022-11-21,2022-23,17,Basaksehir,Konyaspor,0,5,Deplasman,5
+2022-11-28,2022-23,18,Trabzonspor,Fenerbahce,2,2,Beraberlik,4
+2022-11-28,2022-23,18,Sivasspor,Adana Demirspor,4,2,Ev,6
+2022-11-28,2022-23,18,Besiktas,Basaksehir,3,1,Ev,4
+2022-11-28,2022-23,18,Kasimpasa,Antalyaspor,1,0,Ev,1
+2022-11-28,2022-23,18,Konyaspor,Alanyaspor,0,0,Beraberlik,0
+2022-11-28,2022-23,18,Galatasaray,Kayserispor,3,5,Deplasman,8
+2022-12-05,2022-23,19,Fenerbahce,Alanyaspor,4,2,Ev,6
+2022-12-05,2022-23,19,Galatasaray,Kasimpasa,3,2,Ev,5
+2022-12-05,2022-23,19,Besiktas,Adana Demirspor,2,0,Ev,2
+2022-12-05,2022-23,19,Basaksehir,Konyaspor,1,1,Beraberlik,2
+2022-12-05,2022-23,19,Antalyaspor,Trabzonspor,1,2,Deplasman,3
+2022-12-05,2022-23,19,Kayserispor,Sivasspor,8,1,Ev,9
+2022-12-12,2022-23,20,Alanyaspor,Basaksehir,2,1,Ev,3
+2022-12-12,2022-23,20,Galatasaray,Antalyaspor,3,2,Ev,5
+2022-12-12,2022-23,20,Kasimpasa,Sivasspor,0,1,Deplasman,1
+2022-12-12,2022-23,20,Konyaspor,Adana Demirspor,3,0,Ev,3
+2022-12-12,2022-23,20,Fenerbahce,Trabzonspor,2,2,Beraberlik,4
+2022-12-12,2022-23,20,Kayserispor,Besiktas,3,0,Ev,3
+2022-12-19,2022-23,21,Besiktas,Galatasaray,3,1,Ev,4
+2022-12-19,2022-23,21,Antalyaspor,Basaksehir,0,0,Beraberlik,0
+2022-12-19,2022-23,21,Kayserispor,Kasimpasa,1,0,Ev,1
+2022-12-19,2022-23,21,Trabzonspor,Alanyaspor,3,2,Ev,5
+2022-12-19,2022-23,21,Konyaspor,Sivasspor,2,0,Ev,2
+2022-12-19,2022-23,21,Fenerbahce,Adana Demirspor,4,1,Ev,5
+2022-12-26,2022-23,22,Kasimpasa,Antalyaspor,1,0,Ev,1
+2022-12-26,2022-23,22,Adana Demirspor,Galatasaray,1,2,Deplasman,3
+2022-12-26,2022-23,22,Alanyaspor,Sivasspor,2,2,Beraberlik,4
+2022-12-26,2022-23,22,Konyaspor,Basaksehir,4,1,Ev,5
+2022-12-26,2022-23,22,Fenerbahce,Trabzonspor,1,1,Beraberlik,2
+2022-12-26,2022-23,22,Besiktas,Kayserispor,7,1,Ev,8
+2023-01-02,2022-23,23,Trabzonspor,Besiktas,4,1,Ev,5
+2023-01-02,2022-23,23,Antalyaspor,Konyaspor,0,1,Deplasman,1
+2023-01-02,2022-23,23,Galatasaray,Kasimpasa,0,0,Beraberlik,0
+2023-01-02,2022-23,23,Kayserispor,Adana Demirspor,0,0,Beraberlik,0
+2023-01-02,2022-23,23,Alanyaspor,Fenerbahce,4,1,Ev,5
+2023-01-02,2022-23,23,Sivasspor,Basaksehir,3,1,Ev,4
+2023-01-09,2022-23,24,Kayserispor,Adana Demirspor,2,2,Beraberlik,4
+2023-01-09,2022-23,24,Galatasaray,Alanyaspor,1,1,Beraberlik,2
+2023-01-09,2022-23,24,Sivasspor,Besiktas,6,0,Ev,6
+2023-01-09,2022-23,24,Trabzonspor,Fenerbahce,3,0,Ev,3
+2023-01-09,2022-23,24,Kasimpasa,Konyaspor,0,2,Deplasman,2
+2023-01-09,2022-23,24,Antalyaspor,Basaksehir,1,2,Deplasman,3
+2023-01-16,2022-23,25,Basaksehir,Trabzonspor,3,3,Beraberlik,6
+2023-01-16,2022-23,25,Kasimpasa,Antalyaspor,0,1,Deplasman,1
+2023-01-16,2022-23,25,Fenerbahce,Alanyaspor,3,1,Ev,4
+2023-01-16,2022-23,25,Sivasspor,Galatasaray,3,1,Ev,4
+2023-01-16,2022-23,25,Kayserispor,Besiktas,2,0,Ev,2
+2023-01-16,2022-23,25,Adana Demirspor,Konyaspor,0,1,Deplasman,1
+2023-01-23,2022-23,26,Alanyaspor,Antalyaspor,0,3,Deplasman,3
+2023-01-23,2022-23,26,Galatasaray,Adana Demirspor,6,1,Ev,7
+2023-01-23,2022-23,26,Sivasspor,Trabzonspor,4,0,Ev,4
+2023-01-23,2022-23,26,Kayserispor,Besiktas,2,3,Deplasman,5
+2023-01-23,2022-23,26,Basaksehir,Fenerbahce,1,3,Deplasman,4
+2023-01-23,2022-23,26,Kasimpasa,Konyaspor,2,2,Beraberlik,4
+2023-01-30,2022-23,27,Galatasaray,Basaksehir,2,1,Ev,3
+2023-01-30,2022-23,27,Kayserispor,Fenerbahce,3,0,Ev,3
+2023-01-30,2022-23,27,Konyaspor,Antalyaspor,0,0,Beraberlik,0
+2023-01-30,2022-23,27,Sivasspor,Kasimpasa,0,1,Deplasman,1
+2023-01-30,2022-23,27,Trabzonspor,Adana Demirspor,1,0,Ev,1
+2023-01-30,2022-23,27,Alanyaspor,Besiktas,3,1,Ev,4
+2023-02-06,2022-23,28,Adana Demirspor,Alanyaspor,1,2,Deplasman,3
+2023-02-06,2022-23,28,Antalyaspor,Kayserispor,3,1,Ev,4
+2023-02-06,2022-23,28,Sivasspor,Trabzonspor,4,1,Ev,5
+2023-02-06,2022-23,28,Kasimpasa,Galatasaray,0,0,Beraberlik,0
+2023-02-06,2022-23,28,Konyaspor,Besiktas,2,0,Ev,2
+2023-02-06,2022-23,28,Fenerbahce,Basaksehir,5,2,Ev,7
+2023-02-13,2022-23,29,Kasimpasa,Besiktas,1,1,Beraberlik,2
+2023-02-13,2022-23,29,Basaksehir,Alanyaspor,1,2,Deplasman,3
+2023-02-13,2022-23,29,Sivasspor,Fenerbahce,1,0,Ev,1
+2023-02-13,2022-23,29,Kayserispor,Adana Demirspor,1,2,Deplasman,3
+2023-02-13,2022-23,29,Konyaspor,Galatasaray,2,3,Deplasman,5
+2023-02-13,2022-23,29,Trabzonspor,Antalyaspor,5,0,Ev,5
+2023-02-20,2022-23,30,Fenerbahce,Kasimpasa,2,1,Ev,3
+2023-02-20,2022-23,30,Adana Demirspor,Kayserispor,1,1,Beraberlik,2
+2023-02-20,2022-23,30,Basaksehir,Alanyaspor,2,1,Ev,3
+2023-02-20,2022-23,30,Besiktas,Sivasspor,4,1,Ev,5
+2023-02-20,2022-23,30,Galatasaray,Konyaspor,3,2,Ev,5
+2023-02-20,2022-23,30,Antalyaspor,Trabzonspor,2,1,Ev,3
+2023-02-27,2022-23,31,Sivasspor,Basaksehir,3,1,Ev,4
+2023-02-27,2022-23,31,Kayserispor,Besiktas,0,1,Deplasman,1
+2023-02-27,2022-23,31,Adana Demirspor,Kasimpasa,2,0,Ev,2
+2023-02-27,2022-23,31,Galatasaray,Antalyaspor,3,2,Ev,5
+2023-02-27,2022-23,31,Trabzonspor,Konyaspor,0,2,Deplasman,2
+2023-02-27,2022-23,31,Fenerbahce,Alanyaspor,2,3,Deplasman,5
+2023-03-06,2022-23,32,Galatasaray,Fenerbahce,3,1,Ev,4
+2023-03-06,2022-23,32,Konyaspor,Alanyaspor,1,0,Ev,1
+2023-03-06,2022-23,32,Antalyaspor,Kasimpasa,1,0,Ev,1
+2023-03-06,2022-23,32,Besiktas,Basaksehir,4,1,Ev,5
+2023-03-06,2022-23,32,Sivasspor,Kayserispor,2,1,Ev,3
+2023-03-06,2022-23,32,Adana Demirspor,Trabzonspor,0,1,Deplasman,1
+2023-03-13,2022-23,33,Alanyaspor,Sivasspor,7,0,Ev,7
+2023-03-13,2022-23,33,Konyaspor,Besiktas,1,1,Beraberlik,2
+2023-03-13,2022-23,33,Kasimpasa,Trabzonspor,1,1,Beraberlik,2
+2023-03-13,2022-23,33,Antalyaspor,Kayserispor,2,2,Beraberlik,4
+2023-03-13,2022-23,33,Galatasaray,Adana Demirspor,2,1,Ev,3
+2023-03-13,2022-23,33,Basaksehir,Fenerbahce,2,4,Deplasman,6
+2023-03-20,2022-23,34,Galatasaray,Alanyaspor,4,2,Ev,6
+2023-03-20,2022-23,34,Antalyaspor,Kasimpasa,0,0,Beraberlik,0
+2023-03-20,2022-23,34,Konyaspor,Adana Demirspor,2,1,Ev,3
+2023-03-20,2022-23,34,Trabzonspor,Besiktas,2,3,Deplasman,5
+2023-03-20,2022-23,34,Sivasspor,Basaksehir,4,0,Ev,4
+2023-03-20,2022-23,34,Kayserispor,Fenerbahce,0,1,Deplasman,1
+2023-03-27,2023-24,1,Antalyaspor,Galatasaray,1,0,Ev,1
+2023-03-27,2023-24,1,Kayserispor,Alanyaspor,6,1,Ev,7
+2023-03-27,2023-24,1,Adana Demirspor,Trabzonspor,2,2,Beraberlik,4
+2023-03-27,2023-24,1,Sivasspor,Fenerbahce,3,0,Ev,3
+2023-03-27,2023-24,1,Kasimpasa,Besiktas,1,2,Deplasman,3
+2023-03-27,2023-24,1,Basaksehir,Konyaspor,1,2,Deplasman,3
+2023-04-03,2023-24,2,Galatasaray,Kasimpasa,1,0,Ev,1
+2023-04-03,2023-24,2,Trabzonspor,Konyaspor,3,1,Ev,4
+2023-04-03,2023-24,2,Besiktas,Sivasspor,2,0,Ev,2
+2023-04-03,2023-24,2,Alanyaspor,Fenerbahce,5,2,Ev,7
+2023-04-03,2023-24,2,Antalyaspor,Basaksehir,0,0,Beraberlik,0
+2023-04-03,2023-24,2,Adana Demirspor,Kayserispor,2,0,Ev,2
+2023-04-10,2023-24,3,Kayserispor,Antalyaspor,1,3,Deplasman,4
+2023-04-10,2023-24,3,Alanyaspor,Kasimpasa,3,0,Ev,3
+2023-04-10,2023-24,3,Konyaspor,Trabzonspor,2,2,Beraberlik,4
+2023-04-10,2023-24,3,Fenerbahce,Galatasaray,3,4,Deplasman,7
+2023-04-10,2023-24,3,Basaksehir,Adana Demirspor,3,3,Beraberlik,6
+2023-04-10,2023-24,3,Besiktas,Sivasspor,3,2,Ev,5
+2023-04-17,2023-24,4,Antalyaspor,Kasimpasa,0,2,Deplasman,2
+2023-04-17,2023-24,4,Alanyaspor,Trabzonspor,3,2,Ev,5
+2023-04-17,2023-24,4,Fenerbahce,Besiktas,4,2,Ev,6
+2023-04-17,2023-24,4,Konyaspor,Galatasaray,2,1,Ev,3
+2023-04-17,2023-24,4,Adana Demirspor,Sivasspor,2,5,Deplasman,7
+2023-04-17,2023-24,4,Kayserispor,Basaksehir,2,1,Ev,3
+2023-04-24,2023-24,5,Kayserispor,Sivasspor,1,2,Deplasman,3
+2023-04-24,2023-24,5,Antalyaspor,Galatasaray,1,0,Ev,1
+2023-04-24,2023-24,5,Trabzonspor,Adana Demirspor,3,2,Ev,5
+2023-04-24,2023-24,5,Alanyaspor,Basaksehir,1,0,Ev,1
+2023-04-24,2023-24,5,Fenerbahce,Kasimpasa,3,0,Ev,3
+2023-04-24,2023-24,5,Besiktas,Konyaspor,3,2,Ev,5
+2023-05-01,2023-24,6,Antalyaspor,Konyaspor,1,3,Deplasman,4
+2023-05-01,2023-24,6,Sivasspor,Kayserispor,1,5,Deplasman,6
+2023-05-01,2023-24,6,Galatasaray,Basaksehir,1,0,Ev,1
+2023-05-01,2023-24,6,Trabzonspor,Fenerbahce,3,1,Ev,4
+2023-05-01,2023-24,6,Adana Demirspor,Alanyaspor,0,1,Deplasman,1
+2023-05-01,2023-24,6,Besiktas,Kasimpasa,1,0,Ev,1
+2023-05-08,2023-24,7,Besiktas,Kayserispor,0,3,Deplasman,3
+2023-05-08,2023-24,7,Antalyaspor,Fenerbahce,2,3,Deplasman,5
+2023-05-08,2023-24,7,Alanyaspor,Basaksehir,2,2,Beraberlik,4
+2023-05-08,2023-24,7,Adana Demirspor,Kasimpasa,1,1,Beraberlik,2
+2023-05-08,2023-24,7,Konyaspor,Galatasaray,2,0,Ev,2
+2023-05-08,2023-24,7,Trabzonspor,Sivasspor,3,1,Ev,4
+2023-05-15,2023-24,8,Trabzonspor,Kasimpasa,3,0,Ev,3
+2023-05-15,2023-24,8,Sivasspor,Antalyaspor,3,1,Ev,4
+2023-05-15,2023-24,8,Besiktas,Basaksehir,1,1,Beraberlik,2
+2023-05-15,2023-24,8,Kayserispor,Adana Demirspor,3,0,Ev,3
+2023-05-15,2023-24,8,Konyaspor,Alanyaspor,2,2,Beraberlik,4
+2023-05-15,2023-24,8,Fenerbahce,Galatasaray,3,4,Deplasman,7
+2023-05-22,2023-24,9,Galatasaray,Kayserispor,0,2,Deplasman,2
+2023-05-22,2023-24,9,Antalyaspor,Adana Demirspor,0,0,Beraberlik,0
+2023-05-22,2023-24,9,Konyaspor,Fenerbahce,4,2,Ev,6
+2023-05-22,2023-24,9,Sivasspor,Besiktas,3,3,Beraberlik,6
+2023-05-22,2023-24,9,Kasimpasa,Basaksehir,1,0,Ev,1
+2023-05-22,2023-24,9,Alanyaspor,Trabzonspor,0,1,Deplasman,1
+2023-05-29,2023-24,10,Sivasspor,Galatasaray,2,0,Ev,2
+2023-05-29,2023-24,10,Kasimpasa,Alanyaspor,2,1,Ev,3
+2023-05-29,2023-24,10,Basaksehir,Antalyaspor,0,0,Beraberlik,0
+2023-05-29,2023-24,10,Konyaspor,Besiktas,2,3,Deplasman,5
+2023-05-29,2023-24,10,Fenerbahce,Kayserispor,1,1,Beraberlik,2
+2023-05-29,2023-24,10,Adana Demirspor,Trabzonspor,3,2,Ev,5
+2023-06-05,2023-24,11,Alanyaspor,Besiktas,2,1,Ev,3
+2023-06-05,2023-24,11,Adana Demirspor,Sivasspor,0,2,Deplasman,2
+2023-06-05,2023-24,11,Kasimpasa,Galatasaray,2,1,Ev,3
+2023-06-05,2023-24,11,Fenerbahce,Kayserispor,2,1,Ev,3
+2023-06-05,2023-24,11,Trabzonspor,Basaksehir,3,1,Ev,4
+2023-06-05,2023-24,11,Konyaspor,Antalyaspor,5,0,Ev,5
+2023-06-12,2023-24,12,Alanyaspor,Trabzonspor,2,1,Ev,3
+2023-06-12,2023-24,12,Galatasaray,Fenerbahce,3,0,Ev,3
+2023-06-12,2023-24,12,Konyaspor,Adana Demirspor,1,0,Ev,1
+2023-06-12,2023-24,12,Sivasspor,Kasimpasa,0,2,Deplasman,2
+2023-06-12,2023-24,12,Kayserispor,Antalyaspor,3,0,Ev,3
+2023-06-12,2023-24,12,Besiktas,Basaksehir,1,2,Deplasman,3
+2023-06-19,2023-24,13,Fenerbahce,Konyaspor,4,4,Beraberlik,8
+2023-06-19,2023-24,13,Sivasspor,Galatasaray,4,2,Ev,6
+2023-06-19,2023-24,13,Basaksehir,Trabzonspor,1,3,Deplasman,4
+2023-06-19,2023-24,13,Kayserispor,Besiktas,1,2,Deplasman,3
+2023-06-19,2023-24,13,Antalyaspor,Kasimpasa,4,1,Ev,5
+2023-06-19,2023-24,13,Alanyaspor,Adana Demirspor,4,3,Ev,7
+2023-06-26,2023-24,14,Trabzonspor,Kasimpasa,3,0,Ev,3
+2023-06-26,2023-24,14,Kayserispor,Fenerbahce,1,2,Deplasman,3
+2023-06-26,2023-24,14,Antalyaspor,Besiktas,3,1,Ev,4
+2023-06-26,2023-24,14,Alanyaspor,Sivasspor,4,2,Ev,6
+2023-06-26,2023-24,14,Galatasaray,Basaksehir,4,0,Ev,4
+2023-06-26,2023-24,14,Adana Demirspor,Konyaspor,4,2,Ev,6
+2023-07-03,2023-24,15,Alanyaspor,Adana Demirspor,1,1,Beraberlik,2
+2023-07-03,2023-24,15,Trabzonspor,Galatasaray,1,1,Beraberlik,2
+2023-07-03,2023-24,15,Antalyaspor,Kasimpasa,1,1,Beraberlik,2
+2023-07-03,2023-24,15,Kayserispor,Besiktas,4,2,Ev,6
+2023-07-03,2023-24,15,Sivasspor,Basaksehir,0,0,Beraberlik,0
+2023-07-03,2023-24,15,Konyaspor,Fenerbahce,5,1,Ev,6
+2023-07-10,2023-24,16,Besiktas,Trabzonspor,1,5,Deplasman,6
+2023-07-10,2023-24,16,Fenerbahce,Kayserispor,4,4,Beraberlik,8
+2023-07-10,2023-24,16,Basaksehir,Antalyaspor,1,0,Ev,1
+2023-07-10,2023-24,16,Kasimpasa,Konyaspor,1,4,Deplasman,5
+2023-07-10,2023-24,16,Sivasspor,Alanyaspor,3,0,Ev,3
+2023-07-10,2023-24,16,Galatasaray,Adana Demirspor,1,0,Ev,1
+2023-07-17,2023-24,17,Besiktas,Fenerbahce,1,3,Deplasman,4
+2023-07-17,2023-24,17,Kasimpasa,Galatasaray,1,0,Ev,1
+2023-07-17,2023-24,17,Trabzonspor,Alanyaspor,1,2,Deplasman,3
+2023-07-17,2023-24,17,Antalyaspor,Basaksehir,0,1,Deplasman,1
+2023-07-17,2023-24,17,Adana Demirspor,Sivasspor,0,2,Deplasman,2
+2023-07-17,2023-24,17,Konyaspor,Kayserispor,5,1,Ev,6
+2023-07-24,2023-24,18,Fenerbahce,Alanyaspor,1,0,Ev,1
+2023-07-24,2023-24,18,Galatasaray,Konyaspor,2,1,Ev,3
+2023-07-24,2023-24,18,Adana Demirspor,Kayserispor,2,2,Beraberlik,4
+2023-07-24,2023-24,18,Kasimpasa,Besiktas,1,0,Ev,1
+2023-07-24,2023-24,18,Basaksehir,Trabzonspor,3,2,Ev,5
+2023-07-24,2023-24,18,Sivasspor,Antalyaspor,0,1,Deplasman,1
+2023-07-31,2023-24,19,Basaksehir,Kayserispor,2,4,Deplasman,6
+2023-07-31,2023-24,19,Antalyaspor,Alanyaspor,2,0,Ev,2
+2023-07-31,2023-24,19,Konyaspor,Adana Demirspor,4,2,Ev,6
+2023-07-31,2023-24,19,Kasimpasa,Besiktas,2,1,Ev,3
+2023-07-31,2023-24,19,Fenerbahce,Sivasspor,6,0,Ev,6
+2023-07-31,2023-24,19,Galatasaray,Trabzonspor,2,2,Beraberlik,4
+2023-08-07,2023-24,20,Galatasaray,Trabzonspor,2,3,Deplasman,5
+2023-08-07,2023-24,20,Kayserispor,Fenerbahce,2,3,Deplasman,5
+2023-08-07,2023-24,20,Antalyaspor,Alanyaspor,1,0,Ev,1
+2023-08-07,2023-24,20,Konyaspor,Kasimpasa,2,1,Ev,3
+2023-08-07,2023-24,20,Sivasspor,Basaksehir,2,4,Deplasman,6
+2023-08-07,2023-24,20,Adana Demirspor,Besiktas,0,3,Deplasman,3
+2023-08-14,2023-24,21,Adana Demirspor,Alanyaspor,0,2,Deplasman,2
+2023-08-14,2023-24,21,Konyaspor,Sivasspor,4,1,Ev,5
+2023-08-14,2023-24,21,Trabzonspor,Fenerbahce,1,1,Beraberlik,2
+2023-08-14,2023-24,21,Kayserispor,Antalyaspor,2,0,Ev,2
+2023-08-14,2023-24,21,Galatasaray,Basaksehir,2,0,Ev,2
+2023-08-14,2023-24,21,Kasimpasa,Besiktas,0,4,Deplasman,4
+2023-08-21,2023-24,22,Basaksehir,Antalyaspor,1,0,Ev,1
+2023-08-21,2023-24,22,Sivasspor,Trabzonspor,1,2,Deplasman,3
+2023-08-21,2023-24,22,Kayserispor,Besiktas,0,1,Deplasman,1
+2023-08-21,2023-24,22,Fenerbahce,Adana Demirspor,5,3,Ev,8
+2023-08-21,2023-24,22,Kasimpasa,Alanyaspor,1,2,Deplasman,3
+2023-08-21,2023-24,22,Konyaspor,Galatasaray,1,0,Ev,1
+2023-08-28,2023-24,23,Antalyaspor,Galatasaray,2,2,Beraberlik,4
+2023-08-28,2023-24,23,Alanyaspor,Fenerbahce,3,2,Ev,5
+2023-08-28,2023-24,23,Kayserispor,Sivasspor,4,1,Ev,5
+2023-08-28,2023-24,23,Besiktas,Konyaspor,2,1,Ev,3
+2023-08-28,2023-24,23,Trabzonspor,Adana Demirspor,1,1,Beraberlik,2
+2023-08-28,2023-24,23,Basaksehir,Kasimpasa,2,0,Ev,2
+2023-09-04,2023-24,24,Besiktas,Galatasaray,1,0,Ev,1
+2023-09-04,2023-24,24,Adana Demirspor,Trabzonspor,2,1,Ev,3
+2023-09-04,2023-24,24,Antalyaspor,Kasimpasa,1,0,Ev,1
+2023-09-04,2023-24,24,Basaksehir,Alanyaspor,1,0,Ev,1
+2023-09-04,2023-24,24,Kayserispor,Konyaspor,4,2,Ev,6
+2023-09-04,2023-24,24,Sivasspor,Fenerbahce,3,1,Ev,4
+2023-09-11,2023-24,25,Konyaspor,Adana Demirspor,3,1,Ev,4
+2023-09-11,2023-24,25,Fenerbahce,Kayserispor,4,1,Ev,5
+2023-09-11,2023-24,25,Kasimpasa,Antalyaspor,0,0,Beraberlik,0
+2023-09-11,2023-24,25,Basaksehir,Galatasaray,1,3,Deplasman,4
+2023-09-11,2023-24,25,Besiktas,Trabzonspor,3,1,Ev,4
+2023-09-11,2023-24,25,Sivasspor,Alanyaspor,1,2,Deplasman,3
+2023-09-18,2023-24,26,Galatasaray,Trabzonspor,0,2,Deplasman,2
+2023-09-18,2023-24,26,Besiktas,Alanyaspor,3,4,Deplasman,7
+2023-09-18,2023-24,26,Antalyaspor,Sivasspor,0,1,Deplasman,1
+2023-09-18,2023-24,26,Basaksehir,Fenerbahce,1,0,Ev,1
+2023-09-18,2023-24,26,Kasimpasa,Adana Demirspor,1,1,Beraberlik,2
+2023-09-18,2023-24,26,Kayserispor,Konyaspor,0,0,Beraberlik,0
+2023-09-25,2023-24,27,Kayserispor,Adana Demirspor,1,2,Deplasman,3
+2023-09-25,2023-24,27,Besiktas,Trabzonspor,1,2,Deplasman,3
+2023-09-25,2023-24,27,Antalyaspor,Alanyaspor,0,1,Deplasman,1
+2023-09-25,2023-24,27,Sivasspor,Konyaspor,1,2,Deplasman,3
+2023-09-25,2023-24,27,Fenerbahce,Basaksehir,2,2,Beraberlik,4
+2023-09-25,2023-24,27,Kasimpasa,Galatasaray,1,0,Ev,1
+2023-10-02,2023-24,28,Besiktas,Fenerbahce,1,3,Deplasman,4
+2023-10-02,2023-24,28,Konyaspor,Sivasspor,1,1,Beraberlik,2
+2023-10-02,2023-24,28,Trabzonspor,Adana Demirspor,2,0,Ev,2
+2023-10-02,2023-24,28,Antalyaspor,Alanyaspor,1,2,Deplasman,3
+2023-10-02,2023-24,28,Basaksehir,Kayserispor,1,2,Deplasman,3
+2023-10-02,2023-24,28,Galatasaray,Kasimpasa,1,0,Ev,1
+2023-10-09,2023-24,29,Konyaspor,Galatasaray,3,0,Ev,3
+2023-10-09,2023-24,29,Kasimpasa,Antalyaspor,0,0,Beraberlik,0
+2023-10-09,2023-24,29,Fenerbahce,Basaksehir,3,1,Ev,4
+2023-10-09,2023-24,29,Alanyaspor,Besiktas,3,4,Deplasman,7
+2023-10-09,2023-24,29,Kayserispor,Trabzonspor,2,2,Beraberlik,4
+2023-10-09,2023-24,29,Sivasspor,Adana Demirspor,5,1,Ev,6
+2023-10-16,2023-24,30,Fenerbahce,Alanyaspor,5,0,Ev,5
+2023-10-16,2023-24,30,Sivasspor,Kasimpasa,3,3,Beraberlik,6
+2023-10-16,2023-24,30,Adana Demirspor,Trabzonspor,4,0,Ev,4
+2023-10-16,2023-24,30,Galatasaray,Basaksehir,4,1,Ev,5
+2023-10-16,2023-24,30,Kayserispor,Antalyaspor,3,1,Ev,4
+2023-10-16,2023-24,30,Besiktas,Konyaspor,2,1,Ev,3
+2023-10-23,2023-24,31,Galatasaray,Kasimpasa,1,0,Ev,1
+2023-10-23,2023-24,31,Konyaspor,Adana Demirspor,0,0,Beraberlik,0
+2023-10-23,2023-24,31,Besiktas,Fenerbahce,1,0,Ev,1
+2023-10-23,2023-24,31,Trabzonspor,Antalyaspor,5,0,Ev,5
+2023-10-23,2023-24,31,Sivasspor,Basaksehir,3,0,Ev,3
+2023-10-23,2023-24,31,Kayserispor,Alanyaspor,4,0,Ev,4
+2023-10-30,2023-24,32,Sivasspor,Konyaspor,2,2,Beraberlik,4
+2023-10-30,2023-24,32,Alanyaspor,Besiktas,1,1,Beraberlik,2
+2023-10-30,2023-24,32,Adana Demirspor,Basaksehir,3,0,Ev,3
+2023-10-30,2023-24,32,Kayserispor,Trabzonspor,3,4,Deplasman,7
+2023-10-30,2023-24,32,Galatasaray,Antalyaspor,2,0,Ev,2
+2023-10-30,2023-24,32,Kasimpasa,Fenerbahce,0,2,Deplasman,2
+2023-11-06,2023-24,33,Alanyaspor,Sivasspor,0,2,Deplasman,2
+2023-11-06,2023-24,33,Antalyaspor,Adana Demirspor,1,0,Ev,1
+2023-11-06,2023-24,33,Galatasaray,Basaksehir,1,1,Beraberlik,2
+2023-11-06,2023-24,33,Fenerbahce,Besiktas,2,0,Ev,2
+2023-11-06,2023-24,33,Konyaspor,Trabzonspor,3,4,Deplasman,7
+2023-11-06,2023-24,33,Kayserispor,Kasimpasa,2,1,Ev,3
+2023-11-13,2023-24,34,Trabzonspor,Adana Demirspor,5,2,Ev,7
+2023-11-13,2023-24,34,Alanyaspor,Antalyaspor,3,1,Ev,4
+2023-11-13,2023-24,34,Basaksehir,Galatasaray,1,0,Ev,1
+2023-11-13,2023-24,34,Kasimpasa,Sivasspor,1,2,Deplasman,3
+2023-11-13,2023-24,34,Fenerbahce,Besiktas,3,2,Ev,5
+2023-11-13,2023-24,34,Konyaspor,Kayserispor,2,2,Beraberlik,4
+2023-11-20,2023-25,1,Adana Demirspor,Besiktas,3,1,Ev,4
+2023-11-20,2023-25,1,Fenerbahce,Kasimpasa,4,1,Ev,5
+2023-11-20,2023-25,1,Alanyaspor,Kayserispor,4,2,Ev,6
+2023-11-20,2023-25,1,Basaksehir,Antalyaspor,1,0,Ev,1
+2023-11-20,2023-25,1,Trabzonspor,Konyaspor,2,1,Ev,3
+2023-11-20,2023-25,1,Galatasaray,Sivasspor,1,1,Beraberlik,2
+2023-11-27,2023-25,2,Besiktas,Alanyaspor,5,0,Ev,5
+2023-11-27,2023-25,2,Galatasaray,Antalyaspor,0,3,Deplasman,3
+2023-11-27,2023-25,2,Fenerbahce,Trabzonspor,1,3,Deplasman,4
+2023-11-27,2023-25,2,Kayserispor,Adana Demirspor,5,3,Ev,8
+2023-11-27,2023-25,2,Kasimpasa,Sivasspor,0,2,Deplasman,2
+2023-11-27,2023-25,2,Konyaspor,Basaksehir,5,1,Ev,6
+2023-12-04,2023-25,3,Kayserispor,Adana Demirspor,3,1,Ev,4
+2023-12-04,2023-25,3,Galatasaray,Basaksehir,0,0,Beraberlik,0
+2023-12-04,2023-25,3,Trabzonspor,Antalyaspor,3,0,Ev,3
+2023-12-04,2023-25,3,Fenerbahce,Konyaspor,2,0,Ev,2
+2023-12-04,2023-25,3,Besiktas,Sivasspor,6,5,Ev,11
+2023-12-04,2023-25,3,Alanyaspor,Kasimpasa,2,2,Beraberlik,4
+2023-12-11,2023-25,4,Besiktas,Basaksehir,1,1,Beraberlik,2
+2023-12-11,2023-25,4,Fenerbahce,Antalyaspor,3,1,Ev,4
+2023-12-11,2023-25,4,Sivasspor,Trabzonspor,0,0,Beraberlik,0
+2023-12-11,2023-25,4,Konyaspor,Kasimpasa,3,0,Ev,3
+2023-12-11,2023-25,4,Kayserispor,Adana Demirspor,3,1,Ev,4
+2023-12-11,2023-25,4,Alanyaspor,Galatasaray,2,0,Ev,2
+2023-12-18,2023-25,5,Antalyaspor,Adana Demirspor,3,1,Ev,4
+2023-12-18,2023-25,5,Trabzonspor,Kayserispor,3,2,Ev,5
+2023-12-18,2023-25,5,Alanyaspor,Sivasspor,1,0,Ev,1
+2023-12-18,2023-25,5,Galatasaray,Besiktas,0,0,Beraberlik,0
+2023-12-18,2023-25,5,Fenerbahce,Basaksehir,4,1,Ev,5
+2023-12-18,2023-25,5,Konyaspor,Kasimpasa,3,2,Ev,5
+2023-12-25,2023-25,6,Trabzonspor,Besiktas,2,0,Ev,2
+2023-12-25,2023-25,6,Sivasspor,Antalyaspor,0,2,Deplasman,2
+2023-12-25,2023-25,6,Alanyaspor,Fenerbahce,5,1,Ev,6
+2023-12-25,2023-25,6,Adana Demirspor,Konyaspor,1,1,Beraberlik,2
+2023-12-25,2023-25,6,Kasimpasa,Basaksehir,0,1,Deplasman,1
+2023-12-25,2023-25,6,Galatasaray,Kayserispor,2,2,Beraberlik,4
+2024-01-01,2023-25,7,Alanyaspor,Trabzonspor,4,1,Ev,5
+2024-01-01,2023-25,7,Basaksehir,Besiktas,1,2,Deplasman,3
+2024-01-01,2023-25,7,Kasimpasa,Konyaspor,0,2,Deplasman,2
+2024-01-01,2023-25,7,Kayserispor,Adana Demirspor,3,0,Ev,3
+2024-01-01,2023-25,7,Fenerbahce,Galatasaray,3,2,Ev,5
+2024-01-01,2023-25,7,Sivasspor,Antalyaspor,1,2,Deplasman,3
+2024-01-08,2023-25,8,Kasimpasa,Sivasspor,2,1,Ev,3
+2024-01-08,2023-25,8,Besiktas,Konyaspor,4,4,Beraberlik,8
+2024-01-08,2023-25,8,Antalyaspor,Basaksehir,0,2,Deplasman,2
+2024-01-08,2023-25,8,Kayserispor,Galatasaray,0,1,Deplasman,1
+2024-01-08,2023-25,8,Trabzonspor,Adana Demirspor,3,2,Ev,5
+2024-01-08,2023-25,8,Fenerbahce,Alanyaspor,1,3,Deplasman,4
+2024-01-15,2023-25,9,Kasimpasa,Antalyaspor,2,0,Ev,2
+2024-01-15,2023-25,9,Sivasspor,Fenerbahce,5,1,Ev,6
+2024-01-15,2023-25,9,Basaksehir,Galatasaray,1,2,Deplasman,3
+2024-01-15,2023-25,9,Kayserispor,Konyaspor,3,0,Ev,3
+2024-01-15,2023-25,9,Trabzonspor,Adana Demirspor,2,0,Ev,2
+2024-01-15,2023-25,9,Alanyaspor,Besiktas,4,4,Beraberlik,8
+2024-01-22,2023-25,10,Fenerbahce,Sivasspor,3,1,Ev,4
+2024-01-22,2023-25,10,Kayserispor,Kasimpasa,1,1,Beraberlik,2
+2024-01-22,2023-25,10,Besiktas,Basaksehir,4,1,Ev,5
+2024-01-22,2023-25,10,Galatasaray,Antalyaspor,1,0,Ev,1
+2024-01-22,2023-25,10,Konyaspor,Alanyaspor,2,3,Deplasman,5
+2024-01-22,2023-25,10,Trabzonspor,Adana Demirspor,3,1,Ev,4
+2024-01-29,2023-25,11,Galatasaray,Basaksehir,1,2,Deplasman,3
+2024-01-29,2023-25,11,Trabzonspor,Konyaspor,0,3,Deplasman,3
+2024-01-29,2023-25,11,Besiktas,Antalyaspor,3,1,Ev,4
+2024-01-29,2023-25,11,Alanyaspor,Adana Demirspor,3,1,Ev,4
+2024-01-29,2023-25,11,Kayserispor,Fenerbahce,6,3,Ev,9
+2024-01-29,2023-25,11,Kasimpasa,Sivasspor,2,1,Ev,3
+2024-02-05,2023-25,12,Sivasspor,Konyaspor,3,3,Beraberlik,6
+2024-02-05,2023-25,12,Antalyaspor,Alanyaspor,1,1,Beraberlik,2
+2024-02-05,2023-25,12,Kasimpasa,Fenerbahce,1,2,Deplasman,3
+2024-02-05,2023-25,12,Trabzonspor,Adana Demirspor,5,1,Ev,6
+2024-02-05,2023-25,12,Basaksehir,Besiktas,3,1,Ev,4
+2024-02-05,2023-25,12,Kayserispor,Galatasaray,5,1,Ev,6
+2024-02-12,2023-25,13,Galatasaray,Kasimpasa,2,1,Ev,3
+2024-02-12,2023-25,13,Besiktas,Konyaspor,6,3,Ev,9
+2024-02-12,2023-25,13,Antalyaspor,Sivasspor,1,2,Deplasman,3
+2024-02-12,2023-25,13,Trabzonspor,Basaksehir,4,0,Ev,4
+2024-02-12,2023-25,13,Alanyaspor,Adana Demirspor,2,1,Ev,3
+2024-02-12,2023-25,13,Fenerbahce,Kayserispor,4,1,Ev,5
+2024-02-19,2023-25,14,Kayserispor,Kasimpasa,4,0,Ev,4
+2024-02-19,2023-25,14,Sivasspor,Besiktas,2,2,Beraberlik,4
+2024-02-19,2023-25,14,Galatasaray,Fenerbahce,1,1,Beraberlik,2
+2024-02-19,2023-25,14,Basaksehir,Adana Demirspor,1,3,Deplasman,4
+2024-02-19,2023-25,14,Konyaspor,Trabzonspor,5,1,Ev,6
+2024-02-19,2023-25,14,Antalyaspor,Alanyaspor,1,4,Deplasman,5
+2024-02-26,2023-25,15,Konyaspor,Fenerbahce,2,1,Ev,3
+2024-02-26,2023-25,15,Besiktas,Sivasspor,4,0,Ev,4
+2024-02-26,2023-25,15,Antalyaspor,Kasimpasa,3,1,Ev,4
+2024-02-26,2023-25,15,Alanyaspor,Galatasaray,3,3,Beraberlik,6
+2024-02-26,2023-25,15,Basaksehir,Kayserispor,3,0,Ev,3
+2024-02-26,2023-25,15,Trabzonspor,Adana Demirspor,4,1,Ev,5
+2024-03-04,2023-25,16,Konyaspor,Kayserispor,4,2,Ev,6
+2024-03-04,2023-25,16,Adana Demirspor,Antalyaspor,0,2,Deplasman,2
+2024-03-04,2023-25,16,Alanyaspor,Trabzonspor,0,4,Deplasman,4
+2024-03-04,2023-25,16,Galatasaray,Basaksehir,1,2,Deplasman,3
+2024-03-04,2023-25,16,Besiktas,Sivasspor,1,5,Deplasman,6
+2024-03-04,2023-25,16,Kasimpasa,Fenerbahce,2,1,Ev,3
+2024-03-11,2023-25,17,Galatasaray,Fenerbahce,2,0,Ev,2
+2024-03-11,2023-25,17,Antalyaspor,Kayserispor,1,3,Deplasman,4
+2024-03-11,2023-25,17,Besiktas,Alanyaspor,4,1,Ev,5
+2024-03-11,2023-25,17,Konyaspor,Adana Demirspor,3,3,Beraberlik,6
+2024-03-11,2023-25,17,Sivasspor,Basaksehir,1,1,Beraberlik,2
+2024-03-11,2023-25,17,Trabzonspor,Kasimpasa,1,0,Ev,1
+2024-03-18,2023-25,18,Basaksehir,Sivasspor,2,1,Ev,3
+2024-03-18,2023-25,18,Konyaspor,Adana Demirspor,9,1,Ev,10
+2024-03-18,2023-25,18,Galatasaray,Fenerbahce,1,4,Deplasman,5
+2024-03-18,2023-25,18,Kasimpasa,Kayserispor,0,1,Deplasman,1
+2024-03-18,2023-25,18,Trabzonspor,Antalyaspor,0,2,Deplasman,2
+2024-03-18,2023-25,18,Besiktas,Alanyaspor,1,0,Ev,1
+2024-03-25,2023-25,19,Sivasspor,Kayserispor,1,3,Deplasman,4
+2024-03-25,2023-25,19,Kasimpasa,Trabzonspor,1,2,Deplasman,3
+2024-03-25,2023-25,19,Fenerbahce,Antalyaspor,7,1,Ev,8
+2024-03-25,2023-25,19,Adana Demirspor,Basaksehir,2,2,Beraberlik,4
+2024-03-25,2023-25,19,Alanyaspor,Besiktas,4,0,Ev,4
+2024-03-25,2023-25,19,Galatasaray,Konyaspor,3,1,Ev,4
+2024-04-01,2023-25,20,Sivasspor,Fenerbahce,4,1,Ev,5
+2024-04-01,2023-25,20,Kayserispor,Besiktas,2,2,Beraberlik,4
+2024-04-01,2023-25,20,Kasimpasa,Adana Demirspor,0,2,Deplasman,2
+2024-04-01,2023-25,20,Alanyaspor,Trabzonspor,5,0,Ev,5
+2024-04-01,2023-25,20,Antalyaspor,Basaksehir,0,2,Deplasman,2
+2024-04-01,2023-25,20,Konyaspor,Galatasaray,3,1,Ev,4
+2024-04-08,2023-25,21,Galatasaray,Adana Demirspor,0,1,Deplasman,1
+2024-04-08,2023-25,21,Konyaspor,Kasimpasa,3,0,Ev,3
+2024-04-08,2023-25,21,Trabzonspor,Besiktas,0,0,Beraberlik,0
+2024-04-08,2023-25,21,Alanyaspor,Antalyaspor,2,0,Ev,2
+2024-04-08,2023-25,21,Fenerbahce,Kayserispor,3,3,Beraberlik,6
+2024-04-08,2023-25,21,Basaksehir,Sivasspor,0,2,Deplasman,2
+2024-04-15,2023-25,22,Sivasspor,Galatasaray,0,1,Deplasman,1
+2024-04-15,2023-25,22,Antalyaspor,Kayserispor,1,2,Deplasman,3
+2024-04-15,2023-25,22,Kasimpasa,Konyaspor,2,2,Beraberlik,4
+2024-04-15,2023-25,22,Fenerbahce,Adana Demirspor,4,1,Ev,5
+2024-04-15,2023-25,22,Besiktas,Trabzonspor,3,2,Ev,5
+2024-04-15,2023-25,22,Basaksehir,Alanyaspor,2,0,Ev,2
+2024-04-22,2023-25,23,Adana Demirspor,Besiktas,4,0,Ev,4
+2024-04-22,2023-25,23,Fenerbahce,Galatasaray,3,2,Ev,5
+2024-04-22,2023-25,23,Kayserispor,Basaksehir,4,2,Ev,6
+2024-04-22,2023-25,23,Trabzonspor,Antalyaspor,4,0,Ev,4
+2024-04-22,2023-25,23,Konyaspor,Kasimpasa,5,0,Ev,5
+2024-04-22,2023-25,23,Alanyaspor,Sivasspor,1,1,Beraberlik,2
+2024-04-29,2023-25,24,Galatasaray,Sivasspor,1,4,Deplasman,5
+2024-04-29,2023-25,24,Basaksehir,Konyaspor,2,4,Deplasman,6
+2024-04-29,2023-25,24,Trabzonspor,Kayserispor,2,2,Beraberlik,4
+2024-04-29,2023-25,24,Fenerbahce,Besiktas,7,1,Ev,8
+2024-04-29,2023-25,24,Alanyaspor,Kasimpasa,4,1,Ev,5
+2024-04-29,2023-25,24,Antalyaspor,Adana Demirspor,0,1,Deplasman,1
+2024-05-06,2023-25,25,Konyaspor,Basaksehir,4,0,Ev,4
+2024-05-06,2023-25,25,Adana Demirspor,Alanyaspor,3,2,Ev,5
+2024-05-06,2023-25,25,Sivasspor,Kayserispor,5,1,Ev,6
+2024-05-06,2023-25,25,Fenerbahce,Besiktas,5,0,Ev,5
+2024-05-06,2023-25,25,Antalyaspor,Trabzonspor,1,3,Deplasman,4
+2024-05-06,2023-25,25,Kasimpasa,Galatasaray,2,0,Ev,2
+2024-05-13,2023-25,26,Konyaspor,Kayserispor,7,0,Ev,7
+2024-05-13,2023-25,26,Sivasspor,Alanyaspor,2,4,Deplasman,6
+2024-05-13,2023-25,26,Kasimpasa,Adana Demirspor,1,0,Ev,1
+2024-05-13,2023-25,26,Basaksehir,Trabzonspor,0,1,Deplasman,1
+2024-05-13,2023-25,26,Antalyaspor,Fenerbahce,1,2,Deplasman,3
+2024-05-13,2023-25,26,Galatasaray,Besiktas,1,2,Deplasman,3
+2024-05-20,2023-25,27,Galatasaray,Trabzonspor,4,1,Ev,5
+2024-05-20,2023-25,27,Kayserispor,Basaksehir,3,1,Ev,4
+2024-05-20,2023-25,27,Besiktas,Alanyaspor,2,2,Beraberlik,4
+2024-05-20,2023-25,27,Sivasspor,Konyaspor,2,1,Ev,3
+2024-05-20,2023-25,27,Adana Demirspor,Kasimpasa,2,1,Ev,3
+2024-05-20,2023-25,27,Fenerbahce,Antalyaspor,3,0,Ev,3
+2024-05-27,2023-25,28,Basaksehir,Trabzonspor,2,1,Ev,3
+2024-05-27,2023-25,28,Kayserispor,Kasimpasa,3,0,Ev,3
+2024-05-27,2023-25,28,Adana Demirspor,Fenerbahce,1,2,Deplasman,3
+2024-05-27,2023-25,28,Besiktas,Konyaspor,4,1,Ev,5
+2024-05-27,2023-25,28,Alanyaspor,Sivasspor,3,1,Ev,4
+2024-05-27,2023-25,28,Galatasaray,Antalyaspor,0,2,Deplasman,2
+2024-06-03,2023-25,29,Konyaspor,Trabzonspor,1,1,Beraberlik,2
+2024-06-03,2023-25,29,Fenerbahce,Adana Demirspor,6,0,Ev,6
+2024-06-03,2023-25,29,Kasimpasa,Galatasaray,0,1,Deplasman,1
+2024-06-03,2023-25,29,Alanyaspor,Basaksehir,2,1,Ev,3
+2024-06-03,2023-25,29,Sivasspor,Kayserispor,0,2,Deplasman,2
+2024-06-03,2023-25,29,Antalyaspor,Besiktas,0,1,Deplasman,1
+2024-06-10,2023-25,30,Konyaspor,Kayserispor,4,4,Beraberlik,8
+2024-06-10,2023-25,30,Adana Demirspor,Kasimpasa,1,1,Beraberlik,2
+2024-06-10,2023-25,30,Trabzonspor,Galatasaray,2,1,Ev,3
+2024-06-10,2023-25,30,Antalyaspor,Basaksehir,0,0,Beraberlik,0
+2024-06-10,2023-25,30,Sivasspor,Alanyaspor,4,3,Ev,7
+2024-06-10,2023-25,30,Fenerbahce,Besiktas,3,3,Beraberlik,6
+2024-06-17,2023-25,31,Konyaspor,Kayserispor,2,4,Deplasman,6
+2024-06-17,2023-25,31,Fenerbahce,Galatasaray,1,0,Ev,1
+2024-06-17,2023-25,31,Kasimpasa,Basaksehir,0,0,Beraberlik,0
+2024-06-17,2023-25,31,Alanyaspor,Trabzonspor,3,1,Ev,4
+2024-06-17,2023-25,31,Adana Demirspor,Antalyaspor,1,1,Beraberlik,2
+2024-06-17,2023-25,31,Besiktas,Sivasspor,1,4,Deplasman,5
+2024-06-24,2023-25,32,Sivasspor,Konyaspor,2,1,Ev,3
+2024-06-24,2023-25,32,Besiktas,Kasimpasa,1,0,Ev,1
+2024-06-24,2023-25,32,Adana Demirspor,Fenerbahce,1,0,Ev,1
+2024-06-24,2023-25,32,Trabzonspor,Kayserispor,0,1,Deplasman,1
+2024-06-24,2023-25,32,Basaksehir,Alanyaspor,1,1,Beraberlik,2
+2024-06-24,2023-25,32,Galatasaray,Antalyaspor,4,1,Ev,5
+2024-07-01,2023-25,33,Basaksehir,Fenerbahce,1,1,Beraberlik,2
+2024-07-01,2023-25,33,Besiktas,Konyaspor,3,2,Ev,5
+2024-07-01,2023-25,33,Sivasspor,Kayserispor,1,0,Ev,1
+2024-07-01,2023-25,33,Antalyaspor,Kasimpasa,3,1,Ev,4
+2024-07-01,2023-25,33,Trabzonspor,Galatasaray,0,2,Deplasman,2
+2024-07-01,2023-25,33,Adana Demirspor,Alanyaspor,0,1,Deplasman,1
+2024-07-08,2023-25,34,Adana Demirspor,Sivasspor,3,2,Ev,5
+2024-07-08,2023-25,34,Alanyaspor,Basaksehir,2,1,Ev,3
+2024-07-08,2023-25,34,Kasimpasa,Kayserispor,0,0,Beraberlik,0
+2024-07-08,2023-25,34,Fenerbahce,Besiktas,3,1,Ev,4
+2024-07-08,2023-25,34,Konyaspor,Antalyaspor,5,0,Ev,5
+2024-07-08,2023-25,34,Galatasaray,Trabzonspor,0,1,Deplasman,1
