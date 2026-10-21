@@ -11,7 +11,7 @@ st.set_page_config(page_title="Süper Lig Analiz Paneli", page_icon="⚽", layou
 # ---------- VERİ YÜKLEME ----------
 @st.cache_data
 def veri_yukle():
-    df = pd.read_csv("data/gercek_maclar.csv", parse_dates=["tarih"])
+    df = pd.read_csv("data/tum_maclar.csv", parse_dates=["tarih"])
     return df
 
 @st.cache_data
