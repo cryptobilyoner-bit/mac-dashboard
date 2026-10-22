@@ -1,4 +1,3 @@
-
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -7,13 +6,12 @@ from scipy.stats import poisson
 import numpy as np
 import os
 
-st.set_page_config(page_title="Süper Lig Analiz Paneli", page_icon="⚽", layout="wide")
+st.set_page_config(page_title="Dünya Futbolu Analizi", page_icon="⚽", layout="wide")
 
 # ---------- VERİ YÜKLEME ----------
 @st.cache_data
 def veri_yukle():
-    df = pd.read_csv("data/tum_maclar.csv", parse_dates=["tarih"])
-    return df
+    return pd.read_csv("data/tum_maclar.csv", parse_dates=["tarih"])
 
 @st.cache_data
 def logolari_yukle():
@@ -24,112 +22,140 @@ def logolari_yukle():
 
 df = veri_yukle()
 logo_dict = logolari_yukle()
-tum_takimlar = sorted(set(df["ev_takim"]) | set(df["deplasman_takim"]))
 
-# ---------- SIDEBAR / FİLTRELER ----------
-st.sidebar.header("Filtreler")
-sezonlar = ["Tümü"] + sorted(df["sezon"].unique().tolist())
-secili_sezon = st.sidebar.selectbox("Sezon", sezonlar)
+# ---------- SIDEBAR FİLTRELERİ ----------
+st.sidebar.header("🎛️ Filtreler")
 
-secili_takim = st.sidebar.multiselect("Takımlar (boş = tümü)", tum_takimlar)
+# 1. Lig Filtresi
+secilen_ligler = st.sidebar.multiselect(
+    "Ligler", sorted(df["lig"].unique()), default=sorted(df["lig"].unique())
+)
 
-fdf = df.copy()
-if secili_sezon != "Tümü":
-    fdf = fdf[fdf["sezon"] == secili_sezon]
-if secili_takim:
-    fdf = fdf[fdf["ev_takim"].isin(secili_takim) | fdf["deplasman_takim"].isin(secili_takim)]
+# 2. Sezon Filtresi
+secilen_sezonlar = st.sidebar.multiselect(
+    "Sezonlar", sorted(df["sezon"].unique(), reverse=True), default=sorted(df["sezon"].unique(), reverse=True)
+)
 
-# ---------- BAŞLIK ----------
-st.title("⚽ Süper Lig Analiz Dashboard'u")
-st.caption(f"Görüntülenen maç sayısı: **{len(fdf)}**")
+# Filtreleme işlemi
+fdf = df[df["lig"].isin(secilen_ligler) & df["sezon"].isin(secilen_sezonlar)]
 
-# ---------- ÜST KARTLAR ----------
+# 3. Takım Filtresi (Seçilen liglere göre güncellenir)
+tum_takimlar = sorted(set(fdf["ev_takim"]) | set(fdf["deplasman_takim"]))
+secilen_takimlar = st.sidebar.multiselect("Takımlar (boş = tümü)", tum_takimlar)
+
+if secilen_takimlar:
+    fdf = fdf[fdf["ev_takim"].isin(secilen_takimlar) | fdf["deplasman_takim"].isin(secilen_takimlar)]
+
+# ---------- BAŞLIK VE METRİKLER ----------
+st.title("⚽ Dünya Futbolu Analiz Merkezi")
+st.caption(f"Seçili Kriterlerdeki Maç Sayısı: **{len(fdf)}**")
+
 c1, c2, c3, c4 = st.columns(4)
 c1.metric("Toplam Maç", len(fdf))
 c2.metric("Ortalama Gol", round(fdf["toplam_gol"].mean(), 2) if len(fdf) else 0)
 c3.metric("Ev Sahibi Galibiyeti", f"%{(fdf['sonuc']=='Ev').mean()*100:.1f}" if len(fdf) else "%0")
-c4.metric("Beraberlik", f"%{(fdf['sonuc']=='Beraberlik').mean()*100:.1f}" if len(fdf) else "%0")
+c4.metric("Deplasman Galibiyeti", f"%{(fdf['sonuc']=='Deplasman').mean()*100:.1f}" if len(fdf) else "%0")
 
 st.divider()
 
-# ---------- SEKMELER (Tabs) ----------
-tab1, tab2 = st.tabs(["📊 Genel İstatistikler", "🔮 Skor Tahmini (Poisson)"])
+# ---------- SEKMELER (TABS) ----------
+tab1, tab2, tab3 = st.tabs(["📊 Genel İstatistikler", "⚔️ Kafa Kafaya (H2H)", "🔮 Skor Tahmini (Poisson)"])
 
+# ================= TAB 1: GENEL İSTATİSTİKLER =================
 with tab1:
-    # Takım Formu ve Gol Dağılımı
-    sol, sag = st.columns(2)
-
-    def takim_puanlari(team, data):
-        t = data[(data["ev_takim"] == team) | (data["deplasman_takim"] == team)].copy()
-        t["puan"] = t.apply(
-            lambda r: 3 if (r.ev_takim == team and r.sonuc == "Ev") or (r.deplasman_takim == team and r.sonuc == "Deplasman")
-            else (1 if r.sonuc == "Beraberlik" else 0), axis=1
-        )
-        return t.sort_values("tarih")
-
+    sol, sag = st.columns([1, 1])
+    
     with sol:
-        st.subheader("📈 Takım Formu (son 10 maç)")
-        sec_takim = st.selectbox("Takım seç", tum_takimlar, key="form_takim")
-        tdf = takim_puanlari(sec_takim, fdf).tail(10)
-        if len(tdf):
-            fig = go.Figure()
-            fig.add_trace(go.Scatter(x=tdf["tarih"], y=tdf["puan"].cumsum(), mode="lines+markers",
-                                     name="Kümülatif Puan", line=dict(color="#00CC96", width=3)))
-            fig.update_layout(height=350, margin=dict(l=0, r=0, t=10, b=0))
-            st.plotly_chart(fig, width='stretch')
+        st.subheader("🏆 Puan Tablosu")
+        # Lig bazlı puan tablosu seçimi
+        lig_secim_tablo = st.selectbox("Puan tablosu için lig seçin", secilen_ligler)
+        tablo_fdf = fdf[fdf["lig"] == lig_secim_tablo]
+        
+        def puan_tablosu(data):
+            rows = []
+            for takim in sorted(set(data["ev_takim"]) | set(data["deplasman_takim"])):
+                ev = data[data["ev_takim"] == takim]
+                dep = data[data["deplasman_takim"] == takim]
+                oynanan = len(ev) + len(dep)
+                if oynanan == 0: continue
+                galibiyet = (ev["sonuc"] == "Ev").sum() + (dep["sonuc"] == "Deplasman").sum()
+                beraberlik = (ev["sonuc"] == "Beraberlik").sum() + (dep["sonuc"] == "Beraberlik").sum()
+                maglubiyet = oynanan - galibiyet - beraberlik
+                atilan = ev["ev_gol"].sum() + dep["dep_gol"].sum()
+                yenilen = ev["dep_gol"].sum() + dep["ev_gol"].sum()
+                puan = galibiyet * 3 + beraberlik
+                rows.append({"Logo": logo_dict.get(takim, ""), "Takım": takim, "O": oynanan, "G": galibiyet, 
+                             "B": beraberlik, "M": maglubiyet, "A": atilan, "Y": yenilen, "AV": atilan - yenilen, "P": puan})
+            return pd.DataFrame(rows).sort_values(["P", "AV"], ascending=False).reset_index(drop=True)
+
+        tablo = puan_tablosu(tablo_fdf)
+        if not tablo.empty:
+            tablo.index = tablo.index + 1
+            st.dataframe(tablo, use_container_width=True, height=400,
+                         column_config={"Logo": st.column_config.ImageColumn("", width="small")})
         else:
-            st.info("Bu takım için veri yok.")
+            st.info("Bu ligde veri bulunmuyor.")
 
     with sag:
         st.subheader("🥅 Gol Dağılımı")
-        fig = px.histogram(fdf, x="toplam_gol", nbins=15, color_discrete_sequence=["#EF553B"])
-        fig.update_layout(height=350, margin=dict(l=0, r=0, t=10, b=0),
-                          xaxis_title="Maçtaki Toplam Gol", yaxis_title="Maç Sayısı")
-        st.plotly_chart(fig, width='stretch')
+        fig_hist = px.histogram(fdf, x="toplam_gol", nbins=15, color="lig", barmode="overlay",
+                                labels={"toplam_gol": "Toplam Gol", "lig": "Lig"})
+        fig_hist.update_layout(height=250, margin=dict(l=0, r=0, t=10, b=0), legend=dict(orientation="h"))
+        st.plotly_chart(fig_hist, use_container_width=True)
+        
+        st.subheader("📋 Son Oynanan Maçlar")
+        son = fdf.sort_values("tarih", ascending=False).head(10)[["tarih", "lig", "ev_takim", "ev_gol", "dep_gol", "deplasman_takim"]].copy()
+        son["tarih"] = son["tarih"].dt.strftime("%d.%m.%Y")
+        son.columns = ["Tarih", "Lig", "Ev", "Ev Gol", "Dep Gol", "Deplasman"]
+        st.dataframe(son, use_container_width=True, hide_index=True, height=200)
 
-    st.divider()
-
-    # Puan Tablosu (Logolu)
-    st.subheader("🏆 Puan Tablosu")
-    def puan_tablosu(data):
-        rows = []
-        for takim in tum_takimlar:
-            ev = data[data["ev_takim"] == takim]
-            dep = data[data["deplasman_takim"] == takim]
-            oynanan = len(ev) + len(dep)
-            if oynanan == 0: continue
-            galibiyet = (ev["sonuc"] == "Ev").sum() + (dep["sonuc"] == "Deplasman").sum()
-            beraberlik = (ev["sonuc"] == "Beraberlik").sum() + (dep["sonuc"] == "Beraberlik").sum()
-            maglubiyet = oynanan - galibiyet - beraberlik
-            atilan = ev["ev_gol"].sum() + dep["dep_gol"].sum()
-            yenilen = ev["dep_gol"].sum() + dep["ev_gol"].sum()
-            puan = galibiyet * 3 + beraberlik
-            rows.append({"Takım": takim, "O": oynanan, "G": galibiyet, "B": beraberlik, "M": maglubiyet,
-                         "A": atilan, "Y": yenilen, "AV": atilan - yenilen, "P": puan})
-        return pd.DataFrame(rows).sort_values(["P", "AV"], ascending=False).reset_index(drop=True)
-
-    tablo = puan_tablosu(fdf)
-    if not tablo.empty:
-        tablo.index = tablo.index + 1
-        # Logoları tabloya ekle
-        tablo["Logo"] = tablo["Takım"].map(lambda t: logo_dict.get(t, ""))
-        # Sütun sırasını düzenle
-        tablo = tablo[["Logo", "Takım", "O", "G", "B", "M", "A", "Y", "AV", "P"]]
-        st.dataframe(tablo, width='stretch', hide_index=False, height=420,
-                     column_config={"Logo": st.column_config.ImageColumn("Logo", width="small")})
-    else:
-        st.info("Seçili filtrelerde maç verisi yok.")
-
-    st.divider()
-
-    # Son Maçlar
-    st.subheader("📋 Son Maçlar")
-    son = fdf.sort_values("tarih", ascending=False).head(20)[["tarih", "ev_takim", "ev_gol", "dep_gol", "deplasman_takim", "sonuc"]].copy()
-    son["tarih"] = son["tarih"].dt.strftime("%d.%m.%Y")
-    son.columns = ["Tarih", "Ev", "Ev Gol", "Dep Gol", "Deplasman", "Sonuç"]
-    st.dataframe(son, width='stretch', hide_index=True)
-
+# ================= TAB 2: KAFA KAFAYA (H2H) =================
 with tab2:
+    st.header("⚔️ Kafa Kafaya Karşılaştırma")
+    st.caption("İki takım seçin, aralarındaki geçmiş maçları inceleyin.")
+    
+    col_h1, col_h2 = st.columns(2)
+    with col_h1:
+        takim_a = st.selectbox("1. Takım", tum_takimlar, index=0)
+    with col_h2:
+        takim_b = st.selectbox("2. Takım", tum_takimlar, index=1 if len(tum_takimlar)>1 else 0)
+        
+    if takim_a == takim_b:
+        st.warning("Lütfen iki farklı takım seçin.")
+    else:
+        h2h_df = fdf[((fdf["ev_takim"] == takim_a) & (fdf["deplasman_takim"] == takim_b)) | 
+                     ((fdf["ev_takim"] == takim_b) & (fdf["deplasman_takim"] == takim_a))]
+        
+        if len(h2h_df) == 0:
+            st.info("Seçili filtrelerde bu iki takım arasında oynanmış maç bulunamadı.")
+        else:
+            a_galibiyet = len(h2h_df[(h2h_df["ev_takim"] == takim_a) & (h2h_df["sonuc"] == "Ev")]) + \
+                          len(h2h_df[(h2h_df["deplasman_takim"] == takim_a) & (h2h_df["sonuc"] == "Deplasman")])
+            b_galibiyet = len(h2h_df[(h2h_df["ev_takim"] == takim_b) & (h2h_df["sonuc"] == "Ev")]) + \
+                          len(h2h_df[(h2h_df["deplasman_takim"] == takim_b) & (h2h_df["sonuc"] == "Deplasman")])
+            beraberlik = len(h2h_df[h2h_df["sonuc"] == "Beraberlik"])
+            
+            fig_pie = px.pie(values=[a_galibiyet, beraberlik, b_galibiyet], 
+                             names=[f"{takim_a} Galibiyeti", "Beraberlik", f"{takim_b} Galibiyeti"],
+                             color_discrete_sequence=["#00CC96", "#636EFA", "#EF553B"], hole=0.4)
+            fig_pie.update_layout(height=300, margin=dict(l=0, r=0, t=30, b=0))
+            
+            cl, cr = st.columns([1, 1])
+            with cl:
+                st.plotly_chart(fig_pie, use_container_width=True)
+            with cr:
+                st.markdown(f"**Toplam Oynanan Maç:** {len(h2h_df)}")
+                st.markdown(f"**{takim_a}:** {a_galibiyet} Galibiyet")
+                st.markdown(f"**Beraberlik:** {beraberlik}")
+                st.markdown(f"**{takim_b}:** {b_galibiyet} Galibiyet")
+            
+            st.subheader("Son Karşılaşmalar")
+            h2h_show = h2h_df.sort_values("tarih", ascending=False)[["tarih", "lig", "ev_takim", "ev_gol", "dep_gol", "deplasman_takim"]].copy()
+            h2h_show["tarih"] = h2h_show["tarih"].dt.strftime("%d.%m.%Y")
+            st.dataframe(h2h_show, use_container_width=True, hide_index=True)
+
+# ================= TAB 3: POISSON TAHMİNİ =================
+with tab3:
     st.header("🔮 Poisson Modeli ile Skor Tahmini")
     st.caption("Bu bölüm, seçilen iki takımın geçmiş gol istatistiklerine dayanarak olası skorları hesaplar. Bahis tavsiyesi değildir.")
 
@@ -155,8 +181,6 @@ with tab2:
         ev_atak, ev_defans = takim_gucu(ev_takim, fdf)
         dep_atak, dep_defans = takim_gucu(dep_takim, fdf)
 
-        # Basit Poisson beklenti golleri (λ)
-        # Ev sahibi avantajı için 1.1 çarpanı
         lambda_ev = max(0.1, ev_atak * (dep_defans / lig_ort_gol) * 1.1) if dep_defans > 0 else ev_atak
         lambda_dep = max(0.1, dep_atak * (ev_defans / lig_ort_gol) * 0.9) if ev_defans > 0 else dep_atak
 
@@ -177,7 +201,7 @@ with tab2:
                                labels=dict(x=f"{dep_takim} Gol", y=f"{ev_takim} Gol", color="Olasılık (%)"),
                                color_continuous_scale="Blues")
         fig_matris.update_layout(height=400, margin=dict(l=0, r=0, t=30, b=0))
-        st.plotly_chart(fig_matris, width='stretch')
+        st.plotly_chart(fig_matris, use_container_width=True)
 
         ev_galibiyet = matris.values[np.tril_indices_from(matris, k=-1)].sum()
         beraberlik = np.diag(matris.values).sum()
