@@ -2159,3 +2159,2523 @@ tarih,sezon,lig,hafta,ev_takim,deplasman_takim,ev_gol,dep_gol,sonuc,toplam_gol
 2023-07-19,2025-2026,Ligue 1,18,Nice,Lens,1,2,Deplasman,3
 2023-07-19,2025-2026,Ligue 1,18,Lyon,Marseille,3,1,Ev,4
 2023-07-19,2025-2026,Ligue 1,18,Rennes,Toulouse,0,0,Beraberlik,0
+2023-02-02,2022-2023,UEFA Şampiyonlar Ligi,1,Real Madrid,Man City,0,1,Deplasman,1
+2023-02-02,2022-2023,UEFA Şampiyonlar Ligi,1,Bayern Munich,PSG,1,1,Beraberlik,2
+2023-02-02,2022-2023,UEFA Şampiyonlar Ligi,1,Inter,Dortmund,2,2,Beraberlik,4
+2023-02-02,2022-2023,UEFA Şampiyonlar Ligi,1,Arsenal,Barcelona,1,2,Deplasman,3
+2023-02-02,2022-2023,UEFA Şampiyonlar Ligi,1,Atletico Madrid,Napoli,1,3,Deplasman,4
+2023-03-03,2022-2023,UEFA Şampiyonlar Ligi,2,Real Madrid,Man City,1,3,Deplasman,4
+2023-03-03,2022-2023,UEFA Şampiyonlar Ligi,2,Bayern Munich,PSG,4,2,Ev,6
+2023-03-03,2022-2023,UEFA Şampiyonlar Ligi,2,Inter,Dortmund,3,0,Ev,3
+2023-03-03,2022-2023,UEFA Şampiyonlar Ligi,2,Arsenal,Barcelona,4,0,Ev,4
+2023-03-03,2022-2023,UEFA Şampiyonlar Ligi,2,Atletico Madrid,Napoli,5,4,Ev,9
+2023-04-04,2022-2023,UEFA Şampiyonlar Ligi,3,Real Madrid,Man City,0,1,Deplasman,1
+2023-04-04,2022-2023,UEFA Şampiyonlar Ligi,3,Bayern Munich,PSG,6,0,Ev,6
+2023-04-04,2022-2023,UEFA Şampiyonlar Ligi,3,Inter,Dortmund,3,1,Ev,4
+2023-04-04,2022-2023,UEFA Şampiyonlar Ligi,3,Arsenal,Barcelona,0,3,Deplasman,3
+2023-04-04,2022-2023,UEFA Şampiyonlar Ligi,3,Atletico Madrid,Napoli,6,3,Ev,9
+2023-05-05,2022-2023,UEFA Şampiyonlar Ligi,4,Real Madrid,Man City,0,2,Deplasman,2
+2023-05-05,2022-2023,UEFA Şampiyonlar Ligi,4,Bayern Munich,PSG,4,3,Ev,7
+2023-05-05,2022-2023,UEFA Şampiyonlar Ligi,4,Inter,Dortmund,3,2,Ev,5
+2023-05-05,2022-2023,UEFA Şampiyonlar Ligi,4,Arsenal,Barcelona,1,0,Ev,1
+2023-05-05,2022-2023,UEFA Şampiyonlar Ligi,4,Atletico Madrid,Napoli,1,2,Deplasman,3
+2023-06-06,2022-2023,UEFA Şampiyonlar Ligi,5,Real Madrid,Man City,1,1,Beraberlik,2
+2023-06-06,2022-2023,UEFA Şampiyonlar Ligi,5,Bayern Munich,PSG,4,3,Ev,7
+2023-06-06,2022-2023,UEFA Şampiyonlar Ligi,5,Inter,Dortmund,1,0,Ev,1
+2023-06-06,2022-2023,UEFA Şampiyonlar Ligi,5,Arsenal,Barcelona,2,0,Ev,2
+2023-06-06,2022-2023,UEFA Şampiyonlar Ligi,5,Atletico Madrid,Napoli,3,5,Deplasman,8
+2023-07-07,2022-2023,UEFA Şampiyonlar Ligi,6,Real Madrid,Man City,0,0,Beraberlik,0
+2023-07-07,2022-2023,UEFA Şampiyonlar Ligi,6,Bayern Munich,PSG,2,1,Ev,3
+2023-07-07,2022-2023,UEFA Şampiyonlar Ligi,6,Inter,Dortmund,4,1,Ev,5
+2023-07-07,2022-2023,UEFA Şampiyonlar Ligi,6,Arsenal,Barcelona,2,0,Ev,2
+2023-07-07,2022-2023,UEFA Şampiyonlar Ligi,6,Atletico Madrid,Napoli,4,0,Ev,4
+2023-08-08,2022-2023,UEFA Şampiyonlar Ligi,7,Real Madrid,Man City,1,2,Deplasman,3
+2023-08-08,2022-2023,UEFA Şampiyonlar Ligi,7,Bayern Munich,PSG,4,3,Ev,7
+2023-08-08,2022-2023,UEFA Şampiyonlar Ligi,7,Inter,Dortmund,6,3,Ev,9
+2023-08-08,2022-2023,UEFA Şampiyonlar Ligi,7,Arsenal,Barcelona,0,0,Beraberlik,0
+2023-08-08,2022-2023,UEFA Şampiyonlar Ligi,7,Atletico Madrid,Napoli,1,1,Beraberlik,2
+2023-09-09,2022-2023,UEFA Şampiyonlar Ligi,8,Real Madrid,Man City,1,0,Ev,1
+2023-09-09,2022-2023,UEFA Şampiyonlar Ligi,8,Bayern Munich,PSG,1,2,Deplasman,3
+2023-09-09,2022-2023,UEFA Şampiyonlar Ligi,8,Inter,Dortmund,5,1,Ev,6
+2023-09-09,2022-2023,UEFA Şampiyonlar Ligi,8,Arsenal,Barcelona,6,0,Ev,6
+2023-09-09,2022-2023,UEFA Şampiyonlar Ligi,8,Atletico Madrid,Napoli,2,3,Deplasman,5
+2023-10-10,2022-2023,UEFA Şampiyonlar Ligi,9,Real Madrid,Man City,0,3,Deplasman,3
+2023-10-10,2022-2023,UEFA Şampiyonlar Ligi,9,Bayern Munich,PSG,5,4,Ev,9
+2023-10-10,2022-2023,UEFA Şampiyonlar Ligi,9,Inter,Dortmund,3,2,Ev,5
+2023-10-10,2022-2023,UEFA Şampiyonlar Ligi,9,Arsenal,Barcelona,0,1,Deplasman,1
+2023-10-10,2022-2023,UEFA Şampiyonlar Ligi,9,Atletico Madrid,Napoli,2,1,Ev,3
+2023-11-11,2022-2023,UEFA Şampiyonlar Ligi,10,Real Madrid,Man City,0,3,Deplasman,3
+2023-11-11,2022-2023,UEFA Şampiyonlar Ligi,10,Bayern Munich,PSG,2,1,Ev,3
+2023-11-11,2022-2023,UEFA Şampiyonlar Ligi,10,Inter,Dortmund,6,0,Ev,6
+2023-11-11,2022-2023,UEFA Şampiyonlar Ligi,10,Arsenal,Barcelona,1,1,Beraberlik,2
+2023-11-11,2022-2023,UEFA Şampiyonlar Ligi,10,Atletico Madrid,Napoli,4,1,Ev,5
+2023-12-12,2022-2023,UEFA Şampiyonlar Ligi,11,Real Madrid,Man City,0,1,Deplasman,1
+2023-12-12,2022-2023,UEFA Şampiyonlar Ligi,11,Bayern Munich,PSG,0,0,Beraberlik,0
+2023-12-12,2022-2023,UEFA Şampiyonlar Ligi,11,Inter,Dortmund,2,1,Ev,3
+2023-12-12,2022-2023,UEFA Şampiyonlar Ligi,11,Arsenal,Barcelona,5,1,Ev,6
+2023-12-12,2022-2023,UEFA Şampiyonlar Ligi,11,Atletico Madrid,Napoli,3,0,Ev,3
+2023-01-13,2022-2023,UEFA Şampiyonlar Ligi,12,Real Madrid,Man City,5,0,Ev,5
+2023-01-13,2022-2023,UEFA Şampiyonlar Ligi,12,Bayern Munich,PSG,0,1,Deplasman,1
+2023-01-13,2022-2023,UEFA Şampiyonlar Ligi,12,Inter,Dortmund,0,0,Beraberlik,0
+2023-01-13,2022-2023,UEFA Şampiyonlar Ligi,12,Arsenal,Barcelona,2,1,Ev,3
+2023-01-13,2022-2023,UEFA Şampiyonlar Ligi,12,Atletico Madrid,Napoli,1,1,Beraberlik,2
+2023-02-14,2022-2023,UEFA Şampiyonlar Ligi,13,Real Madrid,Man City,1,3,Deplasman,4
+2023-02-14,2022-2023,UEFA Şampiyonlar Ligi,13,Bayern Munich,PSG,4,1,Ev,5
+2023-02-14,2022-2023,UEFA Şampiyonlar Ligi,13,Inter,Dortmund,1,0,Ev,1
+2023-02-14,2022-2023,UEFA Şampiyonlar Ligi,13,Arsenal,Barcelona,1,2,Deplasman,3
+2023-02-14,2022-2023,UEFA Şampiyonlar Ligi,13,Atletico Madrid,Napoli,5,5,Beraberlik,10
+2023-03-15,2022-2023,UEFA Şampiyonlar Ligi,14,Real Madrid,Man City,0,0,Beraberlik,0
+2023-03-15,2022-2023,UEFA Şampiyonlar Ligi,14,Bayern Munich,PSG,7,2,Ev,9
+2023-03-15,2022-2023,UEFA Şampiyonlar Ligi,14,Inter,Dortmund,2,1,Ev,3
+2023-03-15,2022-2023,UEFA Şampiyonlar Ligi,14,Arsenal,Barcelona,3,3,Beraberlik,6
+2023-03-15,2022-2023,UEFA Şampiyonlar Ligi,14,Atletico Madrid,Napoli,2,0,Ev,2
+2023-04-16,2022-2023,UEFA Şampiyonlar Ligi,15,Real Madrid,Man City,1,2,Deplasman,3
+2023-04-16,2022-2023,UEFA Şampiyonlar Ligi,15,Bayern Munich,PSG,6,0,Ev,6
+2023-04-16,2022-2023,UEFA Şampiyonlar Ligi,15,Inter,Dortmund,2,1,Ev,3
+2023-04-16,2022-2023,UEFA Şampiyonlar Ligi,15,Arsenal,Barcelona,2,1,Ev,3
+2023-04-16,2022-2023,UEFA Şampiyonlar Ligi,15,Atletico Madrid,Napoli,2,1,Ev,3
+2023-05-17,2022-2023,UEFA Şampiyonlar Ligi,16,Real Madrid,Man City,1,1,Beraberlik,2
+2023-05-17,2022-2023,UEFA Şampiyonlar Ligi,16,Bayern Munich,PSG,5,3,Ev,8
+2023-05-17,2022-2023,UEFA Şampiyonlar Ligi,16,Inter,Dortmund,1,2,Deplasman,3
+2023-05-17,2022-2023,UEFA Şampiyonlar Ligi,16,Arsenal,Barcelona,5,1,Ev,6
+2023-05-17,2022-2023,UEFA Şampiyonlar Ligi,16,Atletico Madrid,Napoli,4,2,Ev,6
+2023-06-18,2022-2023,UEFA Şampiyonlar Ligi,17,Real Madrid,Man City,1,1,Beraberlik,2
+2023-06-18,2022-2023,UEFA Şampiyonlar Ligi,17,Bayern Munich,PSG,3,1,Ev,4
+2023-06-18,2022-2023,UEFA Şampiyonlar Ligi,17,Inter,Dortmund,4,3,Ev,7
+2023-06-18,2022-2023,UEFA Şampiyonlar Ligi,17,Arsenal,Barcelona,1,1,Beraberlik,2
+2023-06-18,2022-2023,UEFA Şampiyonlar Ligi,17,Atletico Madrid,Napoli,1,4,Deplasman,5
+2023-07-19,2022-2023,UEFA Şampiyonlar Ligi,18,Real Madrid,Man City,2,0,Ev,2
+2023-07-19,2022-2023,UEFA Şampiyonlar Ligi,18,Bayern Munich,PSG,4,1,Ev,5
+2023-07-19,2022-2023,UEFA Şampiyonlar Ligi,18,Inter,Dortmund,4,1,Ev,5
+2023-07-19,2022-2023,UEFA Şampiyonlar Ligi,18,Arsenal,Barcelona,1,0,Ev,1
+2023-07-19,2022-2023,UEFA Şampiyonlar Ligi,18,Atletico Madrid,Napoli,4,3,Ev,7
+2023-02-02,2023-2024,UEFA Şampiyonlar Ligi,1,Real Madrid,Man City,2,1,Ev,3
+2023-02-02,2023-2024,UEFA Şampiyonlar Ligi,1,Bayern Munich,PSG,4,0,Ev,4
+2023-02-02,2023-2024,UEFA Şampiyonlar Ligi,1,Inter,Dortmund,2,4,Deplasman,6
+2023-02-02,2023-2024,UEFA Şampiyonlar Ligi,1,Arsenal,Barcelona,3,1,Ev,4
+2023-02-02,2023-2024,UEFA Şampiyonlar Ligi,1,Atletico Madrid,Napoli,1,0,Ev,1
+2023-03-03,2023-2024,UEFA Şampiyonlar Ligi,2,Real Madrid,Man City,1,2,Deplasman,3
+2023-03-03,2023-2024,UEFA Şampiyonlar Ligi,2,Bayern Munich,PSG,0,2,Deplasman,2
+2023-03-03,2023-2024,UEFA Şampiyonlar Ligi,2,Inter,Dortmund,0,4,Deplasman,4
+2023-03-03,2023-2024,UEFA Şampiyonlar Ligi,2,Arsenal,Barcelona,3,1,Ev,4
+2023-03-03,2023-2024,UEFA Şampiyonlar Ligi,2,Atletico Madrid,Napoli,1,0,Ev,1
+2023-04-04,2023-2024,UEFA Şampiyonlar Ligi,3,Real Madrid,Man City,2,4,Deplasman,6
+2023-04-04,2023-2024,UEFA Şampiyonlar Ligi,3,Bayern Munich,PSG,4,2,Ev,6
+2023-04-04,2023-2024,UEFA Şampiyonlar Ligi,3,Inter,Dortmund,0,3,Deplasman,3
+2023-04-04,2023-2024,UEFA Şampiyonlar Ligi,3,Arsenal,Barcelona,5,3,Ev,8
+2023-04-04,2023-2024,UEFA Şampiyonlar Ligi,3,Atletico Madrid,Napoli,3,0,Ev,3
+2023-05-05,2023-2024,UEFA Şampiyonlar Ligi,4,Real Madrid,Man City,4,1,Ev,5
+2023-05-05,2023-2024,UEFA Şampiyonlar Ligi,4,Bayern Munich,PSG,0,3,Deplasman,3
+2023-05-05,2023-2024,UEFA Şampiyonlar Ligi,4,Inter,Dortmund,2,3,Deplasman,5
+2023-05-05,2023-2024,UEFA Şampiyonlar Ligi,4,Arsenal,Barcelona,2,0,Ev,2
+2023-05-05,2023-2024,UEFA Şampiyonlar Ligi,4,Atletico Madrid,Napoli,1,0,Ev,1
+2023-06-06,2023-2024,UEFA Şampiyonlar Ligi,5,Real Madrid,Man City,2,2,Beraberlik,4
+2023-06-06,2023-2024,UEFA Şampiyonlar Ligi,5,Bayern Munich,PSG,1,4,Deplasman,5
+2023-06-06,2023-2024,UEFA Şampiyonlar Ligi,5,Inter,Dortmund,2,2,Beraberlik,4
+2023-06-06,2023-2024,UEFA Şampiyonlar Ligi,5,Arsenal,Barcelona,2,1,Ev,3
+2023-06-06,2023-2024,UEFA Şampiyonlar Ligi,5,Atletico Madrid,Napoli,1,0,Ev,1
+2023-07-07,2023-2024,UEFA Şampiyonlar Ligi,6,Real Madrid,Man City,1,3,Deplasman,4
+2023-07-07,2023-2024,UEFA Şampiyonlar Ligi,6,Bayern Munich,PSG,3,1,Ev,4
+2023-07-07,2023-2024,UEFA Şampiyonlar Ligi,6,Inter,Dortmund,2,1,Ev,3
+2023-07-07,2023-2024,UEFA Şampiyonlar Ligi,6,Arsenal,Barcelona,2,4,Deplasman,6
+2023-07-07,2023-2024,UEFA Şampiyonlar Ligi,6,Atletico Madrid,Napoli,1,2,Deplasman,3
+2023-08-08,2023-2024,UEFA Şampiyonlar Ligi,7,Real Madrid,Man City,2,3,Deplasman,5
+2023-08-08,2023-2024,UEFA Şampiyonlar Ligi,7,Bayern Munich,PSG,2,2,Beraberlik,4
+2023-08-08,2023-2024,UEFA Şampiyonlar Ligi,7,Inter,Dortmund,3,3,Beraberlik,6
+2023-08-08,2023-2024,UEFA Şampiyonlar Ligi,7,Arsenal,Barcelona,3,0,Ev,3
+2023-08-08,2023-2024,UEFA Şampiyonlar Ligi,7,Atletico Madrid,Napoli,1,1,Beraberlik,2
+2023-09-09,2023-2024,UEFA Şampiyonlar Ligi,8,Real Madrid,Man City,3,3,Beraberlik,6
+2023-09-09,2023-2024,UEFA Şampiyonlar Ligi,8,Bayern Munich,PSG,0,4,Deplasman,4
+2023-09-09,2023-2024,UEFA Şampiyonlar Ligi,8,Inter,Dortmund,3,1,Ev,4
+2023-09-09,2023-2024,UEFA Şampiyonlar Ligi,8,Arsenal,Barcelona,2,1,Ev,3
+2023-09-09,2023-2024,UEFA Şampiyonlar Ligi,8,Atletico Madrid,Napoli,0,0,Beraberlik,0
+2023-10-10,2023-2024,UEFA Şampiyonlar Ligi,9,Real Madrid,Man City,4,2,Ev,6
+2023-10-10,2023-2024,UEFA Şampiyonlar Ligi,9,Bayern Munich,PSG,0,2,Deplasman,2
+2023-10-10,2023-2024,UEFA Şampiyonlar Ligi,9,Inter,Dortmund,1,0,Ev,1
+2023-10-10,2023-2024,UEFA Şampiyonlar Ligi,9,Arsenal,Barcelona,2,0,Ev,2
+2023-10-10,2023-2024,UEFA Şampiyonlar Ligi,9,Atletico Madrid,Napoli,3,0,Ev,3
+2023-11-11,2023-2024,UEFA Şampiyonlar Ligi,10,Real Madrid,Man City,2,1,Ev,3
+2023-11-11,2023-2024,UEFA Şampiyonlar Ligi,10,Bayern Munich,PSG,0,1,Deplasman,1
+2023-11-11,2023-2024,UEFA Şampiyonlar Ligi,10,Inter,Dortmund,2,2,Beraberlik,4
+2023-11-11,2023-2024,UEFA Şampiyonlar Ligi,10,Arsenal,Barcelona,3,0,Ev,3
+2023-11-11,2023-2024,UEFA Şampiyonlar Ligi,10,Atletico Madrid,Napoli,4,2,Ev,6
+2023-12-12,2023-2024,UEFA Şampiyonlar Ligi,11,Real Madrid,Man City,5,3,Ev,8
+2023-12-12,2023-2024,UEFA Şampiyonlar Ligi,11,Bayern Munich,PSG,0,0,Beraberlik,0
+2023-12-12,2023-2024,UEFA Şampiyonlar Ligi,11,Inter,Dortmund,3,1,Ev,4
+2023-12-12,2023-2024,UEFA Şampiyonlar Ligi,11,Arsenal,Barcelona,2,2,Beraberlik,4
+2023-12-12,2023-2024,UEFA Şampiyonlar Ligi,11,Atletico Madrid,Napoli,2,2,Beraberlik,4
+2023-01-13,2023-2024,UEFA Şampiyonlar Ligi,12,Real Madrid,Man City,0,0,Beraberlik,0
+2023-01-13,2023-2024,UEFA Şampiyonlar Ligi,12,Bayern Munich,PSG,2,2,Beraberlik,4
+2023-01-13,2023-2024,UEFA Şampiyonlar Ligi,12,Inter,Dortmund,2,3,Deplasman,5
+2023-01-13,2023-2024,UEFA Şampiyonlar Ligi,12,Arsenal,Barcelona,5,1,Ev,6
+2023-01-13,2023-2024,UEFA Şampiyonlar Ligi,12,Atletico Madrid,Napoli,1,2,Deplasman,3
+2023-02-14,2023-2024,UEFA Şampiyonlar Ligi,13,Real Madrid,Man City,4,1,Ev,5
+2023-02-14,2023-2024,UEFA Şampiyonlar Ligi,13,Bayern Munich,PSG,1,3,Deplasman,4
+2023-02-14,2023-2024,UEFA Şampiyonlar Ligi,13,Inter,Dortmund,1,1,Beraberlik,2
+2023-02-14,2023-2024,UEFA Şampiyonlar Ligi,13,Arsenal,Barcelona,3,2,Ev,5
+2023-02-14,2023-2024,UEFA Şampiyonlar Ligi,13,Atletico Madrid,Napoli,4,0,Ev,4
+2023-03-15,2023-2024,UEFA Şampiyonlar Ligi,14,Real Madrid,Man City,2,3,Deplasman,5
+2023-03-15,2023-2024,UEFA Şampiyonlar Ligi,14,Bayern Munich,PSG,2,2,Beraberlik,4
+2023-03-15,2023-2024,UEFA Şampiyonlar Ligi,14,Inter,Dortmund,2,4,Deplasman,6
+2023-03-15,2023-2024,UEFA Şampiyonlar Ligi,14,Arsenal,Barcelona,1,0,Ev,1
+2023-03-15,2023-2024,UEFA Şampiyonlar Ligi,14,Atletico Madrid,Napoli,1,1,Beraberlik,2
+2023-04-16,2023-2024,UEFA Şampiyonlar Ligi,15,Real Madrid,Man City,3,1,Ev,4
+2023-04-16,2023-2024,UEFA Şampiyonlar Ligi,15,Bayern Munich,PSG,3,2,Ev,5
+2023-04-16,2023-2024,UEFA Şampiyonlar Ligi,15,Inter,Dortmund,4,6,Deplasman,10
+2023-04-16,2023-2024,UEFA Şampiyonlar Ligi,15,Arsenal,Barcelona,2,0,Ev,2
+2023-04-16,2023-2024,UEFA Şampiyonlar Ligi,15,Atletico Madrid,Napoli,1,2,Deplasman,3
+2023-05-17,2023-2024,UEFA Şampiyonlar Ligi,16,Real Madrid,Man City,7,2,Ev,9
+2023-05-17,2023-2024,UEFA Şampiyonlar Ligi,16,Bayern Munich,PSG,3,1,Ev,4
+2023-05-17,2023-2024,UEFA Şampiyonlar Ligi,16,Inter,Dortmund,1,1,Beraberlik,2
+2023-05-17,2023-2024,UEFA Şampiyonlar Ligi,16,Arsenal,Barcelona,2,0,Ev,2
+2023-05-17,2023-2024,UEFA Şampiyonlar Ligi,16,Atletico Madrid,Napoli,1,1,Beraberlik,2
+2023-06-18,2023-2024,UEFA Şampiyonlar Ligi,17,Real Madrid,Man City,1,3,Deplasman,4
+2023-06-18,2023-2024,UEFA Şampiyonlar Ligi,17,Bayern Munich,PSG,1,0,Ev,1
+2023-06-18,2023-2024,UEFA Şampiyonlar Ligi,17,Inter,Dortmund,1,1,Beraberlik,2
+2023-06-18,2023-2024,UEFA Şampiyonlar Ligi,17,Arsenal,Barcelona,7,1,Ev,8
+2023-06-18,2023-2024,UEFA Şampiyonlar Ligi,17,Atletico Madrid,Napoli,0,1,Deplasman,1
+2023-07-19,2023-2024,UEFA Şampiyonlar Ligi,18,Real Madrid,Man City,3,0,Ev,3
+2023-07-19,2023-2024,UEFA Şampiyonlar Ligi,18,Bayern Munich,PSG,2,2,Beraberlik,4
+2023-07-19,2023-2024,UEFA Şampiyonlar Ligi,18,Inter,Dortmund,2,1,Ev,3
+2023-07-19,2023-2024,UEFA Şampiyonlar Ligi,18,Arsenal,Barcelona,5,2,Ev,7
+2023-07-19,2023-2024,UEFA Şampiyonlar Ligi,18,Atletico Madrid,Napoli,3,0,Ev,3
+2023-02-02,2024-2025,UEFA Şampiyonlar Ligi,1,Real Madrid,Man City,1,0,Ev,1
+2023-02-02,2024-2025,UEFA Şampiyonlar Ligi,1,Bayern Munich,PSG,5,2,Ev,7
+2023-02-02,2024-2025,UEFA Şampiyonlar Ligi,1,Inter,Dortmund,2,4,Deplasman,6
+2023-02-02,2024-2025,UEFA Şampiyonlar Ligi,1,Arsenal,Barcelona,1,1,Beraberlik,2
+2023-02-02,2024-2025,UEFA Şampiyonlar Ligi,1,Atletico Madrid,Napoli,1,5,Deplasman,6
+2023-03-03,2024-2025,UEFA Şampiyonlar Ligi,2,Real Madrid,Man City,2,0,Ev,2
+2023-03-03,2024-2025,UEFA Şampiyonlar Ligi,2,Bayern Munich,PSG,1,1,Beraberlik,2
+2023-03-03,2024-2025,UEFA Şampiyonlar Ligi,2,Inter,Dortmund,0,0,Beraberlik,0
+2023-03-03,2024-2025,UEFA Şampiyonlar Ligi,2,Arsenal,Barcelona,4,2,Ev,6
+2023-03-03,2024-2025,UEFA Şampiyonlar Ligi,2,Atletico Madrid,Napoli,4,1,Ev,5
+2023-04-04,2024-2025,UEFA Şampiyonlar Ligi,3,Real Madrid,Man City,1,1,Beraberlik,2
+2023-04-04,2024-2025,UEFA Şampiyonlar Ligi,3,Bayern Munich,PSG,9,2,Ev,11
+2023-04-04,2024-2025,UEFA Şampiyonlar Ligi,3,Inter,Dortmund,3,5,Deplasman,8
+2023-04-04,2024-2025,UEFA Şampiyonlar Ligi,3,Arsenal,Barcelona,4,0,Ev,4
+2023-04-04,2024-2025,UEFA Şampiyonlar Ligi,3,Atletico Madrid,Napoli,2,1,Ev,3
+2023-05-05,2024-2025,UEFA Şampiyonlar Ligi,4,Real Madrid,Man City,2,2,Beraberlik,4
+2023-05-05,2024-2025,UEFA Şampiyonlar Ligi,4,Bayern Munich,PSG,1,0,Ev,1
+2023-05-05,2024-2025,UEFA Şampiyonlar Ligi,4,Inter,Dortmund,0,1,Deplasman,1
+2023-05-05,2024-2025,UEFA Şampiyonlar Ligi,4,Arsenal,Barcelona,4,1,Ev,5
+2023-05-05,2024-2025,UEFA Şampiyonlar Ligi,4,Atletico Madrid,Napoli,0,0,Beraberlik,0
+2023-06-06,2024-2025,UEFA Şampiyonlar Ligi,5,Real Madrid,Man City,4,3,Ev,7
+2023-06-06,2024-2025,UEFA Şampiyonlar Ligi,5,Bayern Munich,PSG,3,2,Ev,5
+2023-06-06,2024-2025,UEFA Şampiyonlar Ligi,5,Inter,Dortmund,3,1,Ev,4
+2023-06-06,2024-2025,UEFA Şampiyonlar Ligi,5,Arsenal,Barcelona,3,0,Ev,3
+2023-06-06,2024-2025,UEFA Şampiyonlar Ligi,5,Atletico Madrid,Napoli,0,3,Deplasman,3
+2023-07-07,2024-2025,UEFA Şampiyonlar Ligi,6,Real Madrid,Man City,3,1,Ev,4
+2023-07-07,2024-2025,UEFA Şampiyonlar Ligi,6,Bayern Munich,PSG,0,1,Deplasman,1
+2023-07-07,2024-2025,UEFA Şampiyonlar Ligi,6,Inter,Dortmund,0,0,Beraberlik,0
+2023-07-07,2024-2025,UEFA Şampiyonlar Ligi,6,Arsenal,Barcelona,1,0,Ev,1
+2023-07-07,2024-2025,UEFA Şampiyonlar Ligi,6,Atletico Madrid,Napoli,1,3,Deplasman,4
+2023-08-08,2024-2025,UEFA Şampiyonlar Ligi,7,Real Madrid,Man City,2,3,Deplasman,5
+2023-08-08,2024-2025,UEFA Şampiyonlar Ligi,7,Bayern Munich,PSG,6,2,Ev,8
+2023-08-08,2024-2025,UEFA Şampiyonlar Ligi,7,Inter,Dortmund,1,1,Beraberlik,2
+2023-08-08,2024-2025,UEFA Şampiyonlar Ligi,7,Arsenal,Barcelona,2,0,Ev,2
+2023-08-08,2024-2025,UEFA Şampiyonlar Ligi,7,Atletico Madrid,Napoli,1,3,Deplasman,4
+2023-09-09,2024-2025,UEFA Şampiyonlar Ligi,8,Real Madrid,Man City,2,0,Ev,2
+2023-09-09,2024-2025,UEFA Şampiyonlar Ligi,8,Bayern Munich,PSG,5,7,Deplasman,12
+2023-09-09,2024-2025,UEFA Şampiyonlar Ligi,8,Inter,Dortmund,2,1,Ev,3
+2023-09-09,2024-2025,UEFA Şampiyonlar Ligi,8,Arsenal,Barcelona,2,1,Ev,3
+2023-09-09,2024-2025,UEFA Şampiyonlar Ligi,8,Atletico Madrid,Napoli,1,1,Beraberlik,2
+2023-10-10,2024-2025,UEFA Şampiyonlar Ligi,9,Real Madrid,Man City,0,1,Deplasman,1
+2023-10-10,2024-2025,UEFA Şampiyonlar Ligi,9,Bayern Munich,PSG,3,3,Beraberlik,6
+2023-10-10,2024-2025,UEFA Şampiyonlar Ligi,9,Inter,Dortmund,2,1,Ev,3
+2023-10-10,2024-2025,UEFA Şampiyonlar Ligi,9,Arsenal,Barcelona,3,0,Ev,3
+2023-10-10,2024-2025,UEFA Şampiyonlar Ligi,9,Atletico Madrid,Napoli,2,3,Deplasman,5
+2023-11-11,2024-2025,UEFA Şampiyonlar Ligi,10,Real Madrid,Man City,3,0,Ev,3
+2023-11-11,2024-2025,UEFA Şampiyonlar Ligi,10,Bayern Munich,PSG,3,5,Deplasman,8
+2023-11-11,2024-2025,UEFA Şampiyonlar Ligi,10,Inter,Dortmund,1,1,Beraberlik,2
+2023-11-11,2024-2025,UEFA Şampiyonlar Ligi,10,Arsenal,Barcelona,2,1,Ev,3
+2023-11-11,2024-2025,UEFA Şampiyonlar Ligi,10,Atletico Madrid,Napoli,2,5,Deplasman,7
+2023-12-12,2024-2025,UEFA Şampiyonlar Ligi,11,Real Madrid,Man City,0,1,Deplasman,1
+2023-12-12,2024-2025,UEFA Şampiyonlar Ligi,11,Bayern Munich,PSG,3,3,Beraberlik,6
+2023-12-12,2024-2025,UEFA Şampiyonlar Ligi,11,Inter,Dortmund,2,2,Beraberlik,4
+2023-12-12,2024-2025,UEFA Şampiyonlar Ligi,11,Arsenal,Barcelona,0,0,Beraberlik,0
+2023-12-12,2024-2025,UEFA Şampiyonlar Ligi,11,Atletico Madrid,Napoli,3,6,Deplasman,9
+2023-01-13,2024-2025,UEFA Şampiyonlar Ligi,12,Real Madrid,Man City,1,0,Ev,1
+2023-01-13,2024-2025,UEFA Şampiyonlar Ligi,12,Bayern Munich,PSG,4,0,Ev,4
+2023-01-13,2024-2025,UEFA Şampiyonlar Ligi,12,Inter,Dortmund,1,3,Deplasman,4
+2023-01-13,2024-2025,UEFA Şampiyonlar Ligi,12,Arsenal,Barcelona,3,0,Ev,3
+2023-01-13,2024-2025,UEFA Şampiyonlar Ligi,12,Atletico Madrid,Napoli,0,0,Beraberlik,0
+2023-02-14,2024-2025,UEFA Şampiyonlar Ligi,13,Real Madrid,Man City,1,0,Ev,1
+2023-02-14,2024-2025,UEFA Şampiyonlar Ligi,13,Bayern Munich,PSG,6,5,Ev,11
+2023-02-14,2024-2025,UEFA Şampiyonlar Ligi,13,Inter,Dortmund,0,3,Deplasman,3
+2023-02-14,2024-2025,UEFA Şampiyonlar Ligi,13,Arsenal,Barcelona,5,1,Ev,6
+2023-02-14,2024-2025,UEFA Şampiyonlar Ligi,13,Atletico Madrid,Napoli,0,4,Deplasman,4
+2023-03-15,2024-2025,UEFA Şampiyonlar Ligi,14,Real Madrid,Man City,2,2,Beraberlik,4
+2023-03-15,2024-2025,UEFA Şampiyonlar Ligi,14,Bayern Munich,PSG,1,1,Beraberlik,2
+2023-03-15,2024-2025,UEFA Şampiyonlar Ligi,14,Inter,Dortmund,1,3,Deplasman,4
+2023-03-15,2024-2025,UEFA Şampiyonlar Ligi,14,Arsenal,Barcelona,5,2,Ev,7
+2023-03-15,2024-2025,UEFA Şampiyonlar Ligi,14,Atletico Madrid,Napoli,1,1,Beraberlik,2
+2023-04-16,2024-2025,UEFA Şampiyonlar Ligi,15,Real Madrid,Man City,3,2,Ev,5
+2023-04-16,2024-2025,UEFA Şampiyonlar Ligi,15,Bayern Munich,PSG,1,1,Beraberlik,2
+2023-04-16,2024-2025,UEFA Şampiyonlar Ligi,15,Inter,Dortmund,1,0,Ev,1
+2023-04-16,2024-2025,UEFA Şampiyonlar Ligi,15,Arsenal,Barcelona,1,0,Ev,1
+2023-04-16,2024-2025,UEFA Şampiyonlar Ligi,15,Atletico Madrid,Napoli,2,2,Beraberlik,4
+2023-05-17,2024-2025,UEFA Şampiyonlar Ligi,16,Real Madrid,Man City,0,1,Deplasman,1
+2023-05-17,2024-2025,UEFA Şampiyonlar Ligi,16,Bayern Munich,PSG,1,5,Deplasman,6
+2023-05-17,2024-2025,UEFA Şampiyonlar Ligi,16,Inter,Dortmund,1,0,Ev,1
+2023-05-17,2024-2025,UEFA Şampiyonlar Ligi,16,Arsenal,Barcelona,1,0,Ev,1
+2023-05-17,2024-2025,UEFA Şampiyonlar Ligi,16,Atletico Madrid,Napoli,4,2,Ev,6
+2023-06-18,2024-2025,UEFA Şampiyonlar Ligi,17,Real Madrid,Man City,3,0,Ev,3
+2023-06-18,2024-2025,UEFA Şampiyonlar Ligi,17,Bayern Munich,PSG,2,1,Ev,3
+2023-06-18,2024-2025,UEFA Şampiyonlar Ligi,17,Inter,Dortmund,1,0,Ev,1
+2023-06-18,2024-2025,UEFA Şampiyonlar Ligi,17,Arsenal,Barcelona,7,1,Ev,8
+2023-06-18,2024-2025,UEFA Şampiyonlar Ligi,17,Atletico Madrid,Napoli,6,6,Beraberlik,12
+2023-07-19,2024-2025,UEFA Şampiyonlar Ligi,18,Real Madrid,Man City,0,2,Deplasman,2
+2023-07-19,2024-2025,UEFA Şampiyonlar Ligi,18,Bayern Munich,PSG,4,1,Ev,5
+2023-07-19,2024-2025,UEFA Şampiyonlar Ligi,18,Inter,Dortmund,0,1,Deplasman,1
+2023-07-19,2024-2025,UEFA Şampiyonlar Ligi,18,Arsenal,Barcelona,4,1,Ev,5
+2023-07-19,2024-2025,UEFA Şampiyonlar Ligi,18,Atletico Madrid,Napoli,0,1,Deplasman,1
+2023-02-02,2025-2026,UEFA Şampiyonlar Ligi,1,Real Madrid,Man City,4,1,Ev,5
+2023-02-02,2025-2026,UEFA Şampiyonlar Ligi,1,Bayern Munich,PSG,3,0,Ev,3
+2023-02-02,2025-2026,UEFA Şampiyonlar Ligi,1,Inter,Dortmund,2,1,Ev,3
+2023-02-02,2025-2026,UEFA Şampiyonlar Ligi,1,Arsenal,Barcelona,2,4,Deplasman,6
+2023-02-02,2025-2026,UEFA Şampiyonlar Ligi,1,Atletico Madrid,Napoli,3,0,Ev,3
+2023-03-03,2025-2026,UEFA Şampiyonlar Ligi,2,Real Madrid,Man City,4,3,Ev,7
+2023-03-03,2025-2026,UEFA Şampiyonlar Ligi,2,Bayern Munich,PSG,2,0,Ev,2
+2023-03-03,2025-2026,UEFA Şampiyonlar Ligi,2,Inter,Dortmund,1,4,Deplasman,5
+2023-03-03,2025-2026,UEFA Şampiyonlar Ligi,2,Arsenal,Barcelona,0,2,Deplasman,2
+2023-03-03,2025-2026,UEFA Şampiyonlar Ligi,2,Atletico Madrid,Napoli,5,2,Ev,7
+2023-04-04,2025-2026,UEFA Şampiyonlar Ligi,3,Real Madrid,Man City,3,0,Ev,3
+2023-04-04,2025-2026,UEFA Şampiyonlar Ligi,3,Bayern Munich,PSG,1,1,Beraberlik,2
+2023-04-04,2025-2026,UEFA Şampiyonlar Ligi,3,Inter,Dortmund,1,2,Deplasman,3
+2023-04-04,2025-2026,UEFA Şampiyonlar Ligi,3,Arsenal,Barcelona,3,3,Beraberlik,6
+2023-04-04,2025-2026,UEFA Şampiyonlar Ligi,3,Atletico Madrid,Napoli,4,1,Ev,5
+2023-05-05,2025-2026,UEFA Şampiyonlar Ligi,4,Real Madrid,Man City,7,1,Ev,8
+2023-05-05,2025-2026,UEFA Şampiyonlar Ligi,4,Bayern Munich,PSG,0,1,Deplasman,1
+2023-05-05,2025-2026,UEFA Şampiyonlar Ligi,4,Inter,Dortmund,5,2,Ev,7
+2023-05-05,2025-2026,UEFA Şampiyonlar Ligi,4,Arsenal,Barcelona,3,1,Ev,4
+2023-05-05,2025-2026,UEFA Şampiyonlar Ligi,4,Atletico Madrid,Napoli,2,1,Ev,3
+2023-06-06,2025-2026,UEFA Şampiyonlar Ligi,5,Real Madrid,Man City,3,0,Ev,3
+2023-06-06,2025-2026,UEFA Şampiyonlar Ligi,5,Bayern Munich,PSG,1,0,Ev,1
+2023-06-06,2025-2026,UEFA Şampiyonlar Ligi,5,Inter,Dortmund,4,0,Ev,4
+2023-06-06,2025-2026,UEFA Şampiyonlar Ligi,5,Arsenal,Barcelona,3,2,Ev,5
+2023-06-06,2025-2026,UEFA Şampiyonlar Ligi,5,Atletico Madrid,Napoli,0,1,Deplasman,1
+2023-07-07,2025-2026,UEFA Şampiyonlar Ligi,6,Real Madrid,Man City,3,4,Deplasman,7
+2023-07-07,2025-2026,UEFA Şampiyonlar Ligi,6,Bayern Munich,PSG,3,0,Ev,3
+2023-07-07,2025-2026,UEFA Şampiyonlar Ligi,6,Inter,Dortmund,2,1,Ev,3
+2023-07-07,2025-2026,UEFA Şampiyonlar Ligi,6,Arsenal,Barcelona,0,2,Deplasman,2
+2023-07-07,2025-2026,UEFA Şampiyonlar Ligi,6,Atletico Madrid,Napoli,3,0,Ev,3
+2023-08-08,2025-2026,UEFA Şampiyonlar Ligi,7,Real Madrid,Man City,8,1,Ev,9
+2023-08-08,2025-2026,UEFA Şampiyonlar Ligi,7,Bayern Munich,PSG,0,0,Beraberlik,0
+2023-08-08,2025-2026,UEFA Şampiyonlar Ligi,7,Inter,Dortmund,5,4,Ev,9
+2023-08-08,2025-2026,UEFA Şampiyonlar Ligi,7,Arsenal,Barcelona,3,3,Beraberlik,6
+2023-08-08,2025-2026,UEFA Şampiyonlar Ligi,7,Atletico Madrid,Napoli,4,2,Ev,6
+2023-09-09,2025-2026,UEFA Şampiyonlar Ligi,8,Real Madrid,Man City,4,0,Ev,4
+2023-09-09,2025-2026,UEFA Şampiyonlar Ligi,8,Bayern Munich,PSG,1,2,Deplasman,3
+2023-09-09,2025-2026,UEFA Şampiyonlar Ligi,8,Inter,Dortmund,6,2,Ev,8
+2023-09-09,2025-2026,UEFA Şampiyonlar Ligi,8,Arsenal,Barcelona,3,3,Beraberlik,6
+2023-09-09,2025-2026,UEFA Şampiyonlar Ligi,8,Atletico Madrid,Napoli,5,1,Ev,6
+2023-10-10,2025-2026,UEFA Şampiyonlar Ligi,9,Real Madrid,Man City,5,1,Ev,6
+2023-10-10,2025-2026,UEFA Şampiyonlar Ligi,9,Bayern Munich,PSG,0,0,Beraberlik,0
+2023-10-10,2025-2026,UEFA Şampiyonlar Ligi,9,Inter,Dortmund,4,1,Ev,5
+2023-10-10,2025-2026,UEFA Şampiyonlar Ligi,9,Arsenal,Barcelona,2,4,Deplasman,6
+2023-10-10,2025-2026,UEFA Şampiyonlar Ligi,9,Atletico Madrid,Napoli,3,0,Ev,3
+2023-11-11,2025-2026,UEFA Şampiyonlar Ligi,10,Real Madrid,Man City,2,1,Ev,3
+2023-11-11,2025-2026,UEFA Şampiyonlar Ligi,10,Bayern Munich,PSG,3,1,Ev,4
+2023-11-11,2025-2026,UEFA Şampiyonlar Ligi,10,Inter,Dortmund,1,1,Beraberlik,2
+2023-11-11,2025-2026,UEFA Şampiyonlar Ligi,10,Arsenal,Barcelona,2,0,Ev,2
+2023-11-11,2025-2026,UEFA Şampiyonlar Ligi,10,Atletico Madrid,Napoli,3,1,Ev,4
+2023-12-12,2025-2026,UEFA Şampiyonlar Ligi,11,Real Madrid,Man City,4,4,Beraberlik,8
+2023-12-12,2025-2026,UEFA Şampiyonlar Ligi,11,Bayern Munich,PSG,0,1,Deplasman,1
+2023-12-12,2025-2026,UEFA Şampiyonlar Ligi,11,Inter,Dortmund,0,0,Beraberlik,0
+2023-12-12,2025-2026,UEFA Şampiyonlar Ligi,11,Arsenal,Barcelona,6,0,Ev,6
+2023-12-12,2025-2026,UEFA Şampiyonlar Ligi,11,Atletico Madrid,Napoli,3,2,Ev,5
+2023-01-13,2025-2026,UEFA Şampiyonlar Ligi,12,Real Madrid,Man City,4,2,Ev,6
+2023-01-13,2025-2026,UEFA Şampiyonlar Ligi,12,Bayern Munich,PSG,2,1,Ev,3
+2023-01-13,2025-2026,UEFA Şampiyonlar Ligi,12,Inter,Dortmund,3,0,Ev,3
+2023-01-13,2025-2026,UEFA Şampiyonlar Ligi,12,Arsenal,Barcelona,5,1,Ev,6
+2023-01-13,2025-2026,UEFA Şampiyonlar Ligi,12,Atletico Madrid,Napoli,8,1,Ev,9
+2023-02-14,2025-2026,UEFA Şampiyonlar Ligi,13,Real Madrid,Man City,5,2,Ev,7
+2023-02-14,2025-2026,UEFA Şampiyonlar Ligi,13,Bayern Munich,PSG,3,1,Ev,4
+2023-02-14,2025-2026,UEFA Şampiyonlar Ligi,13,Inter,Dortmund,0,2,Deplasman,2
+2023-02-14,2025-2026,UEFA Şampiyonlar Ligi,13,Arsenal,Barcelona,3,1,Ev,4
+2023-02-14,2025-2026,UEFA Şampiyonlar Ligi,13,Atletico Madrid,Napoli,3,0,Ev,3
+2023-03-15,2025-2026,UEFA Şampiyonlar Ligi,14,Real Madrid,Man City,2,1,Ev,3
+2023-03-15,2025-2026,UEFA Şampiyonlar Ligi,14,Bayern Munich,PSG,1,1,Beraberlik,2
+2023-03-15,2025-2026,UEFA Şampiyonlar Ligi,14,Inter,Dortmund,5,2,Ev,7
+2023-03-15,2025-2026,UEFA Şampiyonlar Ligi,14,Arsenal,Barcelona,2,1,Ev,3
+2023-03-15,2025-2026,UEFA Şampiyonlar Ligi,14,Atletico Madrid,Napoli,4,4,Beraberlik,8
+2023-04-16,2025-2026,UEFA Şampiyonlar Ligi,15,Real Madrid,Man City,4,3,Ev,7
+2023-04-16,2025-2026,UEFA Şampiyonlar Ligi,15,Bayern Munich,PSG,1,2,Deplasman,3
+2023-04-16,2025-2026,UEFA Şampiyonlar Ligi,15,Inter,Dortmund,2,1,Ev,3
+2023-04-16,2025-2026,UEFA Şampiyonlar Ligi,15,Arsenal,Barcelona,3,1,Ev,4
+2023-04-16,2025-2026,UEFA Şampiyonlar Ligi,15,Atletico Madrid,Napoli,2,1,Ev,3
+2023-05-17,2025-2026,UEFA Şampiyonlar Ligi,16,Real Madrid,Man City,4,0,Ev,4
+2023-05-17,2025-2026,UEFA Şampiyonlar Ligi,16,Bayern Munich,PSG,4,1,Ev,5
+2023-05-17,2025-2026,UEFA Şampiyonlar Ligi,16,Inter,Dortmund,0,1,Deplasman,1
+2023-05-17,2025-2026,UEFA Şampiyonlar Ligi,16,Arsenal,Barcelona,0,1,Deplasman,1
+2023-05-17,2025-2026,UEFA Şampiyonlar Ligi,16,Atletico Madrid,Napoli,1,1,Beraberlik,2
+2023-06-18,2025-2026,UEFA Şampiyonlar Ligi,17,Real Madrid,Man City,3,0,Ev,3
+2023-06-18,2025-2026,UEFA Şampiyonlar Ligi,17,Bayern Munich,PSG,1,2,Deplasman,3
+2023-06-18,2025-2026,UEFA Şampiyonlar Ligi,17,Inter,Dortmund,2,5,Deplasman,7
+2023-06-18,2025-2026,UEFA Şampiyonlar Ligi,17,Arsenal,Barcelona,3,0,Ev,3
+2023-06-18,2025-2026,UEFA Şampiyonlar Ligi,17,Atletico Madrid,Napoli,1,2,Deplasman,3
+2023-07-19,2025-2026,UEFA Şampiyonlar Ligi,18,Real Madrid,Man City,2,3,Deplasman,5
+2023-07-19,2025-2026,UEFA Şampiyonlar Ligi,18,Bayern Munich,PSG,0,0,Beraberlik,0
+2023-07-19,2025-2026,UEFA Şampiyonlar Ligi,18,Inter,Dortmund,1,1,Beraberlik,2
+2023-07-19,2025-2026,UEFA Şampiyonlar Ligi,18,Arsenal,Barcelona,2,1,Ev,3
+2023-07-19,2025-2026,UEFA Şampiyonlar Ligi,18,Atletico Madrid,Napoli,6,2,Ev,8
+2023-02-02,2022-2023,UEFA Avrupa Ligi,1,Galatasaray,Fenerbahçe,1,0,Ev,1
+2023-02-02,2022-2023,UEFA Avrupa Ligi,1,Man United,Tottenham,2,2,Beraberlik,4
+2023-02-02,2022-2023,UEFA Avrupa Ligi,1,Roma,Lazio,3,3,Beraberlik,6
+2023-02-02,2022-2023,UEFA Avrupa Ligi,1,Ajax,Porto,3,3,Beraberlik,6
+2023-02-02,2022-2023,UEFA Avrupa Ligi,1,Olympiacos,Rangers,1,1,Beraberlik,2
+2023-03-03,2022-2023,UEFA Avrupa Ligi,2,Galatasaray,Fenerbahçe,2,0,Ev,2
+2023-03-03,2022-2023,UEFA Avrupa Ligi,2,Man United,Tottenham,1,2,Deplasman,3
+2023-03-03,2022-2023,UEFA Avrupa Ligi,2,Roma,Lazio,0,0,Beraberlik,0
+2023-03-03,2022-2023,UEFA Avrupa Ligi,2,Ajax,Porto,6,2,Ev,8
+2023-03-03,2022-2023,UEFA Avrupa Ligi,2,Olympiacos,Rangers,2,2,Beraberlik,4
+2023-04-04,2022-2023,UEFA Avrupa Ligi,3,Galatasaray,Fenerbahçe,4,3,Ev,7
+2023-04-04,2022-2023,UEFA Avrupa Ligi,3,Man United,Tottenham,3,0,Ev,3
+2023-04-04,2022-2023,UEFA Avrupa Ligi,3,Roma,Lazio,1,2,Deplasman,3
+2023-04-04,2022-2023,UEFA Avrupa Ligi,3,Ajax,Porto,2,2,Beraberlik,4
+2023-04-04,2022-2023,UEFA Avrupa Ligi,3,Olympiacos,Rangers,4,1,Ev,5
+2023-05-05,2022-2023,UEFA Avrupa Ligi,4,Galatasaray,Fenerbahçe,0,0,Beraberlik,0
+2023-05-05,2022-2023,UEFA Avrupa Ligi,4,Man United,Tottenham,0,1,Deplasman,1
+2023-05-05,2022-2023,UEFA Avrupa Ligi,4,Roma,Lazio,1,1,Beraberlik,2
+2023-05-05,2022-2023,UEFA Avrupa Ligi,4,Ajax,Porto,3,0,Ev,3
+2023-05-05,2022-2023,UEFA Avrupa Ligi,4,Olympiacos,Rangers,2,1,Ev,3
+2023-06-06,2022-2023,UEFA Avrupa Ligi,5,Galatasaray,Fenerbahçe,3,0,Ev,3
+2023-06-06,2022-2023,UEFA Avrupa Ligi,5,Man United,Tottenham,1,1,Beraberlik,2
+2023-06-06,2022-2023,UEFA Avrupa Ligi,5,Roma,Lazio,2,2,Beraberlik,4
+2023-06-06,2022-2023,UEFA Avrupa Ligi,5,Ajax,Porto,2,2,Beraberlik,4
+2023-06-06,2022-2023,UEFA Avrupa Ligi,5,Olympiacos,Rangers,1,0,Ev,1
+2023-07-07,2022-2023,UEFA Avrupa Ligi,6,Galatasaray,Fenerbahçe,3,1,Ev,4
+2023-07-07,2022-2023,UEFA Avrupa Ligi,6,Man United,Tottenham,1,2,Deplasman,3
+2023-07-07,2022-2023,UEFA Avrupa Ligi,6,Roma,Lazio,3,0,Ev,3
+2023-07-07,2022-2023,UEFA Avrupa Ligi,6,Ajax,Porto,2,2,Beraberlik,4
+2023-07-07,2022-2023,UEFA Avrupa Ligi,6,Olympiacos,Rangers,4,3,Ev,7
+2023-08-08,2022-2023,UEFA Avrupa Ligi,7,Galatasaray,Fenerbahçe,2,0,Ev,2
+2023-08-08,2022-2023,UEFA Avrupa Ligi,7,Man United,Tottenham,4,6,Deplasman,10
+2023-08-08,2022-2023,UEFA Avrupa Ligi,7,Roma,Lazio,4,1,Ev,5
+2023-08-08,2022-2023,UEFA Avrupa Ligi,7,Ajax,Porto,2,2,Beraberlik,4
+2023-08-08,2022-2023,UEFA Avrupa Ligi,7,Olympiacos,Rangers,2,0,Ev,2
+2023-09-09,2022-2023,UEFA Avrupa Ligi,8,Galatasaray,Fenerbahçe,3,0,Ev,3
+2023-09-09,2022-2023,UEFA Avrupa Ligi,8,Man United,Tottenham,4,2,Ev,6
+2023-09-09,2022-2023,UEFA Avrupa Ligi,8,Roma,Lazio,1,2,Deplasman,3
+2023-09-09,2022-2023,UEFA Avrupa Ligi,8,Ajax,Porto,3,2,Ev,5
+2023-09-09,2022-2023,UEFA Avrupa Ligi,8,Olympiacos,Rangers,2,3,Deplasman,5
+2023-10-10,2022-2023,UEFA Avrupa Ligi,9,Galatasaray,Fenerbahçe,4,1,Ev,5
+2023-10-10,2022-2023,UEFA Avrupa Ligi,9,Man United,Tottenham,2,0,Ev,2
+2023-10-10,2022-2023,UEFA Avrupa Ligi,9,Roma,Lazio,3,2,Ev,5
+2023-10-10,2022-2023,UEFA Avrupa Ligi,9,Ajax,Porto,0,1,Deplasman,1
+2023-10-10,2022-2023,UEFA Avrupa Ligi,9,Olympiacos,Rangers,4,0,Ev,4
+2023-11-11,2022-2023,UEFA Avrupa Ligi,10,Galatasaray,Fenerbahçe,2,1,Ev,3
+2023-11-11,2022-2023,UEFA Avrupa Ligi,10,Man United,Tottenham,3,2,Ev,5
+2023-11-11,2022-2023,UEFA Avrupa Ligi,10,Roma,Lazio,1,2,Deplasman,3
+2023-11-11,2022-2023,UEFA Avrupa Ligi,10,Ajax,Porto,2,2,Beraberlik,4
+2023-11-11,2022-2023,UEFA Avrupa Ligi,10,Olympiacos,Rangers,1,1,Beraberlik,2
+2023-12-12,2022-2023,UEFA Avrupa Ligi,11,Galatasaray,Fenerbahçe,6,2,Ev,8
+2023-12-12,2022-2023,UEFA Avrupa Ligi,11,Man United,Tottenham,2,1,Ev,3
+2023-12-12,2022-2023,UEFA Avrupa Ligi,11,Roma,Lazio,1,0,Ev,1
+2023-12-12,2022-2023,UEFA Avrupa Ligi,11,Ajax,Porto,3,2,Ev,5
+2023-12-12,2022-2023,UEFA Avrupa Ligi,11,Olympiacos,Rangers,8,4,Ev,12
+2023-01-13,2022-2023,UEFA Avrupa Ligi,12,Galatasaray,Fenerbahçe,5,1,Ev,6
+2023-01-13,2022-2023,UEFA Avrupa Ligi,12,Man United,Tottenham,2,2,Beraberlik,4
+2023-01-13,2022-2023,UEFA Avrupa Ligi,12,Roma,Lazio,3,2,Ev,5
+2023-01-13,2022-2023,UEFA Avrupa Ligi,12,Ajax,Porto,0,0,Beraberlik,0
+2023-01-13,2022-2023,UEFA Avrupa Ligi,12,Olympiacos,Rangers,1,1,Beraberlik,2
+2023-02-14,2022-2023,UEFA Avrupa Ligi,13,Galatasaray,Fenerbahçe,3,1,Ev,4
+2023-02-14,2022-2023,UEFA Avrupa Ligi,13,Man United,Tottenham,2,2,Beraberlik,4
+2023-02-14,2022-2023,UEFA Avrupa Ligi,13,Roma,Lazio,5,1,Ev,6
+2023-02-14,2022-2023,UEFA Avrupa Ligi,13,Ajax,Porto,0,2,Deplasman,2
+2023-02-14,2022-2023,UEFA Avrupa Ligi,13,Olympiacos,Rangers,0,3,Deplasman,3
+2023-03-15,2022-2023,UEFA Avrupa Ligi,14,Galatasaray,Fenerbahçe,2,1,Ev,3
+2023-03-15,2022-2023,UEFA Avrupa Ligi,14,Man United,Tottenham,5,2,Ev,7
+2023-03-15,2022-2023,UEFA Avrupa Ligi,14,Roma,Lazio,1,1,Beraberlik,2
+2023-03-15,2022-2023,UEFA Avrupa Ligi,14,Ajax,Porto,2,1,Ev,3
+2023-03-15,2022-2023,UEFA Avrupa Ligi,14,Olympiacos,Rangers,3,4,Deplasman,7
+2023-04-16,2022-2023,UEFA Avrupa Ligi,15,Galatasaray,Fenerbahçe,2,3,Deplasman,5
+2023-04-16,2022-2023,UEFA Avrupa Ligi,15,Man United,Tottenham,1,1,Beraberlik,2
+2023-04-16,2022-2023,UEFA Avrupa Ligi,15,Roma,Lazio,4,2,Ev,6
+2023-04-16,2022-2023,UEFA Avrupa Ligi,15,Ajax,Porto,2,1,Ev,3
+2023-04-16,2022-2023,UEFA Avrupa Ligi,15,Olympiacos,Rangers,4,2,Ev,6
+2023-05-17,2022-2023,UEFA Avrupa Ligi,16,Galatasaray,Fenerbahçe,4,1,Ev,5
+2023-05-17,2022-2023,UEFA Avrupa Ligi,16,Man United,Tottenham,1,2,Deplasman,3
+2023-05-17,2022-2023,UEFA Avrupa Ligi,16,Roma,Lazio,3,1,Ev,4
+2023-05-17,2022-2023,UEFA Avrupa Ligi,16,Ajax,Porto,4,0,Ev,4
+2023-05-17,2022-2023,UEFA Avrupa Ligi,16,Olympiacos,Rangers,1,1,Beraberlik,2
+2023-06-18,2022-2023,UEFA Avrupa Ligi,17,Galatasaray,Fenerbahçe,3,1,Ev,4
+2023-06-18,2022-2023,UEFA Avrupa Ligi,17,Man United,Tottenham,2,2,Beraberlik,4
+2023-06-18,2022-2023,UEFA Avrupa Ligi,17,Roma,Lazio,2,2,Beraberlik,4
+2023-06-18,2022-2023,UEFA Avrupa Ligi,17,Ajax,Porto,2,2,Beraberlik,4
+2023-06-18,2022-2023,UEFA Avrupa Ligi,17,Olympiacos,Rangers,6,2,Ev,8
+2023-07-19,2022-2023,UEFA Avrupa Ligi,18,Galatasaray,Fenerbahçe,1,3,Deplasman,4
+2023-07-19,2022-2023,UEFA Avrupa Ligi,18,Man United,Tottenham,1,5,Deplasman,6
+2023-07-19,2022-2023,UEFA Avrupa Ligi,18,Roma,Lazio,3,1,Ev,4
+2023-07-19,2022-2023,UEFA Avrupa Ligi,18,Ajax,Porto,3,0,Ev,3
+2023-07-19,2022-2023,UEFA Avrupa Ligi,18,Olympiacos,Rangers,8,1,Ev,9
+2023-02-02,2023-2024,UEFA Avrupa Ligi,1,Galatasaray,Fenerbahçe,0,4,Deplasman,4
+2023-02-02,2023-2024,UEFA Avrupa Ligi,1,Man United,Tottenham,4,2,Ev,6
+2023-02-02,2023-2024,UEFA Avrupa Ligi,1,Roma,Lazio,2,1,Ev,3
+2023-02-02,2023-2024,UEFA Avrupa Ligi,1,Ajax,Porto,2,0,Ev,2
+2023-02-02,2023-2024,UEFA Avrupa Ligi,1,Olympiacos,Rangers,4,0,Ev,4
+2023-03-03,2023-2024,UEFA Avrupa Ligi,2,Galatasaray,Fenerbahçe,2,0,Ev,2
+2023-03-03,2023-2024,UEFA Avrupa Ligi,2,Man United,Tottenham,1,6,Deplasman,7
+2023-03-03,2023-2024,UEFA Avrupa Ligi,2,Roma,Lazio,2,0,Ev,2
+2023-03-03,2023-2024,UEFA Avrupa Ligi,2,Ajax,Porto,1,0,Ev,1
+2023-03-03,2023-2024,UEFA Avrupa Ligi,2,Olympiacos,Rangers,4,0,Ev,4
+2023-04-04,2023-2024,UEFA Avrupa Ligi,3,Galatasaray,Fenerbahçe,3,3,Beraberlik,6
+2023-04-04,2023-2024,UEFA Avrupa Ligi,3,Man United,Tottenham,2,1,Ev,3
+2023-04-04,2023-2024,UEFA Avrupa Ligi,3,Roma,Lazio,1,2,Deplasman,3
+2023-04-04,2023-2024,UEFA Avrupa Ligi,3,Ajax,Porto,1,1,Beraberlik,2
+2023-04-04,2023-2024,UEFA Avrupa Ligi,3,Olympiacos,Rangers,3,3,Beraberlik,6
+2023-05-05,2023-2024,UEFA Avrupa Ligi,4,Galatasaray,Fenerbahçe,2,4,Deplasman,6
+2023-05-05,2023-2024,UEFA Avrupa Ligi,4,Man United,Tottenham,4,4,Beraberlik,8
+2023-05-05,2023-2024,UEFA Avrupa Ligi,4,Roma,Lazio,2,3,Deplasman,5
+2023-05-05,2023-2024,UEFA Avrupa Ligi,4,Ajax,Porto,1,3,Deplasman,4
+2023-05-05,2023-2024,UEFA Avrupa Ligi,4,Olympiacos,Rangers,1,3,Deplasman,4
+2023-06-06,2023-2024,UEFA Avrupa Ligi,5,Galatasaray,Fenerbahçe,2,3,Deplasman,5
+2023-06-06,2023-2024,UEFA Avrupa Ligi,5,Man United,Tottenham,1,2,Deplasman,3
+2023-06-06,2023-2024,UEFA Avrupa Ligi,5,Roma,Lazio,2,1,Ev,3
+2023-06-06,2023-2024,UEFA Avrupa Ligi,5,Ajax,Porto,1,0,Ev,1
+2023-06-06,2023-2024,UEFA Avrupa Ligi,5,Olympiacos,Rangers,3,1,Ev,4
+2023-07-07,2023-2024,UEFA Avrupa Ligi,6,Galatasaray,Fenerbahçe,1,2,Deplasman,3
+2023-07-07,2023-2024,UEFA Avrupa Ligi,6,Man United,Tottenham,6,1,Ev,7
+2023-07-07,2023-2024,UEFA Avrupa Ligi,6,Roma,Lazio,0,4,Deplasman,4
+2023-07-07,2023-2024,UEFA Avrupa Ligi,6,Ajax,Porto,0,1,Deplasman,1
+2023-07-07,2023-2024,UEFA Avrupa Ligi,6,Olympiacos,Rangers,2,1,Ev,3
+2023-08-08,2023-2024,UEFA Avrupa Ligi,7,Galatasaray,Fenerbahçe,4,0,Ev,4
+2023-08-08,2023-2024,UEFA Avrupa Ligi,7,Man United,Tottenham,1,1,Beraberlik,2
+2023-08-08,2023-2024,UEFA Avrupa Ligi,7,Roma,Lazio,1,1,Beraberlik,2
+2023-08-08,2023-2024,UEFA Avrupa Ligi,7,Ajax,Porto,0,1,Deplasman,1
+2023-08-08,2023-2024,UEFA Avrupa Ligi,7,Olympiacos,Rangers,1,1,Beraberlik,2
+2023-09-09,2023-2024,UEFA Avrupa Ligi,8,Galatasaray,Fenerbahçe,3,0,Ev,3
+2023-09-09,2023-2024,UEFA Avrupa Ligi,8,Man United,Tottenham,3,2,Ev,5
+2023-09-09,2023-2024,UEFA Avrupa Ligi,8,Roma,Lazio,4,1,Ev,5
+2023-09-09,2023-2024,UEFA Avrupa Ligi,8,Ajax,Porto,1,1,Beraberlik,2
+2023-09-09,2023-2024,UEFA Avrupa Ligi,8,Olympiacos,Rangers,4,2,Ev,6
+2023-10-10,2023-2024,UEFA Avrupa Ligi,9,Galatasaray,Fenerbahçe,0,0,Beraberlik,0
+2023-10-10,2023-2024,UEFA Avrupa Ligi,9,Man United,Tottenham,3,3,Beraberlik,6
+2023-10-10,2023-2024,UEFA Avrupa Ligi,9,Roma,Lazio,1,0,Ev,1
+2023-10-10,2023-2024,UEFA Avrupa Ligi,9,Ajax,Porto,1,0,Ev,1
+2023-10-10,2023-2024,UEFA Avrupa Ligi,9,Olympiacos,Rangers,1,3,Deplasman,4
+2023-11-11,2023-2024,UEFA Avrupa Ligi,10,Galatasaray,Fenerbahçe,1,3,Deplasman,4
+2023-11-11,2023-2024,UEFA Avrupa Ligi,10,Man United,Tottenham,2,1,Ev,3
+2023-11-11,2023-2024,UEFA Avrupa Ligi,10,Roma,Lazio,2,1,Ev,3
+2023-11-11,2023-2024,UEFA Avrupa Ligi,10,Ajax,Porto,1,3,Deplasman,4
+2023-11-11,2023-2024,UEFA Avrupa Ligi,10,Olympiacos,Rangers,2,1,Ev,3
+2023-12-12,2023-2024,UEFA Avrupa Ligi,11,Galatasaray,Fenerbahçe,1,0,Ev,1
+2023-12-12,2023-2024,UEFA Avrupa Ligi,11,Man United,Tottenham,3,1,Ev,4
+2023-12-12,2023-2024,UEFA Avrupa Ligi,11,Roma,Lazio,2,0,Ev,2
+2023-12-12,2023-2024,UEFA Avrupa Ligi,11,Ajax,Porto,0,0,Beraberlik,0
+2023-12-12,2023-2024,UEFA Avrupa Ligi,11,Olympiacos,Rangers,3,2,Ev,5
+2023-01-13,2023-2024,UEFA Avrupa Ligi,12,Galatasaray,Fenerbahçe,1,3,Deplasman,4
+2023-01-13,2023-2024,UEFA Avrupa Ligi,12,Man United,Tottenham,2,1,Ev,3
+2023-01-13,2023-2024,UEFA Avrupa Ligi,12,Roma,Lazio,2,0,Ev,2
+2023-01-13,2023-2024,UEFA Avrupa Ligi,12,Ajax,Porto,3,4,Deplasman,7
+2023-01-13,2023-2024,UEFA Avrupa Ligi,12,Olympiacos,Rangers,1,3,Deplasman,4
+2023-02-14,2023-2024,UEFA Avrupa Ligi,13,Galatasaray,Fenerbahçe,1,1,Beraberlik,2
+2023-02-14,2023-2024,UEFA Avrupa Ligi,13,Man United,Tottenham,4,0,Ev,4
+2023-02-14,2023-2024,UEFA Avrupa Ligi,13,Roma,Lazio,1,2,Deplasman,3
+2023-02-14,2023-2024,UEFA Avrupa Ligi,13,Ajax,Porto,1,3,Deplasman,4
+2023-02-14,2023-2024,UEFA Avrupa Ligi,13,Olympiacos,Rangers,1,2,Deplasman,3
+2023-03-15,2023-2024,UEFA Avrupa Ligi,14,Galatasaray,Fenerbahçe,1,0,Ev,1
+2023-03-15,2023-2024,UEFA Avrupa Ligi,14,Man United,Tottenham,1,0,Ev,1
+2023-03-15,2023-2024,UEFA Avrupa Ligi,14,Roma,Lazio,2,1,Ev,3
+2023-03-15,2023-2024,UEFA Avrupa Ligi,14,Ajax,Porto,1,2,Deplasman,3
+2023-03-15,2023-2024,UEFA Avrupa Ligi,14,Olympiacos,Rangers,3,3,Beraberlik,6
+2023-04-16,2023-2024,UEFA Avrupa Ligi,15,Galatasaray,Fenerbahçe,0,1,Deplasman,1
+2023-04-16,2023-2024,UEFA Avrupa Ligi,15,Man United,Tottenham,2,0,Ev,2
+2023-04-16,2023-2024,UEFA Avrupa Ligi,15,Roma,Lazio,2,0,Ev,2
+2023-04-16,2023-2024,UEFA Avrupa Ligi,15,Ajax,Porto,3,2,Ev,5
+2023-04-16,2023-2024,UEFA Avrupa Ligi,15,Olympiacos,Rangers,5,1,Ev,6
+2023-05-17,2023-2024,UEFA Avrupa Ligi,16,Galatasaray,Fenerbahçe,1,2,Deplasman,3
+2023-05-17,2023-2024,UEFA Avrupa Ligi,16,Man United,Tottenham,0,2,Deplasman,2
+2023-05-17,2023-2024,UEFA Avrupa Ligi,16,Roma,Lazio,1,1,Beraberlik,2
+2023-05-17,2023-2024,UEFA Avrupa Ligi,16,Ajax,Porto,1,1,Beraberlik,2
+2023-05-17,2023-2024,UEFA Avrupa Ligi,16,Olympiacos,Rangers,1,1,Beraberlik,2
+2023-06-18,2023-2024,UEFA Avrupa Ligi,17,Galatasaray,Fenerbahçe,2,2,Beraberlik,4
+2023-06-18,2023-2024,UEFA Avrupa Ligi,17,Man United,Tottenham,2,4,Deplasman,6
+2023-06-18,2023-2024,UEFA Avrupa Ligi,17,Roma,Lazio,3,1,Ev,4
+2023-06-18,2023-2024,UEFA Avrupa Ligi,17,Ajax,Porto,2,2,Beraberlik,4
+2023-06-18,2023-2024,UEFA Avrupa Ligi,17,Olympiacos,Rangers,6,0,Ev,6
+2023-07-19,2023-2024,UEFA Avrupa Ligi,18,Galatasaray,Fenerbahçe,5,3,Ev,8
+2023-07-19,2023-2024,UEFA Avrupa Ligi,18,Man United,Tottenham,5,4,Ev,9
+2023-07-19,2023-2024,UEFA Avrupa Ligi,18,Roma,Lazio,0,1,Deplasman,1
+2023-07-19,2023-2024,UEFA Avrupa Ligi,18,Ajax,Porto,1,1,Beraberlik,2
+2023-07-19,2023-2024,UEFA Avrupa Ligi,18,Olympiacos,Rangers,2,1,Ev,3
+2023-02-02,2024-2025,UEFA Avrupa Ligi,1,Galatasaray,Fenerbahçe,5,2,Ev,7
+2023-02-02,2024-2025,UEFA Avrupa Ligi,1,Man United,Tottenham,4,3,Ev,7
+2023-02-02,2024-2025,UEFA Avrupa Ligi,1,Roma,Lazio,1,4,Deplasman,5
+2023-02-02,2024-2025,UEFA Avrupa Ligi,1,Ajax,Porto,8,2,Ev,10
+2023-02-02,2024-2025,UEFA Avrupa Ligi,1,Olympiacos,Rangers,1,0,Ev,1
+2023-03-03,2024-2025,UEFA Avrupa Ligi,2,Galatasaray,Fenerbahçe,1,1,Beraberlik,2
+2023-03-03,2024-2025,UEFA Avrupa Ligi,2,Man United,Tottenham,1,0,Ev,1
+2023-03-03,2024-2025,UEFA Avrupa Ligi,2,Roma,Lazio,5,1,Ev,6
+2023-03-03,2024-2025,UEFA Avrupa Ligi,2,Ajax,Porto,2,1,Ev,3
+2023-03-03,2024-2025,UEFA Avrupa Ligi,2,Olympiacos,Rangers,7,2,Ev,9
+2023-04-04,2024-2025,UEFA Avrupa Ligi,3,Galatasaray,Fenerbahçe,7,1,Ev,8
+2023-04-04,2024-2025,UEFA Avrupa Ligi,3,Man United,Tottenham,4,1,Ev,5
+2023-04-04,2024-2025,UEFA Avrupa Ligi,3,Roma,Lazio,4,2,Ev,6
+2023-04-04,2024-2025,UEFA Avrupa Ligi,3,Ajax,Porto,3,1,Ev,4
+2023-04-04,2024-2025,UEFA Avrupa Ligi,3,Olympiacos,Rangers,5,2,Ev,7
+2023-05-05,2024-2025,UEFA Avrupa Ligi,4,Galatasaray,Fenerbahçe,3,1,Ev,4
+2023-05-05,2024-2025,UEFA Avrupa Ligi,4,Man United,Tottenham,1,3,Deplasman,4
+2023-05-05,2024-2025,UEFA Avrupa Ligi,4,Roma,Lazio,6,2,Ev,8
+2023-05-05,2024-2025,UEFA Avrupa Ligi,4,Ajax,Porto,1,1,Beraberlik,2
+2023-05-05,2024-2025,UEFA Avrupa Ligi,4,Olympiacos,Rangers,4,3,Ev,7
+2023-06-06,2024-2025,UEFA Avrupa Ligi,5,Galatasaray,Fenerbahçe,1,4,Deplasman,5
+2023-06-06,2024-2025,UEFA Avrupa Ligi,5,Man United,Tottenham,3,3,Beraberlik,6
+2023-06-06,2024-2025,UEFA Avrupa Ligi,5,Roma,Lazio,2,4,Deplasman,6
+2023-06-06,2024-2025,UEFA Avrupa Ligi,5,Ajax,Porto,5,4,Ev,9
+2023-06-06,2024-2025,UEFA Avrupa Ligi,5,Olympiacos,Rangers,3,0,Ev,3
+2023-07-07,2024-2025,UEFA Avrupa Ligi,6,Galatasaray,Fenerbahçe,3,1,Ev,4
+2023-07-07,2024-2025,UEFA Avrupa Ligi,6,Man United,Tottenham,2,5,Deplasman,7
+2023-07-07,2024-2025,UEFA Avrupa Ligi,6,Roma,Lazio,1,3,Deplasman,4
+2023-07-07,2024-2025,UEFA Avrupa Ligi,6,Ajax,Porto,2,1,Ev,3
+2023-07-07,2024-2025,UEFA Avrupa Ligi,6,Olympiacos,Rangers,2,2,Beraberlik,4
+2023-08-08,2024-2025,UEFA Avrupa Ligi,7,Galatasaray,Fenerbahçe,3,1,Ev,4
+2023-08-08,2024-2025,UEFA Avrupa Ligi,7,Man United,Tottenham,3,2,Ev,5
+2023-08-08,2024-2025,UEFA Avrupa Ligi,7,Roma,Lazio,1,2,Deplasman,3
+2023-08-08,2024-2025,UEFA Avrupa Ligi,7,Ajax,Porto,0,4,Deplasman,4
+2023-08-08,2024-2025,UEFA Avrupa Ligi,7,Olympiacos,Rangers,4,0,Ev,4
+2023-09-09,2024-2025,UEFA Avrupa Ligi,8,Galatasaray,Fenerbahçe,5,0,Ev,5
+2023-09-09,2024-2025,UEFA Avrupa Ligi,8,Man United,Tottenham,1,4,Deplasman,5
+2023-09-09,2024-2025,UEFA Avrupa Ligi,8,Roma,Lazio,4,0,Ev,4
+2023-09-09,2024-2025,UEFA Avrupa Ligi,8,Ajax,Porto,4,1,Ev,5
+2023-09-09,2024-2025,UEFA Avrupa Ligi,8,Olympiacos,Rangers,5,0,Ev,5
+2023-10-10,2024-2025,UEFA Avrupa Ligi,9,Galatasaray,Fenerbahçe,3,1,Ev,4
+2023-10-10,2024-2025,UEFA Avrupa Ligi,9,Man United,Tottenham,2,1,Ev,3
+2023-10-10,2024-2025,UEFA Avrupa Ligi,9,Roma,Lazio,3,6,Deplasman,9
+2023-10-10,2024-2025,UEFA Avrupa Ligi,9,Ajax,Porto,1,2,Deplasman,3
+2023-10-10,2024-2025,UEFA Avrupa Ligi,9,Olympiacos,Rangers,6,1,Ev,7
+2023-11-11,2024-2025,UEFA Avrupa Ligi,10,Galatasaray,Fenerbahçe,0,3,Deplasman,3
+2023-11-11,2024-2025,UEFA Avrupa Ligi,10,Man United,Tottenham,2,1,Ev,3
+2023-11-11,2024-2025,UEFA Avrupa Ligi,10,Roma,Lazio,2,3,Deplasman,5
+2023-11-11,2024-2025,UEFA Avrupa Ligi,10,Ajax,Porto,4,2,Ev,6
+2023-11-11,2024-2025,UEFA Avrupa Ligi,10,Olympiacos,Rangers,2,1,Ev,3
+2023-12-12,2024-2025,UEFA Avrupa Ligi,11,Galatasaray,Fenerbahçe,4,0,Ev,4
+2023-12-12,2024-2025,UEFA Avrupa Ligi,11,Man United,Tottenham,1,2,Deplasman,3
+2023-12-12,2024-2025,UEFA Avrupa Ligi,11,Roma,Lazio,4,0,Ev,4
+2023-12-12,2024-2025,UEFA Avrupa Ligi,11,Ajax,Porto,2,1,Ev,3
+2023-12-12,2024-2025,UEFA Avrupa Ligi,11,Olympiacos,Rangers,2,1,Ev,3
+2023-01-13,2024-2025,UEFA Avrupa Ligi,12,Galatasaray,Fenerbahçe,3,2,Ev,5
+2023-01-13,2024-2025,UEFA Avrupa Ligi,12,Man United,Tottenham,3,3,Beraberlik,6
+2023-01-13,2024-2025,UEFA Avrupa Ligi,12,Roma,Lazio,6,2,Ev,8
+2023-01-13,2024-2025,UEFA Avrupa Ligi,12,Ajax,Porto,4,2,Ev,6
+2023-01-13,2024-2025,UEFA Avrupa Ligi,12,Olympiacos,Rangers,3,0,Ev,3
+2023-02-14,2024-2025,UEFA Avrupa Ligi,13,Galatasaray,Fenerbahçe,5,0,Ev,5
+2023-02-14,2024-2025,UEFA Avrupa Ligi,13,Man United,Tottenham,2,6,Deplasman,8
+2023-02-14,2024-2025,UEFA Avrupa Ligi,13,Roma,Lazio,0,1,Deplasman,1
+2023-02-14,2024-2025,UEFA Avrupa Ligi,13,Ajax,Porto,5,1,Ev,6
+2023-02-14,2024-2025,UEFA Avrupa Ligi,13,Olympiacos,Rangers,2,1,Ev,3
+2023-03-15,2024-2025,UEFA Avrupa Ligi,14,Galatasaray,Fenerbahçe,3,0,Ev,3
+2023-03-15,2024-2025,UEFA Avrupa Ligi,14,Man United,Tottenham,2,0,Ev,2
+2023-03-15,2024-2025,UEFA Avrupa Ligi,14,Roma,Lazio,3,1,Ev,4
+2023-03-15,2024-2025,UEFA Avrupa Ligi,14,Ajax,Porto,6,0,Ev,6
+2023-03-15,2024-2025,UEFA Avrupa Ligi,14,Olympiacos,Rangers,1,0,Ev,1
+2023-04-16,2024-2025,UEFA Avrupa Ligi,15,Galatasaray,Fenerbahçe,2,0,Ev,2
+2023-04-16,2024-2025,UEFA Avrupa Ligi,15,Man United,Tottenham,2,3,Deplasman,5
+2023-04-16,2024-2025,UEFA Avrupa Ligi,15,Roma,Lazio,3,1,Ev,4
+2023-04-16,2024-2025,UEFA Avrupa Ligi,15,Ajax,Porto,5,2,Ev,7
+2023-04-16,2024-2025,UEFA Avrupa Ligi,15,Olympiacos,Rangers,3,2,Ev,5
+2023-05-17,2024-2025,UEFA Avrupa Ligi,16,Galatasaray,Fenerbahçe,4,1,Ev,5
+2023-05-17,2024-2025,UEFA Avrupa Ligi,16,Man United,Tottenham,3,2,Ev,5
+2023-05-17,2024-2025,UEFA Avrupa Ligi,16,Roma,Lazio,6,1,Ev,7
+2023-05-17,2024-2025,UEFA Avrupa Ligi,16,Ajax,Porto,2,3,Deplasman,5
+2023-05-17,2024-2025,UEFA Avrupa Ligi,16,Olympiacos,Rangers,3,2,Ev,5
+2023-06-18,2024-2025,UEFA Avrupa Ligi,17,Galatasaray,Fenerbahçe,6,0,Ev,6
+2023-06-18,2024-2025,UEFA Avrupa Ligi,17,Man United,Tottenham,2,3,Deplasman,5
+2023-06-18,2024-2025,UEFA Avrupa Ligi,17,Roma,Lazio,5,2,Ev,7
+2023-06-18,2024-2025,UEFA Avrupa Ligi,17,Ajax,Porto,1,2,Deplasman,3
+2023-06-18,2024-2025,UEFA Avrupa Ligi,17,Olympiacos,Rangers,2,0,Ev,2
+2023-07-19,2024-2025,UEFA Avrupa Ligi,18,Galatasaray,Fenerbahçe,7,3,Ev,10
+2023-07-19,2024-2025,UEFA Avrupa Ligi,18,Man United,Tottenham,3,0,Ev,3
+2023-07-19,2024-2025,UEFA Avrupa Ligi,18,Roma,Lazio,2,1,Ev,3
+2023-07-19,2024-2025,UEFA Avrupa Ligi,18,Ajax,Porto,7,2,Ev,9
+2023-07-19,2024-2025,UEFA Avrupa Ligi,18,Olympiacos,Rangers,2,0,Ev,2
+2023-02-02,2025-2026,UEFA Avrupa Ligi,1,Galatasaray,Fenerbahçe,4,1,Ev,5
+2023-02-02,2025-2026,UEFA Avrupa Ligi,1,Man United,Tottenham,0,2,Deplasman,2
+2023-02-02,2025-2026,UEFA Avrupa Ligi,1,Roma,Lazio,2,1,Ev,3
+2023-02-02,2025-2026,UEFA Avrupa Ligi,1,Ajax,Porto,3,0,Ev,3
+2023-02-02,2025-2026,UEFA Avrupa Ligi,1,Olympiacos,Rangers,4,1,Ev,5
+2023-03-03,2025-2026,UEFA Avrupa Ligi,2,Galatasaray,Fenerbahçe,4,1,Ev,5
+2023-03-03,2025-2026,UEFA Avrupa Ligi,2,Man United,Tottenham,3,1,Ev,4
+2023-03-03,2025-2026,UEFA Avrupa Ligi,2,Roma,Lazio,1,3,Deplasman,4
+2023-03-03,2025-2026,UEFA Avrupa Ligi,2,Ajax,Porto,2,3,Deplasman,5
+2023-03-03,2025-2026,UEFA Avrupa Ligi,2,Olympiacos,Rangers,2,0,Ev,2
+2023-04-04,2025-2026,UEFA Avrupa Ligi,3,Galatasaray,Fenerbahçe,1,1,Beraberlik,2
+2023-04-04,2025-2026,UEFA Avrupa Ligi,3,Man United,Tottenham,6,3,Ev,9
+2023-04-04,2025-2026,UEFA Avrupa Ligi,3,Roma,Lazio,1,2,Deplasman,3
+2023-04-04,2025-2026,UEFA Avrupa Ligi,3,Ajax,Porto,4,0,Ev,4
+2023-04-04,2025-2026,UEFA Avrupa Ligi,3,Olympiacos,Rangers,3,1,Ev,4
+2023-05-05,2025-2026,UEFA Avrupa Ligi,4,Galatasaray,Fenerbahçe,5,4,Ev,9
+2023-05-05,2025-2026,UEFA Avrupa Ligi,4,Man United,Tottenham,2,1,Ev,3
+2023-05-05,2025-2026,UEFA Avrupa Ligi,4,Roma,Lazio,2,3,Deplasman,5
+2023-05-05,2025-2026,UEFA Avrupa Ligi,4,Ajax,Porto,3,1,Ev,4
+2023-05-05,2025-2026,UEFA Avrupa Ligi,4,Olympiacos,Rangers,3,1,Ev,4
+2023-06-06,2025-2026,UEFA Avrupa Ligi,5,Galatasaray,Fenerbahçe,5,3,Ev,8
+2023-06-06,2025-2026,UEFA Avrupa Ligi,5,Man United,Tottenham,2,0,Ev,2
+2023-06-06,2025-2026,UEFA Avrupa Ligi,5,Roma,Lazio,3,4,Deplasman,7
+2023-06-06,2025-2026,UEFA Avrupa Ligi,5,Ajax,Porto,3,0,Ev,3
+2023-06-06,2025-2026,UEFA Avrupa Ligi,5,Olympiacos,Rangers,1,5,Deplasman,6
+2023-07-07,2025-2026,UEFA Avrupa Ligi,6,Galatasaray,Fenerbahçe,4,3,Ev,7
+2023-07-07,2025-2026,UEFA Avrupa Ligi,6,Man United,Tottenham,1,0,Ev,1
+2023-07-07,2025-2026,UEFA Avrupa Ligi,6,Roma,Lazio,0,2,Deplasman,2
+2023-07-07,2025-2026,UEFA Avrupa Ligi,6,Ajax,Porto,2,1,Ev,3
+2023-07-07,2025-2026,UEFA Avrupa Ligi,6,Olympiacos,Rangers,1,0,Ev,1
+2023-08-08,2025-2026,UEFA Avrupa Ligi,7,Galatasaray,Fenerbahçe,2,3,Deplasman,5
+2023-08-08,2025-2026,UEFA Avrupa Ligi,7,Man United,Tottenham,2,5,Deplasman,7
+2023-08-08,2025-2026,UEFA Avrupa Ligi,7,Roma,Lazio,3,2,Ev,5
+2023-08-08,2025-2026,UEFA Avrupa Ligi,7,Ajax,Porto,5,1,Ev,6
+2023-08-08,2025-2026,UEFA Avrupa Ligi,7,Olympiacos,Rangers,2,1,Ev,3
+2023-09-09,2025-2026,UEFA Avrupa Ligi,8,Galatasaray,Fenerbahçe,3,3,Beraberlik,6
+2023-09-09,2025-2026,UEFA Avrupa Ligi,8,Man United,Tottenham,3,1,Ev,4
+2023-09-09,2025-2026,UEFA Avrupa Ligi,8,Roma,Lazio,1,4,Deplasman,5
+2023-09-09,2025-2026,UEFA Avrupa Ligi,8,Ajax,Porto,3,2,Ev,5
+2023-09-09,2025-2026,UEFA Avrupa Ligi,8,Olympiacos,Rangers,3,3,Beraberlik,6
+2023-10-10,2025-2026,UEFA Avrupa Ligi,9,Galatasaray,Fenerbahçe,1,3,Deplasman,4
+2023-10-10,2025-2026,UEFA Avrupa Ligi,9,Man United,Tottenham,2,3,Deplasman,5
+2023-10-10,2025-2026,UEFA Avrupa Ligi,9,Roma,Lazio,0,2,Deplasman,2
+2023-10-10,2025-2026,UEFA Avrupa Ligi,9,Ajax,Porto,4,3,Ev,7
+2023-10-10,2025-2026,UEFA Avrupa Ligi,9,Olympiacos,Rangers,1,2,Deplasman,3
+2023-11-11,2025-2026,UEFA Avrupa Ligi,10,Galatasaray,Fenerbahçe,1,0,Ev,1
+2023-11-11,2025-2026,UEFA Avrupa Ligi,10,Man United,Tottenham,2,2,Beraberlik,4
+2023-11-11,2025-2026,UEFA Avrupa Ligi,10,Roma,Lazio,0,2,Deplasman,2
+2023-11-11,2025-2026,UEFA Avrupa Ligi,10,Ajax,Porto,3,2,Ev,5
+2023-11-11,2025-2026,UEFA Avrupa Ligi,10,Olympiacos,Rangers,4,0,Ev,4
+2023-12-12,2025-2026,UEFA Avrupa Ligi,11,Galatasaray,Fenerbahçe,7,1,Ev,8
+2023-12-12,2025-2026,UEFA Avrupa Ligi,11,Man United,Tottenham,6,1,Ev,7
+2023-12-12,2025-2026,UEFA Avrupa Ligi,11,Roma,Lazio,1,5,Deplasman,6
+2023-12-12,2025-2026,UEFA Avrupa Ligi,11,Ajax,Porto,0,1,Deplasman,1
+2023-12-12,2025-2026,UEFA Avrupa Ligi,11,Olympiacos,Rangers,3,1,Ev,4
+2023-01-13,2025-2026,UEFA Avrupa Ligi,12,Galatasaray,Fenerbahçe,1,3,Deplasman,4
+2023-01-13,2025-2026,UEFA Avrupa Ligi,12,Man United,Tottenham,7,4,Ev,11
+2023-01-13,2025-2026,UEFA Avrupa Ligi,12,Roma,Lazio,0,2,Deplasman,2
+2023-01-13,2025-2026,UEFA Avrupa Ligi,12,Ajax,Porto,1,1,Beraberlik,2
+2023-01-13,2025-2026,UEFA Avrupa Ligi,12,Olympiacos,Rangers,2,3,Deplasman,5
+2023-02-14,2025-2026,UEFA Avrupa Ligi,13,Galatasaray,Fenerbahçe,2,1,Ev,3
+2023-02-14,2025-2026,UEFA Avrupa Ligi,13,Man United,Tottenham,3,0,Ev,3
+2023-02-14,2025-2026,UEFA Avrupa Ligi,13,Roma,Lazio,4,1,Ev,5
+2023-02-14,2025-2026,UEFA Avrupa Ligi,13,Ajax,Porto,4,1,Ev,5
+2023-02-14,2025-2026,UEFA Avrupa Ligi,13,Olympiacos,Rangers,1,1,Beraberlik,2
+2023-03-15,2025-2026,UEFA Avrupa Ligi,14,Galatasaray,Fenerbahçe,3,1,Ev,4
+2023-03-15,2025-2026,UEFA Avrupa Ligi,14,Man United,Tottenham,1,2,Deplasman,3
+2023-03-15,2025-2026,UEFA Avrupa Ligi,14,Roma,Lazio,4,2,Ev,6
+2023-03-15,2025-2026,UEFA Avrupa Ligi,14,Ajax,Porto,1,2,Deplasman,3
+2023-03-15,2025-2026,UEFA Avrupa Ligi,14,Olympiacos,Rangers,2,4,Deplasman,6
+2023-04-16,2025-2026,UEFA Avrupa Ligi,15,Galatasaray,Fenerbahçe,2,2,Beraberlik,4
+2023-04-16,2025-2026,UEFA Avrupa Ligi,15,Man United,Tottenham,4,0,Ev,4
+2023-04-16,2025-2026,UEFA Avrupa Ligi,15,Roma,Lazio,4,7,Deplasman,11
+2023-04-16,2025-2026,UEFA Avrupa Ligi,15,Ajax,Porto,3,1,Ev,4
+2023-04-16,2025-2026,UEFA Avrupa Ligi,15,Olympiacos,Rangers,2,0,Ev,2
+2023-05-17,2025-2026,UEFA Avrupa Ligi,16,Galatasaray,Fenerbahçe,3,1,Ev,4
+2023-05-17,2025-2026,UEFA Avrupa Ligi,16,Man United,Tottenham,4,4,Beraberlik,8
+2023-05-17,2025-2026,UEFA Avrupa Ligi,16,Roma,Lazio,6,2,Ev,8
+2023-05-17,2025-2026,UEFA Avrupa Ligi,16,Ajax,Porto,1,3,Deplasman,4
+2023-05-17,2025-2026,UEFA Avrupa Ligi,16,Olympiacos,Rangers,4,2,Ev,6
+2023-06-18,2025-2026,UEFA Avrupa Ligi,17,Galatasaray,Fenerbahçe,6,1,Ev,7
+2023-06-18,2025-2026,UEFA Avrupa Ligi,17,Man United,Tottenham,0,0,Beraberlik,0
+2023-06-18,2025-2026,UEFA Avrupa Ligi,17,Roma,Lazio,0,2,Deplasman,2
+2023-06-18,2025-2026,UEFA Avrupa Ligi,17,Ajax,Porto,5,0,Ev,5
+2023-06-18,2025-2026,UEFA Avrupa Ligi,17,Olympiacos,Rangers,3,0,Ev,3
+2023-07-19,2025-2026,UEFA Avrupa Ligi,18,Galatasaray,Fenerbahçe,2,1,Ev,3
+2023-07-19,2025-2026,UEFA Avrupa Ligi,18,Man United,Tottenham,1,1,Beraberlik,2
+2023-07-19,2025-2026,UEFA Avrupa Ligi,18,Roma,Lazio,3,1,Ev,4
+2023-07-19,2025-2026,UEFA Avrupa Ligi,18,Ajax,Porto,5,0,Ev,5
+2023-07-19,2025-2026,UEFA Avrupa Ligi,18,Olympiacos,Rangers,1,2,Deplasman,3
+2023-02-02,2022-2023,Brezilya Serie A,1,Flamengo,Palmeiras,2,4,Deplasman,6
+2023-02-02,2022-2023,Brezilya Serie A,1,Sao Paulo,Corinthians,2,2,Beraberlik,4
+2023-02-02,2022-2023,Brezilya Serie A,1,Fluminense,Botafogo,2,2,Beraberlik,4
+2023-02-02,2022-2023,Brezilya Serie A,1,Gremio,Internacional,4,2,Ev,6
+2023-02-02,2022-2023,Brezilya Serie A,1,Atletico Mineiro,Cruzeiro,1,4,Deplasman,5
+2023-03-03,2022-2023,Brezilya Serie A,2,Flamengo,Palmeiras,3,1,Ev,4
+2023-03-03,2022-2023,Brezilya Serie A,2,Sao Paulo,Corinthians,1,2,Deplasman,3
+2023-03-03,2022-2023,Brezilya Serie A,2,Fluminense,Botafogo,1,3,Deplasman,4
+2023-03-03,2022-2023,Brezilya Serie A,2,Gremio,Internacional,1,3,Deplasman,4
+2023-03-03,2022-2023,Brezilya Serie A,2,Atletico Mineiro,Cruzeiro,2,2,Beraberlik,4
+2023-04-04,2022-2023,Brezilya Serie A,3,Flamengo,Palmeiras,6,3,Ev,9
+2023-04-04,2022-2023,Brezilya Serie A,3,Sao Paulo,Corinthians,0,0,Beraberlik,0
+2023-04-04,2022-2023,Brezilya Serie A,3,Fluminense,Botafogo,1,2,Deplasman,3
+2023-04-04,2022-2023,Brezilya Serie A,3,Gremio,Internacional,3,3,Beraberlik,6
+2023-04-04,2022-2023,Brezilya Serie A,3,Atletico Mineiro,Cruzeiro,3,0,Ev,3
+2023-05-05,2022-2023,Brezilya Serie A,4,Flamengo,Palmeiras,1,3,Deplasman,4
+2023-05-05,2022-2023,Brezilya Serie A,4,Sao Paulo,Corinthians,3,0,Ev,3
+2023-05-05,2022-2023,Brezilya Serie A,4,Fluminense,Botafogo,3,1,Ev,4
+2023-05-05,2022-2023,Brezilya Serie A,4,Gremio,Internacional,0,3,Deplasman,3
+2023-05-05,2022-2023,Brezilya Serie A,4,Atletico Mineiro,Cruzeiro,2,2,Beraberlik,4
+2023-06-06,2022-2023,Brezilya Serie A,5,Flamengo,Palmeiras,4,1,Ev,5
+2023-06-06,2022-2023,Brezilya Serie A,5,Sao Paulo,Corinthians,2,1,Ev,3
+2023-06-06,2022-2023,Brezilya Serie A,5,Fluminense,Botafogo,6,1,Ev,7
+2023-06-06,2022-2023,Brezilya Serie A,5,Gremio,Internacional,1,3,Deplasman,4
+2023-06-06,2022-2023,Brezilya Serie A,5,Atletico Mineiro,Cruzeiro,2,2,Beraberlik,4
+2023-07-07,2022-2023,Brezilya Serie A,6,Flamengo,Palmeiras,4,2,Ev,6
+2023-07-07,2022-2023,Brezilya Serie A,6,Sao Paulo,Corinthians,5,1,Ev,6
+2023-07-07,2022-2023,Brezilya Serie A,6,Fluminense,Botafogo,3,3,Beraberlik,6
+2023-07-07,2022-2023,Brezilya Serie A,6,Gremio,Internacional,1,2,Deplasman,3
+2023-07-07,2022-2023,Brezilya Serie A,6,Atletico Mineiro,Cruzeiro,0,1,Deplasman,1
+2023-08-08,2022-2023,Brezilya Serie A,7,Flamengo,Palmeiras,6,2,Ev,8
+2023-08-08,2022-2023,Brezilya Serie A,7,Sao Paulo,Corinthians,0,0,Beraberlik,0
+2023-08-08,2022-2023,Brezilya Serie A,7,Fluminense,Botafogo,0,5,Deplasman,5
+2023-08-08,2022-2023,Brezilya Serie A,7,Gremio,Internacional,0,3,Deplasman,3
+2023-08-08,2022-2023,Brezilya Serie A,7,Atletico Mineiro,Cruzeiro,4,1,Ev,5
+2023-09-09,2022-2023,Brezilya Serie A,8,Flamengo,Palmeiras,2,2,Beraberlik,4
+2023-09-09,2022-2023,Brezilya Serie A,8,Sao Paulo,Corinthians,1,0,Ev,1
+2023-09-09,2022-2023,Brezilya Serie A,8,Fluminense,Botafogo,3,1,Ev,4
+2023-09-09,2022-2023,Brezilya Serie A,8,Gremio,Internacional,2,3,Deplasman,5
+2023-09-09,2022-2023,Brezilya Serie A,8,Atletico Mineiro,Cruzeiro,3,1,Ev,4
+2023-10-10,2022-2023,Brezilya Serie A,9,Flamengo,Palmeiras,1,3,Deplasman,4
+2023-10-10,2022-2023,Brezilya Serie A,9,Sao Paulo,Corinthians,3,1,Ev,4
+2023-10-10,2022-2023,Brezilya Serie A,9,Fluminense,Botafogo,5,1,Ev,6
+2023-10-10,2022-2023,Brezilya Serie A,9,Gremio,Internacional,2,3,Deplasman,5
+2023-10-10,2022-2023,Brezilya Serie A,9,Atletico Mineiro,Cruzeiro,2,3,Deplasman,5
+2023-11-11,2022-2023,Brezilya Serie A,10,Flamengo,Palmeiras,2,1,Ev,3
+2023-11-11,2022-2023,Brezilya Serie A,10,Sao Paulo,Corinthians,5,1,Ev,6
+2023-11-11,2022-2023,Brezilya Serie A,10,Fluminense,Botafogo,3,5,Deplasman,8
+2023-11-11,2022-2023,Brezilya Serie A,10,Gremio,Internacional,5,5,Beraberlik,10
+2023-11-11,2022-2023,Brezilya Serie A,10,Atletico Mineiro,Cruzeiro,4,3,Ev,7
+2023-12-12,2022-2023,Brezilya Serie A,11,Flamengo,Palmeiras,4,0,Ev,4
+2023-12-12,2022-2023,Brezilya Serie A,11,Sao Paulo,Corinthians,5,2,Ev,7
+2023-12-12,2022-2023,Brezilya Serie A,11,Fluminense,Botafogo,6,2,Ev,8
+2023-12-12,2022-2023,Brezilya Serie A,11,Gremio,Internacional,0,0,Beraberlik,0
+2023-12-12,2022-2023,Brezilya Serie A,11,Atletico Mineiro,Cruzeiro,2,0,Ev,2
+2023-01-13,2022-2023,Brezilya Serie A,12,Flamengo,Palmeiras,3,2,Ev,5
+2023-01-13,2022-2023,Brezilya Serie A,12,Sao Paulo,Corinthians,2,0,Ev,2
+2023-01-13,2022-2023,Brezilya Serie A,12,Fluminense,Botafogo,3,4,Deplasman,7
+2023-01-13,2022-2023,Brezilya Serie A,12,Gremio,Internacional,1,1,Beraberlik,2
+2023-01-13,2022-2023,Brezilya Serie A,12,Atletico Mineiro,Cruzeiro,1,1,Beraberlik,2
+2023-02-14,2022-2023,Brezilya Serie A,13,Flamengo,Palmeiras,4,3,Ev,7
+2023-02-14,2022-2023,Brezilya Serie A,13,Sao Paulo,Corinthians,0,3,Deplasman,3
+2023-02-14,2022-2023,Brezilya Serie A,13,Fluminense,Botafogo,4,3,Ev,7
+2023-02-14,2022-2023,Brezilya Serie A,13,Gremio,Internacional,2,1,Ev,3
+2023-02-14,2022-2023,Brezilya Serie A,13,Atletico Mineiro,Cruzeiro,2,1,Ev,3
+2023-03-15,2022-2023,Brezilya Serie A,14,Flamengo,Palmeiras,3,2,Ev,5
+2023-03-15,2022-2023,Brezilya Serie A,14,Sao Paulo,Corinthians,1,1,Beraberlik,2
+2023-03-15,2022-2023,Brezilya Serie A,14,Fluminense,Botafogo,1,1,Beraberlik,2
+2023-03-15,2022-2023,Brezilya Serie A,14,Gremio,Internacional,6,3,Ev,9
+2023-03-15,2022-2023,Brezilya Serie A,14,Atletico Mineiro,Cruzeiro,0,2,Deplasman,2
+2023-04-16,2022-2023,Brezilya Serie A,15,Flamengo,Palmeiras,3,1,Ev,4
+2023-04-16,2022-2023,Brezilya Serie A,15,Sao Paulo,Corinthians,3,2,Ev,5
+2023-04-16,2022-2023,Brezilya Serie A,15,Fluminense,Botafogo,4,2,Ev,6
+2023-04-16,2022-2023,Brezilya Serie A,15,Gremio,Internacional,1,4,Deplasman,5
+2023-04-16,2022-2023,Brezilya Serie A,15,Atletico Mineiro,Cruzeiro,2,2,Beraberlik,4
+2023-05-17,2022-2023,Brezilya Serie A,16,Flamengo,Palmeiras,2,3,Deplasman,5
+2023-05-17,2022-2023,Brezilya Serie A,16,Sao Paulo,Corinthians,1,0,Ev,1
+2023-05-17,2022-2023,Brezilya Serie A,16,Fluminense,Botafogo,3,2,Ev,5
+2023-05-17,2022-2023,Brezilya Serie A,16,Gremio,Internacional,2,3,Deplasman,5
+2023-05-17,2022-2023,Brezilya Serie A,16,Atletico Mineiro,Cruzeiro,0,2,Deplasman,2
+2023-06-18,2022-2023,Brezilya Serie A,17,Flamengo,Palmeiras,3,1,Ev,4
+2023-06-18,2022-2023,Brezilya Serie A,17,Sao Paulo,Corinthians,3,1,Ev,4
+2023-06-18,2022-2023,Brezilya Serie A,17,Fluminense,Botafogo,1,3,Deplasman,4
+2023-06-18,2022-2023,Brezilya Serie A,17,Gremio,Internacional,1,2,Deplasman,3
+2023-06-18,2022-2023,Brezilya Serie A,17,Atletico Mineiro,Cruzeiro,0,2,Deplasman,2
+2023-07-19,2022-2023,Brezilya Serie A,18,Flamengo,Palmeiras,2,0,Ev,2
+2023-07-19,2022-2023,Brezilya Serie A,18,Sao Paulo,Corinthians,5,0,Ev,5
+2023-07-19,2022-2023,Brezilya Serie A,18,Fluminense,Botafogo,3,2,Ev,5
+2023-07-19,2022-2023,Brezilya Serie A,18,Gremio,Internacional,2,1,Ev,3
+2023-07-19,2022-2023,Brezilya Serie A,18,Atletico Mineiro,Cruzeiro,0,1,Deplasman,1
+2023-02-02,2023-2024,Brezilya Serie A,1,Flamengo,Palmeiras,4,2,Ev,6
+2023-02-02,2023-2024,Brezilya Serie A,1,Sao Paulo,Corinthians,2,1,Ev,3
+2023-02-02,2023-2024,Brezilya Serie A,1,Fluminense,Botafogo,0,2,Deplasman,2
+2023-02-02,2023-2024,Brezilya Serie A,1,Gremio,Internacional,2,1,Ev,3
+2023-02-02,2023-2024,Brezilya Serie A,1,Atletico Mineiro,Cruzeiro,2,0,Ev,2
+2023-03-03,2023-2024,Brezilya Serie A,2,Flamengo,Palmeiras,1,1,Beraberlik,2
+2023-03-03,2023-2024,Brezilya Serie A,2,Sao Paulo,Corinthians,2,0,Ev,2
+2023-03-03,2023-2024,Brezilya Serie A,2,Fluminense,Botafogo,2,0,Ev,2
+2023-03-03,2023-2024,Brezilya Serie A,2,Gremio,Internacional,2,1,Ev,3
+2023-03-03,2023-2024,Brezilya Serie A,2,Atletico Mineiro,Cruzeiro,3,1,Ev,4
+2023-04-04,2023-2024,Brezilya Serie A,3,Flamengo,Palmeiras,4,1,Ev,5
+2023-04-04,2023-2024,Brezilya Serie A,3,Sao Paulo,Corinthians,4,1,Ev,5
+2023-04-04,2023-2024,Brezilya Serie A,3,Fluminense,Botafogo,1,1,Beraberlik,2
+2023-04-04,2023-2024,Brezilya Serie A,3,Gremio,Internacional,0,1,Deplasman,1
+2023-04-04,2023-2024,Brezilya Serie A,3,Atletico Mineiro,Cruzeiro,1,2,Deplasman,3
+2023-05-05,2023-2024,Brezilya Serie A,4,Flamengo,Palmeiras,2,2,Beraberlik,4
+2023-05-05,2023-2024,Brezilya Serie A,4,Sao Paulo,Corinthians,3,0,Ev,3
+2023-05-05,2023-2024,Brezilya Serie A,4,Fluminense,Botafogo,4,4,Beraberlik,8
+2023-05-05,2023-2024,Brezilya Serie A,4,Gremio,Internacional,1,2,Deplasman,3
+2023-05-05,2023-2024,Brezilya Serie A,4,Atletico Mineiro,Cruzeiro,0,2,Deplasman,2
+2023-06-06,2023-2024,Brezilya Serie A,5,Flamengo,Palmeiras,3,2,Ev,5
+2023-06-06,2023-2024,Brezilya Serie A,5,Sao Paulo,Corinthians,0,2,Deplasman,2
+2023-06-06,2023-2024,Brezilya Serie A,5,Fluminense,Botafogo,2,2,Beraberlik,4
+2023-06-06,2023-2024,Brezilya Serie A,5,Gremio,Internacional,3,1,Ev,4
+2023-06-06,2023-2024,Brezilya Serie A,5,Atletico Mineiro,Cruzeiro,0,2,Deplasman,2
+2023-07-07,2023-2024,Brezilya Serie A,6,Flamengo,Palmeiras,2,6,Deplasman,8
+2023-07-07,2023-2024,Brezilya Serie A,6,Sao Paulo,Corinthians,3,1,Ev,4
+2023-07-07,2023-2024,Brezilya Serie A,6,Fluminense,Botafogo,2,2,Beraberlik,4
+2023-07-07,2023-2024,Brezilya Serie A,6,Gremio,Internacional,2,2,Beraberlik,4
+2023-07-07,2023-2024,Brezilya Serie A,6,Atletico Mineiro,Cruzeiro,2,1,Ev,3
+2023-08-08,2023-2024,Brezilya Serie A,7,Flamengo,Palmeiras,3,1,Ev,4
+2023-08-08,2023-2024,Brezilya Serie A,7,Sao Paulo,Corinthians,0,1,Deplasman,1
+2023-08-08,2023-2024,Brezilya Serie A,7,Fluminense,Botafogo,3,1,Ev,4
+2023-08-08,2023-2024,Brezilya Serie A,7,Gremio,Internacional,2,1,Ev,3
+2023-08-08,2023-2024,Brezilya Serie A,7,Atletico Mineiro,Cruzeiro,5,1,Ev,6
+2023-09-09,2023-2024,Brezilya Serie A,8,Flamengo,Palmeiras,0,5,Deplasman,5
+2023-09-09,2023-2024,Brezilya Serie A,8,Sao Paulo,Corinthians,3,2,Ev,5
+2023-09-09,2023-2024,Brezilya Serie A,8,Fluminense,Botafogo,3,4,Deplasman,7
+2023-09-09,2023-2024,Brezilya Serie A,8,Gremio,Internacional,3,0,Ev,3
+2023-09-09,2023-2024,Brezilya Serie A,8,Atletico Mineiro,Cruzeiro,4,3,Ev,7
+2023-10-10,2023-2024,Brezilya Serie A,9,Flamengo,Palmeiras,3,3,Beraberlik,6
+2023-10-10,2023-2024,Brezilya Serie A,9,Sao Paulo,Corinthians,5,0,Ev,5
+2023-10-10,2023-2024,Brezilya Serie A,9,Fluminense,Botafogo,4,2,Ev,6
+2023-10-10,2023-2024,Brezilya Serie A,9,Gremio,Internacional,2,3,Deplasman,5
+2023-10-10,2023-2024,Brezilya Serie A,9,Atletico Mineiro,Cruzeiro,1,5,Deplasman,6
+2023-11-11,2023-2024,Brezilya Serie A,10,Flamengo,Palmeiras,7,3,Ev,10
+2023-11-11,2023-2024,Brezilya Serie A,10,Sao Paulo,Corinthians,2,3,Deplasman,5
+2023-11-11,2023-2024,Brezilya Serie A,10,Fluminense,Botafogo,2,0,Ev,2
+2023-11-11,2023-2024,Brezilya Serie A,10,Gremio,Internacional,2,1,Ev,3
+2023-11-11,2023-2024,Brezilya Serie A,10,Atletico Mineiro,Cruzeiro,1,1,Beraberlik,2
+2023-12-12,2023-2024,Brezilya Serie A,11,Flamengo,Palmeiras,0,0,Beraberlik,0
+2023-12-12,2023-2024,Brezilya Serie A,11,Sao Paulo,Corinthians,1,0,Ev,1
+2023-12-12,2023-2024,Brezilya Serie A,11,Fluminense,Botafogo,2,2,Beraberlik,4
+2023-12-12,2023-2024,Brezilya Serie A,11,Gremio,Internacional,1,0,Ev,1
+2023-12-12,2023-2024,Brezilya Serie A,11,Atletico Mineiro,Cruzeiro,2,3,Deplasman,5
+2023-01-13,2023-2024,Brezilya Serie A,12,Flamengo,Palmeiras,4,3,Ev,7
+2023-01-13,2023-2024,Brezilya Serie A,12,Sao Paulo,Corinthians,3,1,Ev,4
+2023-01-13,2023-2024,Brezilya Serie A,12,Fluminense,Botafogo,5,2,Ev,7
+2023-01-13,2023-2024,Brezilya Serie A,12,Gremio,Internacional,0,2,Deplasman,2
+2023-01-13,2023-2024,Brezilya Serie A,12,Atletico Mineiro,Cruzeiro,5,1,Ev,6
+2023-02-14,2023-2024,Brezilya Serie A,13,Flamengo,Palmeiras,1,3,Deplasman,4
+2023-02-14,2023-2024,Brezilya Serie A,13,Sao Paulo,Corinthians,5,0,Ev,5
+2023-02-14,2023-2024,Brezilya Serie A,13,Fluminense,Botafogo,3,0,Ev,3
+2023-02-14,2023-2024,Brezilya Serie A,13,Gremio,Internacional,2,2,Beraberlik,4
+2023-02-14,2023-2024,Brezilya Serie A,13,Atletico Mineiro,Cruzeiro,2,0,Ev,2
+2023-03-15,2023-2024,Brezilya Serie A,14,Flamengo,Palmeiras,1,0,Ev,1
+2023-03-15,2023-2024,Brezilya Serie A,14,Sao Paulo,Corinthians,3,1,Ev,4
+2023-03-15,2023-2024,Brezilya Serie A,14,Fluminense,Botafogo,3,6,Deplasman,9
+2023-03-15,2023-2024,Brezilya Serie A,14,Gremio,Internacional,0,1,Deplasman,1
+2023-03-15,2023-2024,Brezilya Serie A,14,Atletico Mineiro,Cruzeiro,4,0,Ev,4
+2023-04-16,2023-2024,Brezilya Serie A,15,Flamengo,Palmeiras,2,1,Ev,3
+2023-04-16,2023-2024,Brezilya Serie A,15,Sao Paulo,Corinthians,0,2,Deplasman,2
+2023-04-16,2023-2024,Brezilya Serie A,15,Fluminense,Botafogo,3,3,Beraberlik,6
+2023-04-16,2023-2024,Brezilya Serie A,15,Gremio,Internacional,0,2,Deplasman,2
+2023-04-16,2023-2024,Brezilya Serie A,15,Atletico Mineiro,Cruzeiro,1,1,Beraberlik,2
+2023-05-17,2023-2024,Brezilya Serie A,16,Flamengo,Palmeiras,0,2,Deplasman,2
+2023-05-17,2023-2024,Brezilya Serie A,16,Sao Paulo,Corinthians,0,0,Beraberlik,0
+2023-05-17,2023-2024,Brezilya Serie A,16,Fluminense,Botafogo,2,1,Ev,3
+2023-05-17,2023-2024,Brezilya Serie A,16,Gremio,Internacional,0,0,Beraberlik,0
+2023-05-17,2023-2024,Brezilya Serie A,16,Atletico Mineiro,Cruzeiro,0,2,Deplasman,2
+2023-06-18,2023-2024,Brezilya Serie A,17,Flamengo,Palmeiras,0,1,Deplasman,1
+2023-06-18,2023-2024,Brezilya Serie A,17,Sao Paulo,Corinthians,2,1,Ev,3
+2023-06-18,2023-2024,Brezilya Serie A,17,Fluminense,Botafogo,5,1,Ev,6
+2023-06-18,2023-2024,Brezilya Serie A,17,Gremio,Internacional,2,2,Beraberlik,4
+2023-06-18,2023-2024,Brezilya Serie A,17,Atletico Mineiro,Cruzeiro,1,2,Deplasman,3
+2023-07-19,2023-2024,Brezilya Serie A,18,Flamengo,Palmeiras,0,3,Deplasman,3
+2023-07-19,2023-2024,Brezilya Serie A,18,Sao Paulo,Corinthians,2,2,Beraberlik,4
+2023-07-19,2023-2024,Brezilya Serie A,18,Fluminense,Botafogo,3,2,Ev,5
+2023-07-19,2023-2024,Brezilya Serie A,18,Gremio,Internacional,1,0,Ev,1
+2023-07-19,2023-2024,Brezilya Serie A,18,Atletico Mineiro,Cruzeiro,5,1,Ev,6
+2023-02-02,2024-2025,Brezilya Serie A,1,Flamengo,Palmeiras,3,1,Ev,4
+2023-02-02,2024-2025,Brezilya Serie A,1,Sao Paulo,Corinthians,0,0,Beraberlik,0
+2023-02-02,2024-2025,Brezilya Serie A,1,Fluminense,Botafogo,4,1,Ev,5
+2023-02-02,2024-2025,Brezilya Serie A,1,Gremio,Internacional,3,4,Deplasman,7
+2023-02-02,2024-2025,Brezilya Serie A,1,Atletico Mineiro,Cruzeiro,4,0,Ev,4
+2023-03-03,2024-2025,Brezilya Serie A,2,Flamengo,Palmeiras,3,1,Ev,4
+2023-03-03,2024-2025,Brezilya Serie A,2,Sao Paulo,Corinthians,1,1,Beraberlik,2
+2023-03-03,2024-2025,Brezilya Serie A,2,Fluminense,Botafogo,2,0,Ev,2
+2023-03-03,2024-2025,Brezilya Serie A,2,Gremio,Internacional,3,5,Deplasman,8
+2023-03-03,2024-2025,Brezilya Serie A,2,Atletico Mineiro,Cruzeiro,5,0,Ev,5
+2023-04-04,2024-2025,Brezilya Serie A,3,Flamengo,Palmeiras,5,2,Ev,7
+2023-04-04,2024-2025,Brezilya Serie A,3,Sao Paulo,Corinthians,2,0,Ev,2
+2023-04-04,2024-2025,Brezilya Serie A,3,Fluminense,Botafogo,4,3,Ev,7
+2023-04-04,2024-2025,Brezilya Serie A,3,Gremio,Internacional,1,3,Deplasman,4
+2023-04-04,2024-2025,Brezilya Serie A,3,Atletico Mineiro,Cruzeiro,6,4,Ev,10
+2023-05-05,2024-2025,Brezilya Serie A,4,Flamengo,Palmeiras,3,2,Ev,5
+2023-05-05,2024-2025,Brezilya Serie A,4,Sao Paulo,Corinthians,0,2,Deplasman,2
+2023-05-05,2024-2025,Brezilya Serie A,4,Fluminense,Botafogo,2,0,Ev,2
+2023-05-05,2024-2025,Brezilya Serie A,4,Gremio,Internacional,4,3,Ev,7
+2023-05-05,2024-2025,Brezilya Serie A,4,Atletico Mineiro,Cruzeiro,1,0,Ev,1
+2023-06-06,2024-2025,Brezilya Serie A,5,Flamengo,Palmeiras,2,1,Ev,3
+2023-06-06,2024-2025,Brezilya Serie A,5,Sao Paulo,Corinthians,1,2,Deplasman,3
+2023-06-06,2024-2025,Brezilya Serie A,5,Fluminense,Botafogo,2,1,Ev,3
+2023-06-06,2024-2025,Brezilya Serie A,5,Gremio,Internacional,3,1,Ev,4
+2023-06-06,2024-2025,Brezilya Serie A,5,Atletico Mineiro,Cruzeiro,2,2,Beraberlik,4
+2023-07-07,2024-2025,Brezilya Serie A,6,Flamengo,Palmeiras,4,4,Beraberlik,8
+2023-07-07,2024-2025,Brezilya Serie A,6,Sao Paulo,Corinthians,1,3,Deplasman,4
+2023-07-07,2024-2025,Brezilya Serie A,6,Fluminense,Botafogo,5,0,Ev,5
+2023-07-07,2024-2025,Brezilya Serie A,6,Gremio,Internacional,2,3,Deplasman,5
+2023-07-07,2024-2025,Brezilya Serie A,6,Atletico Mineiro,Cruzeiro,2,1,Ev,3
+2023-08-08,2024-2025,Brezilya Serie A,7,Flamengo,Palmeiras,6,1,Ev,7
+2023-08-08,2024-2025,Brezilya Serie A,7,Sao Paulo,Corinthians,0,3,Deplasman,3
+2023-08-08,2024-2025,Brezilya Serie A,7,Fluminense,Botafogo,2,1,Ev,3
+2023-08-08,2024-2025,Brezilya Serie A,7,Gremio,Internacional,1,1,Beraberlik,2
+2023-08-08,2024-2025,Brezilya Serie A,7,Atletico Mineiro,Cruzeiro,2,1,Ev,3
+2023-09-09,2024-2025,Brezilya Serie A,8,Flamengo,Palmeiras,6,1,Ev,7
+2023-09-09,2024-2025,Brezilya Serie A,8,Sao Paulo,Corinthians,1,4,Deplasman,5
+2023-09-09,2024-2025,Brezilya Serie A,8,Fluminense,Botafogo,3,3,Beraberlik,6
+2023-09-09,2024-2025,Brezilya Serie A,8,Gremio,Internacional,3,3,Beraberlik,6
+2023-09-09,2024-2025,Brezilya Serie A,8,Atletico Mineiro,Cruzeiro,1,1,Beraberlik,2
+2023-10-10,2024-2025,Brezilya Serie A,9,Flamengo,Palmeiras,3,1,Ev,4
+2023-10-10,2024-2025,Brezilya Serie A,9,Sao Paulo,Corinthians,1,3,Deplasman,4
+2023-10-10,2024-2025,Brezilya Serie A,9,Fluminense,Botafogo,3,0,Ev,3
+2023-10-10,2024-2025,Brezilya Serie A,9,Gremio,Internacional,4,0,Ev,4
+2023-10-10,2024-2025,Brezilya Serie A,9,Atletico Mineiro,Cruzeiro,1,1,Beraberlik,2
+2023-11-11,2024-2025,Brezilya Serie A,10,Flamengo,Palmeiras,2,2,Beraberlik,4
+2023-11-11,2024-2025,Brezilya Serie A,10,Sao Paulo,Corinthians,3,3,Beraberlik,6
+2023-11-11,2024-2025,Brezilya Serie A,10,Fluminense,Botafogo,3,2,Ev,5
+2023-11-11,2024-2025,Brezilya Serie A,10,Gremio,Internacional,3,2,Ev,5
+2023-11-11,2024-2025,Brezilya Serie A,10,Atletico Mineiro,Cruzeiro,3,0,Ev,3
+2023-12-12,2024-2025,Brezilya Serie A,11,Flamengo,Palmeiras,7,2,Ev,9
+2023-12-12,2024-2025,Brezilya Serie A,11,Sao Paulo,Corinthians,1,1,Beraberlik,2
+2023-12-12,2024-2025,Brezilya Serie A,11,Fluminense,Botafogo,4,3,Ev,7
+2023-12-12,2024-2025,Brezilya Serie A,11,Gremio,Internacional,4,0,Ev,4
+2023-12-12,2024-2025,Brezilya Serie A,11,Atletico Mineiro,Cruzeiro,5,3,Ev,8
+2023-01-13,2024-2025,Brezilya Serie A,12,Flamengo,Palmeiras,5,2,Ev,7
+2023-01-13,2024-2025,Brezilya Serie A,12,Sao Paulo,Corinthians,0,0,Beraberlik,0
+2023-01-13,2024-2025,Brezilya Serie A,12,Fluminense,Botafogo,2,0,Ev,2
+2023-01-13,2024-2025,Brezilya Serie A,12,Gremio,Internacional,5,2,Ev,7
+2023-01-13,2024-2025,Brezilya Serie A,12,Atletico Mineiro,Cruzeiro,3,1,Ev,4
+2023-02-14,2024-2025,Brezilya Serie A,13,Flamengo,Palmeiras,4,4,Beraberlik,8
+2023-02-14,2024-2025,Brezilya Serie A,13,Sao Paulo,Corinthians,2,6,Deplasman,8
+2023-02-14,2024-2025,Brezilya Serie A,13,Fluminense,Botafogo,1,0,Ev,1
+2023-02-14,2024-2025,Brezilya Serie A,13,Gremio,Internacional,6,2,Ev,8
+2023-02-14,2024-2025,Brezilya Serie A,13,Atletico Mineiro,Cruzeiro,2,1,Ev,3
+2023-03-15,2024-2025,Brezilya Serie A,14,Flamengo,Palmeiras,1,1,Beraberlik,2
+2023-03-15,2024-2025,Brezilya Serie A,14,Sao Paulo,Corinthians,1,1,Beraberlik,2
+2023-03-15,2024-2025,Brezilya Serie A,14,Fluminense,Botafogo,2,1,Ev,3
+2023-03-15,2024-2025,Brezilya Serie A,14,Gremio,Internacional,2,1,Ev,3
+2023-03-15,2024-2025,Brezilya Serie A,14,Atletico Mineiro,Cruzeiro,1,1,Beraberlik,2
+2023-04-16,2024-2025,Brezilya Serie A,15,Flamengo,Palmeiras,6,2,Ev,8
+2023-04-16,2024-2025,Brezilya Serie A,15,Sao Paulo,Corinthians,1,4,Deplasman,5
+2023-04-16,2024-2025,Brezilya Serie A,15,Fluminense,Botafogo,3,0,Ev,3
+2023-04-16,2024-2025,Brezilya Serie A,15,Gremio,Internacional,7,5,Ev,12
+2023-04-16,2024-2025,Brezilya Serie A,15,Atletico Mineiro,Cruzeiro,2,0,Ev,2
+2023-05-17,2024-2025,Brezilya Serie A,16,Flamengo,Palmeiras,3,3,Beraberlik,6
+2023-05-17,2024-2025,Brezilya Serie A,16,Sao Paulo,Corinthians,0,1,Deplasman,1
+2023-05-17,2024-2025,Brezilya Serie A,16,Fluminense,Botafogo,1,0,Ev,1
+2023-05-17,2024-2025,Brezilya Serie A,16,Gremio,Internacional,2,4,Deplasman,6
+2023-05-17,2024-2025,Brezilya Serie A,16,Atletico Mineiro,Cruzeiro,5,3,Ev,8
+2023-06-18,2024-2025,Brezilya Serie A,17,Flamengo,Palmeiras,6,5,Ev,11
+2023-06-18,2024-2025,Brezilya Serie A,17,Sao Paulo,Corinthians,1,1,Beraberlik,2
+2023-06-18,2024-2025,Brezilya Serie A,17,Fluminense,Botafogo,2,1,Ev,3
+2023-06-18,2024-2025,Brezilya Serie A,17,Gremio,Internacional,3,0,Ev,3
+2023-06-18,2024-2025,Brezilya Serie A,17,Atletico Mineiro,Cruzeiro,1,0,Ev,1
+2023-07-19,2024-2025,Brezilya Serie A,18,Flamengo,Palmeiras,2,0,Ev,2
+2023-07-19,2024-2025,Brezilya Serie A,18,Sao Paulo,Corinthians,2,2,Beraberlik,4
+2023-07-19,2024-2025,Brezilya Serie A,18,Fluminense,Botafogo,2,0,Ev,2
+2023-07-19,2024-2025,Brezilya Serie A,18,Gremio,Internacional,5,2,Ev,7
+2023-07-19,2024-2025,Brezilya Serie A,18,Atletico Mineiro,Cruzeiro,1,1,Beraberlik,2
+2023-02-02,2025-2026,Brezilya Serie A,1,Flamengo,Palmeiras,0,3,Deplasman,3
+2023-02-02,2025-2026,Brezilya Serie A,1,Sao Paulo,Corinthians,2,4,Deplasman,6
+2023-02-02,2025-2026,Brezilya Serie A,1,Fluminense,Botafogo,3,0,Ev,3
+2023-02-02,2025-2026,Brezilya Serie A,1,Gremio,Internacional,1,1,Beraberlik,2
+2023-02-02,2025-2026,Brezilya Serie A,1,Atletico Mineiro,Cruzeiro,2,3,Deplasman,5
+2023-03-03,2025-2026,Brezilya Serie A,2,Flamengo,Palmeiras,2,2,Beraberlik,4
+2023-03-03,2025-2026,Brezilya Serie A,2,Sao Paulo,Corinthians,2,2,Beraberlik,4
+2023-03-03,2025-2026,Brezilya Serie A,2,Fluminense,Botafogo,1,2,Deplasman,3
+2023-03-03,2025-2026,Brezilya Serie A,2,Gremio,Internacional,1,2,Deplasman,3
+2023-03-03,2025-2026,Brezilya Serie A,2,Atletico Mineiro,Cruzeiro,6,1,Ev,7
+2023-04-04,2025-2026,Brezilya Serie A,3,Flamengo,Palmeiras,1,0,Ev,1
+2023-04-04,2025-2026,Brezilya Serie A,3,Sao Paulo,Corinthians,2,1,Ev,3
+2023-04-04,2025-2026,Brezilya Serie A,3,Fluminense,Botafogo,2,3,Deplasman,5
+2023-04-04,2025-2026,Brezilya Serie A,3,Gremio,Internacional,0,2,Deplasman,2
+2023-04-04,2025-2026,Brezilya Serie A,3,Atletico Mineiro,Cruzeiro,4,1,Ev,5
+2023-05-05,2025-2026,Brezilya Serie A,4,Flamengo,Palmeiras,1,3,Deplasman,4
+2023-05-05,2025-2026,Brezilya Serie A,4,Sao Paulo,Corinthians,1,2,Deplasman,3
+2023-05-05,2025-2026,Brezilya Serie A,4,Fluminense,Botafogo,0,0,Beraberlik,0
+2023-05-05,2025-2026,Brezilya Serie A,4,Gremio,Internacional,0,3,Deplasman,3
+2023-05-05,2025-2026,Brezilya Serie A,4,Atletico Mineiro,Cruzeiro,1,2,Deplasman,3
+2023-06-06,2025-2026,Brezilya Serie A,5,Flamengo,Palmeiras,0,0,Beraberlik,0
+2023-06-06,2025-2026,Brezilya Serie A,5,Sao Paulo,Corinthians,1,1,Beraberlik,2
+2023-06-06,2025-2026,Brezilya Serie A,5,Fluminense,Botafogo,0,0,Beraberlik,0
+2023-06-06,2025-2026,Brezilya Serie A,5,Gremio,Internacional,4,0,Ev,4
+2023-06-06,2025-2026,Brezilya Serie A,5,Atletico Mineiro,Cruzeiro,2,3,Deplasman,5
+2023-07-07,2025-2026,Brezilya Serie A,6,Flamengo,Palmeiras,1,3,Deplasman,4
+2023-07-07,2025-2026,Brezilya Serie A,6,Sao Paulo,Corinthians,2,2,Beraberlik,4
+2023-07-07,2025-2026,Brezilya Serie A,6,Fluminense,Botafogo,0,1,Deplasman,1
+2023-07-07,2025-2026,Brezilya Serie A,6,Gremio,Internacional,1,0,Ev,1
+2023-07-07,2025-2026,Brezilya Serie A,6,Atletico Mineiro,Cruzeiro,5,0,Ev,5
+2023-08-08,2025-2026,Brezilya Serie A,7,Flamengo,Palmeiras,5,1,Ev,6
+2023-08-08,2025-2026,Brezilya Serie A,7,Sao Paulo,Corinthians,2,0,Ev,2
+2023-08-08,2025-2026,Brezilya Serie A,7,Fluminense,Botafogo,1,1,Beraberlik,2
+2023-08-08,2025-2026,Brezilya Serie A,7,Gremio,Internacional,2,0,Ev,2
+2023-08-08,2025-2026,Brezilya Serie A,7,Atletico Mineiro,Cruzeiro,6,0,Ev,6
+2023-09-09,2025-2026,Brezilya Serie A,8,Flamengo,Palmeiras,3,1,Ev,4
+2023-09-09,2025-2026,Brezilya Serie A,8,Sao Paulo,Corinthians,2,2,Beraberlik,4
+2023-09-09,2025-2026,Brezilya Serie A,8,Fluminense,Botafogo,2,1,Ev,3
+2023-09-09,2025-2026,Brezilya Serie A,8,Gremio,Internacional,1,1,Beraberlik,2
+2023-09-09,2025-2026,Brezilya Serie A,8,Atletico Mineiro,Cruzeiro,5,1,Ev,6
+2023-10-10,2025-2026,Brezilya Serie A,9,Flamengo,Palmeiras,1,2,Deplasman,3
+2023-10-10,2025-2026,Brezilya Serie A,9,Sao Paulo,Corinthians,0,3,Deplasman,3
+2023-10-10,2025-2026,Brezilya Serie A,9,Fluminense,Botafogo,3,1,Ev,4
+2023-10-10,2025-2026,Brezilya Serie A,9,Gremio,Internacional,2,1,Ev,3
+2023-10-10,2025-2026,Brezilya Serie A,9,Atletico Mineiro,Cruzeiro,2,4,Deplasman,6
+2023-11-11,2025-2026,Brezilya Serie A,10,Flamengo,Palmeiras,1,1,Beraberlik,2
+2023-11-11,2025-2026,Brezilya Serie A,10,Sao Paulo,Corinthians,3,2,Ev,5
+2023-11-11,2025-2026,Brezilya Serie A,10,Fluminense,Botafogo,1,0,Ev,1
+2023-11-11,2025-2026,Brezilya Serie A,10,Gremio,Internacional,2,1,Ev,3
+2023-11-11,2025-2026,Brezilya Serie A,10,Atletico Mineiro,Cruzeiro,2,1,Ev,3
+2023-12-12,2025-2026,Brezilya Serie A,11,Flamengo,Palmeiras,3,1,Ev,4
+2023-12-12,2025-2026,Brezilya Serie A,11,Sao Paulo,Corinthians,2,3,Deplasman,5
+2023-12-12,2025-2026,Brezilya Serie A,11,Fluminense,Botafogo,6,4,Ev,10
+2023-12-12,2025-2026,Brezilya Serie A,11,Gremio,Internacional,2,1,Ev,3
+2023-12-12,2025-2026,Brezilya Serie A,11,Atletico Mineiro,Cruzeiro,1,2,Deplasman,3
+2023-01-13,2025-2026,Brezilya Serie A,12,Flamengo,Palmeiras,4,1,Ev,5
+2023-01-13,2025-2026,Brezilya Serie A,12,Sao Paulo,Corinthians,3,0,Ev,3
+2023-01-13,2025-2026,Brezilya Serie A,12,Fluminense,Botafogo,2,0,Ev,2
+2023-01-13,2025-2026,Brezilya Serie A,12,Gremio,Internacional,4,0,Ev,4
+2023-01-13,2025-2026,Brezilya Serie A,12,Atletico Mineiro,Cruzeiro,2,2,Beraberlik,4
+2023-02-14,2025-2026,Brezilya Serie A,13,Flamengo,Palmeiras,2,2,Beraberlik,4
+2023-02-14,2025-2026,Brezilya Serie A,13,Sao Paulo,Corinthians,3,5,Deplasman,8
+2023-02-14,2025-2026,Brezilya Serie A,13,Fluminense,Botafogo,3,1,Ev,4
+2023-02-14,2025-2026,Brezilya Serie A,13,Gremio,Internacional,1,1,Beraberlik,2
+2023-02-14,2025-2026,Brezilya Serie A,13,Atletico Mineiro,Cruzeiro,1,2,Deplasman,3
+2023-03-15,2025-2026,Brezilya Serie A,14,Flamengo,Palmeiras,0,2,Deplasman,2
+2023-03-15,2025-2026,Brezilya Serie A,14,Sao Paulo,Corinthians,5,1,Ev,6
+2023-03-15,2025-2026,Brezilya Serie A,14,Fluminense,Botafogo,3,1,Ev,4
+2023-03-15,2025-2026,Brezilya Serie A,14,Gremio,Internacional,5,1,Ev,6
+2023-03-15,2025-2026,Brezilya Serie A,14,Atletico Mineiro,Cruzeiro,7,1,Ev,8
+2023-04-16,2025-2026,Brezilya Serie A,15,Flamengo,Palmeiras,4,2,Ev,6
+2023-04-16,2025-2026,Brezilya Serie A,15,Sao Paulo,Corinthians,3,1,Ev,4
+2023-04-16,2025-2026,Brezilya Serie A,15,Fluminense,Botafogo,1,1,Beraberlik,2
+2023-04-16,2025-2026,Brezilya Serie A,15,Gremio,Internacional,6,2,Ev,8
+2023-04-16,2025-2026,Brezilya Serie A,15,Atletico Mineiro,Cruzeiro,1,1,Beraberlik,2
+2023-05-17,2025-2026,Brezilya Serie A,16,Flamengo,Palmeiras,6,3,Ev,9
+2023-05-17,2025-2026,Brezilya Serie A,16,Sao Paulo,Corinthians,4,3,Ev,7
+2023-05-17,2025-2026,Brezilya Serie A,16,Fluminense,Botafogo,0,0,Beraberlik,0
+2023-05-17,2025-2026,Brezilya Serie A,16,Gremio,Internacional,5,0,Ev,5
+2023-05-17,2025-2026,Brezilya Serie A,16,Atletico Mineiro,Cruzeiro,2,2,Beraberlik,4
+2023-06-18,2025-2026,Brezilya Serie A,17,Flamengo,Palmeiras,1,2,Deplasman,3
+2023-06-18,2025-2026,Brezilya Serie A,17,Sao Paulo,Corinthians,4,2,Ev,6
+2023-06-18,2025-2026,Brezilya Serie A,17,Fluminense,Botafogo,2,4,Deplasman,6
+2023-06-18,2025-2026,Brezilya Serie A,17,Gremio,Internacional,2,2,Beraberlik,4
+2023-06-18,2025-2026,Brezilya Serie A,17,Atletico Mineiro,Cruzeiro,6,2,Ev,8
+2023-07-19,2025-2026,Brezilya Serie A,18,Flamengo,Palmeiras,2,0,Ev,2
+2023-07-19,2025-2026,Brezilya Serie A,18,Sao Paulo,Corinthians,2,1,Ev,3
+2023-07-19,2025-2026,Brezilya Serie A,18,Fluminense,Botafogo,1,2,Deplasman,3
+2023-07-19,2025-2026,Brezilya Serie A,18,Gremio,Internacional,2,3,Deplasman,5
+2023-07-19,2025-2026,Brezilya Serie A,18,Atletico Mineiro,Cruzeiro,2,1,Ev,3
+2023-02-02,2022-2023,MLS (ABD),1,Inter Miami,LAFC,3,1,Ev,4
+2023-02-02,2022-2023,MLS (ABD),1,Atlanta United,Seattle Sounders,2,0,Ev,2
+2023-02-02,2022-2023,MLS (ABD),1,Columbus Crew,Philadelphia Union,1,2,Deplasman,3
+2023-02-02,2022-2023,MLS (ABD),1,NYCFC,LA Galaxy,2,0,Ev,2
+2023-02-02,2022-2023,MLS (ABD),1,Austin FC,St. Louis City,0,0,Beraberlik,0
+2023-03-03,2022-2023,MLS (ABD),2,Inter Miami,LAFC,5,3,Ev,8
+2023-03-03,2022-2023,MLS (ABD),2,Atlanta United,Seattle Sounders,0,1,Deplasman,1
+2023-03-03,2022-2023,MLS (ABD),2,Columbus Crew,Philadelphia Union,1,0,Ev,1
+2023-03-03,2022-2023,MLS (ABD),2,NYCFC,LA Galaxy,1,2,Deplasman,3
+2023-03-03,2022-2023,MLS (ABD),2,Austin FC,St. Louis City,0,2,Deplasman,2
+2023-04-04,2022-2023,MLS (ABD),3,Inter Miami,LAFC,2,2,Beraberlik,4
+2023-04-04,2022-2023,MLS (ABD),3,Atlanta United,Seattle Sounders,3,0,Ev,3
+2023-04-04,2022-2023,MLS (ABD),3,Columbus Crew,Philadelphia Union,4,2,Ev,6
+2023-04-04,2022-2023,MLS (ABD),3,NYCFC,LA Galaxy,1,5,Deplasman,6
+2023-04-04,2022-2023,MLS (ABD),3,Austin FC,St. Louis City,4,0,Ev,4
+2023-05-05,2022-2023,MLS (ABD),4,Inter Miami,LAFC,4,4,Beraberlik,8
+2023-05-05,2022-2023,MLS (ABD),4,Atlanta United,Seattle Sounders,3,2,Ev,5
+2023-05-05,2022-2023,MLS (ABD),4,Columbus Crew,Philadelphia Union,3,0,Ev,3
+2023-05-05,2022-2023,MLS (ABD),4,NYCFC,LA Galaxy,2,0,Ev,2
+2023-05-05,2022-2023,MLS (ABD),4,Austin FC,St. Louis City,1,4,Deplasman,5
+2023-06-06,2022-2023,MLS (ABD),5,Inter Miami,LAFC,0,5,Deplasman,5
+2023-06-06,2022-2023,MLS (ABD),5,Atlanta United,Seattle Sounders,2,0,Ev,2
+2023-06-06,2022-2023,MLS (ABD),5,Columbus Crew,Philadelphia Union,1,2,Deplasman,3
+2023-06-06,2022-2023,MLS (ABD),5,NYCFC,LA Galaxy,1,4,Deplasman,5
+2023-06-06,2022-2023,MLS (ABD),5,Austin FC,St. Louis City,1,1,Beraberlik,2
+2023-07-07,2022-2023,MLS (ABD),6,Inter Miami,LAFC,2,3,Deplasman,5
+2023-07-07,2022-2023,MLS (ABD),6,Atlanta United,Seattle Sounders,5,0,Ev,5
+2023-07-07,2022-2023,MLS (ABD),6,Columbus Crew,Philadelphia Union,1,1,Beraberlik,2
+2023-07-07,2022-2023,MLS (ABD),6,NYCFC,LA Galaxy,4,0,Ev,4
+2023-07-07,2022-2023,MLS (ABD),6,Austin FC,St. Louis City,3,3,Beraberlik,6
+2023-08-08,2022-2023,MLS (ABD),7,Inter Miami,LAFC,0,0,Beraberlik,0
+2023-08-08,2022-2023,MLS (ABD),7,Atlanta United,Seattle Sounders,0,2,Deplasman,2
+2023-08-08,2022-2023,MLS (ABD),7,Columbus Crew,Philadelphia Union,3,2,Ev,5
+2023-08-08,2022-2023,MLS (ABD),7,NYCFC,LA Galaxy,2,0,Ev,2
+2023-08-08,2022-2023,MLS (ABD),7,Austin FC,St. Louis City,3,0,Ev,3
+2023-09-09,2022-2023,MLS (ABD),8,Inter Miami,LAFC,4,1,Ev,5
+2023-09-09,2022-2023,MLS (ABD),8,Atlanta United,Seattle Sounders,0,0,Beraberlik,0
+2023-09-09,2022-2023,MLS (ABD),8,Columbus Crew,Philadelphia Union,5,2,Ev,7
+2023-09-09,2022-2023,MLS (ABD),8,NYCFC,LA Galaxy,3,2,Ev,5
+2023-09-09,2022-2023,MLS (ABD),8,Austin FC,St. Louis City,4,0,Ev,4
+2023-10-10,2022-2023,MLS (ABD),9,Inter Miami,LAFC,3,1,Ev,4
+2023-10-10,2022-2023,MLS (ABD),9,Atlanta United,Seattle Sounders,4,0,Ev,4
+2023-10-10,2022-2023,MLS (ABD),9,Columbus Crew,Philadelphia Union,3,2,Ev,5
+2023-10-10,2022-2023,MLS (ABD),9,NYCFC,LA Galaxy,2,2,Beraberlik,4
+2023-10-10,2022-2023,MLS (ABD),9,Austin FC,St. Louis City,2,0,Ev,2
+2023-11-11,2022-2023,MLS (ABD),10,Inter Miami,LAFC,0,2,Deplasman,2
+2023-11-11,2022-2023,MLS (ABD),10,Atlanta United,Seattle Sounders,2,2,Beraberlik,4
+2023-11-11,2022-2023,MLS (ABD),10,Columbus Crew,Philadelphia Union,3,1,Ev,4
+2023-11-11,2022-2023,MLS (ABD),10,NYCFC,LA Galaxy,1,1,Beraberlik,2
+2023-11-11,2022-2023,MLS (ABD),10,Austin FC,St. Louis City,1,1,Beraberlik,2
+2023-12-12,2022-2023,MLS (ABD),11,Inter Miami,LAFC,0,3,Deplasman,3
+2023-12-12,2022-2023,MLS (ABD),11,Atlanta United,Seattle Sounders,1,1,Beraberlik,2
+2023-12-12,2022-2023,MLS (ABD),11,Columbus Crew,Philadelphia Union,1,0,Ev,1
+2023-12-12,2022-2023,MLS (ABD),11,NYCFC,LA Galaxy,4,1,Ev,5
+2023-12-12,2022-2023,MLS (ABD),11,Austin FC,St. Louis City,2,2,Beraberlik,4
+2023-01-13,2022-2023,MLS (ABD),12,Inter Miami,LAFC,4,5,Deplasman,9
+2023-01-13,2022-2023,MLS (ABD),12,Atlanta United,Seattle Sounders,0,2,Deplasman,2
+2023-01-13,2022-2023,MLS (ABD),12,Columbus Crew,Philadelphia Union,1,1,Beraberlik,2
+2023-01-13,2022-2023,MLS (ABD),12,NYCFC,LA Galaxy,4,1,Ev,5
+2023-01-13,2022-2023,MLS (ABD),12,Austin FC,St. Louis City,0,4,Deplasman,4
+2023-02-14,2022-2023,MLS (ABD),13,Inter Miami,LAFC,4,2,Ev,6
+2023-02-14,2022-2023,MLS (ABD),13,Atlanta United,Seattle Sounders,1,0,Ev,1
+2023-02-14,2022-2023,MLS (ABD),13,Columbus Crew,Philadelphia Union,3,2,Ev,5
+2023-02-14,2022-2023,MLS (ABD),13,NYCFC,LA Galaxy,2,3,Deplasman,5
+2023-02-14,2022-2023,MLS (ABD),13,Austin FC,St. Louis City,3,2,Ev,5
+2023-03-15,2022-2023,MLS (ABD),14,Inter Miami,LAFC,2,2,Beraberlik,4
+2023-03-15,2022-2023,MLS (ABD),14,Atlanta United,Seattle Sounders,3,1,Ev,4
+2023-03-15,2022-2023,MLS (ABD),14,Columbus Crew,Philadelphia Union,4,3,Ev,7
+2023-03-15,2022-2023,MLS (ABD),14,NYCFC,LA Galaxy,3,2,Ev,5
+2023-03-15,2022-2023,MLS (ABD),14,Austin FC,St. Louis City,2,2,Beraberlik,4
+2023-04-16,2022-2023,MLS (ABD),15,Inter Miami,LAFC,6,1,Ev,7
+2023-04-16,2022-2023,MLS (ABD),15,Atlanta United,Seattle Sounders,0,1,Deplasman,1
+2023-04-16,2022-2023,MLS (ABD),15,Columbus Crew,Philadelphia Union,1,1,Beraberlik,2
+2023-04-16,2022-2023,MLS (ABD),15,NYCFC,LA Galaxy,1,5,Deplasman,6
+2023-04-16,2022-2023,MLS (ABD),15,Austin FC,St. Louis City,3,4,Deplasman,7
+2023-05-17,2022-2023,MLS (ABD),16,Inter Miami,LAFC,2,1,Ev,3
+2023-05-17,2022-2023,MLS (ABD),16,Atlanta United,Seattle Sounders,1,0,Ev,1
+2023-05-17,2022-2023,MLS (ABD),16,Columbus Crew,Philadelphia Union,3,4,Deplasman,7
+2023-05-17,2022-2023,MLS (ABD),16,NYCFC,LA Galaxy,2,1,Ev,3
+2023-05-17,2022-2023,MLS (ABD),16,Austin FC,St. Louis City,0,2,Deplasman,2
+2023-06-18,2022-2023,MLS (ABD),17,Inter Miami,LAFC,2,0,Ev,2
+2023-06-18,2022-2023,MLS (ABD),17,Atlanta United,Seattle Sounders,0,0,Beraberlik,0
+2023-06-18,2022-2023,MLS (ABD),17,Columbus Crew,Philadelphia Union,0,1,Deplasman,1
+2023-06-18,2022-2023,MLS (ABD),17,NYCFC,LA Galaxy,4,2,Ev,6
+2023-06-18,2022-2023,MLS (ABD),17,Austin FC,St. Louis City,2,3,Deplasman,5
+2023-07-19,2022-2023,MLS (ABD),18,Inter Miami,LAFC,2,5,Deplasman,7
+2023-07-19,2022-2023,MLS (ABD),18,Atlanta United,Seattle Sounders,1,2,Deplasman,3
+2023-07-19,2022-2023,MLS (ABD),18,Columbus Crew,Philadelphia Union,3,0,Ev,3
+2023-07-19,2022-2023,MLS (ABD),18,NYCFC,LA Galaxy,5,0,Ev,5
+2023-07-19,2022-2023,MLS (ABD),18,Austin FC,St. Louis City,1,4,Deplasman,5
+2023-02-02,2023-2024,MLS (ABD),1,Inter Miami,LAFC,2,2,Beraberlik,4
+2023-02-02,2023-2024,MLS (ABD),1,Atlanta United,Seattle Sounders,5,1,Ev,6
+2023-02-02,2023-2024,MLS (ABD),1,Columbus Crew,Philadelphia Union,4,2,Ev,6
+2023-02-02,2023-2024,MLS (ABD),1,NYCFC,LA Galaxy,2,2,Beraberlik,4
+2023-02-02,2023-2024,MLS (ABD),1,Austin FC,St. Louis City,3,0,Ev,3
+2023-03-03,2023-2024,MLS (ABD),2,Inter Miami,LAFC,3,2,Ev,5
+2023-03-03,2023-2024,MLS (ABD),2,Atlanta United,Seattle Sounders,4,1,Ev,5
+2023-03-03,2023-2024,MLS (ABD),2,Columbus Crew,Philadelphia Union,1,4,Deplasman,5
+2023-03-03,2023-2024,MLS (ABD),2,NYCFC,LA Galaxy,1,1,Beraberlik,2
+2023-03-03,2023-2024,MLS (ABD),2,Austin FC,St. Louis City,3,0,Ev,3
+2023-04-04,2023-2024,MLS (ABD),3,Inter Miami,LAFC,1,1,Beraberlik,2
+2023-04-04,2023-2024,MLS (ABD),3,Atlanta United,Seattle Sounders,2,2,Beraberlik,4
+2023-04-04,2023-2024,MLS (ABD),3,Columbus Crew,Philadelphia Union,1,1,Beraberlik,2
+2023-04-04,2023-2024,MLS (ABD),3,NYCFC,LA Galaxy,2,2,Beraberlik,4
+2023-04-04,2023-2024,MLS (ABD),3,Austin FC,St. Louis City,2,2,Beraberlik,4
+2023-05-05,2023-2024,MLS (ABD),4,Inter Miami,LAFC,3,4,Deplasman,7
+2023-05-05,2023-2024,MLS (ABD),4,Atlanta United,Seattle Sounders,5,2,Ev,7
+2023-05-05,2023-2024,MLS (ABD),4,Columbus Crew,Philadelphia Union,4,2,Ev,6
+2023-05-05,2023-2024,MLS (ABD),4,NYCFC,LA Galaxy,2,1,Ev,3
+2023-05-05,2023-2024,MLS (ABD),4,Austin FC,St. Louis City,2,1,Ev,3
+2023-06-06,2023-2024,MLS (ABD),5,Inter Miami,LAFC,6,2,Ev,8
+2023-06-06,2023-2024,MLS (ABD),5,Atlanta United,Seattle Sounders,1,1,Beraberlik,2
+2023-06-06,2023-2024,MLS (ABD),5,Columbus Crew,Philadelphia Union,1,5,Deplasman,6
+2023-06-06,2023-2024,MLS (ABD),5,NYCFC,LA Galaxy,3,1,Ev,4
+2023-06-06,2023-2024,MLS (ABD),5,Austin FC,St. Louis City,1,4,Deplasman,5
+2023-07-07,2023-2024,MLS (ABD),6,Inter Miami,LAFC,2,2,Beraberlik,4
+2023-07-07,2023-2024,MLS (ABD),6,Atlanta United,Seattle Sounders,1,1,Beraberlik,2
+2023-07-07,2023-2024,MLS (ABD),6,Columbus Crew,Philadelphia Union,0,1,Deplasman,1
+2023-07-07,2023-2024,MLS (ABD),6,NYCFC,LA Galaxy,3,3,Beraberlik,6
+2023-07-07,2023-2024,MLS (ABD),6,Austin FC,St. Louis City,4,0,Ev,4
+2023-08-08,2023-2024,MLS (ABD),7,Inter Miami,LAFC,2,1,Ev,3
+2023-08-08,2023-2024,MLS (ABD),7,Atlanta United,Seattle Sounders,2,4,Deplasman,6
+2023-08-08,2023-2024,MLS (ABD),7,Columbus Crew,Philadelphia Union,2,3,Deplasman,5
+2023-08-08,2023-2024,MLS (ABD),7,NYCFC,LA Galaxy,0,0,Beraberlik,0
+2023-08-08,2023-2024,MLS (ABD),7,Austin FC,St. Louis City,2,0,Ev,2
+2023-09-09,2023-2024,MLS (ABD),8,Inter Miami,LAFC,3,3,Beraberlik,6
+2023-09-09,2023-2024,MLS (ABD),8,Atlanta United,Seattle Sounders,1,1,Beraberlik,2
+2023-09-09,2023-2024,MLS (ABD),8,Columbus Crew,Philadelphia Union,0,3,Deplasman,3
+2023-09-09,2023-2024,MLS (ABD),8,NYCFC,LA Galaxy,2,2,Beraberlik,4
+2023-09-09,2023-2024,MLS (ABD),8,Austin FC,St. Louis City,2,1,Ev,3
+2023-10-10,2023-2024,MLS (ABD),9,Inter Miami,LAFC,4,0,Ev,4
+2023-10-10,2023-2024,MLS (ABD),9,Atlanta United,Seattle Sounders,3,4,Deplasman,7
+2023-10-10,2023-2024,MLS (ABD),9,Columbus Crew,Philadelphia Union,5,0,Ev,5
+2023-10-10,2023-2024,MLS (ABD),9,NYCFC,LA Galaxy,3,3,Beraberlik,6
+2023-10-10,2023-2024,MLS (ABD),9,Austin FC,St. Louis City,3,0,Ev,3
+2023-11-11,2023-2024,MLS (ABD),10,Inter Miami,LAFC,6,3,Ev,9
+2023-11-11,2023-2024,MLS (ABD),10,Atlanta United,Seattle Sounders,4,3,Ev,7
+2023-11-11,2023-2024,MLS (ABD),10,Columbus Crew,Philadelphia Union,3,0,Ev,3
+2023-11-11,2023-2024,MLS (ABD),10,NYCFC,LA Galaxy,2,1,Ev,3
+2023-11-11,2023-2024,MLS (ABD),10,Austin FC,St. Louis City,5,1,Ev,6
+2023-12-12,2023-2024,MLS (ABD),11,Inter Miami,LAFC,0,2,Deplasman,2
+2023-12-12,2023-2024,MLS (ABD),11,Atlanta United,Seattle Sounders,2,1,Ev,3
+2023-12-12,2023-2024,MLS (ABD),11,Columbus Crew,Philadelphia Union,6,0,Ev,6
+2023-12-12,2023-2024,MLS (ABD),11,NYCFC,LA Galaxy,3,3,Beraberlik,6
+2023-12-12,2023-2024,MLS (ABD),11,Austin FC,St. Louis City,3,2,Ev,5
+2023-01-13,2023-2024,MLS (ABD),12,Inter Miami,LAFC,3,0,Ev,3
+2023-01-13,2023-2024,MLS (ABD),12,Atlanta United,Seattle Sounders,4,1,Ev,5
+2023-01-13,2023-2024,MLS (ABD),12,Columbus Crew,Philadelphia Union,2,0,Ev,2
+2023-01-13,2023-2024,MLS (ABD),12,NYCFC,LA Galaxy,3,3,Beraberlik,6
+2023-01-13,2023-2024,MLS (ABD),12,Austin FC,St. Louis City,2,3,Deplasman,5
+2023-02-14,2023-2024,MLS (ABD),13,Inter Miami,LAFC,1,3,Deplasman,4
+2023-02-14,2023-2024,MLS (ABD),13,Atlanta United,Seattle Sounders,4,3,Ev,7
+2023-02-14,2023-2024,MLS (ABD),13,Columbus Crew,Philadelphia Union,2,2,Beraberlik,4
+2023-02-14,2023-2024,MLS (ABD),13,NYCFC,LA Galaxy,1,3,Deplasman,4
+2023-02-14,2023-2024,MLS (ABD),13,Austin FC,St. Louis City,1,2,Deplasman,3
+2023-03-15,2023-2024,MLS (ABD),14,Inter Miami,LAFC,4,2,Ev,6
+2023-03-15,2023-2024,MLS (ABD),14,Atlanta United,Seattle Sounders,3,3,Beraberlik,6
+2023-03-15,2023-2024,MLS (ABD),14,Columbus Crew,Philadelphia Union,1,2,Deplasman,3
+2023-03-15,2023-2024,MLS (ABD),14,NYCFC,LA Galaxy,1,4,Deplasman,5
+2023-03-15,2023-2024,MLS (ABD),14,Austin FC,St. Louis City,6,1,Ev,7
+2023-04-16,2023-2024,MLS (ABD),15,Inter Miami,LAFC,4,4,Beraberlik,8
+2023-04-16,2023-2024,MLS (ABD),15,Atlanta United,Seattle Sounders,6,0,Ev,6
+2023-04-16,2023-2024,MLS (ABD),15,Columbus Crew,Philadelphia Union,0,2,Deplasman,2
+2023-04-16,2023-2024,MLS (ABD),15,NYCFC,LA Galaxy,3,1,Ev,4
+2023-04-16,2023-2024,MLS (ABD),15,Austin FC,St. Louis City,1,0,Ev,1
+2023-05-17,2023-2024,MLS (ABD),16,Inter Miami,LAFC,3,0,Ev,3
+2023-05-17,2023-2024,MLS (ABD),16,Atlanta United,Seattle Sounders,5,3,Ev,8
+2023-05-17,2023-2024,MLS (ABD),16,Columbus Crew,Philadelphia Union,2,1,Ev,3
+2023-05-17,2023-2024,MLS (ABD),16,NYCFC,LA Galaxy,1,1,Beraberlik,2
+2023-05-17,2023-2024,MLS (ABD),16,Austin FC,St. Louis City,3,1,Ev,4
+2023-06-18,2023-2024,MLS (ABD),17,Inter Miami,LAFC,1,3,Deplasman,4
+2023-06-18,2023-2024,MLS (ABD),17,Atlanta United,Seattle Sounders,3,3,Beraberlik,6
+2023-06-18,2023-2024,MLS (ABD),17,Columbus Crew,Philadelphia Union,3,1,Ev,4
+2023-06-18,2023-2024,MLS (ABD),17,NYCFC,LA Galaxy,0,4,Deplasman,4
+2023-06-18,2023-2024,MLS (ABD),17,Austin FC,St. Louis City,3,0,Ev,3
+2023-07-19,2023-2024,MLS (ABD),18,Inter Miami,LAFC,4,1,Ev,5
+2023-07-19,2023-2024,MLS (ABD),18,Atlanta United,Seattle Sounders,4,1,Ev,5
+2023-07-19,2023-2024,MLS (ABD),18,Columbus Crew,Philadelphia Union,4,0,Ev,4
+2023-07-19,2023-2024,MLS (ABD),18,NYCFC,LA Galaxy,2,4,Deplasman,6
+2023-07-19,2023-2024,MLS (ABD),18,Austin FC,St. Louis City,3,1,Ev,4
+2023-02-02,2024-2025,MLS (ABD),1,Inter Miami,LAFC,0,3,Deplasman,3
+2023-02-02,2024-2025,MLS (ABD),1,Atlanta United,Seattle Sounders,0,3,Deplasman,3
+2023-02-02,2024-2025,MLS (ABD),1,Columbus Crew,Philadelphia Union,1,1,Beraberlik,2
+2023-02-02,2024-2025,MLS (ABD),1,NYCFC,LA Galaxy,0,3,Deplasman,3
+2023-02-02,2024-2025,MLS (ABD),1,Austin FC,St. Louis City,3,1,Ev,4
+2023-03-03,2024-2025,MLS (ABD),2,Inter Miami,LAFC,0,2,Deplasman,2
+2023-03-03,2024-2025,MLS (ABD),2,Atlanta United,Seattle Sounders,5,1,Ev,6
+2023-03-03,2024-2025,MLS (ABD),2,Columbus Crew,Philadelphia Union,2,3,Deplasman,5
+2023-03-03,2024-2025,MLS (ABD),2,NYCFC,LA Galaxy,3,0,Ev,3
+2023-03-03,2024-2025,MLS (ABD),2,Austin FC,St. Louis City,5,4,Ev,9
+2023-04-04,2024-2025,MLS (ABD),3,Inter Miami,LAFC,1,1,Beraberlik,2
+2023-04-04,2024-2025,MLS (ABD),3,Atlanta United,Seattle Sounders,4,2,Ev,6
+2023-04-04,2024-2025,MLS (ABD),3,Columbus Crew,Philadelphia Union,1,4,Deplasman,5
+2023-04-04,2024-2025,MLS (ABD),3,NYCFC,LA Galaxy,7,0,Ev,7
+2023-04-04,2024-2025,MLS (ABD),3,Austin FC,St. Louis City,4,1,Ev,5
+2023-05-05,2024-2025,MLS (ABD),4,Inter Miami,LAFC,0,0,Beraberlik,0
+2023-05-05,2024-2025,MLS (ABD),4,Atlanta United,Seattle Sounders,2,1,Ev,3
+2023-05-05,2024-2025,MLS (ABD),4,Columbus Crew,Philadelphia Union,3,3,Beraberlik,6
+2023-05-05,2024-2025,MLS (ABD),4,NYCFC,LA Galaxy,1,0,Ev,1
+2023-05-05,2024-2025,MLS (ABD),4,Austin FC,St. Louis City,3,5,Deplasman,8
+2023-06-06,2024-2025,MLS (ABD),5,Inter Miami,LAFC,0,1,Deplasman,1
+2023-06-06,2024-2025,MLS (ABD),5,Atlanta United,Seattle Sounders,2,1,Ev,3
+2023-06-06,2024-2025,MLS (ABD),5,Columbus Crew,Philadelphia Union,1,1,Beraberlik,2
+2023-06-06,2024-2025,MLS (ABD),5,NYCFC,LA Galaxy,1,1,Beraberlik,2
+2023-06-06,2024-2025,MLS (ABD),5,Austin FC,St. Louis City,4,5,Deplasman,9
+2023-07-07,2024-2025,MLS (ABD),6,Inter Miami,LAFC,4,1,Ev,5
+2023-07-07,2024-2025,MLS (ABD),6,Atlanta United,Seattle Sounders,7,2,Ev,9
+2023-07-07,2024-2025,MLS (ABD),6,Columbus Crew,Philadelphia Union,1,4,Deplasman,5
+2023-07-07,2024-2025,MLS (ABD),6,NYCFC,LA Galaxy,1,0,Ev,1
+2023-07-07,2024-2025,MLS (ABD),6,Austin FC,St. Louis City,6,2,Ev,8
+2023-08-08,2024-2025,MLS (ABD),7,Inter Miami,LAFC,2,0,Ev,2
+2023-08-08,2024-2025,MLS (ABD),7,Atlanta United,Seattle Sounders,5,2,Ev,7
+2023-08-08,2024-2025,MLS (ABD),7,Columbus Crew,Philadelphia Union,1,3,Deplasman,4
+2023-08-08,2024-2025,MLS (ABD),7,NYCFC,LA Galaxy,1,4,Deplasman,5
+2023-08-08,2024-2025,MLS (ABD),7,Austin FC,St. Louis City,1,2,Deplasman,3
+2023-09-09,2024-2025,MLS (ABD),8,Inter Miami,LAFC,3,0,Ev,3
+2023-09-09,2024-2025,MLS (ABD),8,Atlanta United,Seattle Sounders,2,3,Deplasman,5
+2023-09-09,2024-2025,MLS (ABD),8,Columbus Crew,Philadelphia Union,3,2,Ev,5
+2023-09-09,2024-2025,MLS (ABD),8,NYCFC,LA Galaxy,0,2,Deplasman,2
+2023-09-09,2024-2025,MLS (ABD),8,Austin FC,St. Louis City,1,3,Deplasman,4
+2023-10-10,2024-2025,MLS (ABD),9,Inter Miami,LAFC,4,2,Ev,6
+2023-10-10,2024-2025,MLS (ABD),9,Atlanta United,Seattle Sounders,2,4,Deplasman,6
+2023-10-10,2024-2025,MLS (ABD),9,Columbus Crew,Philadelphia Union,1,1,Beraberlik,2
+2023-10-10,2024-2025,MLS (ABD),9,NYCFC,LA Galaxy,2,1,Ev,3
+2023-10-10,2024-2025,MLS (ABD),9,Austin FC,St. Louis City,1,3,Deplasman,4
+2023-11-11,2024-2025,MLS (ABD),10,Inter Miami,LAFC,4,2,Ev,6
+2023-11-11,2024-2025,MLS (ABD),10,Atlanta United,Seattle Sounders,2,2,Beraberlik,4
+2023-11-11,2024-2025,MLS (ABD),10,Columbus Crew,Philadelphia Union,0,6,Deplasman,6
+2023-11-11,2024-2025,MLS (ABD),10,NYCFC,LA Galaxy,1,1,Beraberlik,2
+2023-11-11,2024-2025,MLS (ABD),10,Austin FC,St. Louis City,0,4,Deplasman,4
+2023-12-12,2024-2025,MLS (ABD),11,Inter Miami,LAFC,3,2,Ev,5
+2023-12-12,2024-2025,MLS (ABD),11,Atlanta United,Seattle Sounders,3,3,Beraberlik,6
+2023-12-12,2024-2025,MLS (ABD),11,Columbus Crew,Philadelphia Union,1,2,Deplasman,3
+2023-12-12,2024-2025,MLS (ABD),11,NYCFC,LA Galaxy,1,2,Deplasman,3
+2023-12-12,2024-2025,MLS (ABD),11,Austin FC,St. Louis City,2,3,Deplasman,5
+2023-01-13,2024-2025,MLS (ABD),12,Inter Miami,LAFC,2,1,Ev,3
+2023-01-13,2024-2025,MLS (ABD),12,Atlanta United,Seattle Sounders,2,1,Ev,3
+2023-01-13,2024-2025,MLS (ABD),12,Columbus Crew,Philadelphia Union,1,6,Deplasman,7
+2023-01-13,2024-2025,MLS (ABD),12,NYCFC,LA Galaxy,0,3,Deplasman,3
+2023-01-13,2024-2025,MLS (ABD),12,Austin FC,St. Louis City,5,3,Ev,8
+2023-02-14,2024-2025,MLS (ABD),13,Inter Miami,LAFC,3,0,Ev,3
+2023-02-14,2024-2025,MLS (ABD),13,Atlanta United,Seattle Sounders,4,0,Ev,4
+2023-02-14,2024-2025,MLS (ABD),13,Columbus Crew,Philadelphia Union,0,1,Deplasman,1
+2023-02-14,2024-2025,MLS (ABD),13,NYCFC,LA Galaxy,0,5,Deplasman,5
+2023-02-14,2024-2025,MLS (ABD),13,Austin FC,St. Louis City,2,1,Ev,3
+2023-03-15,2024-2025,MLS (ABD),14,Inter Miami,LAFC,8,0,Ev,8
+2023-03-15,2024-2025,MLS (ABD),14,Atlanta United,Seattle Sounders,3,3,Beraberlik,6
+2023-03-15,2024-2025,MLS (ABD),14,Columbus Crew,Philadelphia Union,3,2,Ev,5
+2023-03-15,2024-2025,MLS (ABD),14,NYCFC,LA Galaxy,1,2,Deplasman,3
+2023-03-15,2024-2025,MLS (ABD),14,Austin FC,St. Louis City,5,4,Ev,9
+2023-04-16,2024-2025,MLS (ABD),15,Inter Miami,LAFC,0,1,Deplasman,1
+2023-04-16,2024-2025,MLS (ABD),15,Atlanta United,Seattle Sounders,2,1,Ev,3
+2023-04-16,2024-2025,MLS (ABD),15,Columbus Crew,Philadelphia Union,2,1,Ev,3
+2023-04-16,2024-2025,MLS (ABD),15,NYCFC,LA Galaxy,0,2,Deplasman,2
+2023-04-16,2024-2025,MLS (ABD),15,Austin FC,St. Louis City,0,1,Deplasman,1
+2023-05-17,2024-2025,MLS (ABD),16,Inter Miami,LAFC,2,0,Ev,2
+2023-05-17,2024-2025,MLS (ABD),16,Atlanta United,Seattle Sounders,3,3,Beraberlik,6
+2023-05-17,2024-2025,MLS (ABD),16,Columbus Crew,Philadelphia Union,0,4,Deplasman,4
+2023-05-17,2024-2025,MLS (ABD),16,NYCFC,LA Galaxy,1,2,Deplasman,3
+2023-05-17,2024-2025,MLS (ABD),16,Austin FC,St. Louis City,1,1,Beraberlik,2
+2023-06-18,2024-2025,MLS (ABD),17,Inter Miami,LAFC,2,4,Deplasman,6
+2023-06-18,2024-2025,MLS (ABD),17,Atlanta United,Seattle Sounders,3,1,Ev,4
+2023-06-18,2024-2025,MLS (ABD),17,Columbus Crew,Philadelphia Union,2,4,Deplasman,6
+2023-06-18,2024-2025,MLS (ABD),17,NYCFC,LA Galaxy,1,1,Beraberlik,2
+2023-06-18,2024-2025,MLS (ABD),17,Austin FC,St. Louis City,4,1,Ev,5
+2023-07-19,2024-2025,MLS (ABD),18,Inter Miami,LAFC,1,0,Ev,1
+2023-07-19,2024-2025,MLS (ABD),18,Atlanta United,Seattle Sounders,1,1,Beraberlik,2
+2023-07-19,2024-2025,MLS (ABD),18,Columbus Crew,Philadelphia Union,0,3,Deplasman,3
+2023-07-19,2024-2025,MLS (ABD),18,NYCFC,LA Galaxy,2,4,Deplasman,6
+2023-07-19,2024-2025,MLS (ABD),18,Austin FC,St. Louis City,1,2,Deplasman,3
+2023-02-02,2025-2026,MLS (ABD),1,Inter Miami,LAFC,2,2,Beraberlik,4
+2023-02-02,2025-2026,MLS (ABD),1,Atlanta United,Seattle Sounders,1,0,Ev,1
+2023-02-02,2025-2026,MLS (ABD),1,Columbus Crew,Philadelphia Union,1,1,Beraberlik,2
+2023-02-02,2025-2026,MLS (ABD),1,NYCFC,LA Galaxy,2,4,Deplasman,6
+2023-02-02,2025-2026,MLS (ABD),1,Austin FC,St. Louis City,1,2,Deplasman,3
+2023-03-03,2025-2026,MLS (ABD),2,Inter Miami,LAFC,3,2,Ev,5
+2023-03-03,2025-2026,MLS (ABD),2,Atlanta United,Seattle Sounders,0,1,Deplasman,1
+2023-03-03,2025-2026,MLS (ABD),2,Columbus Crew,Philadelphia Union,2,1,Ev,3
+2023-03-03,2025-2026,MLS (ABD),2,NYCFC,LA Galaxy,5,1,Ev,6
+2023-03-03,2025-2026,MLS (ABD),2,Austin FC,St. Louis City,2,1,Ev,3
+2023-04-04,2025-2026,MLS (ABD),3,Inter Miami,LAFC,1,1,Beraberlik,2
+2023-04-04,2025-2026,MLS (ABD),3,Atlanta United,Seattle Sounders,2,2,Beraberlik,4
+2023-04-04,2025-2026,MLS (ABD),3,Columbus Crew,Philadelphia Union,2,0,Ev,2
+2023-04-04,2025-2026,MLS (ABD),3,NYCFC,LA Galaxy,2,2,Beraberlik,4
+2023-04-04,2025-2026,MLS (ABD),3,Austin FC,St. Louis City,0,1,Deplasman,1
+2023-05-05,2025-2026,MLS (ABD),4,Inter Miami,LAFC,2,1,Ev,3
+2023-05-05,2025-2026,MLS (ABD),4,Atlanta United,Seattle Sounders,2,1,Ev,3
+2023-05-05,2025-2026,MLS (ABD),4,Columbus Crew,Philadelphia Union,4,1,Ev,5
+2023-05-05,2025-2026,MLS (ABD),4,NYCFC,LA Galaxy,0,3,Deplasman,3
+2023-05-05,2025-2026,MLS (ABD),4,Austin FC,St. Louis City,0,2,Deplasman,2
+2023-06-06,2025-2026,MLS (ABD),5,Inter Miami,LAFC,0,1,Deplasman,1
+2023-06-06,2025-2026,MLS (ABD),5,Atlanta United,Seattle Sounders,3,4,Deplasman,7
+2023-06-06,2025-2026,MLS (ABD),5,Columbus Crew,Philadelphia Union,5,0,Ev,5
+2023-06-06,2025-2026,MLS (ABD),5,NYCFC,LA Galaxy,0,2,Deplasman,2
+2023-06-06,2025-2026,MLS (ABD),5,Austin FC,St. Louis City,3,1,Ev,4
+2023-07-07,2025-2026,MLS (ABD),6,Inter Miami,LAFC,3,0,Ev,3
+2023-07-07,2025-2026,MLS (ABD),6,Atlanta United,Seattle Sounders,4,1,Ev,5
+2023-07-07,2025-2026,MLS (ABD),6,Columbus Crew,Philadelphia Union,1,0,Ev,1
+2023-07-07,2025-2026,MLS (ABD),6,NYCFC,LA Galaxy,2,1,Ev,3
+2023-07-07,2025-2026,MLS (ABD),6,Austin FC,St. Louis City,2,2,Beraberlik,4
+2023-08-08,2025-2026,MLS (ABD),7,Inter Miami,LAFC,2,2,Beraberlik,4
+2023-08-08,2025-2026,MLS (ABD),7,Atlanta United,Seattle Sounders,1,3,Deplasman,4
+2023-08-08,2025-2026,MLS (ABD),7,Columbus Crew,Philadelphia Union,2,0,Ev,2
+2023-08-08,2025-2026,MLS (ABD),7,NYCFC,LA Galaxy,2,3,Deplasman,5
+2023-08-08,2025-2026,MLS (ABD),7,Austin FC,St. Louis City,1,0,Ev,1
+2023-09-09,2025-2026,MLS (ABD),8,Inter Miami,LAFC,3,1,Ev,4
+2023-09-09,2025-2026,MLS (ABD),8,Atlanta United,Seattle Sounders,2,2,Beraberlik,4
+2023-09-09,2025-2026,MLS (ABD),8,Columbus Crew,Philadelphia Union,2,1,Ev,3
+2023-09-09,2025-2026,MLS (ABD),8,NYCFC,LA Galaxy,1,5,Deplasman,6
+2023-09-09,2025-2026,MLS (ABD),8,Austin FC,St. Louis City,1,0,Ev,1
+2023-10-10,2025-2026,MLS (ABD),9,Inter Miami,LAFC,2,0,Ev,2
+2023-10-10,2025-2026,MLS (ABD),9,Atlanta United,Seattle Sounders,6,2,Ev,8
+2023-10-10,2025-2026,MLS (ABD),9,Columbus Crew,Philadelphia Union,3,1,Ev,4
+2023-10-10,2025-2026,MLS (ABD),9,NYCFC,LA Galaxy,0,1,Deplasman,1
+2023-10-10,2025-2026,MLS (ABD),9,Austin FC,St. Louis City,2,0,Ev,2
+2023-11-11,2025-2026,MLS (ABD),10,Inter Miami,LAFC,5,2,Ev,7
+2023-11-11,2025-2026,MLS (ABD),10,Atlanta United,Seattle Sounders,1,2,Deplasman,3
+2023-11-11,2025-2026,MLS (ABD),10,Columbus Crew,Philadelphia Union,3,0,Ev,3
+2023-11-11,2025-2026,MLS (ABD),10,NYCFC,LA Galaxy,2,2,Beraberlik,4
+2023-11-11,2025-2026,MLS (ABD),10,Austin FC,St. Louis City,2,0,Ev,2
+2023-12-12,2025-2026,MLS (ABD),11,Inter Miami,LAFC,3,2,Ev,5
+2023-12-12,2025-2026,MLS (ABD),11,Atlanta United,Seattle Sounders,1,2,Deplasman,3
+2023-12-12,2025-2026,MLS (ABD),11,Columbus Crew,Philadelphia Union,1,1,Beraberlik,2
+2023-12-12,2025-2026,MLS (ABD),11,NYCFC,LA Galaxy,1,3,Deplasman,4
+2023-12-12,2025-2026,MLS (ABD),11,Austin FC,St. Louis City,1,2,Deplasman,3
+2023-01-13,2025-2026,MLS (ABD),12,Inter Miami,LAFC,2,0,Ev,2
+2023-01-13,2025-2026,MLS (ABD),12,Atlanta United,Seattle Sounders,6,2,Ev,8
+2023-01-13,2025-2026,MLS (ABD),12,Columbus Crew,Philadelphia Union,1,1,Beraberlik,2
+2023-01-13,2025-2026,MLS (ABD),12,NYCFC,LA Galaxy,2,2,Beraberlik,4
+2023-01-13,2025-2026,MLS (ABD),12,Austin FC,St. Louis City,1,0,Ev,1
+2023-02-14,2025-2026,MLS (ABD),13,Inter Miami,LAFC,5,0,Ev,5
+2023-02-14,2025-2026,MLS (ABD),13,Atlanta United,Seattle Sounders,3,1,Ev,4
+2023-02-14,2025-2026,MLS (ABD),13,Columbus Crew,Philadelphia Union,0,1,Deplasman,1
+2023-02-14,2025-2026,MLS (ABD),13,NYCFC,LA Galaxy,3,4,Deplasman,7
+2023-02-14,2025-2026,MLS (ABD),13,Austin FC,St. Louis City,2,0,Ev,2
+2023-03-15,2025-2026,MLS (ABD),14,Inter Miami,LAFC,7,1,Ev,8
+2023-03-15,2025-2026,MLS (ABD),14,Atlanta United,Seattle Sounders,3,0,Ev,3
+2023-03-15,2025-2026,MLS (ABD),14,Columbus Crew,Philadelphia Union,4,0,Ev,4
+2023-03-15,2025-2026,MLS (ABD),14,NYCFC,LA Galaxy,0,1,Deplasman,1
+2023-03-15,2025-2026,MLS (ABD),14,Austin FC,St. Louis City,0,0,Beraberlik,0
+2023-04-16,2025-2026,MLS (ABD),15,Inter Miami,LAFC,4,1,Ev,5
+2023-04-16,2025-2026,MLS (ABD),15,Atlanta United,Seattle Sounders,6,1,Ev,7
+2023-04-16,2025-2026,MLS (ABD),15,Columbus Crew,Philadelphia Union,2,1,Ev,3
+2023-04-16,2025-2026,MLS (ABD),15,NYCFC,LA Galaxy,4,1,Ev,5
+2023-04-16,2025-2026,MLS (ABD),15,Austin FC,St. Louis City,1,1,Beraberlik,2
+2023-05-17,2025-2026,MLS (ABD),16,Inter Miami,LAFC,2,0,Ev,2
+2023-05-17,2025-2026,MLS (ABD),16,Atlanta United,Seattle Sounders,1,2,Deplasman,3
+2023-05-17,2025-2026,MLS (ABD),16,Columbus Crew,Philadelphia Union,1,2,Deplasman,3
+2023-05-17,2025-2026,MLS (ABD),16,NYCFC,LA Galaxy,2,0,Ev,2
+2023-05-17,2025-2026,MLS (ABD),16,Austin FC,St. Louis City,1,2,Deplasman,3
+2023-06-18,2025-2026,MLS (ABD),17,Inter Miami,LAFC,5,4,Ev,9
+2023-06-18,2025-2026,MLS (ABD),17,Atlanta United,Seattle Sounders,3,1,Ev,4
+2023-06-18,2025-2026,MLS (ABD),17,Columbus Crew,Philadelphia Union,1,0,Ev,1
+2023-06-18,2025-2026,MLS (ABD),17,NYCFC,LA Galaxy,3,1,Ev,4
+2023-06-18,2025-2026,MLS (ABD),17,Austin FC,St. Louis City,0,2,Deplasman,2
+2023-07-19,2025-2026,MLS (ABD),18,Inter Miami,LAFC,3,1,Ev,4
+2023-07-19,2025-2026,MLS (ABD),18,Atlanta United,Seattle Sounders,4,0,Ev,4
+2023-07-19,2025-2026,MLS (ABD),18,Columbus Crew,Philadelphia Union,3,0,Ev,3
+2023-07-19,2025-2026,MLS (ABD),18,NYCFC,LA Galaxy,0,3,Deplasman,3
+2023-07-19,2025-2026,MLS (ABD),18,Austin FC,St. Louis City,1,1,Beraberlik,2
+2023-02-02,2022-2023,Suudi Arabistan Pro Ligi,1,Al-Hilal,Al-Nassr,0,3,Deplasman,3
+2023-02-02,2022-2023,Suudi Arabistan Pro Ligi,1,Al-Ittihad,Al-Ahli,3,3,Beraberlik,6
+2023-02-02,2022-2023,Suudi Arabistan Pro Ligi,1,Al-Shabab,Al-Taawoun,1,1,Beraberlik,2
+2023-02-02,2022-2023,Suudi Arabistan Pro Ligi,1,Damac,Al-Fateh,4,7,Deplasman,11
+2023-02-02,2022-2023,Suudi Arabistan Pro Ligi,1,Al-Fayha,Al-Riyadh,1,0,Ev,1
+2023-03-03,2022-2023,Suudi Arabistan Pro Ligi,2,Al-Hilal,Al-Nassr,2,3,Deplasman,5
+2023-03-03,2022-2023,Suudi Arabistan Pro Ligi,2,Al-Ittihad,Al-Ahli,3,2,Ev,5
+2023-03-03,2022-2023,Suudi Arabistan Pro Ligi,2,Al-Shabab,Al-Taawoun,4,1,Ev,5
+2023-03-03,2022-2023,Suudi Arabistan Pro Ligi,2,Damac,Al-Fateh,3,1,Ev,4
+2023-03-03,2022-2023,Suudi Arabistan Pro Ligi,2,Al-Fayha,Al-Riyadh,0,3,Deplasman,3
+2023-04-04,2022-2023,Suudi Arabistan Pro Ligi,3,Al-Hilal,Al-Nassr,3,3,Beraberlik,6
+2023-04-04,2022-2023,Suudi Arabistan Pro Ligi,3,Al-Ittihad,Al-Ahli,2,3,Deplasman,5
+2023-04-04,2022-2023,Suudi Arabistan Pro Ligi,3,Al-Shabab,Al-Taawoun,2,4,Deplasman,6
+2023-04-04,2022-2023,Suudi Arabistan Pro Ligi,3,Damac,Al-Fateh,2,5,Deplasman,7
+2023-04-04,2022-2023,Suudi Arabistan Pro Ligi,3,Al-Fayha,Al-Riyadh,6,2,Ev,8
+2023-05-05,2022-2023,Suudi Arabistan Pro Ligi,4,Al-Hilal,Al-Nassr,2,2,Beraberlik,4
+2023-05-05,2022-2023,Suudi Arabistan Pro Ligi,4,Al-Ittihad,Al-Ahli,4,2,Ev,6
+2023-05-05,2022-2023,Suudi Arabistan Pro Ligi,4,Al-Shabab,Al-Taawoun,4,5,Deplasman,9
+2023-05-05,2022-2023,Suudi Arabistan Pro Ligi,4,Damac,Al-Fateh,3,0,Ev,3
+2023-05-05,2022-2023,Suudi Arabistan Pro Ligi,4,Al-Fayha,Al-Riyadh,2,0,Ev,2
+2023-06-06,2022-2023,Suudi Arabistan Pro Ligi,5,Al-Hilal,Al-Nassr,3,1,Ev,4
+2023-06-06,2022-2023,Suudi Arabistan Pro Ligi,5,Al-Ittihad,Al-Ahli,3,0,Ev,3
+2023-06-06,2022-2023,Suudi Arabistan Pro Ligi,5,Al-Shabab,Al-Taawoun,3,3,Beraberlik,6
+2023-06-06,2022-2023,Suudi Arabistan Pro Ligi,5,Damac,Al-Fateh,6,3,Ev,9
+2023-06-06,2022-2023,Suudi Arabistan Pro Ligi,5,Al-Fayha,Al-Riyadh,3,0,Ev,3
+2023-07-07,2022-2023,Suudi Arabistan Pro Ligi,6,Al-Hilal,Al-Nassr,6,3,Ev,9
+2023-07-07,2022-2023,Suudi Arabistan Pro Ligi,6,Al-Ittihad,Al-Ahli,1,3,Deplasman,4
+2023-07-07,2022-2023,Suudi Arabistan Pro Ligi,6,Al-Shabab,Al-Taawoun,5,1,Ev,6
+2023-07-07,2022-2023,Suudi Arabistan Pro Ligi,6,Damac,Al-Fateh,1,1,Beraberlik,2
+2023-07-07,2022-2023,Suudi Arabistan Pro Ligi,6,Al-Fayha,Al-Riyadh,1,0,Ev,1
+2023-08-08,2022-2023,Suudi Arabistan Pro Ligi,7,Al-Hilal,Al-Nassr,1,2,Deplasman,3
+2023-08-08,2022-2023,Suudi Arabistan Pro Ligi,7,Al-Ittihad,Al-Ahli,3,2,Ev,5
+2023-08-08,2022-2023,Suudi Arabistan Pro Ligi,7,Al-Shabab,Al-Taawoun,3,2,Ev,5
+2023-08-08,2022-2023,Suudi Arabistan Pro Ligi,7,Damac,Al-Fateh,6,2,Ev,8
+2023-08-08,2022-2023,Suudi Arabistan Pro Ligi,7,Al-Fayha,Al-Riyadh,5,1,Ev,6
+2023-09-09,2022-2023,Suudi Arabistan Pro Ligi,8,Al-Hilal,Al-Nassr,1,0,Ev,1
+2023-09-09,2022-2023,Suudi Arabistan Pro Ligi,8,Al-Ittihad,Al-Ahli,4,2,Ev,6
+2023-09-09,2022-2023,Suudi Arabistan Pro Ligi,8,Al-Shabab,Al-Taawoun,7,1,Ev,8
+2023-09-09,2022-2023,Suudi Arabistan Pro Ligi,8,Damac,Al-Fateh,3,1,Ev,4
+2023-09-09,2022-2023,Suudi Arabistan Pro Ligi,8,Al-Fayha,Al-Riyadh,4,2,Ev,6
+2023-10-10,2022-2023,Suudi Arabistan Pro Ligi,9,Al-Hilal,Al-Nassr,1,3,Deplasman,4
+2023-10-10,2022-2023,Suudi Arabistan Pro Ligi,9,Al-Ittihad,Al-Ahli,3,2,Ev,5
+2023-10-10,2022-2023,Suudi Arabistan Pro Ligi,9,Al-Shabab,Al-Taawoun,1,0,Ev,1
+2023-10-10,2022-2023,Suudi Arabistan Pro Ligi,9,Damac,Al-Fateh,4,2,Ev,6
+2023-10-10,2022-2023,Suudi Arabistan Pro Ligi,9,Al-Fayha,Al-Riyadh,3,1,Ev,4
+2023-11-11,2022-2023,Suudi Arabistan Pro Ligi,10,Al-Hilal,Al-Nassr,5,2,Ev,7
+2023-11-11,2022-2023,Suudi Arabistan Pro Ligi,10,Al-Ittihad,Al-Ahli,2,0,Ev,2
+2023-11-11,2022-2023,Suudi Arabistan Pro Ligi,10,Al-Shabab,Al-Taawoun,5,2,Ev,7
+2023-11-11,2022-2023,Suudi Arabistan Pro Ligi,10,Damac,Al-Fateh,2,1,Ev,3
+2023-11-11,2022-2023,Suudi Arabistan Pro Ligi,10,Al-Fayha,Al-Riyadh,4,2,Ev,6
+2023-12-12,2022-2023,Suudi Arabistan Pro Ligi,11,Al-Hilal,Al-Nassr,6,4,Ev,10
+2023-12-12,2022-2023,Suudi Arabistan Pro Ligi,11,Al-Ittihad,Al-Ahli,4,4,Beraberlik,8
+2023-12-12,2022-2023,Suudi Arabistan Pro Ligi,11,Al-Shabab,Al-Taawoun,6,1,Ev,7
+2023-12-12,2022-2023,Suudi Arabistan Pro Ligi,11,Damac,Al-Fateh,3,3,Beraberlik,6
+2023-12-12,2022-2023,Suudi Arabistan Pro Ligi,11,Al-Fayha,Al-Riyadh,4,0,Ev,4
+2023-01-13,2022-2023,Suudi Arabistan Pro Ligi,12,Al-Hilal,Al-Nassr,2,4,Deplasman,6
+2023-01-13,2022-2023,Suudi Arabistan Pro Ligi,12,Al-Ittihad,Al-Ahli,6,4,Ev,10
+2023-01-13,2022-2023,Suudi Arabistan Pro Ligi,12,Al-Shabab,Al-Taawoun,5,3,Ev,8
+2023-01-13,2022-2023,Suudi Arabistan Pro Ligi,12,Damac,Al-Fateh,1,4,Deplasman,5
+2023-01-13,2022-2023,Suudi Arabistan Pro Ligi,12,Al-Fayha,Al-Riyadh,6,1,Ev,7
+2023-02-14,2022-2023,Suudi Arabistan Pro Ligi,13,Al-Hilal,Al-Nassr,5,1,Ev,6
+2023-02-14,2022-2023,Suudi Arabistan Pro Ligi,13,Al-Ittihad,Al-Ahli,3,3,Beraberlik,6
+2023-02-14,2022-2023,Suudi Arabistan Pro Ligi,13,Al-Shabab,Al-Taawoun,4,1,Ev,5
+2023-02-14,2022-2023,Suudi Arabistan Pro Ligi,13,Damac,Al-Fateh,6,2,Ev,8
+2023-02-14,2022-2023,Suudi Arabistan Pro Ligi,13,Al-Fayha,Al-Riyadh,0,1,Deplasman,1
+2023-03-15,2022-2023,Suudi Arabistan Pro Ligi,14,Al-Hilal,Al-Nassr,3,3,Beraberlik,6
+2023-03-15,2022-2023,Suudi Arabistan Pro Ligi,14,Al-Ittihad,Al-Ahli,4,3,Ev,7
+2023-03-15,2022-2023,Suudi Arabistan Pro Ligi,14,Al-Shabab,Al-Taawoun,5,1,Ev,6
+2023-03-15,2022-2023,Suudi Arabistan Pro Ligi,14,Damac,Al-Fateh,3,1,Ev,4
+2023-03-15,2022-2023,Suudi Arabistan Pro Ligi,14,Al-Fayha,Al-Riyadh,2,1,Ev,3
+2023-04-16,2022-2023,Suudi Arabistan Pro Ligi,15,Al-Hilal,Al-Nassr,7,1,Ev,8
+2023-04-16,2022-2023,Suudi Arabistan Pro Ligi,15,Al-Ittihad,Al-Ahli,3,3,Beraberlik,6
+2023-04-16,2022-2023,Suudi Arabistan Pro Ligi,15,Al-Shabab,Al-Taawoun,2,1,Ev,3
+2023-04-16,2022-2023,Suudi Arabistan Pro Ligi,15,Damac,Al-Fateh,2,3,Deplasman,5
+2023-04-16,2022-2023,Suudi Arabistan Pro Ligi,15,Al-Fayha,Al-Riyadh,3,0,Ev,3
+2023-05-17,2022-2023,Suudi Arabistan Pro Ligi,16,Al-Hilal,Al-Nassr,6,4,Ev,10
+2023-05-17,2022-2023,Suudi Arabistan Pro Ligi,16,Al-Ittihad,Al-Ahli,2,2,Beraberlik,4
+2023-05-17,2022-2023,Suudi Arabistan Pro Ligi,16,Al-Shabab,Al-Taawoun,3,2,Ev,5
+2023-05-17,2022-2023,Suudi Arabistan Pro Ligi,16,Damac,Al-Fateh,1,3,Deplasman,4
+2023-05-17,2022-2023,Suudi Arabistan Pro Ligi,16,Al-Fayha,Al-Riyadh,3,0,Ev,3
+2023-06-18,2022-2023,Suudi Arabistan Pro Ligi,17,Al-Hilal,Al-Nassr,4,3,Ev,7
+2023-06-18,2022-2023,Suudi Arabistan Pro Ligi,17,Al-Ittihad,Al-Ahli,2,1,Ev,3
+2023-06-18,2022-2023,Suudi Arabistan Pro Ligi,17,Al-Shabab,Al-Taawoun,3,0,Ev,3
+2023-06-18,2022-2023,Suudi Arabistan Pro Ligi,17,Damac,Al-Fateh,3,1,Ev,4
+2023-06-18,2022-2023,Suudi Arabistan Pro Ligi,17,Al-Fayha,Al-Riyadh,3,0,Ev,3
+2023-07-19,2022-2023,Suudi Arabistan Pro Ligi,18,Al-Hilal,Al-Nassr,3,4,Deplasman,7
+2023-07-19,2022-2023,Suudi Arabistan Pro Ligi,18,Al-Ittihad,Al-Ahli,1,3,Deplasman,4
+2023-07-19,2022-2023,Suudi Arabistan Pro Ligi,18,Al-Shabab,Al-Taawoun,2,1,Ev,3
+2023-07-19,2022-2023,Suudi Arabistan Pro Ligi,18,Damac,Al-Fateh,6,4,Ev,10
+2023-07-19,2022-2023,Suudi Arabistan Pro Ligi,18,Al-Fayha,Al-Riyadh,1,2,Deplasman,3
+2023-02-02,2023-2024,Suudi Arabistan Pro Ligi,1,Al-Hilal,Al-Nassr,3,2,Ev,5
+2023-02-02,2023-2024,Suudi Arabistan Pro Ligi,1,Al-Ittihad,Al-Ahli,2,5,Deplasman,7
+2023-02-02,2023-2024,Suudi Arabistan Pro Ligi,1,Al-Shabab,Al-Taawoun,2,1,Ev,3
+2023-02-02,2023-2024,Suudi Arabistan Pro Ligi,1,Damac,Al-Fateh,8,0,Ev,8
+2023-02-02,2023-2024,Suudi Arabistan Pro Ligi,1,Al-Fayha,Al-Riyadh,2,0,Ev,2
+2023-03-03,2023-2024,Suudi Arabistan Pro Ligi,2,Al-Hilal,Al-Nassr,3,1,Ev,4
+2023-03-03,2023-2024,Suudi Arabistan Pro Ligi,2,Al-Ittihad,Al-Ahli,4,1,Ev,5
+2023-03-03,2023-2024,Suudi Arabistan Pro Ligi,2,Al-Shabab,Al-Taawoun,3,0,Ev,3
+2023-03-03,2023-2024,Suudi Arabistan Pro Ligi,2,Damac,Al-Fateh,4,1,Ev,5
+2023-03-03,2023-2024,Suudi Arabistan Pro Ligi,2,Al-Fayha,Al-Riyadh,2,3,Deplasman,5
+2023-04-04,2023-2024,Suudi Arabistan Pro Ligi,3,Al-Hilal,Al-Nassr,1,2,Deplasman,3
+2023-04-04,2023-2024,Suudi Arabistan Pro Ligi,3,Al-Ittihad,Al-Ahli,5,3,Ev,8
+2023-04-04,2023-2024,Suudi Arabistan Pro Ligi,3,Al-Shabab,Al-Taawoun,2,0,Ev,2
+2023-04-04,2023-2024,Suudi Arabistan Pro Ligi,3,Damac,Al-Fateh,2,1,Ev,3
+2023-04-04,2023-2024,Suudi Arabistan Pro Ligi,3,Al-Fayha,Al-Riyadh,4,1,Ev,5
+2023-05-05,2023-2024,Suudi Arabistan Pro Ligi,4,Al-Hilal,Al-Nassr,7,1,Ev,8
+2023-05-05,2023-2024,Suudi Arabistan Pro Ligi,4,Al-Ittihad,Al-Ahli,2,5,Deplasman,7
+2023-05-05,2023-2024,Suudi Arabistan Pro Ligi,4,Al-Shabab,Al-Taawoun,1,2,Deplasman,3
+2023-05-05,2023-2024,Suudi Arabistan Pro Ligi,4,Damac,Al-Fateh,2,0,Ev,2
+2023-05-05,2023-2024,Suudi Arabistan Pro Ligi,4,Al-Fayha,Al-Riyadh,1,1,Beraberlik,2
+2023-06-06,2023-2024,Suudi Arabistan Pro Ligi,5,Al-Hilal,Al-Nassr,0,1,Deplasman,1
+2023-06-06,2023-2024,Suudi Arabistan Pro Ligi,5,Al-Ittihad,Al-Ahli,1,2,Deplasman,3
+2023-06-06,2023-2024,Suudi Arabistan Pro Ligi,5,Al-Shabab,Al-Taawoun,2,0,Ev,2
+2023-06-06,2023-2024,Suudi Arabistan Pro Ligi,5,Damac,Al-Fateh,2,1,Ev,3
+2023-06-06,2023-2024,Suudi Arabistan Pro Ligi,5,Al-Fayha,Al-Riyadh,1,2,Deplasman,3
+2023-07-07,2023-2024,Suudi Arabistan Pro Ligi,6,Al-Hilal,Al-Nassr,6,1,Ev,7
+2023-07-07,2023-2024,Suudi Arabistan Pro Ligi,6,Al-Ittihad,Al-Ahli,2,0,Ev,2
+2023-07-07,2023-2024,Suudi Arabistan Pro Ligi,6,Al-Shabab,Al-Taawoun,0,1,Deplasman,1
+2023-07-07,2023-2024,Suudi Arabistan Pro Ligi,6,Damac,Al-Fateh,3,0,Ev,3
+2023-07-07,2023-2024,Suudi Arabistan Pro Ligi,6,Al-Fayha,Al-Riyadh,1,5,Deplasman,6
+2023-08-08,2023-2024,Suudi Arabistan Pro Ligi,7,Al-Hilal,Al-Nassr,4,0,Ev,4
+2023-08-08,2023-2024,Suudi Arabistan Pro Ligi,7,Al-Ittihad,Al-Ahli,4,3,Ev,7
+2023-08-08,2023-2024,Suudi Arabistan Pro Ligi,7,Al-Shabab,Al-Taawoun,2,3,Deplasman,5
+2023-08-08,2023-2024,Suudi Arabistan Pro Ligi,7,Damac,Al-Fateh,2,3,Deplasman,5
+2023-08-08,2023-2024,Suudi Arabistan Pro Ligi,7,Al-Fayha,Al-Riyadh,4,1,Ev,5
+2023-09-09,2023-2024,Suudi Arabistan Pro Ligi,8,Al-Hilal,Al-Nassr,3,1,Ev,4
+2023-09-09,2023-2024,Suudi Arabistan Pro Ligi,8,Al-Ittihad,Al-Ahli,0,6,Deplasman,6
+2023-09-09,2023-2024,Suudi Arabistan Pro Ligi,8,Al-Shabab,Al-Taawoun,2,1,Ev,3
+2023-09-09,2023-2024,Suudi Arabistan Pro Ligi,8,Damac,Al-Fateh,5,1,Ev,6
+2023-09-09,2023-2024,Suudi Arabistan Pro Ligi,8,Al-Fayha,Al-Riyadh,2,1,Ev,3
+2023-10-10,2023-2024,Suudi Arabistan Pro Ligi,9,Al-Hilal,Al-Nassr,4,2,Ev,6
+2023-10-10,2023-2024,Suudi Arabistan Pro Ligi,9,Al-Ittihad,Al-Ahli,3,0,Ev,3
+2023-10-10,2023-2024,Suudi Arabistan Pro Ligi,9,Al-Shabab,Al-Taawoun,1,1,Beraberlik,2
+2023-10-10,2023-2024,Suudi Arabistan Pro Ligi,9,Damac,Al-Fateh,4,3,Ev,7
+2023-10-10,2023-2024,Suudi Arabistan Pro Ligi,9,Al-Fayha,Al-Riyadh,2,1,Ev,3
+2023-11-11,2023-2024,Suudi Arabistan Pro Ligi,10,Al-Hilal,Al-Nassr,7,1,Ev,8
+2023-11-11,2023-2024,Suudi Arabistan Pro Ligi,10,Al-Ittihad,Al-Ahli,3,2,Ev,5
+2023-11-11,2023-2024,Suudi Arabistan Pro Ligi,10,Al-Shabab,Al-Taawoun,2,3,Deplasman,5
+2023-11-11,2023-2024,Suudi Arabistan Pro Ligi,10,Damac,Al-Fateh,2,0,Ev,2
+2023-11-11,2023-2024,Suudi Arabistan Pro Ligi,10,Al-Fayha,Al-Riyadh,0,1,Deplasman,1
+2023-12-12,2023-2024,Suudi Arabistan Pro Ligi,11,Al-Hilal,Al-Nassr,4,0,Ev,4
+2023-12-12,2023-2024,Suudi Arabistan Pro Ligi,11,Al-Ittihad,Al-Ahli,4,0,Ev,4
+2023-12-12,2023-2024,Suudi Arabistan Pro Ligi,11,Al-Shabab,Al-Taawoun,3,1,Ev,4
+2023-12-12,2023-2024,Suudi Arabistan Pro Ligi,11,Damac,Al-Fateh,4,1,Ev,5
+2023-12-12,2023-2024,Suudi Arabistan Pro Ligi,11,Al-Fayha,Al-Riyadh,4,3,Ev,7
+2023-01-13,2023-2024,Suudi Arabistan Pro Ligi,12,Al-Hilal,Al-Nassr,6,1,Ev,7
+2023-01-13,2023-2024,Suudi Arabistan Pro Ligi,12,Al-Ittihad,Al-Ahli,3,2,Ev,5
+2023-01-13,2023-2024,Suudi Arabistan Pro Ligi,12,Al-Shabab,Al-Taawoun,2,0,Ev,2
+2023-01-13,2023-2024,Suudi Arabistan Pro Ligi,12,Damac,Al-Fateh,4,4,Beraberlik,8
+2023-01-13,2023-2024,Suudi Arabistan Pro Ligi,12,Al-Fayha,Al-Riyadh,2,1,Ev,3
+2023-02-14,2023-2024,Suudi Arabistan Pro Ligi,13,Al-Hilal,Al-Nassr,3,1,Ev,4
+2023-02-14,2023-2024,Suudi Arabistan Pro Ligi,13,Al-Ittihad,Al-Ahli,3,0,Ev,3
+2023-02-14,2023-2024,Suudi Arabistan Pro Ligi,13,Al-Shabab,Al-Taawoun,2,1,Ev,3
+2023-02-14,2023-2024,Suudi Arabistan Pro Ligi,13,Damac,Al-Fateh,2,2,Beraberlik,4
+2023-02-14,2023-2024,Suudi Arabistan Pro Ligi,13,Al-Fayha,Al-Riyadh,3,2,Ev,5
+2023-03-15,2023-2024,Suudi Arabistan Pro Ligi,14,Al-Hilal,Al-Nassr,4,1,Ev,5
+2023-03-15,2023-2024,Suudi Arabistan Pro Ligi,14,Al-Ittihad,Al-Ahli,2,2,Beraberlik,4
+2023-03-15,2023-2024,Suudi Arabistan Pro Ligi,14,Al-Shabab,Al-Taawoun,1,2,Deplasman,3
+2023-03-15,2023-2024,Suudi Arabistan Pro Ligi,14,Damac,Al-Fateh,1,5,Deplasman,6
+2023-03-15,2023-2024,Suudi Arabistan Pro Ligi,14,Al-Fayha,Al-Riyadh,1,3,Deplasman,4
+2023-04-16,2023-2024,Suudi Arabistan Pro Ligi,15,Al-Hilal,Al-Nassr,6,0,Ev,6
+2023-04-16,2023-2024,Suudi Arabistan Pro Ligi,15,Al-Ittihad,Al-Ahli,1,3,Deplasman,4
+2023-04-16,2023-2024,Suudi Arabistan Pro Ligi,15,Al-Shabab,Al-Taawoun,0,0,Beraberlik,0
+2023-04-16,2023-2024,Suudi Arabistan Pro Ligi,15,Damac,Al-Fateh,1,1,Beraberlik,2
+2023-04-16,2023-2024,Suudi Arabistan Pro Ligi,15,Al-Fayha,Al-Riyadh,2,3,Deplasman,5
+2023-05-17,2023-2024,Suudi Arabistan Pro Ligi,16,Al-Hilal,Al-Nassr,1,1,Beraberlik,2
+2023-05-17,2023-2024,Suudi Arabistan Pro Ligi,16,Al-Ittihad,Al-Ahli,2,0,Ev,2
+2023-05-17,2023-2024,Suudi Arabistan Pro Ligi,16,Al-Shabab,Al-Taawoun,1,0,Ev,1
+2023-05-17,2023-2024,Suudi Arabistan Pro Ligi,16,Damac,Al-Fateh,2,2,Beraberlik,4
+2023-05-17,2023-2024,Suudi Arabistan Pro Ligi,16,Al-Fayha,Al-Riyadh,2,1,Ev,3
+2023-06-18,2023-2024,Suudi Arabistan Pro Ligi,17,Al-Hilal,Al-Nassr,8,3,Ev,11
+2023-06-18,2023-2024,Suudi Arabistan Pro Ligi,17,Al-Ittihad,Al-Ahli,3,0,Ev,3
+2023-06-18,2023-2024,Suudi Arabistan Pro Ligi,17,Al-Shabab,Al-Taawoun,2,1,Ev,3
+2023-06-18,2023-2024,Suudi Arabistan Pro Ligi,17,Damac,Al-Fateh,5,1,Ev,6
+2023-06-18,2023-2024,Suudi Arabistan Pro Ligi,17,Al-Fayha,Al-Riyadh,0,1,Deplasman,1
+2023-07-19,2023-2024,Suudi Arabistan Pro Ligi,18,Al-Hilal,Al-Nassr,4,3,Ev,7
+2023-07-19,2023-2024,Suudi Arabistan Pro Ligi,18,Al-Ittihad,Al-Ahli,4,2,Ev,6
+2023-07-19,2023-2024,Suudi Arabistan Pro Ligi,18,Al-Shabab,Al-Taawoun,4,1,Ev,5
+2023-07-19,2023-2024,Suudi Arabistan Pro Ligi,18,Damac,Al-Fateh,3,0,Ev,3
+2023-07-19,2023-2024,Suudi Arabistan Pro Ligi,18,Al-Fayha,Al-Riyadh,1,2,Deplasman,3
+2023-02-02,2024-2025,Suudi Arabistan Pro Ligi,1,Al-Hilal,Al-Nassr,3,2,Ev,5
+2023-02-02,2024-2025,Suudi Arabistan Pro Ligi,1,Al-Ittihad,Al-Ahli,1,1,Beraberlik,2
+2023-02-02,2024-2025,Suudi Arabistan Pro Ligi,1,Al-Shabab,Al-Taawoun,2,3,Deplasman,5
+2023-02-02,2024-2025,Suudi Arabistan Pro Ligi,1,Damac,Al-Fateh,1,3,Deplasman,4
+2023-02-02,2024-2025,Suudi Arabistan Pro Ligi,1,Al-Fayha,Al-Riyadh,2,2,Beraberlik,4
+2023-03-03,2024-2025,Suudi Arabistan Pro Ligi,2,Al-Hilal,Al-Nassr,1,1,Beraberlik,2
+2023-03-03,2024-2025,Suudi Arabistan Pro Ligi,2,Al-Ittihad,Al-Ahli,1,0,Ev,1
+2023-03-03,2024-2025,Suudi Arabistan Pro Ligi,2,Al-Shabab,Al-Taawoun,4,3,Ev,7
+2023-03-03,2024-2025,Suudi Arabistan Pro Ligi,2,Damac,Al-Fateh,2,6,Deplasman,8
+2023-03-03,2024-2025,Suudi Arabistan Pro Ligi,2,Al-Fayha,Al-Riyadh,3,3,Beraberlik,6
+2023-04-04,2024-2025,Suudi Arabistan Pro Ligi,3,Al-Hilal,Al-Nassr,3,2,Ev,5
+2023-04-04,2024-2025,Suudi Arabistan Pro Ligi,3,Al-Ittihad,Al-Ahli,1,3,Deplasman,4
+2023-04-04,2024-2025,Suudi Arabistan Pro Ligi,3,Al-Shabab,Al-Taawoun,4,1,Ev,5
+2023-04-04,2024-2025,Suudi Arabistan Pro Ligi,3,Damac,Al-Fateh,3,6,Deplasman,9
+2023-04-04,2024-2025,Suudi Arabistan Pro Ligi,3,Al-Fayha,Al-Riyadh,2,1,Ev,3
+2023-05-05,2024-2025,Suudi Arabistan Pro Ligi,4,Al-Hilal,Al-Nassr,3,4,Deplasman,7
+2023-05-05,2024-2025,Suudi Arabistan Pro Ligi,4,Al-Ittihad,Al-Ahli,1,1,Beraberlik,2
+2023-05-05,2024-2025,Suudi Arabistan Pro Ligi,4,Al-Shabab,Al-Taawoun,3,2,Ev,5
+2023-05-05,2024-2025,Suudi Arabistan Pro Ligi,4,Damac,Al-Fateh,2,3,Deplasman,5
+2023-05-05,2024-2025,Suudi Arabistan Pro Ligi,4,Al-Fayha,Al-Riyadh,2,0,Ev,2
+2023-06-06,2024-2025,Suudi Arabistan Pro Ligi,5,Al-Hilal,Al-Nassr,1,3,Deplasman,4
+2023-06-06,2024-2025,Suudi Arabistan Pro Ligi,5,Al-Ittihad,Al-Ahli,0,2,Deplasman,2
+2023-06-06,2024-2025,Suudi Arabistan Pro Ligi,5,Al-Shabab,Al-Taawoun,3,4,Deplasman,7
+2023-06-06,2024-2025,Suudi Arabistan Pro Ligi,5,Damac,Al-Fateh,5,0,Ev,5
+2023-06-06,2024-2025,Suudi Arabistan Pro Ligi,5,Al-Fayha,Al-Riyadh,2,2,Beraberlik,4
+2023-07-07,2024-2025,Suudi Arabistan Pro Ligi,6,Al-Hilal,Al-Nassr,1,0,Ev,1
+2023-07-07,2024-2025,Suudi Arabistan Pro Ligi,6,Al-Ittihad,Al-Ahli,1,3,Deplasman,4
+2023-07-07,2024-2025,Suudi Arabistan Pro Ligi,6,Al-Shabab,Al-Taawoun,2,2,Beraberlik,4
+2023-07-07,2024-2025,Suudi Arabistan Pro Ligi,6,Damac,Al-Fateh,2,4,Deplasman,6
+2023-07-07,2024-2025,Suudi Arabistan Pro Ligi,6,Al-Fayha,Al-Riyadh,1,2,Deplasman,3
+2023-08-08,2024-2025,Suudi Arabistan Pro Ligi,7,Al-Hilal,Al-Nassr,2,1,Ev,3
+2023-08-08,2024-2025,Suudi Arabistan Pro Ligi,7,Al-Ittihad,Al-Ahli,3,0,Ev,3
+2023-08-08,2024-2025,Suudi Arabistan Pro Ligi,7,Al-Shabab,Al-Taawoun,1,1,Beraberlik,2
+2023-08-08,2024-2025,Suudi Arabistan Pro Ligi,7,Damac,Al-Fateh,1,3,Deplasman,4
+2023-08-08,2024-2025,Suudi Arabistan Pro Ligi,7,Al-Fayha,Al-Riyadh,5,2,Ev,7
+2023-09-09,2024-2025,Suudi Arabistan Pro Ligi,8,Al-Hilal,Al-Nassr,3,2,Ev,5
+2023-09-09,2024-2025,Suudi Arabistan Pro Ligi,8,Al-Ittihad,Al-Ahli,2,1,Ev,3
+2023-09-09,2024-2025,Suudi Arabistan Pro Ligi,8,Al-Shabab,Al-Taawoun,3,0,Ev,3
+2023-09-09,2024-2025,Suudi Arabistan Pro Ligi,8,Damac,Al-Fateh,0,1,Deplasman,1
+2023-09-09,2024-2025,Suudi Arabistan Pro Ligi,8,Al-Fayha,Al-Riyadh,3,3,Beraberlik,6
+2023-10-10,2024-2025,Suudi Arabistan Pro Ligi,9,Al-Hilal,Al-Nassr,4,4,Beraberlik,8
+2023-10-10,2024-2025,Suudi Arabistan Pro Ligi,9,Al-Ittihad,Al-Ahli,1,3,Deplasman,4
+2023-10-10,2024-2025,Suudi Arabistan Pro Ligi,9,Al-Shabab,Al-Taawoun,3,2,Ev,5
+2023-10-10,2024-2025,Suudi Arabistan Pro Ligi,9,Damac,Al-Fateh,2,2,Beraberlik,4
+2023-10-10,2024-2025,Suudi Arabistan Pro Ligi,9,Al-Fayha,Al-Riyadh,5,4,Ev,9
+2023-11-11,2024-2025,Suudi Arabistan Pro Ligi,10,Al-Hilal,Al-Nassr,5,1,Ev,6
+2023-11-11,2024-2025,Suudi Arabistan Pro Ligi,10,Al-Ittihad,Al-Ahli,0,1,Deplasman,1
+2023-11-11,2024-2025,Suudi Arabistan Pro Ligi,10,Al-Shabab,Al-Taawoun,4,0,Ev,4
+2023-11-11,2024-2025,Suudi Arabistan Pro Ligi,10,Damac,Al-Fateh,0,2,Deplasman,2
+2023-11-11,2024-2025,Suudi Arabistan Pro Ligi,10,Al-Fayha,Al-Riyadh,3,4,Deplasman,7
+2023-12-12,2024-2025,Suudi Arabistan Pro Ligi,11,Al-Hilal,Al-Nassr,1,4,Deplasman,5
+2023-12-12,2024-2025,Suudi Arabistan Pro Ligi,11,Al-Ittihad,Al-Ahli,3,2,Ev,5
+2023-12-12,2024-2025,Suudi Arabistan Pro Ligi,11,Al-Shabab,Al-Taawoun,6,2,Ev,8
+2023-12-12,2024-2025,Suudi Arabistan Pro Ligi,11,Damac,Al-Fateh,2,4,Deplasman,6
+2023-12-12,2024-2025,Suudi Arabistan Pro Ligi,11,Al-Fayha,Al-Riyadh,4,1,Ev,5
+2023-01-13,2024-2025,Suudi Arabistan Pro Ligi,12,Al-Hilal,Al-Nassr,2,0,Ev,2
+2023-01-13,2024-2025,Suudi Arabistan Pro Ligi,12,Al-Ittihad,Al-Ahli,2,1,Ev,3
+2023-01-13,2024-2025,Suudi Arabistan Pro Ligi,12,Al-Shabab,Al-Taawoun,2,2,Beraberlik,4
+2023-01-13,2024-2025,Suudi Arabistan Pro Ligi,12,Damac,Al-Fateh,3,3,Beraberlik,6
+2023-01-13,2024-2025,Suudi Arabistan Pro Ligi,12,Al-Fayha,Al-Riyadh,2,2,Beraberlik,4
+2023-02-14,2024-2025,Suudi Arabistan Pro Ligi,13,Al-Hilal,Al-Nassr,3,0,Ev,3
+2023-02-14,2024-2025,Suudi Arabistan Pro Ligi,13,Al-Ittihad,Al-Ahli,2,0,Ev,2
+2023-02-14,2024-2025,Suudi Arabistan Pro Ligi,13,Al-Shabab,Al-Taawoun,1,2,Deplasman,3
+2023-02-14,2024-2025,Suudi Arabistan Pro Ligi,13,Damac,Al-Fateh,0,0,Beraberlik,0
+2023-02-14,2024-2025,Suudi Arabistan Pro Ligi,13,Al-Fayha,Al-Riyadh,2,2,Beraberlik,4
+2023-03-15,2024-2025,Suudi Arabistan Pro Ligi,14,Al-Hilal,Al-Nassr,4,5,Deplasman,9
+2023-03-15,2024-2025,Suudi Arabistan Pro Ligi,14,Al-Ittihad,Al-Ahli,2,1,Ev,3
+2023-03-15,2024-2025,Suudi Arabistan Pro Ligi,14,Al-Shabab,Al-Taawoun,2,2,Beraberlik,4
+2023-03-15,2024-2025,Suudi Arabistan Pro Ligi,14,Damac,Al-Fateh,0,2,Deplasman,2
+2023-03-15,2024-2025,Suudi Arabistan Pro Ligi,14,Al-Fayha,Al-Riyadh,2,0,Ev,2
+2023-04-16,2024-2025,Suudi Arabistan Pro Ligi,15,Al-Hilal,Al-Nassr,1,3,Deplasman,4
+2023-04-16,2024-2025,Suudi Arabistan Pro Ligi,15,Al-Ittihad,Al-Ahli,2,0,Ev,2
+2023-04-16,2024-2025,Suudi Arabistan Pro Ligi,15,Al-Shabab,Al-Taawoun,2,1,Ev,3
+2023-04-16,2024-2025,Suudi Arabistan Pro Ligi,15,Damac,Al-Fateh,2,2,Beraberlik,4
+2023-04-16,2024-2025,Suudi Arabistan Pro Ligi,15,Al-Fayha,Al-Riyadh,4,5,Deplasman,9
+2023-05-17,2024-2025,Suudi Arabistan Pro Ligi,16,Al-Hilal,Al-Nassr,1,0,Ev,1
+2023-05-17,2024-2025,Suudi Arabistan Pro Ligi,16,Al-Ittihad,Al-Ahli,1,4,Deplasman,5
+2023-05-17,2024-2025,Suudi Arabistan Pro Ligi,16,Al-Shabab,Al-Taawoun,2,1,Ev,3
+2023-05-17,2024-2025,Suudi Arabistan Pro Ligi,16,Damac,Al-Fateh,0,2,Deplasman,2
+2023-05-17,2024-2025,Suudi Arabistan Pro Ligi,16,Al-Fayha,Al-Riyadh,3,1,Ev,4
+2023-06-18,2024-2025,Suudi Arabistan Pro Ligi,17,Al-Hilal,Al-Nassr,1,2,Deplasman,3
+2023-06-18,2024-2025,Suudi Arabistan Pro Ligi,17,Al-Ittihad,Al-Ahli,2,5,Deplasman,7
+2023-06-18,2024-2025,Suudi Arabistan Pro Ligi,17,Al-Shabab,Al-Taawoun,3,4,Deplasman,7
+2023-06-18,2024-2025,Suudi Arabistan Pro Ligi,17,Damac,Al-Fateh,1,2,Deplasman,3
+2023-06-18,2024-2025,Suudi Arabistan Pro Ligi,17,Al-Fayha,Al-Riyadh,2,0,Ev,2
+2023-07-19,2024-2025,Suudi Arabistan Pro Ligi,18,Al-Hilal,Al-Nassr,1,0,Ev,1
+2023-07-19,2024-2025,Suudi Arabistan Pro Ligi,18,Al-Ittihad,Al-Ahli,3,3,Beraberlik,6
+2023-07-19,2024-2025,Suudi Arabistan Pro Ligi,18,Al-Shabab,Al-Taawoun,1,0,Ev,1
+2023-07-19,2024-2025,Suudi Arabistan Pro Ligi,18,Damac,Al-Fateh,1,3,Deplasman,4
+2023-07-19,2024-2025,Suudi Arabistan Pro Ligi,18,Al-Fayha,Al-Riyadh,1,2,Deplasman,3
+2023-02-02,2025-2026,Suudi Arabistan Pro Ligi,1,Al-Hilal,Al-Nassr,5,1,Ev,6
+2023-02-02,2025-2026,Suudi Arabistan Pro Ligi,1,Al-Ittihad,Al-Ahli,2,3,Deplasman,5
+2023-02-02,2025-2026,Suudi Arabistan Pro Ligi,1,Al-Shabab,Al-Taawoun,3,1,Ev,4
+2023-02-02,2025-2026,Suudi Arabistan Pro Ligi,1,Damac,Al-Fateh,3,5,Deplasman,8
+2023-02-02,2025-2026,Suudi Arabistan Pro Ligi,1,Al-Fayha,Al-Riyadh,0,2,Deplasman,2
+2023-03-03,2025-2026,Suudi Arabistan Pro Ligi,2,Al-Hilal,Al-Nassr,1,1,Beraberlik,2
+2023-03-03,2025-2026,Suudi Arabistan Pro Ligi,2,Al-Ittihad,Al-Ahli,4,2,Ev,6
+2023-03-03,2025-2026,Suudi Arabistan Pro Ligi,2,Al-Shabab,Al-Taawoun,1,6,Deplasman,7
+2023-03-03,2025-2026,Suudi Arabistan Pro Ligi,2,Damac,Al-Fateh,1,2,Deplasman,3
+2023-03-03,2025-2026,Suudi Arabistan Pro Ligi,2,Al-Fayha,Al-Riyadh,1,2,Deplasman,3
+2023-04-04,2025-2026,Suudi Arabistan Pro Ligi,3,Al-Hilal,Al-Nassr,5,0,Ev,5
+2023-04-04,2025-2026,Suudi Arabistan Pro Ligi,3,Al-Ittihad,Al-Ahli,1,0,Ev,1
+2023-04-04,2025-2026,Suudi Arabistan Pro Ligi,3,Al-Shabab,Al-Taawoun,4,2,Ev,6
+2023-04-04,2025-2026,Suudi Arabistan Pro Ligi,3,Damac,Al-Fateh,2,0,Ev,2
+2023-04-04,2025-2026,Suudi Arabistan Pro Ligi,3,Al-Fayha,Al-Riyadh,2,3,Deplasman,5
+2023-05-05,2025-2026,Suudi Arabistan Pro Ligi,4,Al-Hilal,Al-Nassr,2,5,Deplasman,7
+2023-05-05,2025-2026,Suudi Arabistan Pro Ligi,4,Al-Ittihad,Al-Ahli,5,4,Ev,9
+2023-05-05,2025-2026,Suudi Arabistan Pro Ligi,4,Al-Shabab,Al-Taawoun,4,0,Ev,4
+2023-05-05,2025-2026,Suudi Arabistan Pro Ligi,4,Damac,Al-Fateh,1,1,Beraberlik,2
+2023-05-05,2025-2026,Suudi Arabistan Pro Ligi,4,Al-Fayha,Al-Riyadh,2,2,Beraberlik,4
+2023-06-06,2025-2026,Suudi Arabistan Pro Ligi,5,Al-Hilal,Al-Nassr,3,2,Ev,5
+2023-06-06,2025-2026,Suudi Arabistan Pro Ligi,5,Al-Ittihad,Al-Ahli,2,3,Deplasman,5
+2023-06-06,2025-2026,Suudi Arabistan Pro Ligi,5,Al-Shabab,Al-Taawoun,3,3,Beraberlik,6
+2023-06-06,2025-2026,Suudi Arabistan Pro Ligi,5,Damac,Al-Fateh,3,5,Deplasman,8
+2023-06-06,2025-2026,Suudi Arabistan Pro Ligi,5,Al-Fayha,Al-Riyadh,1,2,Deplasman,3
+2023-07-07,2025-2026,Suudi Arabistan Pro Ligi,6,Al-Hilal,Al-Nassr,4,4,Beraberlik,8
+2023-07-07,2025-2026,Suudi Arabistan Pro Ligi,6,Al-Ittihad,Al-Ahli,3,4,Deplasman,7
+2023-07-07,2025-2026,Suudi Arabistan Pro Ligi,6,Al-Shabab,Al-Taawoun,3,2,Ev,5
+2023-07-07,2025-2026,Suudi Arabistan Pro Ligi,6,Damac,Al-Fateh,1,4,Deplasman,5
+2023-07-07,2025-2026,Suudi Arabistan Pro Ligi,6,Al-Fayha,Al-Riyadh,2,2,Beraberlik,4
+2023-08-08,2025-2026,Suudi Arabistan Pro Ligi,7,Al-Hilal,Al-Nassr,1,1,Beraberlik,2
+2023-08-08,2025-2026,Suudi Arabistan Pro Ligi,7,Al-Ittihad,Al-Ahli,3,4,Deplasman,7
+2023-08-08,2025-2026,Suudi Arabistan Pro Ligi,7,Al-Shabab,Al-Taawoun,0,2,Deplasman,2
+2023-08-08,2025-2026,Suudi Arabistan Pro Ligi,7,Damac,Al-Fateh,2,5,Deplasman,7
+2023-08-08,2025-2026,Suudi Arabistan Pro Ligi,7,Al-Fayha,Al-Riyadh,0,1,Deplasman,1
+2023-09-09,2025-2026,Suudi Arabistan Pro Ligi,8,Al-Hilal,Al-Nassr,5,3,Ev,8
+2023-09-09,2025-2026,Suudi Arabistan Pro Ligi,8,Al-Ittihad,Al-Ahli,3,1,Ev,4
+2023-09-09,2025-2026,Suudi Arabistan Pro Ligi,8,Al-Shabab,Al-Taawoun,0,2,Deplasman,2
+2023-09-09,2025-2026,Suudi Arabistan Pro Ligi,8,Damac,Al-Fateh,1,3,Deplasman,4
+2023-09-09,2025-2026,Suudi Arabistan Pro Ligi,8,Al-Fayha,Al-Riyadh,4,2,Ev,6
+2023-10-10,2025-2026,Suudi Arabistan Pro Ligi,9,Al-Hilal,Al-Nassr,1,5,Deplasman,6
+2023-10-10,2025-2026,Suudi Arabistan Pro Ligi,9,Al-Ittihad,Al-Ahli,0,5,Deplasman,5
+2023-10-10,2025-2026,Suudi Arabistan Pro Ligi,9,Al-Shabab,Al-Taawoun,4,3,Ev,7
+2023-10-10,2025-2026,Suudi Arabistan Pro Ligi,9,Damac,Al-Fateh,1,0,Ev,1
+2023-10-10,2025-2026,Suudi Arabistan Pro Ligi,9,Al-Fayha,Al-Riyadh,1,1,Beraberlik,2
+2023-11-11,2025-2026,Suudi Arabistan Pro Ligi,10,Al-Hilal,Al-Nassr,4,3,Ev,7
+2023-11-11,2025-2026,Suudi Arabistan Pro Ligi,10,Al-Ittihad,Al-Ahli,6,1,Ev,7
+2023-11-11,2025-2026,Suudi Arabistan Pro Ligi,10,Al-Shabab,Al-Taawoun,4,3,Ev,7
+2023-11-11,2025-2026,Suudi Arabistan Pro Ligi,10,Damac,Al-Fateh,1,2,Deplasman,3
+2023-11-11,2025-2026,Suudi Arabistan Pro Ligi,10,Al-Fayha,Al-Riyadh,3,0,Ev,3
+2023-12-12,2025-2026,Suudi Arabistan Pro Ligi,11,Al-Hilal,Al-Nassr,3,3,Beraberlik,6
+2023-12-12,2025-2026,Suudi Arabistan Pro Ligi,11,Al-Ittihad,Al-Ahli,5,1,Ev,6
+2023-12-12,2025-2026,Suudi Arabistan Pro Ligi,11,Al-Shabab,Al-Taawoun,1,0,Ev,1
+2023-12-12,2025-2026,Suudi Arabistan Pro Ligi,11,Damac,Al-Fateh,4,2,Ev,6
+2023-12-12,2025-2026,Suudi Arabistan Pro Ligi,11,Al-Fayha,Al-Riyadh,1,0,Ev,1
+2023-01-13,2025-2026,Suudi Arabistan Pro Ligi,12,Al-Hilal,Al-Nassr,1,1,Beraberlik,2
+2023-01-13,2025-2026,Suudi Arabistan Pro Ligi,12,Al-Ittihad,Al-Ahli,3,3,Beraberlik,6
+2023-01-13,2025-2026,Suudi Arabistan Pro Ligi,12,Al-Shabab,Al-Taawoun,2,1,Ev,3
+2023-01-13,2025-2026,Suudi Arabistan Pro Ligi,12,Damac,Al-Fateh,1,2,Deplasman,3
+2023-01-13,2025-2026,Suudi Arabistan Pro Ligi,12,Al-Fayha,Al-Riyadh,3,0,Ev,3
+2023-02-14,2025-2026,Suudi Arabistan Pro Ligi,13,Al-Hilal,Al-Nassr,3,1,Ev,4
+2023-02-14,2025-2026,Suudi Arabistan Pro Ligi,13,Al-Ittihad,Al-Ahli,3,3,Beraberlik,6
+2023-02-14,2025-2026,Suudi Arabistan Pro Ligi,13,Al-Shabab,Al-Taawoun,3,1,Ev,4
+2023-02-14,2025-2026,Suudi Arabistan Pro Ligi,13,Damac,Al-Fateh,2,1,Ev,3
+2023-02-14,2025-2026,Suudi Arabistan Pro Ligi,13,Al-Fayha,Al-Riyadh,2,1,Ev,3
+2023-03-15,2025-2026,Suudi Arabistan Pro Ligi,14,Al-Hilal,Al-Nassr,5,3,Ev,8
+2023-03-15,2025-2026,Suudi Arabistan Pro Ligi,14,Al-Ittihad,Al-Ahli,6,1,Ev,7
+2023-03-15,2025-2026,Suudi Arabistan Pro Ligi,14,Al-Shabab,Al-Taawoun,3,1,Ev,4
+2023-03-15,2025-2026,Suudi Arabistan Pro Ligi,14,Damac,Al-Fateh,1,3,Deplasman,4
+2023-03-15,2025-2026,Suudi Arabistan Pro Ligi,14,Al-Fayha,Al-Riyadh,3,1,Ev,4
+2023-04-16,2025-2026,Suudi Arabistan Pro Ligi,15,Al-Hilal,Al-Nassr,6,1,Ev,7
+2023-04-16,2025-2026,Suudi Arabistan Pro Ligi,15,Al-Ittihad,Al-Ahli,4,1,Ev,5
+2023-04-16,2025-2026,Suudi Arabistan Pro Ligi,15,Al-Shabab,Al-Taawoun,1,1,Beraberlik,2
+2023-04-16,2025-2026,Suudi Arabistan Pro Ligi,15,Damac,Al-Fateh,3,3,Beraberlik,6
+2023-04-16,2025-2026,Suudi Arabistan Pro Ligi,15,Al-Fayha,Al-Riyadh,4,2,Ev,6
+2023-05-17,2025-2026,Suudi Arabistan Pro Ligi,16,Al-Hilal,Al-Nassr,5,1,Ev,6
+2023-05-17,2025-2026,Suudi Arabistan Pro Ligi,16,Al-Ittihad,Al-Ahli,6,0,Ev,6
+2023-05-17,2025-2026,Suudi Arabistan Pro Ligi,16,Al-Shabab,Al-Taawoun,1,1,Beraberlik,2
+2023-05-17,2025-2026,Suudi Arabistan Pro Ligi,16,Damac,Al-Fateh,4,1,Ev,5
+2023-05-17,2025-2026,Suudi Arabistan Pro Ligi,16,Al-Fayha,Al-Riyadh,1,1,Beraberlik,2
+2023-06-18,2025-2026,Suudi Arabistan Pro Ligi,17,Al-Hilal,Al-Nassr,2,2,Beraberlik,4
+2023-06-18,2025-2026,Suudi Arabistan Pro Ligi,17,Al-Ittihad,Al-Ahli,2,0,Ev,2
+2023-06-18,2025-2026,Suudi Arabistan Pro Ligi,17,Al-Shabab,Al-Taawoun,2,0,Ev,2
+2023-06-18,2025-2026,Suudi Arabistan Pro Ligi,17,Damac,Al-Fateh,1,2,Deplasman,3
+2023-06-18,2025-2026,Suudi Arabistan Pro Ligi,17,Al-Fayha,Al-Riyadh,1,2,Deplasman,3
+2023-07-19,2025-2026,Suudi Arabistan Pro Ligi,18,Al-Hilal,Al-Nassr,0,0,Beraberlik,0
+2023-07-19,2025-2026,Suudi Arabistan Pro Ligi,18,Al-Ittihad,Al-Ahli,8,3,Ev,11
+2023-07-19,2025-2026,Suudi Arabistan Pro Ligi,18,Al-Shabab,Al-Taawoun,3,1,Ev,4
+2023-07-19,2025-2026,Suudi Arabistan Pro Ligi,18,Damac,Al-Fateh,2,0,Ev,2
+2023-07-19,2025-2026,Suudi Arabistan Pro Ligi,18,Al-Fayha,Al-Riyadh,3,0,Ev,3
+2023-02-02,2022-2023,Arjantin Primera,1,River Plate,Boca Juniors,2,0,Ev,2
+2023-02-02,2022-2023,Arjantin Primera,1,Racing Club,Independiente,3,1,Ev,4
+2023-02-02,2022-2023,Arjantin Primera,1,San Lorenzo,Velez Sarsfield,4,1,Ev,5
+2023-02-02,2022-2023,Arjantin Primera,1,Estudiantes,Talleres,2,3,Deplasman,5
+2023-02-02,2022-2023,Arjantin Primera,1,Rosario Central,Newell's Old Boys,2,2,Beraberlik,4
+2023-03-03,2022-2023,Arjantin Primera,2,River Plate,Boca Juniors,3,1,Ev,4
+2023-03-03,2022-2023,Arjantin Primera,2,Racing Club,Independiente,2,2,Beraberlik,4
+2023-03-03,2022-2023,Arjantin Primera,2,San Lorenzo,Velez Sarsfield,3,2,Ev,5
+2023-03-03,2022-2023,Arjantin Primera,2,Estudiantes,Talleres,2,1,Ev,3
+2023-03-03,2022-2023,Arjantin Primera,2,Rosario Central,Newell's Old Boys,0,3,Deplasman,3
+2023-04-04,2022-2023,Arjantin Primera,3,River Plate,Boca Juniors,4,1,Ev,5
+2023-04-04,2022-2023,Arjantin Primera,3,Racing Club,Independiente,1,1,Beraberlik,2
+2023-04-04,2022-2023,Arjantin Primera,3,San Lorenzo,Velez Sarsfield,1,2,Deplasman,3
+2023-04-04,2022-2023,Arjantin Primera,3,Estudiantes,Talleres,1,2,Deplasman,3
+2023-04-04,2022-2023,Arjantin Primera,3,Rosario Central,Newell's Old Boys,1,1,Beraberlik,2
+2023-05-05,2022-2023,Arjantin Primera,4,River Plate,Boca Juniors,4,1,Ev,5
+2023-05-05,2022-2023,Arjantin Primera,4,Racing Club,Independiente,1,0,Ev,1
+2023-05-05,2022-2023,Arjantin Primera,4,San Lorenzo,Velez Sarsfield,2,1,Ev,3
+2023-05-05,2022-2023,Arjantin Primera,4,Estudiantes,Talleres,0,2,Deplasman,2
+2023-05-05,2022-2023,Arjantin Primera,4,Rosario Central,Newell's Old Boys,0,3,Deplasman,3
+2023-06-06,2022-2023,Arjantin Primera,5,River Plate,Boca Juniors,2,4,Deplasman,6
+2023-06-06,2022-2023,Arjantin Primera,5,Racing Club,Independiente,3,1,Ev,4
+2023-06-06,2022-2023,Arjantin Primera,5,San Lorenzo,Velez Sarsfield,3,2,Ev,5
+2023-06-06,2022-2023,Arjantin Primera,5,Estudiantes,Talleres,3,0,Ev,3
+2023-06-06,2022-2023,Arjantin Primera,5,Rosario Central,Newell's Old Boys,3,3,Beraberlik,6
+2023-07-07,2022-2023,Arjantin Primera,6,River Plate,Boca Juniors,2,2,Beraberlik,4
+2023-07-07,2022-2023,Arjantin Primera,6,Racing Club,Independiente,3,1,Ev,4
+2023-07-07,2022-2023,Arjantin Primera,6,San Lorenzo,Velez Sarsfield,6,0,Ev,6
+2023-07-07,2022-2023,Arjantin Primera,6,Estudiantes,Talleres,2,0,Ev,2
+2023-07-07,2022-2023,Arjantin Primera,6,Rosario Central,Newell's Old Boys,0,1,Deplasman,1
+2023-08-08,2022-2023,Arjantin Primera,7,River Plate,Boca Juniors,2,1,Ev,3
+2023-08-08,2022-2023,Arjantin Primera,7,Racing Club,Independiente,2,3,Deplasman,5
+2023-08-08,2022-2023,Arjantin Primera,7,San Lorenzo,Velez Sarsfield,3,3,Beraberlik,6
+2023-08-08,2022-2023,Arjantin Primera,7,Estudiantes,Talleres,6,1,Ev,7
+2023-08-08,2022-2023,Arjantin Primera,7,Rosario Central,Newell's Old Boys,2,2,Beraberlik,4
+2023-09-09,2022-2023,Arjantin Primera,8,River Plate,Boca Juniors,5,0,Ev,5
+2023-09-09,2022-2023,Arjantin Primera,8,Racing Club,Independiente,4,2,Ev,6
+2023-09-09,2022-2023,Arjantin Primera,8,San Lorenzo,Velez Sarsfield,4,1,Ev,5
+2023-09-09,2022-2023,Arjantin Primera,8,Estudiantes,Talleres,4,2,Ev,6
+2023-09-09,2022-2023,Arjantin Primera,8,Rosario Central,Newell's Old Boys,2,4,Deplasman,6
+2023-10-10,2022-2023,Arjantin Primera,9,River Plate,Boca Juniors,2,1,Ev,3
+2023-10-10,2022-2023,Arjantin Primera,9,Racing Club,Independiente,2,0,Ev,2
+2023-10-10,2022-2023,Arjantin Primera,9,San Lorenzo,Velez Sarsfield,6,2,Ev,8
+2023-10-10,2022-2023,Arjantin Primera,9,Estudiantes,Talleres,4,3,Ev,7
+2023-10-10,2022-2023,Arjantin Primera,9,Rosario Central,Newell's Old Boys,4,1,Ev,5
+2023-11-11,2022-2023,Arjantin Primera,10,River Plate,Boca Juniors,3,3,Beraberlik,6
+2023-11-11,2022-2023,Arjantin Primera,10,Racing Club,Independiente,1,1,Beraberlik,2
+2023-11-11,2022-2023,Arjantin Primera,10,San Lorenzo,Velez Sarsfield,2,2,Beraberlik,4
+2023-11-11,2022-2023,Arjantin Primera,10,Estudiantes,Talleres,2,1,Ev,3
+2023-11-11,2022-2023,Arjantin Primera,10,Rosario Central,Newell's Old Boys,0,2,Deplasman,2
+2023-12-12,2022-2023,Arjantin Primera,11,River Plate,Boca Juniors,3,0,Ev,3
+2023-12-12,2022-2023,Arjantin Primera,11,Racing Club,Independiente,4,2,Ev,6
+2023-12-12,2022-2023,Arjantin Primera,11,San Lorenzo,Velez Sarsfield,3,1,Ev,4
+2023-12-12,2022-2023,Arjantin Primera,11,Estudiantes,Talleres,1,1,Beraberlik,2
+2023-12-12,2022-2023,Arjantin Primera,11,Rosario Central,Newell's Old Boys,3,1,Ev,4
+2023-01-13,2022-2023,Arjantin Primera,12,River Plate,Boca Juniors,1,0,Ev,1
+2023-01-13,2022-2023,Arjantin Primera,12,Racing Club,Independiente,3,3,Beraberlik,6
+2023-01-13,2022-2023,Arjantin Primera,12,San Lorenzo,Velez Sarsfield,2,1,Ev,3
+2023-01-13,2022-2023,Arjantin Primera,12,Estudiantes,Talleres,4,1,Ev,5
+2023-01-13,2022-2023,Arjantin Primera,12,Rosario Central,Newell's Old Boys,3,2,Ev,5
+2023-02-14,2022-2023,Arjantin Primera,13,River Plate,Boca Juniors,3,0,Ev,3
+2023-02-14,2022-2023,Arjantin Primera,13,Racing Club,Independiente,1,0,Ev,1
+2023-02-14,2022-2023,Arjantin Primera,13,San Lorenzo,Velez Sarsfield,3,4,Deplasman,7
+2023-02-14,2022-2023,Arjantin Primera,13,Estudiantes,Talleres,2,0,Ev,2
+2023-02-14,2022-2023,Arjantin Primera,13,Rosario Central,Newell's Old Boys,1,3,Deplasman,4
+2023-03-15,2022-2023,Arjantin Primera,14,River Plate,Boca Juniors,4,0,Ev,4
+2023-03-15,2022-2023,Arjantin Primera,14,Racing Club,Independiente,4,7,Deplasman,11
+2023-03-15,2022-2023,Arjantin Primera,14,San Lorenzo,Velez Sarsfield,2,0,Ev,2
+2023-03-15,2022-2023,Arjantin Primera,14,Estudiantes,Talleres,2,2,Beraberlik,4
+2023-03-15,2022-2023,Arjantin Primera,14,Rosario Central,Newell's Old Boys,6,2,Ev,8
+2023-04-16,2022-2023,Arjantin Primera,15,River Plate,Boca Juniors,4,2,Ev,6
+2023-04-16,2022-2023,Arjantin Primera,15,Racing Club,Independiente,6,2,Ev,8
+2023-04-16,2022-2023,Arjantin Primera,15,San Lorenzo,Velez Sarsfield,3,1,Ev,4
+2023-04-16,2022-2023,Arjantin Primera,15,Estudiantes,Talleres,2,1,Ev,3
+2023-04-16,2022-2023,Arjantin Primera,15,Rosario Central,Newell's Old Boys,0,0,Beraberlik,0
+2023-05-17,2022-2023,Arjantin Primera,16,River Plate,Boca Juniors,1,2,Deplasman,3
+2023-05-17,2022-2023,Arjantin Primera,16,Racing Club,Independiente,1,2,Deplasman,3
+2023-05-17,2022-2023,Arjantin Primera,16,San Lorenzo,Velez Sarsfield,2,2,Beraberlik,4
+2023-05-17,2022-2023,Arjantin Primera,16,Estudiantes,Talleres,5,2,Ev,7
+2023-05-17,2022-2023,Arjantin Primera,16,Rosario Central,Newell's Old Boys,4,2,Ev,6
+2023-06-18,2022-2023,Arjantin Primera,17,River Plate,Boca Juniors,5,0,Ev,5
+2023-06-18,2022-2023,Arjantin Primera,17,Racing Club,Independiente,5,2,Ev,7
+2023-06-18,2022-2023,Arjantin Primera,17,San Lorenzo,Velez Sarsfield,0,0,Beraberlik,0
+2023-06-18,2022-2023,Arjantin Primera,17,Estudiantes,Talleres,2,3,Deplasman,5
+2023-06-18,2022-2023,Arjantin Primera,17,Rosario Central,Newell's Old Boys,4,0,Ev,4
+2023-07-19,2022-2023,Arjantin Primera,18,River Plate,Boca Juniors,5,0,Ev,5
+2023-07-19,2022-2023,Arjantin Primera,18,Racing Club,Independiente,2,4,Deplasman,6
+2023-07-19,2022-2023,Arjantin Primera,18,San Lorenzo,Velez Sarsfield,5,0,Ev,5
+2023-07-19,2022-2023,Arjantin Primera,18,Estudiantes,Talleres,5,0,Ev,5
+2023-07-19,2022-2023,Arjantin Primera,18,Rosario Central,Newell's Old Boys,2,3,Deplasman,5
+2023-02-02,2023-2024,Arjantin Primera,1,River Plate,Boca Juniors,2,0,Ev,2
+2023-02-02,2023-2024,Arjantin Primera,1,Racing Club,Independiente,5,2,Ev,7
+2023-02-02,2023-2024,Arjantin Primera,1,San Lorenzo,Velez Sarsfield,4,1,Ev,5
+2023-02-02,2023-2024,Arjantin Primera,1,Estudiantes,Talleres,2,0,Ev,2
+2023-02-02,2023-2024,Arjantin Primera,1,Rosario Central,Newell's Old Boys,2,1,Ev,3
+2023-03-03,2023-2024,Arjantin Primera,2,River Plate,Boca Juniors,3,1,Ev,4
+2023-03-03,2023-2024,Arjantin Primera,2,Racing Club,Independiente,6,3,Ev,9
+2023-03-03,2023-2024,Arjantin Primera,2,San Lorenzo,Velez Sarsfield,1,4,Deplasman,5
+2023-03-03,2023-2024,Arjantin Primera,2,Estudiantes,Talleres,1,2,Deplasman,3
+2023-03-03,2023-2024,Arjantin Primera,2,Rosario Central,Newell's Old Boys,3,1,Ev,4
+2023-04-04,2023-2024,Arjantin Primera,3,River Plate,Boca Juniors,0,1,Deplasman,1
+2023-04-04,2023-2024,Arjantin Primera,3,Racing Club,Independiente,1,2,Deplasman,3
+2023-04-04,2023-2024,Arjantin Primera,3,San Lorenzo,Velez Sarsfield,0,1,Deplasman,1
+2023-04-04,2023-2024,Arjantin Primera,3,Estudiantes,Talleres,1,1,Beraberlik,2
+2023-04-04,2023-2024,Arjantin Primera,3,Rosario Central,Newell's Old Boys,1,1,Beraberlik,2
+2023-05-05,2023-2024,Arjantin Primera,4,River Plate,Boca Juniors,2,1,Ev,3
+2023-05-05,2023-2024,Arjantin Primera,4,Racing Club,Independiente,1,1,Beraberlik,2
+2023-05-05,2023-2024,Arjantin Primera,4,San Lorenzo,Velez Sarsfield,2,1,Ev,3
+2023-05-05,2023-2024,Arjantin Primera,4,Estudiantes,Talleres,0,0,Beraberlik,0
+2023-05-05,2023-2024,Arjantin Primera,4,Rosario Central,Newell's Old Boys,2,2,Beraberlik,4
+2023-06-06,2023-2024,Arjantin Primera,5,River Plate,Boca Juniors,1,4,Deplasman,5
+2023-06-06,2023-2024,Arjantin Primera,5,Racing Club,Independiente,3,1,Ev,4
+2023-06-06,2023-2024,Arjantin Primera,5,San Lorenzo,Velez Sarsfield,3,3,Beraberlik,6
+2023-06-06,2023-2024,Arjantin Primera,5,Estudiantes,Talleres,1,2,Deplasman,3
+2023-06-06,2023-2024,Arjantin Primera,5,Rosario Central,Newell's Old Boys,2,3,Deplasman,5
+2023-07-07,2023-2024,Arjantin Primera,6,River Plate,Boca Juniors,2,1,Ev,3
+2023-07-07,2023-2024,Arjantin Primera,6,Racing Club,Independiente,3,5,Deplasman,8
+2023-07-07,2023-2024,Arjantin Primera,6,San Lorenzo,Velez Sarsfield,5,2,Ev,7
+2023-07-07,2023-2024,Arjantin Primera,6,Estudiantes,Talleres,0,0,Beraberlik,0
+2023-07-07,2023-2024,Arjantin Primera,6,Rosario Central,Newell's Old Boys,2,1,Ev,3
+2023-08-08,2023-2024,Arjantin Primera,7,River Plate,Boca Juniors,3,3,Beraberlik,6
+2023-08-08,2023-2024,Arjantin Primera,7,Racing Club,Independiente,1,1,Beraberlik,2
+2023-08-08,2023-2024,Arjantin Primera,7,San Lorenzo,Velez Sarsfield,2,3,Deplasman,5
+2023-08-08,2023-2024,Arjantin Primera,7,Estudiantes,Talleres,0,0,Beraberlik,0
+2023-08-08,2023-2024,Arjantin Primera,7,Rosario Central,Newell's Old Boys,3,4,Deplasman,7
+2023-09-09,2023-2024,Arjantin Primera,8,River Plate,Boca Juniors,1,2,Deplasman,3
+2023-09-09,2023-2024,Arjantin Primera,8,Racing Club,Independiente,1,1,Beraberlik,2
+2023-09-09,2023-2024,Arjantin Primera,8,San Lorenzo,Velez Sarsfield,2,2,Beraberlik,4
+2023-09-09,2023-2024,Arjantin Primera,8,Estudiantes,Talleres,1,1,Beraberlik,2
+2023-09-09,2023-2024,Arjantin Primera,8,Rosario Central,Newell's Old Boys,0,1,Deplasman,1
+2023-10-10,2023-2024,Arjantin Primera,9,River Plate,Boca Juniors,0,2,Deplasman,2
+2023-10-10,2023-2024,Arjantin Primera,9,Racing Club,Independiente,5,1,Ev,6
+2023-10-10,2023-2024,Arjantin Primera,9,San Lorenzo,Velez Sarsfield,3,1,Ev,4
+2023-10-10,2023-2024,Arjantin Primera,9,Estudiantes,Talleres,2,1,Ev,3
+2023-10-10,2023-2024,Arjantin Primera,9,Rosario Central,Newell's Old Boys,9,1,Ev,10
+2023-11-11,2023-2024,Arjantin Primera,10,River Plate,Boca Juniors,1,1,Beraberlik,2
+2023-11-11,2023-2024,Arjantin Primera,10,Racing Club,Independiente,4,1,Ev,5
+2023-11-11,2023-2024,Arjantin Primera,10,San Lorenzo,Velez Sarsfield,1,2,Deplasman,3
+2023-11-11,2023-2024,Arjantin Primera,10,Estudiantes,Talleres,1,0,Ev,1
+2023-11-11,2023-2024,Arjantin Primera,10,Rosario Central,Newell's Old Boys,2,4,Deplasman,6
+2023-12-12,2023-2024,Arjantin Primera,11,River Plate,Boca Juniors,4,0,Ev,4
+2023-12-12,2023-2024,Arjantin Primera,11,Racing Club,Independiente,2,2,Beraberlik,4
+2023-12-12,2023-2024,Arjantin Primera,11,San Lorenzo,Velez Sarsfield,0,4,Deplasman,4
+2023-12-12,2023-2024,Arjantin Primera,11,Estudiantes,Talleres,1,1,Beraberlik,2
+2023-12-12,2023-2024,Arjantin Primera,11,Rosario Central,Newell's Old Boys,2,3,Deplasman,5
+2023-01-13,2023-2024,Arjantin Primera,12,River Plate,Boca Juniors,3,3,Beraberlik,6
+2023-01-13,2023-2024,Arjantin Primera,12,Racing Club,Independiente,1,2,Deplasman,3
+2023-01-13,2023-2024,Arjantin Primera,12,San Lorenzo,Velez Sarsfield,1,2,Deplasman,3
+2023-01-13,2023-2024,Arjantin Primera,12,Estudiantes,Talleres,1,0,Ev,1
+2023-01-13,2023-2024,Arjantin Primera,12,Rosario Central,Newell's Old Boys,1,4,Deplasman,5
+2023-02-14,2023-2024,Arjantin Primera,13,River Plate,Boca Juniors,2,2,Beraberlik,4
+2023-02-14,2023-2024,Arjantin Primera,13,Racing Club,Independiente,0,2,Deplasman,2
+2023-02-14,2023-2024,Arjantin Primera,13,San Lorenzo,Velez Sarsfield,4,2,Ev,6
+2023-02-14,2023-2024,Arjantin Primera,13,Estudiantes,Talleres,0,0,Beraberlik,0
+2023-02-14,2023-2024,Arjantin Primera,13,Rosario Central,Newell's Old Boys,1,4,Deplasman,5
+2023-03-15,2023-2024,Arjantin Primera,14,River Plate,Boca Juniors,2,1,Ev,3
+2023-03-15,2023-2024,Arjantin Primera,14,Racing Club,Independiente,3,1,Ev,4
+2023-03-15,2023-2024,Arjantin Primera,14,San Lorenzo,Velez Sarsfield,3,3,Beraberlik,6
+2023-03-15,2023-2024,Arjantin Primera,14,Estudiantes,Talleres,0,0,Beraberlik,0
+2023-03-15,2023-2024,Arjantin Primera,14,Rosario Central,Newell's Old Boys,3,1,Ev,4
+2023-04-16,2023-2024,Arjantin Primera,15,River Plate,Boca Juniors,3,1,Ev,4
+2023-04-16,2023-2024,Arjantin Primera,15,Racing Club,Independiente,2,4,Deplasman,6
+2023-04-16,2023-2024,Arjantin Primera,15,San Lorenzo,Velez Sarsfield,4,1,Ev,5
+2023-04-16,2023-2024,Arjantin Primera,15,Estudiantes,Talleres,1,0,Ev,1
+2023-04-16,2023-2024,Arjantin Primera,15,Rosario Central,Newell's Old Boys,0,1,Deplasman,1
+2023-05-17,2023-2024,Arjantin Primera,16,River Plate,Boca Juniors,2,2,Beraberlik,4
+2023-05-17,2023-2024,Arjantin Primera,16,Racing Club,Independiente,3,2,Ev,5
+2023-05-17,2023-2024,Arjantin Primera,16,San Lorenzo,Velez Sarsfield,4,2,Ev,6
+2023-05-17,2023-2024,Arjantin Primera,16,Estudiantes,Talleres,1,3,Deplasman,4
+2023-05-17,2023-2024,Arjantin Primera,16,Rosario Central,Newell's Old Boys,1,2,Deplasman,3
+2023-06-18,2023-2024,Arjantin Primera,17,River Plate,Boca Juniors,1,1,Beraberlik,2
+2023-06-18,2023-2024,Arjantin Primera,17,Racing Club,Independiente,3,0,Ev,3
+2023-06-18,2023-2024,Arjantin Primera,17,San Lorenzo,Velez Sarsfield,5,2,Ev,7
+2023-06-18,2023-2024,Arjantin Primera,17,Estudiantes,Talleres,1,2,Deplasman,3
+2023-06-18,2023-2024,Arjantin Primera,17,Rosario Central,Newell's Old Boys,5,1,Ev,6
+2023-07-19,2023-2024,Arjantin Primera,18,River Plate,Boca Juniors,6,0,Ev,6
+2023-07-19,2023-2024,Arjantin Primera,18,Racing Club,Independiente,1,1,Beraberlik,2
+2023-07-19,2023-2024,Arjantin Primera,18,San Lorenzo,Velez Sarsfield,4,1,Ev,5
+2023-07-19,2023-2024,Arjantin Primera,18,Estudiantes,Talleres,2,0,Ev,2
+2023-07-19,2023-2024,Arjantin Primera,18,Rosario Central,Newell's Old Boys,1,2,Deplasman,3
+2023-02-02,2024-2025,Arjantin Primera,1,River Plate,Boca Juniors,2,1,Ev,3
+2023-02-02,2024-2025,Arjantin Primera,1,Racing Club,Independiente,9,3,Ev,12
+2023-02-02,2024-2025,Arjantin Primera,1,San Lorenzo,Velez Sarsfield,1,2,Deplasman,3
+2023-02-02,2024-2025,Arjantin Primera,1,Estudiantes,Talleres,1,2,Deplasman,3
+2023-02-02,2024-2025,Arjantin Primera,1,Rosario Central,Newell's Old Boys,2,2,Beraberlik,4
+2023-03-03,2024-2025,Arjantin Primera,2,River Plate,Boca Juniors,2,1,Ev,3
+2023-03-03,2024-2025,Arjantin Primera,2,Racing Club,Independiente,1,2,Deplasman,3
+2023-03-03,2024-2025,Arjantin Primera,2,San Lorenzo,Velez Sarsfield,5,2,Ev,7
+2023-03-03,2024-2025,Arjantin Primera,2,Estudiantes,Talleres,0,4,Deplasman,4
+2023-03-03,2024-2025,Arjantin Primera,2,Rosario Central,Newell's Old Boys,0,4,Deplasman,4
+2023-04-04,2024-2025,Arjantin Primera,3,River Plate,Boca Juniors,3,0,Ev,3
+2023-04-04,2024-2025,Arjantin Primera,3,Racing Club,Independiente,2,0,Ev,2
+2023-04-04,2024-2025,Arjantin Primera,3,San Lorenzo,Velez Sarsfield,6,0,Ev,6
+2023-04-04,2024-2025,Arjantin Primera,3,Estudiantes,Talleres,3,1,Ev,4
+2023-04-04,2024-2025,Arjantin Primera,3,Rosario Central,Newell's Old Boys,3,1,Ev,4
+2023-05-05,2024-2025,Arjantin Primera,4,River Plate,Boca Juniors,1,0,Ev,1
+2023-05-05,2024-2025,Arjantin Primera,4,Racing Club,Independiente,8,3,Ev,11
+2023-05-05,2024-2025,Arjantin Primera,4,San Lorenzo,Velez Sarsfield,4,1,Ev,5
+2023-05-05,2024-2025,Arjantin Primera,4,Estudiantes,Talleres,1,1,Beraberlik,2
+2023-05-05,2024-2025,Arjantin Primera,4,Rosario Central,Newell's Old Boys,3,2,Ev,5
+2023-06-06,2024-2025,Arjantin Primera,5,River Plate,Boca Juniors,1,1,Beraberlik,2
+2023-06-06,2024-2025,Arjantin Primera,5,Racing Club,Independiente,3,2,Ev,5
+2023-06-06,2024-2025,Arjantin Primera,5,San Lorenzo,Velez Sarsfield,1,1,Beraberlik,2
+2023-06-06,2024-2025,Arjantin Primera,5,Estudiantes,Talleres,3,6,Deplasman,9
+2023-06-06,2024-2025,Arjantin Primera,5,Rosario Central,Newell's Old Boys,2,3,Deplasman,5
+2023-07-07,2024-2025,Arjantin Primera,6,River Plate,Boca Juniors,1,3,Deplasman,4
+2023-07-07,2024-2025,Arjantin Primera,6,Racing Club,Independiente,1,1,Beraberlik,2
+2023-07-07,2024-2025,Arjantin Primera,6,San Lorenzo,Velez Sarsfield,2,2,Beraberlik,4
+2023-07-07,2024-2025,Arjantin Primera,6,Estudiantes,Talleres,1,3,Deplasman,4
+2023-07-07,2024-2025,Arjantin Primera,6,Rosario Central,Newell's Old Boys,2,2,Beraberlik,4
+2023-08-08,2024-2025,Arjantin Primera,7,River Plate,Boca Juniors,0,1,Deplasman,1
+2023-08-08,2024-2025,Arjantin Primera,7,Racing Club,Independiente,2,2,Beraberlik,4
+2023-08-08,2024-2025,Arjantin Primera,7,San Lorenzo,Velez Sarsfield,4,1,Ev,5
+2023-08-08,2024-2025,Arjantin Primera,7,Estudiantes,Talleres,1,1,Beraberlik,2
+2023-08-08,2024-2025,Arjantin Primera,7,Rosario Central,Newell's Old Boys,1,2,Deplasman,3
+2023-09-09,2024-2025,Arjantin Primera,8,River Plate,Boca Juniors,0,0,Beraberlik,0
+2023-09-09,2024-2025,Arjantin Primera,8,Racing Club,Independiente,3,2,Ev,5
+2023-09-09,2024-2025,Arjantin Primera,8,San Lorenzo,Velez Sarsfield,4,1,Ev,5
+2023-09-09,2024-2025,Arjantin Primera,8,Estudiantes,Talleres,3,1,Ev,4
+2023-09-09,2024-2025,Arjantin Primera,8,Rosario Central,Newell's Old Boys,3,0,Ev,3
+2023-10-10,2024-2025,Arjantin Primera,9,River Plate,Boca Juniors,1,1,Beraberlik,2
+2023-10-10,2024-2025,Arjantin Primera,9,Racing Club,Independiente,3,1,Ev,4
+2023-10-10,2024-2025,Arjantin Primera,9,San Lorenzo,Velez Sarsfield,0,0,Beraberlik,0
+2023-10-10,2024-2025,Arjantin Primera,9,Estudiantes,Talleres,1,3,Deplasman,4
+2023-10-10,2024-2025,Arjantin Primera,9,Rosario Central,Newell's Old Boys,3,3,Beraberlik,6
+2023-11-11,2024-2025,Arjantin Primera,10,River Plate,Boca Juniors,2,1,Ev,3
+2023-11-11,2024-2025,Arjantin Primera,10,Racing Club,Independiente,3,3,Beraberlik,6
+2023-11-11,2024-2025,Arjantin Primera,10,San Lorenzo,Velez Sarsfield,1,1,Beraberlik,2
+2023-11-11,2024-2025,Arjantin Primera,10,Estudiantes,Talleres,2,5,Deplasman,7
+2023-11-11,2024-2025,Arjantin Primera,10,Rosario Central,Newell's Old Boys,3,1,Ev,4
+2023-12-12,2024-2025,Arjantin Primera,11,River Plate,Boca Juniors,4,0,Ev,4
+2023-12-12,2024-2025,Arjantin Primera,11,Racing Club,Independiente,4,4,Beraberlik,8
+2023-12-12,2024-2025,Arjantin Primera,11,San Lorenzo,Velez Sarsfield,3,1,Ev,4
+2023-12-12,2024-2025,Arjantin Primera,11,Estudiantes,Talleres,3,1,Ev,4
+2023-12-12,2024-2025,Arjantin Primera,11,Rosario Central,Newell's Old Boys,2,2,Beraberlik,4
+2023-01-13,2024-2025,Arjantin Primera,12,River Plate,Boca Juniors,1,2,Deplasman,3
+2023-01-13,2024-2025,Arjantin Primera,12,Racing Club,Independiente,4,4,Beraberlik,8
+2023-01-13,2024-2025,Arjantin Primera,12,San Lorenzo,Velez Sarsfield,2,0,Ev,2
+2023-01-13,2024-2025,Arjantin Primera,12,Estudiantes,Talleres,2,0,Ev,2
+2023-01-13,2024-2025,Arjantin Primera,12,Rosario Central,Newell's Old Boys,2,1,Ev,3
+2023-02-14,2024-2025,Arjantin Primera,13,River Plate,Boca Juniors,1,2,Deplasman,3
+2023-02-14,2024-2025,Arjantin Primera,13,Racing Club,Independiente,3,2,Ev,5
+2023-02-14,2024-2025,Arjantin Primera,13,San Lorenzo,Velez Sarsfield,5,0,Ev,5
+2023-02-14,2024-2025,Arjantin Primera,13,Estudiantes,Talleres,2,2,Beraberlik,4
+2023-02-14,2024-2025,Arjantin Primera,13,Rosario Central,Newell's Old Boys,1,2,Deplasman,3
+2023-03-15,2024-2025,Arjantin Primera,14,River Plate,Boca Juniors,3,2,Ev,5
+2023-03-15,2024-2025,Arjantin Primera,14,Racing Club,Independiente,2,2,Beraberlik,4
+2023-03-15,2024-2025,Arjantin Primera,14,San Lorenzo,Velez Sarsfield,1,0,Ev,1
+2023-03-15,2024-2025,Arjantin Primera,14,Estudiantes,Talleres,1,3,Deplasman,4
+2023-03-15,2024-2025,Arjantin Primera,14,Rosario Central,Newell's Old Boys,2,2,Beraberlik,4
+2023-04-16,2024-2025,Arjantin Primera,15,River Plate,Boca Juniors,2,3,Deplasman,5
+2023-04-16,2024-2025,Arjantin Primera,15,Racing Club,Independiente,4,0,Ev,4
+2023-04-16,2024-2025,Arjantin Primera,15,San Lorenzo,Velez Sarsfield,0,2,Deplasman,2
+2023-04-16,2024-2025,Arjantin Primera,15,Estudiantes,Talleres,2,2,Beraberlik,4
+2023-04-16,2024-2025,Arjantin Primera,15,Rosario Central,Newell's Old Boys,2,1,Ev,3
+2023-05-17,2024-2025,Arjantin Primera,16,River Plate,Boca Juniors,2,0,Ev,2
+2023-05-17,2024-2025,Arjantin Primera,16,Racing Club,Independiente,3,2,Ev,5
+2023-05-17,2024-2025,Arjantin Primera,16,San Lorenzo,Velez Sarsfield,4,2,Ev,6
+2023-05-17,2024-2025,Arjantin Primera,16,Estudiantes,Talleres,2,1,Ev,3
+2023-05-17,2024-2025,Arjantin Primera,16,Rosario Central,Newell's Old Boys,3,0,Ev,3
+2023-06-18,2024-2025,Arjantin Primera,17,River Plate,Boca Juniors,2,2,Beraberlik,4
+2023-06-18,2024-2025,Arjantin Primera,17,Racing Club,Independiente,3,1,Ev,4
+2023-06-18,2024-2025,Arjantin Primera,17,San Lorenzo,Velez Sarsfield,2,1,Ev,3
+2023-06-18,2024-2025,Arjantin Primera,17,Estudiantes,Talleres,3,1,Ev,4
+2023-06-18,2024-2025,Arjantin Primera,17,Rosario Central,Newell's Old Boys,0,1,Deplasman,1
+2023-07-19,2024-2025,Arjantin Primera,18,River Plate,Boca Juniors,2,1,Ev,3
+2023-07-19,2024-2025,Arjantin Primera,18,Racing Club,Independiente,3,1,Ev,4
+2023-07-19,2024-2025,Arjantin Primera,18,San Lorenzo,Velez Sarsfield,5,1,Ev,6
+2023-07-19,2024-2025,Arjantin Primera,18,Estudiantes,Talleres,2,1,Ev,3
+2023-07-19,2024-2025,Arjantin Primera,18,Rosario Central,Newell's Old Boys,1,6,Deplasman,7
+2023-02-02,2025-2026,Arjantin Primera,1,River Plate,Boca Juniors,2,0,Ev,2
+2023-02-02,2025-2026,Arjantin Primera,1,Racing Club,Independiente,0,3,Deplasman,3
+2023-02-02,2025-2026,Arjantin Primera,1,San Lorenzo,Velez Sarsfield,1,1,Beraberlik,2
+2023-02-02,2025-2026,Arjantin Primera,1,Estudiantes,Talleres,4,0,Ev,4
+2023-02-02,2025-2026,Arjantin Primera,1,Rosario Central,Newell's Old Boys,1,3,Deplasman,4
+2023-03-03,2025-2026,Arjantin Primera,2,River Plate,Boca Juniors,2,2,Beraberlik,4
+2023-03-03,2025-2026,Arjantin Primera,2,Racing Club,Independiente,0,4,Deplasman,4
+2023-03-03,2025-2026,Arjantin Primera,2,San Lorenzo,Velez Sarsfield,0,0,Beraberlik,0
+2023-03-03,2025-2026,Arjantin Primera,2,Estudiantes,Talleres,1,3,Deplasman,4
+2023-03-03,2025-2026,Arjantin Primera,2,Rosario Central,Newell's Old Boys,2,2,Beraberlik,4
+2023-04-04,2025-2026,Arjantin Primera,3,River Plate,Boca Juniors,4,0,Ev,4
+2023-04-04,2025-2026,Arjantin Primera,3,Racing Club,Independiente,3,0,Ev,3
+2023-04-04,2025-2026,Arjantin Primera,3,San Lorenzo,Velez Sarsfield,1,1,Beraberlik,2
+2023-04-04,2025-2026,Arjantin Primera,3,Estudiantes,Talleres,1,2,Deplasman,3
+2023-04-04,2025-2026,Arjantin Primera,3,Rosario Central,Newell's Old Boys,3,4,Deplasman,7
+2023-05-05,2025-2026,Arjantin Primera,4,River Plate,Boca Juniors,0,2,Deplasman,2
+2023-05-05,2025-2026,Arjantin Primera,4,Racing Club,Independiente,2,1,Ev,3
+2023-05-05,2025-2026,Arjantin Primera,4,San Lorenzo,Velez Sarsfield,1,0,Ev,1
+2023-05-05,2025-2026,Arjantin Primera,4,Estudiantes,Talleres,0,2,Deplasman,2
+2023-05-05,2025-2026,Arjantin Primera,4,Rosario Central,Newell's Old Boys,3,1,Ev,4
+2023-06-06,2025-2026,Arjantin Primera,5,River Plate,Boca Juniors,2,1,Ev,3
+2023-06-06,2025-2026,Arjantin Primera,5,Racing Club,Independiente,0,2,Deplasman,2
+2023-06-06,2025-2026,Arjantin Primera,5,San Lorenzo,Velez Sarsfield,2,0,Ev,2
+2023-06-06,2025-2026,Arjantin Primera,5,Estudiantes,Talleres,1,2,Deplasman,3
+2023-06-06,2025-2026,Arjantin Primera,5,Rosario Central,Newell's Old Boys,2,2,Beraberlik,4
+2023-07-07,2025-2026,Arjantin Primera,6,River Plate,Boca Juniors,2,3,Deplasman,5
+2023-07-07,2025-2026,Arjantin Primera,6,Racing Club,Independiente,1,2,Deplasman,3
+2023-07-07,2025-2026,Arjantin Primera,6,San Lorenzo,Velez Sarsfield,2,1,Ev,3
+2023-07-07,2025-2026,Arjantin Primera,6,Estudiantes,Talleres,2,2,Beraberlik,4
+2023-07-07,2025-2026,Arjantin Primera,6,Rosario Central,Newell's Old Boys,2,2,Beraberlik,4
+2023-08-08,2025-2026,Arjantin Primera,7,River Plate,Boca Juniors,3,1,Ev,4
+2023-08-08,2025-2026,Arjantin Primera,7,Racing Club,Independiente,0,1,Deplasman,1
+2023-08-08,2025-2026,Arjantin Primera,7,San Lorenzo,Velez Sarsfield,2,1,Ev,3
+2023-08-08,2025-2026,Arjantin Primera,7,Estudiantes,Talleres,2,2,Beraberlik,4
+2023-08-08,2025-2026,Arjantin Primera,7,Rosario Central,Newell's Old Boys,2,4,Deplasman,6
+2023-09-09,2025-2026,Arjantin Primera,8,River Plate,Boca Juniors,3,4,Deplasman,7
+2023-09-09,2025-2026,Arjantin Primera,8,Racing Club,Independiente,1,2,Deplasman,3
+2023-09-09,2025-2026,Arjantin Primera,8,San Lorenzo,Velez Sarsfield,3,1,Ev,4
+2023-09-09,2025-2026,Arjantin Primera,8,Estudiantes,Talleres,2,2,Beraberlik,4
+2023-09-09,2025-2026,Arjantin Primera,8,Rosario Central,Newell's Old Boys,3,1,Ev,4
+2023-10-10,2025-2026,Arjantin Primera,9,River Plate,Boca Juniors,3,3,Beraberlik,6
+2023-10-10,2025-2026,Arjantin Primera,9,Racing Club,Independiente,2,0,Ev,2
+2023-10-10,2025-2026,Arjantin Primera,9,San Lorenzo,Velez Sarsfield,2,1,Ev,3
+2023-10-10,2025-2026,Arjantin Primera,9,Estudiantes,Talleres,2,1,Ev,3
+2023-10-10,2025-2026,Arjantin Primera,9,Rosario Central,Newell's Old Boys,3,1,Ev,4
+2023-11-11,2025-2026,Arjantin Primera,10,River Plate,Boca Juniors,1,0,Ev,1
+2023-11-11,2025-2026,Arjantin Primera,10,Racing Club,Independiente,3,4,Deplasman,7
+2023-11-11,2025-2026,Arjantin Primera,10,San Lorenzo,Velez Sarsfield,3,2,Ev,5
+2023-11-11,2025-2026,Arjantin Primera,10,Estudiantes,Talleres,0,2,Deplasman,2
+2023-11-11,2025-2026,Arjantin Primera,10,Rosario Central,Newell's Old Boys,1,2,Deplasman,3
+2023-12-12,2025-2026,Arjantin Primera,11,River Plate,Boca Juniors,2,3,Deplasman,5
+2023-12-12,2025-2026,Arjantin Primera,11,Racing Club,Independiente,0,1,Deplasman,1
+2023-12-12,2025-2026,Arjantin Primera,11,San Lorenzo,Velez Sarsfield,1,1,Beraberlik,2
+2023-12-12,2025-2026,Arjantin Primera,11,Estudiantes,Talleres,3,1,Ev,4
+2023-12-12,2025-2026,Arjantin Primera,11,Rosario Central,Newell's Old Boys,4,3,Ev,7
+2023-01-13,2025-2026,Arjantin Primera,12,River Plate,Boca Juniors,2,1,Ev,3
+2023-01-13,2025-2026,Arjantin Primera,12,Racing Club,Independiente,1,2,Deplasman,3
+2023-01-13,2025-2026,Arjantin Primera,12,San Lorenzo,Velez Sarsfield,1,2,Deplasman,3
+2023-01-13,2025-2026,Arjantin Primera,12,Estudiantes,Talleres,1,1,Beraberlik,2
+2023-01-13,2025-2026,Arjantin Primera,12,Rosario Central,Newell's Old Boys,7,0,Ev,7
+2023-02-14,2025-2026,Arjantin Primera,13,River Plate,Boca Juniors,3,1,Ev,4
+2023-02-14,2025-2026,Arjantin Primera,13,Racing Club,Independiente,0,1,Deplasman,1
+2023-02-14,2025-2026,Arjantin Primera,13,San Lorenzo,Velez Sarsfield,5,0,Ev,5
+2023-02-14,2025-2026,Arjantin Primera,13,Estudiantes,Talleres,1,3,Deplasman,4
+2023-02-14,2025-2026,Arjantin Primera,13,Rosario Central,Newell's Old Boys,3,6,Deplasman,9
+2023-03-15,2025-2026,Arjantin Primera,14,River Plate,Boca Juniors,3,1,Ev,4
+2023-03-15,2025-2026,Arjantin Primera,14,Racing Club,Independiente,1,2,Deplasman,3
+2023-03-15,2025-2026,Arjantin Primera,14,San Lorenzo,Velez Sarsfield,1,1,Beraberlik,2
+2023-03-15,2025-2026,Arjantin Primera,14,Estudiantes,Talleres,3,0,Ev,3
+2023-03-15,2025-2026,Arjantin Primera,14,Rosario Central,Newell's Old Boys,3,0,Ev,3
+2023-04-16,2025-2026,Arjantin Primera,15,River Plate,Boca Juniors,1,0,Ev,1
+2023-04-16,2025-2026,Arjantin Primera,15,Racing Club,Independiente,2,2,Beraberlik,4
+2023-04-16,2025-2026,Arjantin Primera,15,San Lorenzo,Velez Sarsfield,3,2,Ev,5
+2023-04-16,2025-2026,Arjantin Primera,15,Estudiantes,Talleres,0,0,Beraberlik,0
+2023-04-16,2025-2026,Arjantin Primera,15,Rosario Central,Newell's Old Boys,1,3,Deplasman,4
+2023-05-17,2025-2026,Arjantin Primera,16,River Plate,Boca Juniors,2,2,Beraberlik,4
+2023-05-17,2025-2026,Arjantin Primera,16,Racing Club,Independiente,0,1,Deplasman,1
+2023-05-17,2025-2026,Arjantin Primera,16,San Lorenzo,Velez Sarsfield,1,0,Ev,1
+2023-05-17,2025-2026,Arjantin Primera,16,Estudiantes,Talleres,2,2,Beraberlik,4
+2023-05-17,2025-2026,Arjantin Primera,16,Rosario Central,Newell's Old Boys,1,2,Deplasman,3
+2023-06-18,2025-2026,Arjantin Primera,17,River Plate,Boca Juniors,1,0,Ev,1
+2023-06-18,2025-2026,Arjantin Primera,17,Racing Club,Independiente,2,2,Beraberlik,4
+2023-06-18,2025-2026,Arjantin Primera,17,San Lorenzo,Velez Sarsfield,5,3,Ev,8
+2023-06-18,2025-2026,Arjantin Primera,17,Estudiantes,Talleres,2,1,Ev,3
+2023-06-18,2025-2026,Arjantin Primera,17,Rosario Central,Newell's Old Boys,3,0,Ev,3
+2023-07-19,2025-2026,Arjantin Primera,18,River Plate,Boca Juniors,2,0,Ev,2
+2023-07-19,2025-2026,Arjantin Primera,18,Racing Club,Independiente,2,1,Ev,3
+2023-07-19,2025-2026,Arjantin Primera,18,San Lorenzo,Velez Sarsfield,4,2,Ev,6
+2023-07-19,2025-2026,Arjantin Primera,18,Estudiantes,Talleres,2,1,Ev,3
+2023-07-19,2025-2026,Arjantin Primera,18,Rosario Central,Newell's Old Boys,1,2,Deplasman,3
+2023-02-02,2022-2023,Japonya J1 Ligi,1,Vissel Kobe,Yokohama F. Marinos,3,1,Ev,4
+2023-02-02,2022-2023,Japonya J1 Ligi,1,Kawasaki Frontale,Urawa Red Diamonds,1,3,Deplasman,4
+2023-02-02,2022-2023,Japonya J1 Ligi,1,Kashima Antlers,Sanfrecce Hiroshima,1,0,Ev,1
+2023-02-02,2022-2023,Japonya J1 Ligi,1,Cerezo Osaka,FC Tokyo,2,1,Ev,3
+2023-02-02,2022-2023,Japonya J1 Ligi,1,Gamba Osaka,Nagoya Grampus,1,2,Deplasman,3
+2023-03-03,2022-2023,Japonya J1 Ligi,2,Vissel Kobe,Yokohama F. Marinos,1,0,Ev,1
+2023-03-03,2022-2023,Japonya J1 Ligi,2,Kawasaki Frontale,Urawa Red Diamonds,3,1,Ev,4
+2023-03-03,2022-2023,Japonya J1 Ligi,2,Kashima Antlers,Sanfrecce Hiroshima,0,0,Beraberlik,0
+2023-03-03,2022-2023,Japonya J1 Ligi,2,Cerezo Osaka,FC Tokyo,1,3,Deplasman,4
+2023-03-03,2022-2023,Japonya J1 Ligi,2,Gamba Osaka,Nagoya Grampus,2,0,Ev,2
+2023-04-04,2022-2023,Japonya J1 Ligi,3,Vissel Kobe,Yokohama F. Marinos,3,0,Ev,3
+2023-04-04,2022-2023,Japonya J1 Ligi,3,Kawasaki Frontale,Urawa Red Diamonds,1,4,Deplasman,5
+2023-04-04,2022-2023,Japonya J1 Ligi,3,Kashima Antlers,Sanfrecce Hiroshima,3,1,Ev,4
+2023-04-04,2022-2023,Japonya J1 Ligi,3,Cerezo Osaka,FC Tokyo,1,1,Beraberlik,2
+2023-04-04,2022-2023,Japonya J1 Ligi,3,Gamba Osaka,Nagoya Grampus,5,0,Ev,5
+2023-05-05,2022-2023,Japonya J1 Ligi,4,Vissel Kobe,Yokohama F. Marinos,5,3,Ev,8
+2023-05-05,2022-2023,Japonya J1 Ligi,4,Kawasaki Frontale,Urawa Red Diamonds,3,3,Beraberlik,6
+2023-05-05,2022-2023,Japonya J1 Ligi,4,Kashima Antlers,Sanfrecce Hiroshima,0,1,Deplasman,1
+2023-05-05,2022-2023,Japonya J1 Ligi,4,Cerezo Osaka,FC Tokyo,1,3,Deplasman,4
+2023-05-05,2022-2023,Japonya J1 Ligi,4,Gamba Osaka,Nagoya Grampus,2,0,Ev,2
+2023-06-06,2022-2023,Japonya J1 Ligi,5,Vissel Kobe,Yokohama F. Marinos,3,6,Deplasman,9
+2023-06-06,2022-2023,Japonya J1 Ligi,5,Kawasaki Frontale,Urawa Red Diamonds,1,2,Deplasman,3
+2023-06-06,2022-2023,Japonya J1 Ligi,5,Kashima Antlers,Sanfrecce Hiroshima,0,1,Deplasman,1
+2023-06-06,2022-2023,Japonya J1 Ligi,5,Cerezo Osaka,FC Tokyo,3,1,Ev,4
+2023-06-06,2022-2023,Japonya J1 Ligi,5,Gamba Osaka,Nagoya Grampus,3,2,Ev,5
+2023-07-07,2022-2023,Japonya J1 Ligi,6,Vissel Kobe,Yokohama F. Marinos,4,2,Ev,6
+2023-07-07,2022-2023,Japonya J1 Ligi,6,Kawasaki Frontale,Urawa Red Diamonds,2,1,Ev,3
+2023-07-07,2022-2023,Japonya J1 Ligi,6,Kashima Antlers,Sanfrecce Hiroshima,0,0,Beraberlik,0
+2023-07-07,2022-2023,Japonya J1 Ligi,6,Cerezo Osaka,FC Tokyo,0,1,Deplasman,1
+2023-07-07,2022-2023,Japonya J1 Ligi,6,Gamba Osaka,Nagoya Grampus,3,2,Ev,5
+2023-08-08,2022-2023,Japonya J1 Ligi,7,Vissel Kobe,Yokohama F. Marinos,3,2,Ev,5
+2023-08-08,2022-2023,Japonya J1 Ligi,7,Kawasaki Frontale,Urawa Red Diamonds,3,3,Beraberlik,6
+2023-08-08,2022-2023,Japonya J1 Ligi,7,Kashima Antlers,Sanfrecce Hiroshima,2,1,Ev,3
+2023-08-08,2022-2023,Japonya J1 Ligi,7,Cerezo Osaka,FC Tokyo,1,0,Ev,1
+2023-08-08,2022-2023,Japonya J1 Ligi,7,Gamba Osaka,Nagoya Grampus,2,1,Ev,3
+2023-09-09,2022-2023,Japonya J1 Ligi,8,Vissel Kobe,Yokohama F. Marinos,6,2,Ev,8
+2023-09-09,2022-2023,Japonya J1 Ligi,8,Kawasaki Frontale,Urawa Red Diamonds,2,2,Beraberlik,4
+2023-09-09,2022-2023,Japonya J1 Ligi,8,Kashima Antlers,Sanfrecce Hiroshima,1,0,Ev,1
+2023-09-09,2022-2023,Japonya J1 Ligi,8,Cerezo Osaka,FC Tokyo,1,1,Beraberlik,2
+2023-09-09,2022-2023,Japonya J1 Ligi,8,Gamba Osaka,Nagoya Grampus,3,2,Ev,5
+2023-10-10,2022-2023,Japonya J1 Ligi,9,Vissel Kobe,Yokohama F. Marinos,3,1,Ev,4
+2023-10-10,2022-2023,Japonya J1 Ligi,9,Kawasaki Frontale,Urawa Red Diamonds,2,2,Beraberlik,4
+2023-10-10,2022-2023,Japonya J1 Ligi,9,Kashima Antlers,Sanfrecce Hiroshima,2,0,Ev,2
+2023-10-10,2022-2023,Japonya J1 Ligi,9,Cerezo Osaka,FC Tokyo,0,1,Deplasman,1
+2023-10-10,2022-2023,Japonya J1 Ligi,9,Gamba Osaka,Nagoya Grampus,2,1,Ev,3
+2023-11-11,2022-2023,Japonya J1 Ligi,10,Vissel Kobe,Yokohama F. Marinos,3,1,Ev,4
+2023-11-11,2022-2023,Japonya J1 Ligi,10,Kawasaki Frontale,Urawa Red Diamonds,2,1,Ev,3
+2023-11-11,2022-2023,Japonya J1 Ligi,10,Kashima Antlers,Sanfrecce Hiroshima,3,0,Ev,3
+2023-11-11,2022-2023,Japonya J1 Ligi,10,Cerezo Osaka,FC Tokyo,2,0,Ev,2
+2023-11-11,2022-2023,Japonya J1 Ligi,10,Gamba Osaka,Nagoya Grampus,1,0,Ev,1
+2023-12-12,2022-2023,Japonya J1 Ligi,11,Vissel Kobe,Yokohama F. Marinos,4,2,Ev,6
+2023-12-12,2022-2023,Japonya J1 Ligi,11,Kawasaki Frontale,Urawa Red Diamonds,2,2,Beraberlik,4
+2023-12-12,2022-2023,Japonya J1 Ligi,11,Kashima Antlers,Sanfrecce Hiroshima,1,2,Deplasman,3
+2023-12-12,2022-2023,Japonya J1 Ligi,11,Cerezo Osaka,FC Tokyo,3,0,Ev,3
+2023-12-12,2022-2023,Japonya J1 Ligi,11,Gamba Osaka,Nagoya Grampus,1,1,Beraberlik,2
+2023-01-13,2022-2023,Japonya J1 Ligi,12,Vissel Kobe,Yokohama F. Marinos,2,2,Beraberlik,4
+2023-01-13,2022-2023,Japonya J1 Ligi,12,Kawasaki Frontale,Urawa Red Diamonds,3,2,Ev,5
+2023-01-13,2022-2023,Japonya J1 Ligi,12,Kashima Antlers,Sanfrecce Hiroshima,1,0,Ev,1
+2023-01-13,2022-2023,Japonya J1 Ligi,12,Cerezo Osaka,FC Tokyo,1,4,Deplasman,5
+2023-01-13,2022-2023,Japonya J1 Ligi,12,Gamba Osaka,Nagoya Grampus,2,1,Ev,3
+2023-02-14,2022-2023,Japonya J1 Ligi,13,Vissel Kobe,Yokohama F. Marinos,4,2,Ev,6
+2023-02-14,2022-2023,Japonya J1 Ligi,13,Kawasaki Frontale,Urawa Red Diamonds,1,2,Deplasman,3
+2023-02-14,2022-2023,Japonya J1 Ligi,13,Kashima Antlers,Sanfrecce Hiroshima,1,1,Beraberlik,2
+2023-02-14,2022-2023,Japonya J1 Ligi,13,Cerezo Osaka,FC Tokyo,0,2,Deplasman,2
+2023-02-14,2022-2023,Japonya J1 Ligi,13,Gamba Osaka,Nagoya Grampus,1,2,Deplasman,3
+2023-03-15,2022-2023,Japonya J1 Ligi,14,Vissel Kobe,Yokohama F. Marinos,5,6,Deplasman,11
+2023-03-15,2022-2023,Japonya J1 Ligi,14,Kawasaki Frontale,Urawa Red Diamonds,2,3,Deplasman,5
+2023-03-15,2022-2023,Japonya J1 Ligi,14,Kashima Antlers,Sanfrecce Hiroshima,1,0,Ev,1
+2023-03-15,2022-2023,Japonya J1 Ligi,14,Cerezo Osaka,FC Tokyo,3,0,Ev,3
+2023-03-15,2022-2023,Japonya J1 Ligi,14,Gamba Osaka,Nagoya Grampus,4,2,Ev,6
+2023-04-16,2022-2023,Japonya J1 Ligi,15,Vissel Kobe,Yokohama F. Marinos,2,1,Ev,3
+2023-04-16,2022-2023,Japonya J1 Ligi,15,Kawasaki Frontale,Urawa Red Diamonds,2,0,Ev,2
+2023-04-16,2022-2023,Japonya J1 Ligi,15,Kashima Antlers,Sanfrecce Hiroshima,4,0,Ev,4
+2023-04-16,2022-2023,Japonya J1 Ligi,15,Cerezo Osaka,FC Tokyo,2,0,Ev,2
+2023-04-16,2022-2023,Japonya J1 Ligi,15,Gamba Osaka,Nagoya Grampus,3,1,Ev,4
+2023-05-17,2022-2023,Japonya J1 Ligi,16,Vissel Kobe,Yokohama F. Marinos,4,2,Ev,6
+2023-05-17,2022-2023,Japonya J1 Ligi,16,Kawasaki Frontale,Urawa Red Diamonds,4,4,Beraberlik,8
+2023-05-17,2022-2023,Japonya J1 Ligi,16,Kashima Antlers,Sanfrecce Hiroshima,0,1,Deplasman,1
+2023-05-17,2022-2023,Japonya J1 Ligi,16,Cerezo Osaka,FC Tokyo,0,0,Beraberlik,0
+2023-05-17,2022-2023,Japonya J1 Ligi,16,Gamba Osaka,Nagoya Grampus,3,0,Ev,3
+2023-06-18,2022-2023,Japonya J1 Ligi,17,Vissel Kobe,Yokohama F. Marinos,3,4,Deplasman,7
+2023-06-18,2022-2023,Japonya J1 Ligi,17,Kawasaki Frontale,Urawa Red Diamonds,2,4,Deplasman,6
+2023-06-18,2022-2023,Japonya J1 Ligi,17,Kashima Antlers,Sanfrecce Hiroshima,2,1,Ev,3
+2023-06-18,2022-2023,Japonya J1 Ligi,17,Cerezo Osaka,FC Tokyo,0,1,Deplasman,1
+2023-06-18,2022-2023,Japonya J1 Ligi,17,Gamba Osaka,Nagoya Grampus,2,2,Beraberlik,4
+2023-07-19,2022-2023,Japonya J1 Ligi,18,Vissel Kobe,Yokohama F. Marinos,4,1,Ev,5
+2023-07-19,2022-2023,Japonya J1 Ligi,18,Kawasaki Frontale,Urawa Red Diamonds,4,3,Ev,7
+2023-07-19,2022-2023,Japonya J1 Ligi,18,Kashima Antlers,Sanfrecce Hiroshima,1,0,Ev,1
+2023-07-19,2022-2023,Japonya J1 Ligi,18,Cerezo Osaka,FC Tokyo,2,2,Beraberlik,4
+2023-07-19,2022-2023,Japonya J1 Ligi,18,Gamba Osaka,Nagoya Grampus,2,3,Deplasman,5
+2023-02-02,2023-2024,Japonya J1 Ligi,1,Vissel Kobe,Yokohama F. Marinos,5,1,Ev,6
+2023-02-02,2023-2024,Japonya J1 Ligi,1,Kawasaki Frontale,Urawa Red Diamonds,4,0,Ev,4
+2023-02-02,2023-2024,Japonya J1 Ligi,1,Kashima Antlers,Sanfrecce Hiroshima,5,2,Ev,7
+2023-02-02,2023-2024,Japonya J1 Ligi,1,Cerezo Osaka,FC Tokyo,0,3,Deplasman,3
+2023-02-02,2023-2024,Japonya J1 Ligi,1,Gamba Osaka,Nagoya Grampus,1,2,Deplasman,3
+2023-03-03,2023-2024,Japonya J1 Ligi,2,Vissel Kobe,Yokohama F. Marinos,4,0,Ev,4
+2023-03-03,2023-2024,Japonya J1 Ligi,2,Kawasaki Frontale,Urawa Red Diamonds,1,2,Deplasman,3
+2023-03-03,2023-2024,Japonya J1 Ligi,2,Kashima Antlers,Sanfrecce Hiroshima,1,2,Deplasman,3
+2023-03-03,2023-2024,Japonya J1 Ligi,2,Cerezo Osaka,FC Tokyo,1,2,Deplasman,3
+2023-03-03,2023-2024,Japonya J1 Ligi,2,Gamba Osaka,Nagoya Grampus,3,1,Ev,4
+2023-04-04,2023-2024,Japonya J1 Ligi,3,Vissel Kobe,Yokohama F. Marinos,1,0,Ev,1
+2023-04-04,2023-2024,Japonya J1 Ligi,3,Kawasaki Frontale,Urawa Red Diamonds,0,0,Beraberlik,0
+2023-04-04,2023-2024,Japonya J1 Ligi,3,Kashima Antlers,Sanfrecce Hiroshima,0,0,Beraberlik,0
+2023-04-04,2023-2024,Japonya J1 Ligi,3,Cerezo Osaka,FC Tokyo,1,0,Ev,1
+2023-04-04,2023-2024,Japonya J1 Ligi,3,Gamba Osaka,Nagoya Grampus,1,0,Ev,1
+2023-05-05,2023-2024,Japonya J1 Ligi,4,Vissel Kobe,Yokohama F. Marinos,2,1,Ev,3
+2023-05-05,2023-2024,Japonya J1 Ligi,4,Kawasaki Frontale,Urawa Red Diamonds,4,1,Ev,5
+2023-05-05,2023-2024,Japonya J1 Ligi,4,Kashima Antlers,Sanfrecce Hiroshima,5,2,Ev,7
+2023-05-05,2023-2024,Japonya J1 Ligi,4,Cerezo Osaka,FC Tokyo,2,2,Beraberlik,4
+2023-05-05,2023-2024,Japonya J1 Ligi,4,Gamba Osaka,Nagoya Grampus,5,1,Ev,6
+2023-06-06,2023-2024,Japonya J1 Ligi,5,Vissel Kobe,Yokohama F. Marinos,1,1,Beraberlik,2
+2023-06-06,2023-2024,Japonya J1 Ligi,5,Kawasaki Frontale,Urawa Red Diamonds,4,0,Ev,4
+2023-06-06,2023-2024,Japonya J1 Ligi,5,Kashima Antlers,Sanfrecce Hiroshima,3,3,Beraberlik,6
+2023-06-06,2023-2024,Japonya J1 Ligi,5,Cerezo Osaka,FC Tokyo,2,1,Ev,3
+2023-06-06,2023-2024,Japonya J1 Ligi,5,Gamba Osaka,Nagoya Grampus,2,0,Ev,2
+2023-07-07,2023-2024,Japonya J1 Ligi,6,Vissel Kobe,Yokohama F. Marinos,3,3,Beraberlik,6
+2023-07-07,2023-2024,Japonya J1 Ligi,6,Kawasaki Frontale,Urawa Red Diamonds,3,1,Ev,4
+2023-07-07,2023-2024,Japonya J1 Ligi,6,Kashima Antlers,Sanfrecce Hiroshima,2,1,Ev,3
+2023-07-07,2023-2024,Japonya J1 Ligi,6,Cerezo Osaka,FC Tokyo,1,0,Ev,1
+2023-07-07,2023-2024,Japonya J1 Ligi,6,Gamba Osaka,Nagoya Grampus,2,0,Ev,2
+2023-08-08,2023-2024,Japonya J1 Ligi,7,Vissel Kobe,Yokohama F. Marinos,2,1,Ev,3
+2023-08-08,2023-2024,Japonya J1 Ligi,7,Kawasaki Frontale,Urawa Red Diamonds,3,4,Deplasman,7
+2023-08-08,2023-2024,Japonya J1 Ligi,7,Kashima Antlers,Sanfrecce Hiroshima,1,2,Deplasman,3
+2023-08-08,2023-2024,Japonya J1 Ligi,7,Cerezo Osaka,FC Tokyo,1,1,Beraberlik,2
+2023-08-08,2023-2024,Japonya J1 Ligi,7,Gamba Osaka,Nagoya Grampus,1,0,Ev,1
+2023-09-09,2023-2024,Japonya J1 Ligi,8,Vissel Kobe,Yokohama F. Marinos,4,1,Ev,5
+2023-09-09,2023-2024,Japonya J1 Ligi,8,Kawasaki Frontale,Urawa Red Diamonds,1,1,Beraberlik,2
+2023-09-09,2023-2024,Japonya J1 Ligi,8,Kashima Antlers,Sanfrecce Hiroshima,6,3,Ev,9
+2023-09-09,2023-2024,Japonya J1 Ligi,8,Cerezo Osaka,FC Tokyo,0,1,Deplasman,1
+2023-09-09,2023-2024,Japonya J1 Ligi,8,Gamba Osaka,Nagoya Grampus,1,2,Deplasman,3
+2023-10-10,2023-2024,Japonya J1 Ligi,9,Vissel Kobe,Yokohama F. Marinos,1,0,Ev,1
+2023-10-10,2023-2024,Japonya J1 Ligi,9,Kawasaki Frontale,Urawa Red Diamonds,2,1,Ev,3
+2023-10-10,2023-2024,Japonya J1 Ligi,9,Kashima Antlers,Sanfrecce Hiroshima,5,0,Ev,5
+2023-10-10,2023-2024,Japonya J1 Ligi,9,Cerezo Osaka,FC Tokyo,3,2,Ev,5
+2023-10-10,2023-2024,Japonya J1 Ligi,9,Gamba Osaka,Nagoya Grampus,1,1,Beraberlik,2
+2023-11-11,2023-2024,Japonya J1 Ligi,10,Vissel Kobe,Yokohama F. Marinos,5,0,Ev,5
+2023-11-11,2023-2024,Japonya J1 Ligi,10,Kawasaki Frontale,Urawa Red Diamonds,1,2,Deplasman,3
+2023-11-11,2023-2024,Japonya J1 Ligi,10,Kashima Antlers,Sanfrecce Hiroshima,3,3,Beraberlik,6
+2023-11-11,2023-2024,Japonya J1 Ligi,10,Cerezo Osaka,FC Tokyo,0,0,Beraberlik,0
+2023-11-11,2023-2024,Japonya J1 Ligi,10,Gamba Osaka,Nagoya Grampus,2,1,Ev,3
+2023-12-12,2023-2024,Japonya J1 Ligi,11,Vissel Kobe,Yokohama F. Marinos,2,1,Ev,3
+2023-12-12,2023-2024,Japonya J1 Ligi,11,Kawasaki Frontale,Urawa Red Diamonds,5,2,Ev,7
+2023-12-12,2023-2024,Japonya J1 Ligi,11,Kashima Antlers,Sanfrecce Hiroshima,3,1,Ev,4
+2023-12-12,2023-2024,Japonya J1 Ligi,11,Cerezo Osaka,FC Tokyo,1,1,Beraberlik,2
+2023-12-12,2023-2024,Japonya J1 Ligi,11,Gamba Osaka,Nagoya Grampus,1,0,Ev,1
+2023-01-13,2023-2024,Japonya J1 Ligi,12,Vissel Kobe,Yokohama F. Marinos,2,1,Ev,3
+2023-01-13,2023-2024,Japonya J1 Ligi,12,Kawasaki Frontale,Urawa Red Diamonds,0,3,Deplasman,3
+2023-01-13,2023-2024,Japonya J1 Ligi,12,Kashima Antlers,Sanfrecce Hiroshima,2,0,Ev,2
+2023-01-13,2023-2024,Japonya J1 Ligi,12,Cerezo Osaka,FC Tokyo,1,0,Ev,1
+2023-01-13,2023-2024,Japonya J1 Ligi,12,Gamba Osaka,Nagoya Grampus,1,0,Ev,1
+2023-02-14,2023-2024,Japonya J1 Ligi,13,Vissel Kobe,Yokohama F. Marinos,1,2,Deplasman,3
+2023-02-14,2023-2024,Japonya J1 Ligi,13,Kawasaki Frontale,Urawa Red Diamonds,2,2,Beraberlik,4
+2023-02-14,2023-2024,Japonya J1 Ligi,13,Kashima Antlers,Sanfrecce Hiroshima,3,1,Ev,4
+2023-02-14,2023-2024,Japonya J1 Ligi,13,Cerezo Osaka,FC Tokyo,2,0,Ev,2
+2023-02-14,2023-2024,Japonya J1 Ligi,13,Gamba Osaka,Nagoya Grampus,2,2,Beraberlik,4
+2023-03-15,2023-2024,Japonya J1 Ligi,14,Vissel Kobe,Yokohama F. Marinos,4,0,Ev,4
+2023-03-15,2023-2024,Japonya J1 Ligi,14,Kawasaki Frontale,Urawa Red Diamonds,0,1,Deplasman,1
+2023-03-15,2023-2024,Japonya J1 Ligi,14,Kashima Antlers,Sanfrecce Hiroshima,2,3,Deplasman,5
+2023-03-15,2023-2024,Japonya J1 Ligi,14,Cerezo Osaka,FC Tokyo,2,0,Ev,2
+2023-03-15,2023-2024,Japonya J1 Ligi,14,Gamba Osaka,Nagoya Grampus,2,0,Ev,2
+2023-04-16,2023-2024,Japonya J1 Ligi,15,Vissel Kobe,Yokohama F. Marinos,1,1,Beraberlik,2
+2023-04-16,2023-2024,Japonya J1 Ligi,15,Kawasaki Frontale,Urawa Red Diamonds,1,4,Deplasman,5
+2023-04-16,2023-2024,Japonya J1 Ligi,15,Kashima Antlers,Sanfrecce Hiroshima,4,2,Ev,6
+2023-04-16,2023-2024,Japonya J1 Ligi,15,Cerezo Osaka,FC Tokyo,3,0,Ev,3
+2023-04-16,2023-2024,Japonya J1 Ligi,15,Gamba Osaka,Nagoya Grampus,0,2,Deplasman,2
+2023-05-17,2023-2024,Japonya J1 Ligi,16,Vissel Kobe,Yokohama F. Marinos,3,1,Ev,4
+2023-05-17,2023-2024,Japonya J1 Ligi,16,Kawasaki Frontale,Urawa Red Diamonds,0,1,Deplasman,1
+2023-05-17,2023-2024,Japonya J1 Ligi,16,Kashima Antlers,Sanfrecce Hiroshima,3,1,Ev,4
+2023-05-17,2023-2024,Japonya J1 Ligi,16,Cerezo Osaka,FC Tokyo,3,0,Ev,3
+2023-05-17,2023-2024,Japonya J1 Ligi,16,Gamba Osaka,Nagoya Grampus,3,1,Ev,4
+2023-06-18,2023-2024,Japonya J1 Ligi,17,Vissel Kobe,Yokohama F. Marinos,1,0,Ev,1
+2023-06-18,2023-2024,Japonya J1 Ligi,17,Kawasaki Frontale,Urawa Red Diamonds,2,2,Beraberlik,4
+2023-06-18,2023-2024,Japonya J1 Ligi,17,Kashima Antlers,Sanfrecce Hiroshima,3,4,Deplasman,7
+2023-06-18,2023-2024,Japonya J1 Ligi,17,Cerezo Osaka,FC Tokyo,2,0,Ev,2
+2023-06-18,2023-2024,Japonya J1 Ligi,17,Gamba Osaka,Nagoya Grampus,1,1,Beraberlik,2
+2023-07-19,2023-2024,Japonya J1 Ligi,18,Vissel Kobe,Yokohama F. Marinos,4,0,Ev,4
+2023-07-19,2023-2024,Japonya J1 Ligi,18,Kawasaki Frontale,Urawa Red Diamonds,1,0,Ev,1
+2023-07-19,2023-2024,Japonya J1 Ligi,18,Kashima Antlers,Sanfrecce Hiroshima,5,2,Ev,7
+2023-07-19,2023-2024,Japonya J1 Ligi,18,Cerezo Osaka,FC Tokyo,2,0,Ev,2
+2023-07-19,2023-2024,Japonya J1 Ligi,18,Gamba Osaka,Nagoya Grampus,2,1,Ev,3
+2023-02-02,2024-2025,Japonya J1 Ligi,1,Vissel Kobe,Yokohama F. Marinos,4,2,Ev,6
+2023-02-02,2024-2025,Japonya J1 Ligi,1,Kawasaki Frontale,Urawa Red Diamonds,5,3,Ev,8
+2023-02-02,2024-2025,Japonya J1 Ligi,1,Kashima Antlers,Sanfrecce Hiroshima,6,3,Ev,9
+2023-02-02,2024-2025,Japonya J1 Ligi,1,Cerezo Osaka,FC Tokyo,5,1,Ev,6
+2023-02-02,2024-2025,Japonya J1 Ligi,1,Gamba Osaka,Nagoya Grampus,5,2,Ev,7
+2023-03-03,2024-2025,Japonya J1 Ligi,2,Vissel Kobe,Yokohama F. Marinos,5,2,Ev,7
+2023-03-03,2024-2025,Japonya J1 Ligi,2,Kawasaki Frontale,Urawa Red Diamonds,4,1,Ev,5
+2023-03-03,2024-2025,Japonya J1 Ligi,2,Kashima Antlers,Sanfrecce Hiroshima,3,1,Ev,4
+2023-03-03,2024-2025,Japonya J1 Ligi,2,Cerezo Osaka,FC Tokyo,3,2,Ev,5
+2023-03-03,2024-2025,Japonya J1 Ligi,2,Gamba Osaka,Nagoya Grampus,2,2,Beraberlik,4
+2023-04-04,2024-2025,Japonya J1 Ligi,3,Vissel Kobe,Yokohama F. Marinos,3,2,Ev,5
+2023-04-04,2024-2025,Japonya J1 Ligi,3,Kawasaki Frontale,Urawa Red Diamonds,2,2,Beraberlik,4
+2023-04-04,2024-2025,Japonya J1 Ligi,3,Kashima Antlers,Sanfrecce Hiroshima,0,2,Deplasman,2
+2023-04-04,2024-2025,Japonya J1 Ligi,3,Cerezo Osaka,FC Tokyo,5,2,Ev,7
+2023-04-04,2024-2025,Japonya J1 Ligi,3,Gamba Osaka,Nagoya Grampus,0,0,Beraberlik,0
+2023-05-05,2024-2025,Japonya J1 Ligi,4,Vissel Kobe,Yokohama F. Marinos,1,2,Deplasman,3
+2023-05-05,2024-2025,Japonya J1 Ligi,4,Kawasaki Frontale,Urawa Red Diamonds,1,1,Beraberlik,2
+2023-05-05,2024-2025,Japonya J1 Ligi,4,Kashima Antlers,Sanfrecce Hiroshima,4,0,Ev,4
+2023-05-05,2024-2025,Japonya J1 Ligi,4,Cerezo Osaka,FC Tokyo,1,2,Deplasman,3
+2023-05-05,2024-2025,Japonya J1 Ligi,4,Gamba Osaka,Nagoya Grampus,2,1,Ev,3
+2023-06-06,2024-2025,Japonya J1 Ligi,5,Vissel Kobe,Yokohama F. Marinos,1,1,Beraberlik,2
+2023-06-06,2024-2025,Japonya J1 Ligi,5,Kawasaki Frontale,Urawa Red Diamonds,2,2,Beraberlik,4
+2023-06-06,2024-2025,Japonya J1 Ligi,5,Kashima Antlers,Sanfrecce Hiroshima,3,1,Ev,4
+2023-06-06,2024-2025,Japonya J1 Ligi,5,Cerezo Osaka,FC Tokyo,2,3,Deplasman,5
+2023-06-06,2024-2025,Japonya J1 Ligi,5,Gamba Osaka,Nagoya Grampus,1,2,Deplasman,3
+2023-07-07,2024-2025,Japonya J1 Ligi,6,Vissel Kobe,Yokohama F. Marinos,1,3,Deplasman,4
+2023-07-07,2024-2025,Japonya J1 Ligi,6,Kawasaki Frontale,Urawa Red Diamonds,1,2,Deplasman,3
+2023-07-07,2024-2025,Japonya J1 Ligi,6,Kashima Antlers,Sanfrecce Hiroshima,7,1,Ev,8
+2023-07-07,2024-2025,Japonya J1 Ligi,6,Cerezo Osaka,FC Tokyo,1,9,Deplasman,10
+2023-07-07,2024-2025,Japonya J1 Ligi,6,Gamba Osaka,Nagoya Grampus,1,0,Ev,1
+2023-08-08,2024-2025,Japonya J1 Ligi,7,Vissel Kobe,Yokohama F. Marinos,2,2,Beraberlik,4
+2023-08-08,2024-2025,Japonya J1 Ligi,7,Kawasaki Frontale,Urawa Red Diamonds,2,2,Beraberlik,4
+2023-08-08,2024-2025,Japonya J1 Ligi,7,Kashima Antlers,Sanfrecce Hiroshima,3,4,Deplasman,7
+2023-08-08,2024-2025,Japonya J1 Ligi,7,Cerezo Osaka,FC Tokyo,1,3,Deplasman,4
+2023-08-08,2024-2025,Japonya J1 Ligi,7,Gamba Osaka,Nagoya Grampus,4,1,Ev,5
+2023-09-09,2024-2025,Japonya J1 Ligi,8,Vissel Kobe,Yokohama F. Marinos,3,1,Ev,4
+2023-09-09,2024-2025,Japonya J1 Ligi,8,Kawasaki Frontale,Urawa Red Diamonds,2,0,Ev,2
+2023-09-09,2024-2025,Japonya J1 Ligi,8,Kashima Antlers,Sanfrecce Hiroshima,2,0,Ev,2
+2023-09-09,2024-2025,Japonya J1 Ligi,8,Cerezo Osaka,FC Tokyo,3,4,Deplasman,7
+2023-09-09,2024-2025,Japonya J1 Ligi,8,Gamba Osaka,Nagoya Grampus,1,0,Ev,1
+2023-10-10,2024-2025,Japonya J1 Ligi,9,Vissel Kobe,Yokohama F. Marinos,1,2,Deplasman,3
+2023-10-10,2024-2025,Japonya J1 Ligi,9,Kawasaki Frontale,Urawa Red Diamonds,3,1,Ev,4
+2023-10-10,2024-2025,Japonya J1 Ligi,9,Kashima Antlers,Sanfrecce Hiroshima,4,4,Beraberlik,8
+2023-10-10,2024-2025,Japonya J1 Ligi,9,Cerezo Osaka,FC Tokyo,0,3,Deplasman,3
+2023-10-10,2024-2025,Japonya J1 Ligi,9,Gamba Osaka,Nagoya Grampus,2,3,Deplasman,5
+2023-11-11,2024-2025,Japonya J1 Ligi,10,Vissel Kobe,Yokohama F. Marinos,0,2,Deplasman,2
+2023-11-11,2024-2025,Japonya J1 Ligi,10,Kawasaki Frontale,Urawa Red Diamonds,3,4,Deplasman,7
+2023-11-11,2024-2025,Japonya J1 Ligi,10,Kashima Antlers,Sanfrecce Hiroshima,4,3,Ev,7
+2023-11-11,2024-2025,Japonya J1 Ligi,10,Cerezo Osaka,FC Tokyo,2,1,Ev,3
+2023-11-11,2024-2025,Japonya J1 Ligi,10,Gamba Osaka,Nagoya Grampus,4,5,Deplasman,9
+2023-12-12,2024-2025,Japonya J1 Ligi,11,Vissel Kobe,Yokohama F. Marinos,2,1,Ev,3
+2023-12-12,2024-2025,Japonya J1 Ligi,11,Kawasaki Frontale,Urawa Red Diamonds,3,3,Beraberlik,6
+2023-12-12,2024-2025,Japonya J1 Ligi,11,Kashima Antlers,Sanfrecce Hiroshima,2,3,Deplasman,5
+2023-12-12,2024-2025,Japonya J1 Ligi,11,Cerezo Osaka,FC Tokyo,1,4,Deplasman,5
+2023-12-12,2024-2025,Japonya J1 Ligi,11,Gamba Osaka,Nagoya Grampus,1,2,Deplasman,3
+2023-01-13,2024-2025,Japonya J1 Ligi,12,Vissel Kobe,Yokohama F. Marinos,2,0,Ev,2
+2023-01-13,2024-2025,Japonya J1 Ligi,12,Kawasaki Frontale,Urawa Red Diamonds,3,4,Deplasman,7
+2023-01-13,2024-2025,Japonya J1 Ligi,12,Kashima Antlers,Sanfrecce Hiroshima,3,5,Deplasman,8
+2023-01-13,2024-2025,Japonya J1 Ligi,12,Cerezo Osaka,FC Tokyo,2,0,Ev,2
+2023-01-13,2024-2025,Japonya J1 Ligi,12,Gamba Osaka,Nagoya Grampus,2,3,Deplasman,5
+2023-02-14,2024-2025,Japonya J1 Ligi,13,Vissel Kobe,Yokohama F. Marinos,2,1,Ev,3
+2023-02-14,2024-2025,Japonya J1 Ligi,13,Kawasaki Frontale,Urawa Red Diamonds,1,3,Deplasman,4
+2023-02-14,2024-2025,Japonya J1 Ligi,13,Kashima Antlers,Sanfrecce Hiroshima,4,2,Ev,6
+2023-02-14,2024-2025,Japonya J1 Ligi,13,Cerezo Osaka,FC Tokyo,4,3,Ev,7
+2023-02-14,2024-2025,Japonya J1 Ligi,13,Gamba Osaka,Nagoya Grampus,4,1,Ev,5
+2023-03-15,2024-2025,Japonya J1 Ligi,14,Vissel Kobe,Yokohama F. Marinos,4,1,Ev,5
+2023-03-15,2024-2025,Japonya J1 Ligi,14,Kawasaki Frontale,Urawa Red Diamonds,1,4,Deplasman,5
+2023-03-15,2024-2025,Japonya J1 Ligi,14,Kashima Antlers,Sanfrecce Hiroshima,4,4,Beraberlik,8
+2023-03-15,2024-2025,Japonya J1 Ligi,14,Cerezo Osaka,FC Tokyo,0,1,Deplasman,1
+2023-03-15,2024-2025,Japonya J1 Ligi,14,Gamba Osaka,Nagoya Grampus,3,1,Ev,4
+2023-04-16,2024-2025,Japonya J1 Ligi,15,Vissel Kobe,Yokohama F. Marinos,4,6,Deplasman,10
+2023-04-16,2024-2025,Japonya J1 Ligi,15,Kawasaki Frontale,Urawa Red Diamonds,3,0,Ev,3
+2023-04-16,2024-2025,Japonya J1 Ligi,15,Kashima Antlers,Sanfrecce Hiroshima,4,3,Ev,7
+2023-04-16,2024-2025,Japonya J1 Ligi,15,Cerezo Osaka,FC Tokyo,3,4,Deplasman,7
+2023-04-16,2024-2025,Japonya J1 Ligi,15,Gamba Osaka,Nagoya Grampus,1,1,Beraberlik,2
+2023-05-17,2024-2025,Japonya J1 Ligi,16,Vissel Kobe,Yokohama F. Marinos,3,2,Ev,5
+2023-05-17,2024-2025,Japonya J1 Ligi,16,Kawasaki Frontale,Urawa Red Diamonds,2,1,Ev,3
+2023-05-17,2024-2025,Japonya J1 Ligi,16,Kashima Antlers,Sanfrecce Hiroshima,3,1,Ev,4
+2023-05-17,2024-2025,Japonya J1 Ligi,16,Cerezo Osaka,FC Tokyo,3,2,Ev,5
+2023-05-17,2024-2025,Japonya J1 Ligi,16,Gamba Osaka,Nagoya Grampus,0,1,Deplasman,1
+2023-06-18,2024-2025,Japonya J1 Ligi,17,Vissel Kobe,Yokohama F. Marinos,0,3,Deplasman,3
+2023-06-18,2024-2025,Japonya J1 Ligi,17,Kawasaki Frontale,Urawa Red Diamonds,2,0,Ev,2
+2023-06-18,2024-2025,Japonya J1 Ligi,17,Kashima Antlers,Sanfrecce Hiroshima,3,2,Ev,5
+2023-06-18,2024-2025,Japonya J1 Ligi,17,Cerezo Osaka,FC Tokyo,1,1,Beraberlik,2
+2023-06-18,2024-2025,Japonya J1 Ligi,17,Gamba Osaka,Nagoya Grampus,1,2,Deplasman,3
+2023-07-19,2024-2025,Japonya J1 Ligi,18,Vissel Kobe,Yokohama F. Marinos,3,1,Ev,4
+2023-07-19,2024-2025,Japonya J1 Ligi,18,Kawasaki Frontale,Urawa Red Diamonds,2,1,Ev,3
+2023-07-19,2024-2025,Japonya J1 Ligi,18,Kashima Antlers,Sanfrecce Hiroshima,2,2,Beraberlik,4
+2023-07-19,2024-2025,Japonya J1 Ligi,18,Cerezo Osaka,FC Tokyo,4,1,Ev,5
+2023-07-19,2024-2025,Japonya J1 Ligi,18,Gamba Osaka,Nagoya Grampus,2,4,Deplasman,6
+2023-02-02,2025-2026,Japonya J1 Ligi,1,Vissel Kobe,Yokohama F. Marinos,3,0,Ev,3
+2023-02-02,2025-2026,Japonya J1 Ligi,1,Kawasaki Frontale,Urawa Red Diamonds,0,2,Deplasman,2
+2023-02-02,2025-2026,Japonya J1 Ligi,1,Kashima Antlers,Sanfrecce Hiroshima,2,0,Ev,2
+2023-02-02,2025-2026,Japonya J1 Ligi,1,Cerezo Osaka,FC Tokyo,0,0,Beraberlik,0
+2023-02-02,2025-2026,Japonya J1 Ligi,1,Gamba Osaka,Nagoya Grampus,1,1,Beraberlik,2
+2023-03-03,2025-2026,Japonya J1 Ligi,2,Vissel Kobe,Yokohama F. Marinos,3,2,Ev,5
+2023-03-03,2025-2026,Japonya J1 Ligi,2,Kawasaki Frontale,Urawa Red Diamonds,4,1,Ev,5
+2023-03-03,2025-2026,Japonya J1 Ligi,2,Kashima Antlers,Sanfrecce Hiroshima,3,0,Ev,3
+2023-03-03,2025-2026,Japonya J1 Ligi,2,Cerezo Osaka,FC Tokyo,3,1,Ev,4
+2023-03-03,2025-2026,Japonya J1 Ligi,2,Gamba Osaka,Nagoya Grampus,3,1,Ev,4
+2023-04-04,2025-2026,Japonya J1 Ligi,3,Vissel Kobe,Yokohama F. Marinos,3,0,Ev,3
+2023-04-04,2025-2026,Japonya J1 Ligi,3,Kawasaki Frontale,Urawa Red Diamonds,0,2,Deplasman,2
+2023-04-04,2025-2026,Japonya J1 Ligi,3,Kashima Antlers,Sanfrecce Hiroshima,3,2,Ev,5
+2023-04-04,2025-2026,Japonya J1 Ligi,3,Cerezo Osaka,FC Tokyo,6,3,Ev,9
+2023-04-04,2025-2026,Japonya J1 Ligi,3,Gamba Osaka,Nagoya Grampus,1,0,Ev,1
+2023-05-05,2025-2026,Japonya J1 Ligi,4,Vissel Kobe,Yokohama F. Marinos,6,1,Ev,7
+2023-05-05,2025-2026,Japonya J1 Ligi,4,Kawasaki Frontale,Urawa Red Diamonds,1,1,Beraberlik,2
+2023-05-05,2025-2026,Japonya J1 Ligi,4,Kashima Antlers,Sanfrecce Hiroshima,1,0,Ev,1
+2023-05-05,2025-2026,Japonya J1 Ligi,4,Cerezo Osaka,FC Tokyo,6,0,Ev,6
+2023-05-05,2025-2026,Japonya J1 Ligi,4,Gamba Osaka,Nagoya Grampus,4,4,Beraberlik,8
+2023-06-06,2025-2026,Japonya J1 Ligi,5,Vissel Kobe,Yokohama F. Marinos,1,0,Ev,1
+2023-06-06,2025-2026,Japonya J1 Ligi,5,Kawasaki Frontale,Urawa Red Diamonds,1,3,Deplasman,4
+2023-06-06,2025-2026,Japonya J1 Ligi,5,Kashima Antlers,Sanfrecce Hiroshima,2,2,Beraberlik,4
+2023-06-06,2025-2026,Japonya J1 Ligi,5,Cerezo Osaka,FC Tokyo,2,0,Ev,2
+2023-06-06,2025-2026,Japonya J1 Ligi,5,Gamba Osaka,Nagoya Grampus,0,3,Deplasman,3
+2023-07-07,2025-2026,Japonya J1 Ligi,6,Vissel Kobe,Yokohama F. Marinos,7,0,Ev,7
+2023-07-07,2025-2026,Japonya J1 Ligi,6,Kawasaki Frontale,Urawa Red Diamonds,3,0,Ev,3
+2023-07-07,2025-2026,Japonya J1 Ligi,6,Kashima Antlers,Sanfrecce Hiroshima,2,1,Ev,3
+2023-07-07,2025-2026,Japonya J1 Ligi,6,Cerezo Osaka,FC Tokyo,4,2,Ev,6
+2023-07-07,2025-2026,Japonya J1 Ligi,6,Gamba Osaka,Nagoya Grampus,1,3,Deplasman,4
+2023-08-08,2025-2026,Japonya J1 Ligi,7,Vissel Kobe,Yokohama F. Marinos,1,1,Beraberlik,2
+2023-08-08,2025-2026,Japonya J1 Ligi,7,Kawasaki Frontale,Urawa Red Diamonds,3,1,Ev,4
+2023-08-08,2025-2026,Japonya J1 Ligi,7,Kashima Antlers,Sanfrecce Hiroshima,1,0,Ev,1
+2023-08-08,2025-2026,Japonya J1 Ligi,7,Cerezo Osaka,FC Tokyo,4,1,Ev,5
+2023-08-08,2025-2026,Japonya J1 Ligi,7,Gamba Osaka,Nagoya Grampus,0,0,Beraberlik,0
+2023-09-09,2025-2026,Japonya J1 Ligi,8,Vissel Kobe,Yokohama F. Marinos,4,4,Beraberlik,8
+2023-09-09,2025-2026,Japonya J1 Ligi,8,Kawasaki Frontale,Urawa Red Diamonds,2,1,Ev,3
+2023-09-09,2025-2026,Japonya J1 Ligi,8,Kashima Antlers,Sanfrecce Hiroshima,3,1,Ev,4
+2023-09-09,2025-2026,Japonya J1 Ligi,8,Cerezo Osaka,FC Tokyo,3,2,Ev,5
+2023-09-09,2025-2026,Japonya J1 Ligi,8,Gamba Osaka,Nagoya Grampus,2,1,Ev,3
+2023-10-10,2025-2026,Japonya J1 Ligi,9,Vissel Kobe,Yokohama F. Marinos,3,0,Ev,3
+2023-10-10,2025-2026,Japonya J1 Ligi,9,Kawasaki Frontale,Urawa Red Diamonds,2,1,Ev,3
+2023-10-10,2025-2026,Japonya J1 Ligi,9,Kashima Antlers,Sanfrecce Hiroshima,2,0,Ev,2
+2023-10-10,2025-2026,Japonya J1 Ligi,9,Cerezo Osaka,FC Tokyo,3,1,Ev,4
+2023-10-10,2025-2026,Japonya J1 Ligi,9,Gamba Osaka,Nagoya Grampus,2,0,Ev,2
+2023-11-11,2025-2026,Japonya J1 Ligi,10,Vissel Kobe,Yokohama F. Marinos,2,3,Deplasman,5
+2023-11-11,2025-2026,Japonya J1 Ligi,10,Kawasaki Frontale,Urawa Red Diamonds,3,3,Beraberlik,6
+2023-11-11,2025-2026,Japonya J1 Ligi,10,Kashima Antlers,Sanfrecce Hiroshima,4,0,Ev,4
+2023-11-11,2025-2026,Japonya J1 Ligi,10,Cerezo Osaka,FC Tokyo,5,1,Ev,6
+2023-11-11,2025-2026,Japonya J1 Ligi,10,Gamba Osaka,Nagoya Grampus,2,1,Ev,3
+2023-12-12,2025-2026,Japonya J1 Ligi,11,Vissel Kobe,Yokohama F. Marinos,0,0,Beraberlik,0
+2023-12-12,2025-2026,Japonya J1 Ligi,11,Kawasaki Frontale,Urawa Red Diamonds,2,2,Beraberlik,4
+2023-12-12,2025-2026,Japonya J1 Ligi,11,Kashima Antlers,Sanfrecce Hiroshima,3,0,Ev,3
+2023-12-12,2025-2026,Japonya J1 Ligi,11,Cerezo Osaka,FC Tokyo,5,3,Ev,8
+2023-12-12,2025-2026,Japonya J1 Ligi,11,Gamba Osaka,Nagoya Grampus,2,2,Beraberlik,4
+2023-01-13,2025-2026,Japonya J1 Ligi,12,Vissel Kobe,Yokohama F. Marinos,5,0,Ev,5
+2023-01-13,2025-2026,Japonya J1 Ligi,12,Kawasaki Frontale,Urawa Red Diamonds,2,3,Deplasman,5
+2023-01-13,2025-2026,Japonya J1 Ligi,12,Kashima Antlers,Sanfrecce Hiroshima,4,0,Ev,4
+2023-01-13,2025-2026,Japonya J1 Ligi,12,Cerezo Osaka,FC Tokyo,1,2,Deplasman,3
+2023-01-13,2025-2026,Japonya J1 Ligi,12,Gamba Osaka,Nagoya Grampus,1,1,Beraberlik,2
+2023-02-14,2025-2026,Japonya J1 Ligi,13,Vissel Kobe,Yokohama F. Marinos,2,2,Beraberlik,4
+2023-02-14,2025-2026,Japonya J1 Ligi,13,Kawasaki Frontale,Urawa Red Diamonds,1,1,Beraberlik,2
+2023-02-14,2025-2026,Japonya J1 Ligi,13,Kashima Antlers,Sanfrecce Hiroshima,1,2,Deplasman,3
+2023-02-14,2025-2026,Japonya J1 Ligi,13,Cerezo Osaka,FC Tokyo,5,1,Ev,6
+2023-02-14,2025-2026,Japonya J1 Ligi,13,Gamba Osaka,Nagoya Grampus,2,1,Ev,3
+2023-03-15,2025-2026,Japonya J1 Ligi,14,Vissel Kobe,Yokohama F. Marinos,2,3,Deplasman,5
+2023-03-15,2025-2026,Japonya J1 Ligi,14,Kawasaki Frontale,Urawa Red Diamonds,1,0,Ev,1
+2023-03-15,2025-2026,Japonya J1 Ligi,14,Kashima Antlers,Sanfrecce Hiroshima,1,0,Ev,1
+2023-03-15,2025-2026,Japonya J1 Ligi,14,Cerezo Osaka,FC Tokyo,2,0,Ev,2
+2023-03-15,2025-2026,Japonya J1 Ligi,14,Gamba Osaka,Nagoya Grampus,2,0,Ev,2
+2023-04-16,2025-2026,Japonya J1 Ligi,15,Vissel Kobe,Yokohama F. Marinos,3,0,Ev,3
+2023-04-16,2025-2026,Japonya J1 Ligi,15,Kawasaki Frontale,Urawa Red Diamonds,2,3,Deplasman,5
+2023-04-16,2025-2026,Japonya J1 Ligi,15,Kashima Antlers,Sanfrecce Hiroshima,6,1,Ev,7
+2023-04-16,2025-2026,Japonya J1 Ligi,15,Cerezo Osaka,FC Tokyo,0,1,Deplasman,1
+2023-04-16,2025-2026,Japonya J1 Ligi,15,Gamba Osaka,Nagoya Grampus,1,1,Beraberlik,2
+2023-05-17,2025-2026,Japonya J1 Ligi,16,Vissel Kobe,Yokohama F. Marinos,3,1,Ev,4
+2023-05-17,2025-2026,Japonya J1 Ligi,16,Kawasaki Frontale,Urawa Red Diamonds,0,0,Beraberlik,0
+2023-05-17,2025-2026,Japonya J1 Ligi,16,Kashima Antlers,Sanfrecce Hiroshima,2,1,Ev,3
+2023-05-17,2025-2026,Japonya J1 Ligi,16,Cerezo Osaka,FC Tokyo,2,2,Beraberlik,4
+2023-05-17,2025-2026,Japonya J1 Ligi,16,Gamba Osaka,Nagoya Grampus,2,0,Ev,2
+2023-06-18,2025-2026,Japonya J1 Ligi,17,Vissel Kobe,Yokohama F. Marinos,2,0,Ev,2
+2023-06-18,2025-2026,Japonya J1 Ligi,17,Kawasaki Frontale,Urawa Red Diamonds,2,2,Beraberlik,4
+2023-06-18,2025-2026,Japonya J1 Ligi,17,Kashima Antlers,Sanfrecce Hiroshima,3,0,Ev,3
+2023-06-18,2025-2026,Japonya J1 Ligi,17,Cerezo Osaka,FC Tokyo,3,2,Ev,5
+2023-06-18,2025-2026,Japonya J1 Ligi,17,Gamba Osaka,Nagoya Grampus,0,0,Beraberlik,0
+2023-07-19,2025-2026,Japonya J1 Ligi,18,Vissel Kobe,Yokohama F. Marinos,3,0,Ev,3
+2023-07-19,2025-2026,Japonya J1 Ligi,18,Kawasaki Frontale,Urawa Red Diamonds,3,1,Ev,4
+2023-07-19,2025-2026,Japonya J1 Ligi,18,Kashima Antlers,Sanfrecce Hiroshima,2,1,Ev,3
+2023-07-19,2025-2026,Japonya J1 Ligi,18,Cerezo Osaka,FC Tokyo,4,1,Ev,5
+2023-07-19,2025-2026,Japonya J1 Ligi,18,Gamba Osaka,Nagoya Grampus,1,1,Beraberlik,2
